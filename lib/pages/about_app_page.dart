@@ -47,7 +47,7 @@ class AboutAppPage extends StatelessWidget {
                 child: ClipRRect(
                   borderRadius: BorderRadius.circular(24),
                   child: Image.asset(
-                    'assets/images/arc_login_logo.png',
+                    'assets/images/pick_login_logo.png',
                     fit: BoxFit.cover,
                   ),
                 ),
