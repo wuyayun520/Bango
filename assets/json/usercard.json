@@ -1,0 +1,244 @@
+{
+    "allData": [
+        {
+            "userId": "101",
+            "name": "Emily Rose",
+            "profilepicture": "assets/images/userdata/1/pic_1.png",
+            "profilepictureBg": "assets/images/userdata/1/pic_2.png",
+            "userIcon": "assets/images/userdata/1/pic_3.png",
+            "introduction": "Professional nail artist from Los Angeles 💅✨ Creating stunning nail designs for 8+ years. Specializing in French manicures and creative nail art.",
+            "signature": "Beauty is in the details 💕",
+            "post":[
+                {
+                    "postId": "1001",
+                    "message": "Just finished this gorgeous French ombre set! The gradient from clear to pink is absolutely stunning 😍 What do you think? #FrenchManicure #NailArt #OmbreNails",
+                    "videoUrl": "assets/images/userdata/1/uservideo.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "102",
+            "name": "Sophia Martinez",
+            "profilepicture": "assets/images/userdata/2/pic_1.png",
+            "profilepictureBg": "assets/images/userdata/2/pic_2.png",
+            "userIcon": "assets/images/userdata/2/pic_3.png",
+            "introduction": "Miami-based nail technician 🌴 Lover of tropical designs and vibrant colors. Book your appointment through DM!",
+            "signature": "Life's too short for boring nails 🌺",
+            "post":[
+                {
+                    "postId": "1002",
+                    "message": "Summer vibes with these tropical sunset nails! 🌅 Used coral, orange, and gold chrome for that perfect beach look. Perfect for vacation season! #SummerNails #TropicalNails #BeachVibes",
+                    "videoUrl": "assets/images/userdata/2/uservideo.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "103",
+            "name": "Isabella Chen",
+            "profilepicture": "assets/images/userdata/3/pic_1.jpg",
+            "profilepictureBg": "assets/images/userdata/3/pic_2.jpg",
+            "userIcon": "assets/images/userdata/3/pic_3.jpg",
+            "introduction": "NYC nail artist specializing in minimalist and geometric designs ⚡ Clean lines, perfect shapes. Appointments available weekdays.",
+            "signature": "Simplicity is the ultimate sophistication ✨",
+            "post":[
+                {
+                    "postId": "1003",
+                    "message": "Clean and chic! These minimalist geometric nails are perfect for the modern woman 💼 Black lines on natural base - timeless elegance. #MinimalistNails #GeometricNails #OfficeNails",
+                    "videoUrl": "assets/images/userdata/3/uservideo.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "104",
+            "name": "Olivia Johnson",
+            "profilepicture": "assets/images/userdata/4/pic_1.png",
+            "profilepictureBg": "assets/images/userdata/4/pic_2.png",
+            "userIcon": "assets/images/userdata/4/pic_3.png",
+            "introduction": "British nail artist in London 🇬🇧 Obsessed with chrome finishes and holographic effects. Creating magic one nail at a time!",
+            "signature": "Shine bright like your nails ✨",
+            "post":[
+                {
+                    "postId": "1004",
+                    "message": "Mirror chrome perfection! 🪩 This silver chrome finish is absolutely mesmerizing. The reflection is so crisp you can see everything! Who else loves chrome nails? #ChromeNails #MirrorNails #ReflectiveNails",
+                    "videoUrl": "assets/images/userdata/4/uservideo.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "105",
+            "name": "Ava Thompson",
+            "profilepicture": "assets/images/userdata/5/pic_1.png",
+            "profilepictureBg": "assets/images/userdata/5/pic_2.png",
+            "userIcon": "assets/images/userdata/5/pic_3.png",
+            "introduction": "Seattle nail technician 🌲 Eco-friendly nail products only! Specializing in natural looks and sustainable beauty practices.",
+            "signature": "Beautiful nails, beautiful planet 🌍",
+            "post":[
+                {
+                    "postId": "1005",
+                    "message": "Natural perfection with eco-friendly polish! 🌿 This natural look using vegan, cruelty-free products proves you don't need harsh chemicals for gorgeous nails. #EcoNails #VeganPolish #NaturalBeauty",
+                    "videoUrl": "assets/images/userdata/5/uservideo.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "106",
+            "name": "Mia Wilson",
+            "profilepicture": "assets/images/userdata/6/pic_1.png",
+            "profilepictureBg": "assets/images/userdata/6/pic_2.png",
+            "userIcon": "assets/images/userdata/6/pic_3.png",
+            "introduction": "Chicago nail artist 🏙️ Known for intricate floral designs and hand-painted art. Each nail is a tiny canvas waiting to be transformed!",
+            "signature": "Art at your fingertips 🎨",
+            "post":[
+                {
+                    "postId": "1006",
+                    "message": "Hand-painted cherry blossoms on almond-shaped nails 🌸 Took 3 hours but absolutely worth it! Spring is here and so are the florals. #FloralNails #HandPainted #CherryBlossom #SpringNails",
+                    "videoUrl": "assets/images/userdata/6/uservideo.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "107",
+            "name": "Charlotte Davis",
+            "profilepicture": "assets/images/userdata/7/pic_1.png",
+            "profilepictureBg": "assets/images/userdata/7/pic_2.png",
+            "userIcon": "assets/images/userdata/7/pic_3.png",
+            "introduction": "Australian nail artist from Sydney 🇦🇺 Beach-inspired designs and sunset gradients are my specialty. Bringing Aussie vibes to your nails!",
+            "signature": "G'day gorgeous nails! 🌊",
+            "post":[
+                {
+                    "postId": "1007",
+                    "message": "Bondi Beach sunset captured on nails! 🏖️ These gradient colors remind me of our beautiful Sydney sunsets. Orange, pink, and gold blend perfectly together. #SunsetNails #BeachNails #AussieNails",
+                    "videoUrl": "assets/images/userdata/7/uservideo.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "108",
+            "name": "Amelia Brown",
+            "profilepicture": "assets/images/userdata/8/pic_1.png",
+            "profilepictureBg": "assets/images/userdata/8/pic_2.png",
+            "userIcon": "assets/images/userdata/8/pic_3.png",
+            "introduction": "Canadian nail tech from Toronto 🍁 Winter-inspired designs and cozy nail art. Making nails beautiful through all seasons!",
+            "signature": "Cozy nails for every season ❄️",
+            "post":[
+                {
+                    "postId": "1008",
+                    "message": "Winter wonderland nails! ❄️ Snowflake patterns with silver glitter on deep blue base. Perfect for the cold Toronto winter. Stay warm, stay stylish! #WinterNails #SnowflakeNails #CanadianNails",
+                    "videoUrl": "assets/images/userdata/8/uservideo.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "109",
+            "name": "Harper Miller",
+            "profilepicture": "assets/images/userdata/9/pic_1.png",
+            "profilepictureBg": "assets/images/userdata/9/pic_2.png",
+            "userIcon": "assets/images/userdata/9/pic_3.png",
+            "introduction": "Texas nail artist 🤠 Bold designs and western-inspired nail art. If you want nails as big as Texas, you've found the right artist!",
+            "signature": "Everything's bigger in Texas, including nail art! 🤠",
+            "post":[
+                {
+                    "postId": "1009",
+                    "message": "Yeehaw! These western-inspired nails feature turquoise stones and gold accents 🤠 Perfect for country music festivals and rodeos. #WesternNails #TexasNails #CountryNails #Turquoise",
+                    "videoUrl": "assets/images/userdata/9/uservideo.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "110",
+            "name": "Evelyn Garcia",
+            "profilepicture": "assets/images/userdata/10/pic_1.png",
+            "profilepictureBg": "assets/images/userdata/10/pic_2.png",
+            "userIcon": "assets/images/userdata/10/pic_3.png",
+            "introduction": "Spanish nail artist from Barcelona 🇪🇸 Mediterranean-inspired designs with warm colors and artistic flair. ¡Uñas bonitas para todos!",
+            "signature": "Arte en cada uña 💃",
+            "post":[
+                {
+                    "postId": "1010",
+                    "message": "Mediterranean sunset vibes! 🌅 These warm terracotta and gold nails remind me of Barcelona evenings. Perfect for summer nights by the sea. #MediterraneanNails #SpanishNails #SunsetVibes",
+                    "videoUrl": "assets/images/userdata/10/uservideo.mp4"
+                }
+            ]
+        },
+        {
+            "userId": "111",
+            "name": "Abigail Rodriguez",
+            "profilepicture": "assets/images/userdata/11/pic_1.jpg",
+            "profilepictureBg": "assets/images/userdata/11/pic_2.jpg",
+            "userIcon": "assets/images/userdata/11/pic_3.jpg",
+            "introduction": "Mexican-American nail artist 🌮 Combining traditional Mexican art with modern nail techniques. Bringing cultura to your fingertips!",
+            "signature": "Viva la nail art! 🎨",
+            "post":[
+                {
+                    "postId": "1011",
+                    "message": "Día de los Muertos inspired nails! 💀🌺 Hand-painted sugar skulls with vibrant marigold colors. Celebrating our beautiful Mexican heritage through nail art. #DiaDeLosMuertos #MexicanNails #SugarSkulls",
+                    "videoUrl": "assets/images/userdata/11/pic_2.jpg"
+                }
+            ]
+        },
+        {
+            "userId": "112",
+            "name": "Ella Hernandez",
+            "profilepicture": "assets/images/userdata/12/pic_1.jpg",
+            "profilepictureBg": "assets/images/userdata/12/pic_2.jpg",
+            "userIcon": "assets/images/userdata/12/pic_3.jpg",
+            "introduction": "French nail artist from Paris 🇫🇷 Classic French manicures with a modern twist. Elegance and sophistication in every design. Très chic!",
+            "signature": "L'élégance française 💋",
+            "post":[
+                {
+                    "postId": "1012",
+                    "message": "Classic French with a twist! ✨ Added tiny pearls and gold foil to the traditional white tips. Très élégant, non? Perfect for Parisian chic. #FrenchManicure #ParisianChic #ClassicNails",
+                    "videoUrl": "assets/images/userdata/12/pic_2.jpg"
+                }
+            ]
+        },
+        {
+            "userId": "113",
+            "name": "Scarlett Lee",
+            "profilepicture": "assets/images/userdata/13/pic_1.jpg",
+            "profilepictureBg": "assets/images/userdata/13/pic_2.jpg",
+            "userIcon": "assets/images/userdata/13/pic_3.jpg",
+            "introduction": "Korean-American nail artist 🇰🇷 K-beauty inspired nail designs with cute and kawaii elements. Making nails aegyo since 2018!",
+            "signature": "Cute nails, happy life! 🥰",
+            "post":[
+                {
+                    "postId": "1013",
+                    "message": "Kawaii cat nails! 🐱 These tiny hand-painted kitties are too cute to handle. Added some holographic hearts for extra aegyo. Who else loves cute nail art? #KawaiiNails #CatNails #KBeauty #CuteNails",
+                    "videoUrl": "assets/images/userdata/13/pic_2.jpg"
+                }
+            ]
+        },
+        {
+            "userId": "114",
+            "name": "Victoria Kim",
+            "profilepicture": "assets/images/userdata/14/pic_1.jpg",
+            "profilepictureBg": "assets/images/userdata/14/pic_2.jpg",
+            "userIcon": "assets/images/userdata/14/pic_3.jpg",
+            "introduction": "Japanese nail artist from Tokyo 🇯🇵 Master of Japanese nail art techniques and 3D nail sculptures. Precision and perfection in every detail.",
+            "signature": "完璧な爪 (Perfect nails) 🌸",
+            "post":[
+                {
+                    "postId": "1014",
+                    "message": "3D sakura petals on gradient pink base 🌸 Each petal is individually sculpted and placed. This Japanese nail art technique takes patience but creates stunning results! #3DNails #SakuraNails #JapaneseNailArt",
+                    "videoUrl": "assets/images/userdata/14/pic_2.jpg"
+                }
+            ]
+        },
+        {
+            "userId": "115",
+            "name": "Grace Wang",
+            "profilepicture": "assets/images/userdata/15/pic_1.jpg",
+            "profilepictureBg": "assets/images/userdata/15/pic_2.jpg",
+            "userIcon": "assets/images/userdata/15/pic_3.jpg",
+            "introduction": "Chinese-American nail artist from San Francisco 🏮 Specializing in luxury nail extensions and Swarovski crystal applications. Glamour is my middle name!",
+            "signature": "Luxury in every detail 💎",
+            "post":[
+                {
+                    "postId": "1015",
+                    "message": "Swarovski crystal luxury set! 💎✨ Each nail features hand-placed crystals in various sizes creating this stunning ombré effect. For clients who want the ultimate glamour! #LuxuryNails #SwarovskiNails #CrystalNails #GlamourNails",
+                    "videoUrl": "assets/images/userdata/15/pic_2.jpg"
+                }
+            ]
+        }
+    ]
+}
