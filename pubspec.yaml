@@ -40,6 +40,9 @@ dependencies:
   video_player: ^2.8.1
   record: ^5.0.4
   just_audio: ^0.9.36
+  in_app_purchase: ^3.1.13
+  in_app_purchase_storekit: ^0.3.7
+  url_launcher: ^6.2.5
 
 dev_dependencies:
   flutter_test:

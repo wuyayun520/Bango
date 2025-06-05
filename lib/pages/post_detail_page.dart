@@ -6,6 +6,7 @@ import 'dart:math';
 import 'tab_pages/home_tab_page.dart';
 import '../widgets/video_player_widget.dart';
 import 'user_detail_page.dart';
+import '../utils/coin_manager.dart';
 
 class PostDetailPage extends StatefulWidget {
   final UserProfile user;
@@ -252,13 +253,17 @@ class _PostDetailPageState extends State<PostDetailPage> {
                           Row(
                             children: [
                               GestureDetector(
-                                onTap: () {
-                                  Navigator.push(
-                                    context,
-                                    MaterialPageRoute(
-                                      builder: (context) => UserDetailPage(user: widget.user),
-                                    ),
-                                  );
+                                onTap: () async {
+                                  // 检查金币并处理查看用户资料
+                                  bool canView = await CoinManager.handleViewUserProfile(context, widget.user.name);
+                                  if (canView) {
+                                    Navigator.push(
+                                      context,
+                                      MaterialPageRoute(
+                                        builder: (context) => UserDetailPage(user: widget.user),
+                                      ),
+                                    );
+                                  }
                                 },
                                 child: Container(
                                   decoration: BoxDecoration(
@@ -282,13 +287,17 @@ class _PostDetailPageState extends State<PostDetailPage> {
                                   crossAxisAlignment: CrossAxisAlignment.start,
                                   children: [
                                     GestureDetector(
-                                      onTap: () {
-                                        Navigator.push(
-                                          context,
-                                          MaterialPageRoute(
-                                            builder: (context) => UserDetailPage(user: widget.user),
-                                          ),
-                                        );
+                                      onTap: () async {
+                                        // 检查金币并处理查看用户资料
+                                        bool canView = await CoinManager.handleViewUserProfile(context, widget.user.name);
+                                        if (canView) {
+                                          Navigator.push(
+                                            context,
+                                            MaterialPageRoute(
+                                              builder: (context) => UserDetailPage(user: widget.user),
+                                            ),
+                                          );
+                                        }
                                       },
                                       child: Text(
                                         widget.user.name,

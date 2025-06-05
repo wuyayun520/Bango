@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'dart:convert';
 import '../user_detail_page.dart';
+import '../../utils/coin_manager.dart';
 
 // 用户数据模型 - 更新以匹配JSON结构
 class UserProfile {
@@ -271,13 +272,17 @@ class _HomeTabPageState extends State<HomeTabPage> with TickerProviderStateMixin
       bottom: 0,
       width: cardWidth * scale, // 应用缩放到宽度
       child: GestureDetector(
-        onTap: () {
-          Navigator.push(
-            context,
-            MaterialPageRoute(
-              builder: (context) => UserDetailPage(user: user),
-            ),
-          );
+        onTap: () async {
+          // 检查金币并处理查看用户资料
+          bool canView = await CoinManager.handleViewUserProfile(context, user.name);
+          if (canView) {
+            Navigator.push(
+              context,
+              MaterialPageRoute(
+                builder: (context) => UserDetailPage(user: user),
+              ),
+            );
+          }
         },
         child: AnimatedContainer(
           duration: const Duration(milliseconds: 340),
@@ -399,7 +404,7 @@ class _HomeTabPageState extends State<HomeTabPage> with TickerProviderStateMixin
 
   Widget _buildManicuristItem(ManicuristProfile manicurist) {
     return GestureDetector(
-      onTap: () {
+      onTap: () async {
         // 根据美甲师的名字找到对应的完整用户数据
         UserProfile? user = _allUsers.firstWhere(
           (u) => u.name == manicurist.name,
@@ -414,12 +419,17 @@ class _HomeTabPageState extends State<HomeTabPage> with TickerProviderStateMixin
             posts: [],
           ),
         );
-        Navigator.push(
-          context,
-          MaterialPageRoute(
-            builder: (context) => UserDetailPage(user: user),
-          ),
-        );
+        
+        // 检查金币并处理查看用户资料
+        bool canView = await CoinManager.handleViewUserProfile(context, user.name);
+        if (canView) {
+          Navigator.push(
+            context,
+            MaterialPageRoute(
+              builder: (context) => UserDetailPage(user: user),
+            ),
+          );
+        }
       },
       child: Container(
         margin: const EdgeInsets.only(bottom: 16),

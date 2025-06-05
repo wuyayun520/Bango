@@ -6,6 +6,8 @@ import 'dart:io';
 import '../privacy_policy_page.dart';
 import '../terms_of_service_page.dart';
 import '../about_app_page.dart';
+import '../subscriptions_page.dart';
+import '../in_app_purchases_page.dart';
 
 class ProfileTabPage extends StatefulWidget {
   const ProfileTabPage({super.key});
@@ -306,6 +308,17 @@ class _ProfileTabPageState extends State<ProfileTabPage> {
                 ),
               ),
               const SizedBox(height: 40),
+              // VIP Club选项 - 特殊样式
+              _buildVipClubItem(),
+              const SizedBox(height: 16),
+              // Wallet选项
+              _buildSettingItem(
+                icon: Icons.account_balance_wallet_outlined,
+                title: 'Wallet',
+                subtitle: 'Payment methods and transaction history',
+                onTap: () => _navigateToWallet(),
+              ),
+              const SizedBox(height: 16),
               // About App选项
               _buildSettingItem(
                 icon: Icons.info_outline,
@@ -345,6 +358,85 @@ class _ProfileTabPageState extends State<ProfileTabPage> {
         Icons.person,
         size: 50,
         color: Colors.grey[400],
+      ),
+    );
+  }
+
+  Widget _buildVipClubItem() {
+    return GestureDetector(
+      onTap: () => _navigateToVipClub(),
+      child: Container(
+        padding: const EdgeInsets.all(20),
+        decoration: BoxDecoration(
+          gradient: const LinearGradient(
+            colors: [Color(0xFFD9FF60), Color(0xFFC4E83A)],
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+          ),
+          borderRadius: BorderRadius.circular(16),
+          boxShadow: [
+            BoxShadow(
+              color: const Color(0xFFD9FF60).withOpacity(0.3),
+              blurRadius: 8,
+              offset: const Offset(0, 4),
+            ),
+          ],
+        ),
+        child: Row(
+          children: [
+            Container(
+              padding: const EdgeInsets.all(8),
+              decoration: BoxDecoration(
+                color: Colors.white.withOpacity(0.2),
+                borderRadius: BorderRadius.circular(8),
+              ),
+              child: const Icon(
+                Icons.star,
+                color: Colors.black87,
+                size: 24,
+              ),
+            ),
+            const SizedBox(width: 16),
+            Expanded(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  const Text(
+                    'VIP Club',
+                    style: TextStyle(
+                      fontSize: 18,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.black87,
+                    ),
+                  ),
+                  const SizedBox(height: 4),
+                  Text(
+                    'Member Benefits',
+                    style: TextStyle(
+                      fontSize: 14,
+                      color: Colors.black.withOpacity(0.7),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            Container(
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+              decoration: BoxDecoration(
+                color: Colors.white,
+                borderRadius: BorderRadius.circular(16),
+              ),
+              child: const Text(
+                'Open',
+                style: TextStyle(
+                  fontSize: 14,
+                  fontWeight: FontWeight.w600,
+                  color: Colors.black87,
+                ),
+              ),
+            ),
+          ],
+        ),
       ),
     );
   }
@@ -415,6 +507,26 @@ class _ProfileTabPageState extends State<ProfileTabPage> {
       context,
       MaterialPageRoute(
         builder: (context) => const AboutAppPage(),
+      ),
+    );
+  }
+
+  // 跳转到VIP Club页面
+  void _navigateToVipClub() {
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => const SubscriptionsPage(),
+      ),
+    );
+  }
+
+  // 跳转到Wallet页面
+  void _navigateToWallet() {
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => const InAppPurchasesPage(),
       ),
     );
   }
