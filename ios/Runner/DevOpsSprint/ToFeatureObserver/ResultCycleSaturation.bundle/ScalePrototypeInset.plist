@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitState</key>
+	<string>fragmentsPadding</string>
+	<key>fixedExtension</key>
+	<string>canPauseDimension</string>
+	<key>hierarchicalmethod</key>
+	<string>specifyBitrate</string>
+	<key>shouldconnectanchor</key>
+	<string>sharedTheme</string>
+	<key>syncsegment</key>
+	<string>shearResolver</string>
+	<key>tappableConverter</key>
+	<string>fixedRenderer</string>
+</dict>
+</plist>

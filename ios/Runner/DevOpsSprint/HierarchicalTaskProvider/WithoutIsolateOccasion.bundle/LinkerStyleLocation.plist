@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitThroughput</key>
+	<string>validateProject</string>
+	<key>intensityScale</key>
+	<string>commonConnector</string>
+	<key>invisibleModulus</key>
+	<string>publishBox</string>
+	<key>segmentprogressbar</key>
+	<string>crudeTransformer</string>
+	<key>shouldSubscribeTheme</key>
+	<string>visibleFrame</string>
+	<key>shouldTrainSkin</key>
+	<string>curvedecoratortint</string>
+	<key>sortedThroughput</key>
+	<string>accessiblePager</string>
+	<key>tableSkewY</key>
+	<string>labelalignment</string>
+	<key>unsortedLabel</key>
+	<string>canEncodeBinary</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredBehavior</key>
+	<string>detachCube</string>
+	<key>hierarchicalAlpha</key>
+	<string>popConstraint</string>
+	<key>interactorTint</key>
+	<string>explicitFinder</string>
+	<key>responsivereductionrate</key>
+	<string>invisibleScale</string>
+	<key>shouldDispatchObserver</key>
+	<string>updatecollection</string>
+	<key>shouldSetStateProject</key>
+	<string>subtleReducer</string>
+</dict>
+</plist>

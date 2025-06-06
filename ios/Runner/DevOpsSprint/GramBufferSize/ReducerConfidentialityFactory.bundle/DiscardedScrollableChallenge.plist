@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousShape</key>
+	<string>updateChannel</string>
+	<key>basicRequest</key>
+	<string>opaqueConverter</string>
+	<key>missedGrayscale</key>
+	<string>currentTool</string>
+	<key>shouldpersistradio</key>
+	<string>disposeNorm</string>
+	<key>sliderobserver</key>
+	<string>nextAlpha</string>
+</dict>
+</plist>

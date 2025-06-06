@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedGridView</key>
+	<string>requestStorage</string>
+	<key>originalDependency</key>
+	<string>uniqueBorder</string>
+	<key>processorInteraction</key>
+	<string>normalbloc</string>
+	<key>typicalText</key>
+	<string>dynamicScroll</string>
+</dict>
+</plist>

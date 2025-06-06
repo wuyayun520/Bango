@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoGestureDetector</key>
+	<string>popupVariable</string>
+	<key>errortype</key>
+	<string>missedOperation</string>
+	<key>ignoredStateful</key>
+	<string>decorationOperation</string>
+	<key>reactiveCache</key>
+	<string>extensionStrategy</string>
+	<key>respectiveWorkflow</key>
+	<string>variantSkewX</string>
+	<key>unactivatedPicker</key>
+	<string>retainedInteger</string>
+	<key>uniqueLoop</key>
+	<string>staticReducer</string>
+</dict>
+</plist>

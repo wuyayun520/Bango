@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basiclinker</key>
+	<string>marginstatus</string>
+	<key>immediateStrength</key>
+	<string>pushBorder</string>
+	<key>lostinteger</key>
+	<string>permissiveAspect</string>
+	<key>protectedsampleresponse</key>
+	<string>compareResponse</string>
+</dict>
+</plist>

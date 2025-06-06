@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBrush</key>
+	<string>webResolver</string>
+	<key>bitrateSkewY</key>
+	<string>densePlayback</string>
+	<key>dependencyMomentum</key>
+	<string>paintListView</string>
+	<key>mobileSizedBox</key>
+	<string>iconValue</string>
+	<key>projectBehavior</key>
+	<string>imperativeEmitter</string>
+	<key>sessionservice</key>
+	<string>rebuildSkirt</string>
+	<key>sustainableConfiguration</key>
+	<string>prepareOperation</string>
+</dict>
+</plist>

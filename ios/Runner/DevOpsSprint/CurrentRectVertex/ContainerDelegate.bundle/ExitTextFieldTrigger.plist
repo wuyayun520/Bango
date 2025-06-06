@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interceptbuffer</key>
+	<string>permissivetopicstyle</string>
+	<key>nativemetadatashape</key>
+	<string>permissivePlate</string>
+	<key>paintmetadata</key>
+	<string>rectValidation</string>
+	<key>petbridgecount</key>
+	<string>propagateUseCase</string>
+	<key>pushtween</key>
+	<string>logSkewY</string>
+	<key>reactiveBoxShadow</key>
+	<string>aggregateTicker</string>
+	<key>reusableCallback</key>
+	<string>seamlessCanvas</string>
+	<key>shouldNotifyProtocol</key>
+	<string>presentTool</string>
+	<key>shouldPublishLogarithm</key>
+	<string>reactiveDispatcher</string>
+	<key>spotOrigin</key>
+	<string>shouldLayoutCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentGate</key>
+	<string>selectedsample</string>
+	<key>defaultMember</key>
+	<string>interactionFormat</string>
+	<key>functionalCluster</key>
+	<string>canDisposeFlex</string>
+	<key>prevGate</key>
+	<string>beginnerImage</string>
+	<key>roleFormat</key>
+	<string>consultativeQueue</string>
+	<key>sharedremainderbehavior</key>
+	<string>widgetRight</string>
+	<key>shouldDecodeSpine</key>
+	<string>subscriptionandobserver</string>
+	<key>shouldRebuildPromise</key>
+	<string>canSubscribeChallenge</string>
+	<key>shouldRestartReference</key>
+	<string>inflateTabBar</string>
+</dict>
+</plist>

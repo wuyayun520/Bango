@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeStore</key>
+	<string>canBuildUsage</string>
+	<key>dimensionforce</key>
+	<string>semanticsSpeed</string>
+	<key>formatresolver</key>
+	<string>positionedFlyweight</string>
+	<key>lastAlert</key>
+	<string>basehead</string>
+	<key>primaryRequest</key>
+	<string>activitycomponent</string>
+	<key>shouldCreateTask</key>
+	<string>invisibleCallback</string>
+	<key>shouldlistensine</key>
+	<string>metadataNumber</string>
+</dict>
+</plist>

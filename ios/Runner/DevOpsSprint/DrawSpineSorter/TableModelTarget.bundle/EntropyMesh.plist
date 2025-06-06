@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableProcessor</key>
+	<string>shouldRouteTechnique</string>
+	<key>largeFragments</key>
+	<string>canSubscribeScale</string>
+	<key>shouldStreamRadio</key>
+	<string>anchorradius</string>
+	<key>shouldUpdateModal</key>
+	<string>marginFacade</string>
+	<key>spottension</key>
+	<string>isolateFlags</string>
+	<key>tickerbound</key>
+	<string>canDisconnectNorm</string>
+</dict>
+</plist>

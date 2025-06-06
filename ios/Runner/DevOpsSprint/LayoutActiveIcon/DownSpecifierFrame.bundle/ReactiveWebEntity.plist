@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleUsage</key>
+	<string>shouldParseRoute</string>
+	<key>liteMetadata</key>
+	<string>topicFlags</string>
+	<key>marginCoord</key>
+	<string>drawerobserverhue</string>
+	<key>responsiveTabBar</key>
+	<string>encodeGraphic</string>
+	<key>reusabletitleleft</key>
+	<string>reactiveVolume</string>
+	<key>rowdistinction</key>
+	<string>secondTabView</string>
+	<key>sequentialSine</key>
+	<string>canListenIcon</string>
+	<key>transitionsprite</key>
+	<string>globalRouter</string>
+	<key>unmountedgesturedetector</key>
+	<string>primaryCharacter</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveExtension</key>
+	<string>dimensionshape</string>
+	<key>ephemeralTrajectory</key>
+	<string>difficultCupertino</string>
+	<key>fixedBoxShadow</key>
+	<string>setstateUnary</string>
+	<key>hardpainter</key>
+	<string>detectorPosition</string>
+	<key>hierarchicalShape</key>
+	<string>dynamicCustomPaint</string>
+	<key>imagegroup</key>
+	<string>cubeVariable</string>
+	<key>notationBound</key>
+	<string>updateinkwell</string>
+	<key>provisionInteraction</key>
+	<string>shaderFrequency</string>
+</dict>
+</plist>

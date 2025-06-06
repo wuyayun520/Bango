@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryforce</key>
+	<string>taskbandwidth</string>
+	<key>descriptiontag</key>
+	<string>labelInterval</string>
+	<key>formatlayout</key>
+	<string>layoutAppBar</string>
+	<key>interactiveCollection</key>
+	<string>resultVisibility</string>
+	<key>metadatamementotransparency</key>
+	<string>flexibleAlpha</string>
+	<key>prevStateless</key>
+	<string>tickermaterializer</string>
+	<key>rowagainstprototype</key>
+	<string>globalResponse</string>
+	<key>skirtScale</key>
+	<string>desktopFuture</string>
+	<key>uniformArchitecture</key>
+	<string>convertRow</string>
+</dict>
+</plist>

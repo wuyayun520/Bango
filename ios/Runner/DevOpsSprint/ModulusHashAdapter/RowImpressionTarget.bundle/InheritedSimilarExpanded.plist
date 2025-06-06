@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertamongcomposite</key>
+	<string>shouldBindNotifier</string>
+	<key>collectionSize</key>
+	<string>canDismissMatrix</string>
+	<key>elasticObserver</key>
+	<string>shouldkeepaspectratio</string>
+	<key>escalatetransformer</key>
+	<string>popSlider</string>
+	<key>lastMetadata</key>
+	<string>combinePreview</string>
+	<key>lazysubpixel</key>
+	<string>requestSlider</string>
+	<key>taskcolor</key>
+	<string>pushTimer</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modulevalidation</key>
+	<string>disparateMethod</string>
+	<key>originalTitle</key>
+	<string>retainedmonsterinset</string>
+	<key>priorityOpacity</key>
+	<string>shouldDisposeContainer</string>
+	<key>resilientNavigator</key>
+	<string>uniformdetector</string>
+	<key>shouldPaintBitrate</key>
+	<string>dedicatedswitch</string>
+</dict>
+</plist>

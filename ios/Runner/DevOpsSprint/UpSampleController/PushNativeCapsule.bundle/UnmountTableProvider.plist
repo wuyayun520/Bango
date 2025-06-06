@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInterface</key>
+	<string>resultbesidephase</string>
+	<key>granularAnimator</key>
+	<string>shouldShowScroll</string>
+	<key>missedTabView</key>
+	<string>customArithmetic</string>
+	<key>pivotalAppBar</key>
+	<string>canKeepCharacter</string>
+	<key>profilestate</key>
+	<string>canRebuildCatalyst</string>
+	<key>shouldnavigatetask</key>
+	<string>scrollablechallengeleft</string>
+	<key>statefulstructurefrequency</key>
+	<string>shouldsavecompletion</string>
+</dict>
+</plist>

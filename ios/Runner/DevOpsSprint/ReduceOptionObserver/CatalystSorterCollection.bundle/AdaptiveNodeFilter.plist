@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildcallback</key>
+	<string>shouldFinishNavigator</string>
+	<key>elasticCupertino</key>
+	<string>accessibleNorm</string>
+	<key>layerTail</key>
+	<string>evaluationState</string>
+	<key>mapVisibility</key>
+	<string>canPauseSpot</string>
+	<key>multilinker</key>
+	<string>primaryReplica</string>
+	<key>petHead</key>
+	<string>singletonEdge</string>
+	<key>swiftAcceleration</key>
+	<string>mountedNorm</string>
+	<key>tangentVisibility</key>
+	<string>prepareTransition</string>
+	<key>usecaseRight</key>
+	<string>handlerpressure</string>
+</dict>
+</plist>

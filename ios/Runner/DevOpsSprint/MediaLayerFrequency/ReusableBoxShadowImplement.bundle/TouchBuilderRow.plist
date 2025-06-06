@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveAxis</key>
+	<string>shouldTransformVariant</string>
+	<key>directStore</key>
+	<string>canPaintUsage</string>
+	<key>featureevent</key>
+	<string>canSaveStamp</string>
+	<key>interfacevisitorformat</key>
+	<string>undertakeModel</string>
+	<key>rapidHash</key>
+	<string>titlestatelocation</string>
+	<key>shapeRotation</key>
+	<string>plateBehavior</string>
+	<key>shouldObserveOperation</key>
+	<string>attachprovider</string>
+	<key>statefulpolyfill</key>
+	<string>storeUseCase</string>
+</dict>
+</plist>

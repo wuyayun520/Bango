@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousdistinction</key>
+	<string>dynamicLifecycle</string>
+	<key>invisibleGridView</key>
+	<string>shouldPresentHero</string>
+	<key>multiException</key>
+	<string>easySlash</string>
+	<key>pageviewatsystem</key>
+	<string>skirtAcceleration</string>
+	<key>responsiveModel</key>
+	<string>shouldBindSwift</string>
+	<key>semanticcolumn</key>
+	<string>notifyconfiguration</string>
+	<key>shouldsetstatenavigation</key>
+	<string>ignoredScalability</string>
+	<key>typicalResource</key>
+	<string>singleUseCase</string>
+	<key>usecasequaternion</key>
+	<string>resizableGift</string>
+</dict>
+</plist>

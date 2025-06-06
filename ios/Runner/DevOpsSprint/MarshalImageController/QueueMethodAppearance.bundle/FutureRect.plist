@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionnotation</key>
+	<string>mainCell</string>
+	<key>capsuleflags</key>
+	<string>giftVariable</string>
+	<key>colorAppearance</key>
+	<string>canShowColumn</string>
+	<key>divideprogressbar</key>
+	<string>selectedmomentum</string>
+	<key>fusedFinder</key>
+	<string>deferredResult</string>
+	<key>shouldCacheGesture</key>
+	<string>canCacheController</string>
+	<key>usagestructureresponse</key>
+	<string>resultmomentum</string>
+	<key>vertexScale</key>
+	<string>lastCard</string>
+</dict>
+</plist>

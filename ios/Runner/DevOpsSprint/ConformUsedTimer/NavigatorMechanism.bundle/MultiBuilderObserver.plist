@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSine</key>
+	<string>nativeFactory</string>
+	<key>directlyAsset</key>
+	<string>unsortedEvent</string>
+	<key>largeScroller</key>
+	<string>concreteScope</string>
+	<key>lastAnalyzer</key>
+	<string>adaptiveWidget</string>
+	<key>layerSpeed</key>
+	<string>exponentLevel</string>
+	<key>pinchableEvent</key>
+	<string>unmountedPoint</string>
+	<key>sharedTraversal</key>
+	<string>timerSpeed</string>
+	<key>substantialResponder</key>
+	<string>mediumInterface</string>
+</dict>
+</plist>

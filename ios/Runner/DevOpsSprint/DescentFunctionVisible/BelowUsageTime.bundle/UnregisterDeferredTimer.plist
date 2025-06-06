@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileframe</key>
+	<string>publicReduction</string>
+	<key>interactiveQuaternion</key>
+	<string>inactiveAnimation</string>
+	<key>isConstraint</key>
+	<string>deprecatereference</string>
+	<key>lostButton</key>
+	<string>shouldContinueWorkflow</string>
+	<key>monsterInteraction</key>
+	<string>advancedSlider</string>
+	<key>relationalFilter</key>
+	<string>curveIndex</string>
+	<key>shouldFinishCursor</key>
+	<string>alphaFlyweight</string>
+	<key>timelineRight</key>
+	<string>parseSession</string>
+</dict>
+</plist>

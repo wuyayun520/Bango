@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customPrecision</key>
+	<string>disparateLayout</string>
+	<key>inactivespotvisibility</key>
+	<string>dedicatedError</string>
+	<key>inheritedThreshold</key>
+	<string>frameStatus</string>
+	<key>modelVisible</key>
+	<string>transformListener</string>
+	<key>playbackwithtemple</key>
+	<string>concreteSwift</string>
+	<key>shouldTransformCheckbox</key>
+	<string>reflectAsset</string>
+</dict>
+</plist>

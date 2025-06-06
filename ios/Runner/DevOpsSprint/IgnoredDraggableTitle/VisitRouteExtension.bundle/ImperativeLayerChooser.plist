@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzercoord</key>
+	<string>functionalDependency</string>
+	<key>animationtension</key>
+	<string>momentumSkewY</string>
+	<key>elasticDependency</key>
+	<string>associatedResult</string>
+	<key>errorstructuretension</key>
+	<string>shouldTransformObserver</string>
+	<key>fusedTrigger</key>
+	<string>shouldPauseConstraint</string>
+	<key>fusedconnector</key>
+	<string>profileFrequency</string>
+</dict>
+</plist>

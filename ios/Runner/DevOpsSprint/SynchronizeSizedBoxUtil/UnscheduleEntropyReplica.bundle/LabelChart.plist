@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalNotation</key>
+	<string>elementPosition</string>
+	<key>delicateConstraint</key>
+	<string>criticalContrast</string>
+	<key>latencyMode</key>
+	<string>profileTopic</string>
+	<key>shouldAnimateMomentum</key>
+	<string>parallelListener</string>
+	<key>sinkopacity</key>
+	<string>encodeSpecifier</string>
+	<key>standaloneNotifier</key>
+	<string>canRenderAnimatedContainer</string>
+	<key>webStatus</key>
+	<string>substantialStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnCount</key>
+	<string>canSkipExtension</string>
+	<key>compositionreducer</key>
+	<string>offsetindex</string>
+	<key>declarativePromise</key>
+	<string>scenarioShade</string>
+	<key>intuitiveCube</key>
+	<string>scrollPhase</string>
+	<key>mapValidation</key>
+	<string>pushGate</string>
+	<key>statelessallocatorname</key>
+	<string>cycleStatus</string>
+	<key>tabletop</key>
+	<string>backwardAnimation</string>
+	<key>tabviewFrequency</key>
+	<string>mapProxy</string>
+	<key>usecaseDepth</key>
+	<string>nextResilience</string>
+</dict>
+</plist>

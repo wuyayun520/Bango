@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTransparency</key>
+	<string>canCreateHeap</string>
+	<key>completerduration</key>
+	<string>capsuleMode</string>
+	<key>enhancegridview</key>
+	<string>criticalPosition</string>
+	<key>mutableAnalogy</key>
+	<string>shouldProcessContraction</string>
+	<key>navigationOpacity</key>
+	<string>compilegradient</string>
+	<key>priorinfo</key>
+	<string>cursorTension</string>
+	<key>reusableIntegrity</key>
+	<string>enabledCycle</string>
+	<key>shouldUnmountSensor</key>
+	<string>vectorizeRadius</string>
+	<key>spotStyle</key>
+	<string>lossTint</string>
+	<key>tensorTouch</key>
+	<string>schedulerName</string>
+</dict>
+</plist>

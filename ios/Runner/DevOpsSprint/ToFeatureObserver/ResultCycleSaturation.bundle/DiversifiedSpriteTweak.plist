@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clonegrayscale</key>
+	<string>detachPageView</string>
+	<key>explicitObject</key>
+	<string>scalabilitydelay</string>
+	<key>hyperbolicSelector</key>
+	<string>shouldAttachSkirt</string>
+	<key>symbolaction</key>
+	<string>desktopJoiner</string>
+</dict>
+</plist>

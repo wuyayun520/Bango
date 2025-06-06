@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInteger</key>
+	<string>canBuildBaseline</string>
+	<key>cachescheduler</key>
+	<string>symmetricEvaluation</string>
+	<key>geometricConfidentiality</key>
+	<string>exitNavigator</string>
+	<key>previewtheme</key>
+	<string>invisibleTolerance</string>
+	<key>providerBrightness</key>
+	<string>discardedPainter</string>
+	<key>shouldTransformPageView</key>
+	<string>mediocreStorage</string>
+</dict>
+</plist>

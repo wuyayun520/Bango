@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildershape</key>
+	<string>thresholdPressure</string>
+	<key>schemaShape</key>
+	<string>immutablefragments</string>
+	<key>semanticsKind</key>
+	<string>semanticparticleoffset</string>
+	<key>shouldListenThread</key>
+	<string>swiftSkewX</string>
+</dict>
+</plist>

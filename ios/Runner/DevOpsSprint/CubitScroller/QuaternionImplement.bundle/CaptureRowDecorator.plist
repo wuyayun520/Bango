@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lossoccasion</key>
+	<string>crudeSound</string>
+	<key>mergerEdge</key>
+	<string>secondConnector</string>
+	<key>moduleTag</key>
+	<string>hardTopic</string>
+	<key>restrictionDepth</key>
+	<string>musicCenter</string>
+	<key>shouldSubscribeSpecifier</key>
+	<string>spincharacter</string>
+	<key>texturecycletag</key>
+	<string>accessoryopacity</string>
+</dict>
+</plist>

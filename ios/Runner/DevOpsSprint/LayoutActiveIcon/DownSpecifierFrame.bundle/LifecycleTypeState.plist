@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDimension</key>
+	<string>inheritedLayout</string>
+	<key>accessibleUtil</key>
+	<string>desktopSkirt</string>
+	<key>activeTopic</key>
+	<string>constantDepth</string>
+	<key>blocsincepattern</key>
+	<string>animationvelocity</string>
+	<key>curveorframework</key>
+	<string>scaffoldTag</string>
+	<key>isProjection</key>
+	<string>keySession</string>
+	<key>lostStack</key>
+	<string>localizationAdapter</string>
+	<key>materialCompleter</key>
+	<string>indicatorFormat</string>
+	<key>popupAcceleration</key>
+	<string>respectiveDropdownButton</string>
+	<key>webGrid</key>
+	<string>shearSingleton</string>
+</dict>
+</plist>

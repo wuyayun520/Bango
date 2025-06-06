@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerOrientation</key>
+	<string>unsortedTransformer</string>
+	<key>deflatewidget</key>
+	<string>usagebrightness</string>
+	<key>lazyGrain</key>
+	<string>canValidateStoryboard</string>
+	<key>smallNode</key>
+	<string>serviceCycle</string>
+	<key>subscribequeue</key>
+	<string>decodeCertificate</string>
+	<key>webSingleton</key>
+	<string>connectorName</string>
+</dict>
+</plist>

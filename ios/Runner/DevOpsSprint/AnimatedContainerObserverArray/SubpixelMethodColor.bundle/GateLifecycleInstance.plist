@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarcapacity</key>
+	<string>shouldTransitionSensor</string>
+	<key>composableshape</key>
+	<string>secondStoryboard</string>
+	<key>displayableallocator</key>
+	<string>synchronousFuture</string>
+	<key>lossOffset</key>
+	<string>mountedListView</string>
+	<key>shouldStartChannels</key>
+	<string>visitScene</string>
+	<key>sortedprovider</key>
+	<string>mainSegue</string>
+	<key>transitionstateful</key>
+	<string>momentumAction</string>
+</dict>
+</plist>

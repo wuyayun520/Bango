@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalProfile</key>
+	<string>constraintDecorator</string>
+	<key>fusedspriterotation</key>
+	<string>interpolationDecorator</string>
+	<key>immediateHero</key>
+	<string>shouldNotifyGridView</string>
+	<key>inactiveRenderer</key>
+	<string>insteadException</string>
+	<key>restrictionRight</key>
+	<string>canCacheAccessory</string>
+	<key>shouldDetachPadding</key>
+	<string>canStreamSegue</string>
+	<key>singletonOrientation</key>
+	<string>shouldDeserializeSubpixel</string>
+	<key>transformerStatus</key>
+	<string>moveOffset</string>
+	<key>visibleBitrate</key>
+	<string>statefulLinker</string>
+	<key>workflowResponse</key>
+	<string>canRebuildFlex</string>
+</dict>
+</plist>

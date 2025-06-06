@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeMobile</key>
+	<string>advancedPainter</string>
+	<key>distinctionName</key>
+	<string>staticSingleton</string>
+	<key>geometricSubpixel</key>
+	<string>canEmitEntropy</string>
+	<key>shouldReplaceText</key>
+	<string>removePopup</string>
+	<key>slidermerger</key>
+	<string>canAttachAccessory</string>
+</dict>
+</plist>

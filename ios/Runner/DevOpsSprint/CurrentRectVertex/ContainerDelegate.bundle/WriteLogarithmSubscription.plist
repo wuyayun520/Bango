@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedChart</key>
+	<string>listenWorkflow</string>
+	<key>curveTension</key>
+	<string>activePicker</string>
+	<key>descriptionSpacing</key>
+	<string>refreshTicker</string>
+	<key>intuitivearithmetictail</key>
+	<string>bulletvalidation</string>
+	<key>retainedRadio</key>
+	<string>selectedScale</string>
+	<key>shouldPaintMargin</key>
+	<string>observerValidation</string>
+</dict>
+</plist>

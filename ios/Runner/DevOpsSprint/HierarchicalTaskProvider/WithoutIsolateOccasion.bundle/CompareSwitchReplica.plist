@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetMomentum</key>
+	<string>missedReliability</string>
+	<key>autoWidget</key>
+	<string>permissiveImpact</string>
+	<key>loaderVelocity</key>
+	<string>wrapperVelocity</string>
+	<key>managerSkewX</key>
+	<string>emitterName</string>
+	<key>polyfillScale</key>
+	<string>scaffoldTier</string>
+	<key>seamlessObject</key>
+	<string>nodeState</string>
+	<key>shouldValidateEqualization</key>
+	<string>unactivatedBullet</string>
+	<key>singleNode</key>
+	<string>tweakLeft</string>
+</dict>
+</plist>

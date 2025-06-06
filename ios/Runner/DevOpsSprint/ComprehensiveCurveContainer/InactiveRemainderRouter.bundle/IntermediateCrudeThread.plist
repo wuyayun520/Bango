@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeFragments</key>
+	<string>resolverCenter</string>
+	<key>gesturedetectorsize</key>
+	<string>skirtedge</string>
+	<key>granularAnalyzer</key>
+	<string>saverouter</string>
+	<key>impactFrequency</key>
+	<string>fusedConverter</string>
+	<key>intensityFeedback</key>
+	<string>orchestrateBuilder</string>
+	<key>lostseguespeed</key>
+	<string>missedTaxonomy</string>
+	<key>selectedDescriptor</key>
+	<string>trainBullet</string>
+	<key>shouldDisconnectSlash</key>
+	<string>minLabel</string>
+	<key>shoulddeserializedelegate</key>
+	<string>chartdespiteparam</string>
+	<key>unactivatedAmortization</key>
+	<string>retrieveManager</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodemanager</key>
+	<string>completedModal</string>
+	<key>dependencymargin</key>
+	<string>subscriberstatus</string>
+	<key>lazyHandler</key>
+	<string>handleTimer</string>
+	<key>liteShape</key>
+	<string>dynamicCapacity</string>
+	<key>mapperFeedback</key>
+	<string>shaderAcceleration</string>
+	<key>permutationOrientation</key>
+	<string>shouldSkipGradient</string>
+	<key>shouldParseButton</key>
+	<string>exitManager</string>
+	<key>utilshader</key>
+	<string>processorRight</string>
+</dict>
+</plist>

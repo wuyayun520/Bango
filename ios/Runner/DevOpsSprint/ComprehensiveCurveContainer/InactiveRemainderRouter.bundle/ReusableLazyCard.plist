@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialColumn</key>
+	<string>easyPlayback</string>
+	<key>mutableCupertino</key>
+	<string>canListenNavigation</string>
+	<key>pageviewtint</key>
+	<string>shouldRouteAperture</string>
+	<key>permissiveInformation</key>
+	<string>playbackFlyweight</string>
+	<key>presenterCount</key>
+	<string>currentSize</string>
+</dict>
+</plist>

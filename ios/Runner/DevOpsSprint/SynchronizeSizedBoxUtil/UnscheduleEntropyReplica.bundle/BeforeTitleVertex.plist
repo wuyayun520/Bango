@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocmargin</key>
+	<string>textureScale</string>
+	<key>interactorbesidecycle</key>
+	<string>statefulClipper</string>
+	<key>progressbarEdge</key>
+	<string>lazyshader</string>
+	<key>referenceTint</key>
+	<string>shouldCancelSine</string>
+	<key>reusableMomentum</key>
+	<string>shouldFinishModal</string>
+</dict>
+</plist>

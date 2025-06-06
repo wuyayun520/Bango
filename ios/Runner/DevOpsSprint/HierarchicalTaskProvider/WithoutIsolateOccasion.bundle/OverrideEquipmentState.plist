@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblecolumnflags</key>
+	<string>stateSpeed</string>
+	<key>consultativeDependency</key>
+	<string>parallelSound</string>
+	<key>crudefuture</key>
+	<string>concurrentTime</string>
+	<key>elasticityOffset</key>
+	<string>embraceInteractor</string>
+	<key>layermesh</key>
+	<string>parallelConnector</string>
+	<key>oldcapacitiesskewy</key>
+	<string>projectMemento</string>
+	<key>requiredAsset</key>
+	<string>temporaryPoint</string>
+	<key>significantEntropy</key>
+	<string>fragmentsCount</string>
+	<key>specifierPosition</key>
+	<string>objectMomentum</string>
+	<key>storelinker</key>
+	<string>disposeTask</string>
+</dict>
+</plist>

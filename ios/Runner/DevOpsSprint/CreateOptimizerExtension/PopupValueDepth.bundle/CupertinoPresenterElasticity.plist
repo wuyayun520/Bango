@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicThread</key>
+	<string>savelog</string>
+	<key>enabledShader</key>
+	<string>associatedBoxShadow</string>
+	<key>hardobservertint</key>
+	<string>geometricCaption</string>
+	<key>materialVolume</key>
+	<string>euclideanTicker</string>
+	<key>renderremainder</key>
+	<string>eagerBuffer</string>
+	<key>tentativekind</key>
+	<string>triggerDelay</string>
+</dict>
+</plist>

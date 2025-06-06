@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityRate</key>
+	<string>marshaloptimizer</string>
+	<key>associatedScene</key>
+	<string>sceneStyle</string>
+	<key>autoData</key>
+	<string>normalVariant</string>
+	<key>currentScaffold</key>
+	<string>animatedCursor</string>
+	<key>hyperbolicMultiplication</key>
+	<string>layoutCapacities</string>
+	<key>loopposition</key>
+	<string>seamlessSign</string>
+	<key>mobileIndex</key>
+	<string>monsterCycle</string>
+	<key>shouldPaintGem</key>
+	<string>mountedCursor</string>
+	<key>tableTop</key>
+	<string>shouldLayoutStamp</string>
+</dict>
+</plist>

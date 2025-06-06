@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineInteraction</key>
+	<string>scenarioShape</string>
+	<key>concurrenteventcount</key>
+	<string>lazygriddepth</string>
+	<key>diversifiedExtension</key>
+	<string>hardException</string>
+	<key>draggableparticle</key>
+	<string>composableComposition</string>
+	<key>mediaInset</key>
+	<string>callbackDensity</string>
+	<key>synchronousmethodacceleration</key>
+	<string>analyzeUseCase</string>
+</dict>
+</plist>

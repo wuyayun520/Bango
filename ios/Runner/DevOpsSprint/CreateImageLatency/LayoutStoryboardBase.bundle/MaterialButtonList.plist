@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finderMargin</key>
+	<string>desktopInterface</string>
+	<key>greatEvent</key>
+	<string>trajectorybound</string>
+	<key>radiusResponse</key>
+	<string>segmentbeyonddecorator</string>
+	<key>sampleoutsidestate</key>
+	<string>storageMediator</string>
+	<key>sharedMission</key>
+	<string>resultForce</string>
+	<key>skirtValidation</key>
+	<string>greatGroup</string>
+	<key>ternarydescription</key>
+	<string>intuitiveDescription</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicNavigator</key>
+	<string>zonemementoorientation</string>
+	<key>interactiveGraph</key>
+	<string>dependencyfinder</string>
+	<key>lastCell</key>
+	<string>ternaryFunction</string>
+	<key>overlayLeft</key>
+	<string>discardedLayout</string>
+	<key>scrollKind</key>
+	<string>annotateEntity</string>
+	<key>shouldYieldChecklist</key>
+	<string>interactionValidation</string>
+	<key>smartItem</key>
+	<string>variantuntilframework</string>
+	<key>uniqueScroll</key>
+	<string>slashchooser</string>
+</dict>
+</plist>

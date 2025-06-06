@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedArithmetic</key>
+	<string>shearDuration</string>
+	<key>elasticObject</key>
+	<string>persistCosine</string>
+	<key>materializervisible</key>
+	<string>inflateSemantics</string>
+	<key>publiccontainer</key>
+	<string>queueMomentum</string>
+	<key>significantMomentum</key>
+	<string>canDismissStep</string>
+	<key>sortedGraph</key>
+	<string>reactiveGroup</string>
+	<key>sustainableanchor</key>
+	<string>hardGroup</string>
+</dict>
+</plist>

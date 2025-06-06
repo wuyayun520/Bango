@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comparefeature</key>
+	<string>multiplicationColor</string>
+	<key>composableLinker</key>
+	<string>independentRichText</string>
+	<key>multiController</key>
+	<string>dissociateSize</string>
+	<key>requiredSegue</key>
+	<string>canYieldCollection</string>
+	<key>sanitizetitle</key>
+	<string>reflectskirt</string>
+	<key>shouldRenderPositioned</key>
+	<string>graphicSystem</string>
+</dict>
+</plist>

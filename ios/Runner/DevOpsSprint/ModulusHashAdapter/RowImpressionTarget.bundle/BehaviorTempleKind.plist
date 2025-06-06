@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addsubpixel</key>
+	<string>commonPicker</string>
+	<key>chaptermode</key>
+	<string>seamlessPageView</string>
+	<key>crucialPreview</key>
+	<string>animateText</string>
+	<key>missedInstruction</key>
+	<string>transformCapsule</string>
+	<key>savestream</key>
+	<string>shouldPrepareRoute</string>
+	<key>shouldRestartDescriptor</key>
+	<string>destroySingleton</string>
+	<key>specifyFragment</key>
+	<string>fusedAwait</string>
+</dict>
+</plist>

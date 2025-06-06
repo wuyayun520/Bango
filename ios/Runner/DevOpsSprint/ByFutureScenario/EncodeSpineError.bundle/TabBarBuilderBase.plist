@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>opaqueListener</key>
+	<string>disabledReceiver</string>
+	<key>requiredCombiner</key>
+	<string>reusableKernel</string>
+	<key>secondInstruction</key>
+	<string>shouldroutetask</string>
+	<key>zoneSkewY</key>
+	<string>chartName</string>
+</dict>
+</plist>

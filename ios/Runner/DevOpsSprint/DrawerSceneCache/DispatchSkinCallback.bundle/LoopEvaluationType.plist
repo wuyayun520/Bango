@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDispatcher</key>
+	<string>modulussincecontext</string>
+	<key>anchorscopevisible</key>
+	<string>optionshapesaturation</string>
+	<key>anchorwithoutproxy</key>
+	<string>shouldFinishProvider</string>
+	<key>cubeLocation</key>
+	<string>alphaandparameter</string>
+	<key>currentIsolate</key>
+	<string>collectionproxydensity</string>
+	<key>interactorlayerright</key>
+	<string>baseCycle</string>
+	<key>itemAppearance</key>
+	<string>shouldunbindview</string>
+	<key>stacknavigator</key>
+	<string>fusedtopiccount</string>
+	<key>traincallback</key>
+	<string>stampFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityDirection</key>
+	<string>mixinObserver</string>
+	<key>componentmargin</key>
+	<string>sanitizeSprite</string>
+	<key>differentiatedependency</key>
+	<string>shouldyieldchecklist</string>
+	<key>easySound</key>
+	<string>staticMenu</string>
+	<key>geometricgrainlocation</key>
+	<string>shouldDeserializeTernary</string>
+	<key>materialProfile</key>
+	<string>shouldSubscribeMediaQuery</string>
+	<key>mediocreequipmentsize</key>
+	<string>bundleRequest</string>
+	<key>notifypageview</key>
+	<string>remediationtop</string>
+	<key>polyfillrate</key>
+	<string>seekOffset</string>
+	<key>titlesound</key>
+	<string>shouldAttachProjection</string>
+</dict>
+</plist>

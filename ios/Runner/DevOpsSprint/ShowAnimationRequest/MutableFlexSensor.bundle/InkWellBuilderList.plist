@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachresolver</key>
+	<string>sizedboxflyweightflags</string>
+	<key>eagerChannels</key>
+	<string>reconcileInjection</string>
+	<key>inactiveTheme</key>
+	<string>shouldPauseNavigation</string>
+	<key>routeenvironmentalignment</key>
+	<string>shouldListenController</string>
+	<key>tappablepolygon</key>
+	<string>interfaceright</string>
+	<key>usedrectacceleration</key>
+	<string>persistPainter</string>
+</dict>
+</plist>

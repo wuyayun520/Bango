@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePoint</key>
+	<string>sophisticatedNavigator</string>
+	<key>indicatorcontrast</key>
+	<string>cloneSize</string>
+	<key>mediocreBatch</key>
+	<string>selectedflex</string>
+	<key>navigateheap</key>
+	<string>canPaintMargin</string>
+	<key>opaqueactivitybehavior</key>
+	<string>canNotifyDocument</string>
+	<key>subtleresponse</key>
+	<string>hardChooser</string>
+	<key>taskrepository</key>
+	<string>pickerborder</string>
+	<key>viewdirection</key>
+	<string>shouldLoadClipper</string>
+	<key>visiblebordersaturation</key>
+	<string>enumerateTexture</string>
+</dict>
+</plist>

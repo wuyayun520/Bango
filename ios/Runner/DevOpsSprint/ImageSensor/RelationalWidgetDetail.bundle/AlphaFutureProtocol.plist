@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardCoordinator</key>
+	<string>flexFrequency</string>
+	<key>frameShape</key>
+	<string>persistentCube</string>
+	<key>interactortype</key>
+	<string>shouldNotifyAppBar</string>
+	<key>musicspacing</key>
+	<string>materializeLocalization</string>
+	<key>permanentSkin</key>
+	<string>dialogsleft</string>
+	<key>reconcilegroup</key>
+	<string>popBorder</string>
+	<key>scopesaturation</key>
+	<string>uniformFeature</string>
+	<key>seamlessRect</key>
+	<string>missedTextField</string>
+	<key>widgetthroughlevel</key>
+	<string>layoutcycleposition</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineInset</key>
+	<string>shouldBuildCurve</string>
+	<key>capsuleFlags</key>
+	<string>graphicedge</string>
+	<key>desktopDispatcher</key>
+	<string>requiredCatalyst</string>
+	<key>normAcceleration</key>
+	<string>sliderscale</string>
+	<key>unsortedAspect</key>
+	<string>builderPhase</string>
+</dict>
+</plist>

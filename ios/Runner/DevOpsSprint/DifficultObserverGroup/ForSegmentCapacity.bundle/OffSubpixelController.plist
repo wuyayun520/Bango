@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralAnalyzer</key>
+	<string>otherPageView</string>
+	<key>evaluatepositioned</key>
+	<string>ephemeralAsync</string>
+	<key>listviewvisitorscale</key>
+	<string>insteadWidget</string>
+	<key>localMapper</key>
+	<string>shouldProcessLoss</string>
+	<key>progressbaracceleration</key>
+	<string>differentiateTitle</string>
+	<key>staticsubpixelborder</key>
+	<string>trainchallenge</string>
+	<key>subtleevaluation</key>
+	<string>interactiveSegment</string>
+	<key>symmetricActivity</key>
+	<string>comprehensiveFrame</string>
+	<key>tweenobserverdirection</key>
+	<string>validategroup</string>
+</dict>
+</plist>

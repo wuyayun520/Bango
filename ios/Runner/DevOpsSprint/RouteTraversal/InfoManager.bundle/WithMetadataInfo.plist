@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulecenter</key>
+	<string>priorConnector</string>
+	<key>customStrength</key>
+	<string>relationalCaption</string>
+	<key>protectedScaffold</key>
+	<string>shouldReplaceMaster</string>
+	<key>shouldSetStateConsumer</key>
+	<string>pinchableRenderer</string>
+</dict>
+</plist>

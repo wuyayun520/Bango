@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeGrid</key>
+	<string>priorradiusrotation</string>
+	<key>globalLayer</key>
+	<string>semanticRect</string>
+	<key>gridCenter</key>
+	<string>sequentialconstraintshape</string>
+	<key>integrationSaturation</key>
+	<string>collectionbridgelocation</string>
+	<key>linkerRate</key>
+	<string>mendTheme</string>
+	<key>numericalPlate</key>
+	<string>captionMargin</string>
+	<key>shouldDeserializeStamp</key>
+	<string>prismaticTask</string>
+</dict>
+</plist>

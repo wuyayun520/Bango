@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintAlignment</key>
+	<string>detachCupertino</string>
+	<key>eagerAnimatedContainer</key>
+	<string>mendorigin</string>
+	<key>independentDependency</key>
+	<string>sharedBorder</string>
+	<key>intuitiveresolver</key>
+	<string>indicatorTint</string>
+	<key>receiverMomentum</key>
+	<string>synchronousticker</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativestateful</key>
+	<string>usedConfiguration</string>
+	<key>deferredPlayback</key>
+	<string>canCacheSlider</string>
+	<key>directProtocol</key>
+	<string>storyboardreceiver</string>
+	<key>disconnectusecase</key>
+	<string>loopcolor</string>
+	<key>interactiveAwait</key>
+	<string>substantialVertex</string>
+	<key>queuedrawer</key>
+	<string>opaqueMaster</string>
+	<key>shouldRebuildCompletion</key>
+	<string>handleStore</string>
+	<key>taskspeed</key>
+	<string>persistentAnimatedContainer</string>
+	<key>unsortedEvaluation</key>
+	<string>gestureType</string>
+</dict>
+</plist>

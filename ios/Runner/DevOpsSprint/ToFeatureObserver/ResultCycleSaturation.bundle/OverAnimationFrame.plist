@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableCluster</key>
+	<string>isCompletion</string>
+	<key>gestureactionacceleration</key>
+	<string>textfieldSize</string>
+	<key>grainmesh</key>
+	<string>instructionFunction</string>
+	<key>localLinker</key>
+	<string>canUnmountMonster</string>
+	<key>operationforjob</key>
+	<string>shouldDisposeSign</string>
+	<key>shouldEndWorkflow</key>
+	<string>toolFlags</string>
+	<key>shouldpausemusic</key>
+	<string>scaletag</string>
+</dict>
+</plist>

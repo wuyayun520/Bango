@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imageFrequency</key>
+	<string>shouldDismissCupertino</string>
+	<key>otherBatch</key>
+	<string>intuitiveRoute</string>
+	<key>permanentClipper</key>
+	<string>canConnectReduction</string>
+	<key>shouldValidateTable</key>
+	<string>decorationFrequency</string>
+	<key>skirttransparency</key>
+	<string>iterativeFormat</string>
+	<key>sorterBound</key>
+	<string>connectRect</string>
+	<key>standaloneButton</key>
+	<string>concurrentWorkflow</string>
+</dict>
+</plist>

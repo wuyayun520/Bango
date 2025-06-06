@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedTabView</key>
+	<string>inactiveCreator</string>
+	<key>integrityInteraction</key>
+	<string>multiConstraint</string>
+	<key>labelorientation</key>
+	<string>ephemeralRichText</string>
+	<key>mutableCheckbox</key>
+	<string>fusedNorm</string>
+	<key>persistentTouch</key>
+	<string>blocLocation</string>
+	<key>responseacceleration</key>
+	<string>completedPriority</string>
+	<key>textFeedback</key>
+	<string>denseDistinction</string>
+</dict>
+</plist>

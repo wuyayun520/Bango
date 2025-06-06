@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncmapper</key>
+	<string>sinkSaturation</string>
+	<key>capacitiesfilter</key>
+	<string>lazyDrawer</string>
+	<key>curveInset</key>
+	<string>inheritedLayout</string>
+	<key>dependencyOrientation</key>
+	<string>multiplyIntensity</string>
+	<key>encodeasync</key>
+	<string>loopinformation</string>
+	<key>geometricradiushead</key>
+	<string>largeRole</string>
+	<key>protocolTheme</key>
+	<string>locateRepository</string>
+	<key>reactiveresponseorigin</key>
+	<string>diversifiedSpine</string>
+	<key>singleElasticity</key>
+	<string>borderAction</string>
+</dict>
+</plist>

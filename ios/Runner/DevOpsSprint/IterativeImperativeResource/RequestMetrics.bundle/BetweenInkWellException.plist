@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeNotification</key>
+	<string>shouldCreateGem</string>
+	<key>dedicatedExpanded</key>
+	<string>restartGraphic</string>
+	<key>expandedKind</key>
+	<string>diffableConfidentiality</string>
+	<key>granularHandler</key>
+	<string>customizedReceiver</string>
+	<key>otherInstruction</key>
+	<string>playbackPhase</string>
+	<key>platerestriction</key>
+	<string>modeldelivery</string>
+	<key>shouldSerializeCharacter</key>
+	<string>promiseFeedback</string>
+	<key>synchronousTabView</key>
+	<string>decorationEnvironment</string>
+	<key>triggerCoord</key>
+	<string>aggregateSprite</string>
+	<key>unactivatedRemainder</key>
+	<string>inactiveImpression</string>
+</dict>
+</plist>

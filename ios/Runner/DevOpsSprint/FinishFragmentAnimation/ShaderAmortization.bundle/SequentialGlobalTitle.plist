@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTween</key>
+	<string>injectionRotation</string>
+	<key>checkboxTheme</key>
+	<string>dedicatedConfiguration</string>
+	<key>intensityValidation</key>
+	<string>inheritedEntropy</string>
+	<key>shouldbindspine</key>
+	<string>shouldNotifyProject</string>
+</dict>
+</plist>

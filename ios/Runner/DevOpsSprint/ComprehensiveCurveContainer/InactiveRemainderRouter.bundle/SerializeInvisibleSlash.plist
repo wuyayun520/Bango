@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureevolution</key>
+	<string>shapeOpacity</string>
+	<key>mobileButton</key>
+	<string>grainScale</string>
+	<key>oldFinder</key>
+	<string>pageviewLocation</string>
+	<key>paddingincludestyle</key>
+	<string>canvasShape</string>
+	<key>reductionShape</key>
+	<string>pushprovider</string>
+	<key>scaleValidation</key>
+	<string>significantError</string>
+	<key>shouldPaintConvolution</key>
+	<string>canCacheSign</string>
+	<key>statusBottom</key>
+	<string>shouldDecodeBaseline</string>
+	<key>syncbuffer</key>
+	<string>dataValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentBrush</key>
+	<string>draggableBuffer</string>
+	<key>disconnectdrawer</key>
+	<string>timerinterval</string>
+	<key>imageSaturation</key>
+	<string>notifyBullet</string>
+	<key>keySpecifier</key>
+	<string>firstIntegrity</string>
+	<key>margintype</key>
+	<string>shouldRebuildSizedBox</string>
+	<key>notificationresponse</key>
+	<string>parseSign</string>
+	<key>providerEdge</key>
+	<string>observeTexture</string>
+	<key>shouldPauseDuration</key>
+	<string>shouldCancelSignature</string>
+	<key>shouldSaveStack</key>
+	<string>accessorytheme</string>
+</dict>
+</plist>

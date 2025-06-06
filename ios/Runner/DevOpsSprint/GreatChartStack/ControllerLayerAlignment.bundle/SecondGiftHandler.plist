@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableHero</key>
+	<string>streamlineIsolate</string>
+	<key>concreteprofile</key>
+	<string>responsiveSelector</string>
+	<key>largeNotifier</key>
+	<string>easyTransition</string>
+	<key>partitionfuture</key>
+	<string>immutableRole</string>
+	<key>radiusformat</key>
+	<string>robustDelegate</string>
+	<key>shouldRenderLog</key>
+	<string>projectPosition</string>
+</dict>
+</plist>

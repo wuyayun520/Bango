@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonSpeed</key>
+	<string>unscheduleGrain</string>
+	<key>concurrentCallback</key>
+	<string>scrollableCube</string>
+	<key>hyperbolicAnimation</key>
+	<string>mapreceiver</string>
+	<key>listenerLocation</key>
+	<string>dismissInkWell</string>
+	<key>oldPopup</key>
+	<string>hyperbolicScroller</string>
+	<key>reusableEvolution</key>
+	<string>sortedCoordinator</string>
+	<key>transitionbeyondlayer</key>
+	<string>otherresponsefeedback</string>
+</dict>
+</plist>

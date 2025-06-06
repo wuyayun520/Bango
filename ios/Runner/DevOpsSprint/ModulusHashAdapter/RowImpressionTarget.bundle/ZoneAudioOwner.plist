@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonThroughput</key>
+	<string>aspectformat</string>
+	<key>disconnecthandler</key>
+	<string>curveContext</string>
+	<key>mediumScheduler</key>
+	<string>canSaveReference</string>
+	<key>unactivatedFuture</key>
+	<string>shoulddisconnectcontroller</string>
+</dict>
+</plist>

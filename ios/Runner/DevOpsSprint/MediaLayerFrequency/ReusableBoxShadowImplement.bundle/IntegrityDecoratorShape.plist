@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvaselasticity</key>
+	<string>transitionFunction</string>
+	<key>effectpressure</key>
+	<string>concurrentNotification</string>
+	<key>instructionitem</key>
+	<string>renderCatalyst</string>
+	<key>intuitiveActivity</key>
+	<string>basicPermutation</string>
+	<key>rolevarorientation</key>
+	<string>shouldShowGradient</string>
+	<key>shouldLayoutSine</key>
+	<string>resumeExpanded</string>
+	<key>shouldTransitionSensor</key>
+	<string>animatedcontainerPadding</string>
+	<key>specifierContrast</key>
+	<string>granularFactory</string>
+	<key>statefulPosition</key>
+	<string>makeListener</string>
+</dict>
+</plist>

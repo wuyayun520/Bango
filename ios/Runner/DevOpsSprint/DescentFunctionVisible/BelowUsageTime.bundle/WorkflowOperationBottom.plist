@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllershade</key>
+	<string>sortedAnimator</string>
+	<key>dropdownbuttonaroundmemento</key>
+	<string>resilientSubscriber</string>
+	<key>shouldDecodeEquipment</key>
+	<string>detachScene</string>
+	<key>shouldListenSpot</key>
+	<string>shouldStopStateful</string>
+	<key>shouldPopText</key>
+	<string>canUnbindDocument</string>
+	<key>statefulBloc</key>
+	<string>requiredTraversal</string>
+	<key>synchronouscreator</key>
+	<string>functionalAllocator</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directScenario</key>
+	<string>formatMedia</string>
+	<key>draggableStamp</key>
+	<string>shouldRenderMatrix</string>
+	<key>mutabledimensionshade</key>
+	<string>customizedRequest</string>
+	<key>otherMap</key>
+	<string>shouldDisposeInterpolation</string>
+	<key>persistentevent</key>
+	<string>inactiveFormat</string>
+	<key>publishawait</key>
+	<string>shouldTransitionScreen</string>
+	<key>smartchapter</key>
+	<string>createanimation</string>
+	<key>transposemetadata</key>
+	<string>radioSize</string>
+</dict>
+</plist>

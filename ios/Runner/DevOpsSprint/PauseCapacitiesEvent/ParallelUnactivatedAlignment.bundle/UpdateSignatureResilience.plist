@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleJoiner</key>
+	<string>equipmentDensity</string>
+	<key>currentTechnique</key>
+	<string>interactionOrigin</string>
+	<key>gestureactivityscale</key>
+	<string>localizationfrequency</string>
+	<key>iconAppearance</key>
+	<string>wrapState</string>
+	<key>resolverthanprocess</key>
+	<string>revisitAsync</string>
+</dict>
+</plist>

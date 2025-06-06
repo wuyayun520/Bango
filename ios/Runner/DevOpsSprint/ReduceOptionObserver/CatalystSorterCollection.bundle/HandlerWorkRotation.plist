@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferjobbound</key>
+	<string>plateleft</string>
+	<key>currentBuilder</key>
+	<string>asynchronousProgressBar</string>
+	<key>defaultbutton</key>
+	<string>compositionactionname</string>
+	<key>opaqueModal</key>
+	<string>shouldSubscribeDuration</string>
+	<key>presenterSkewY</key>
+	<string>techniqueColor</string>
+	<key>prevDescriptor</key>
+	<string>iterativeWorkflow</string>
+	<key>shouldEndProjection</key>
+	<string>delegateFunction</string>
+	<key>substantialMenu</key>
+	<string>mobileThroughput</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicprioritylocation</key>
+	<string>createSignature</string>
+	<key>beginnerChannel</key>
+	<string>spriteHead</string>
+	<key>customwrapper</key>
+	<string>animateAnchor</string>
+	<key>oldStack</key>
+	<string>originalSplitter</string>
+	<key>transformertype</key>
+	<string>desktopStamp</string>
+</dict>
+</plist>

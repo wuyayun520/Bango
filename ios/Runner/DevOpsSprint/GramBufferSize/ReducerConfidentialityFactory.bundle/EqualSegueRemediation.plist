@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileEntity</key>
+	<string>maxBullet</string>
+	<key>dedicatedBox</key>
+	<string>canPopBrush</string>
+	<key>functionalEntropy</key>
+	<string>instructionstatus</string>
+	<key>shouldCacheOptimizer</key>
+	<string>copyGraph</string>
+	<key>shouldPublishNavigation</key>
+	<string>instantiateHandler</string>
+	<key>sortedObserver</key>
+	<string>batchWork</string>
+</dict>
+</plist>

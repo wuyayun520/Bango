@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultListView</key>
+	<string>gramHead</string>
+	<key>hyperbolicFactory</key>
+	<string>firstLogarithm</string>
+	<key>hyperbolicMend</key>
+	<string>loaderShade</string>
+	<key>mergerOffset</key>
+	<string>erasePosition</string>
+	<key>permissiveDropdownButton</key>
+	<string>currentfuture</string>
+	<key>switchColor</key>
+	<string>shouldDecodeProjection</string>
+</dict>
+</plist>

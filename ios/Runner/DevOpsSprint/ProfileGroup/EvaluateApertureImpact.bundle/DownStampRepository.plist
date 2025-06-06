@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeRenderer</key>
+	<string>uniformTrigger</string>
+	<key>graphfinder</key>
+	<string>scopeHue</string>
+	<key>responsecombiner</key>
+	<string>flexibleMovement</string>
+	<key>robustkernelbottom</key>
+	<string>cursorIndex</string>
+	<key>shouldSaveOperation</key>
+	<string>heapShade</string>
+	<key>uniqueRecursion</key>
+	<string>defaultCupertino</string>
+</dict>
+</plist>

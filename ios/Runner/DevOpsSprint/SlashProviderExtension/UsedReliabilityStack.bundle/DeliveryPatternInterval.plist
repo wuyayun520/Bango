@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shouldKeepDuration</key>
+	<string>radiusprototypecoord</string>
+	<key>shouldPresentLog</key>
+	<string>overrideSlider</string>
+	<key>sizedboxinteraction</key>
+	<string>promiseobject</string>
+	<key>webindicatorstyle</key>
+	<string>iterativeModal</string>
+</dict>
+</plist>

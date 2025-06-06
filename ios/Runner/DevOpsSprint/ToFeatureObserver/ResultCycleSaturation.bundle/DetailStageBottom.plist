@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDuration</key>
+	<string>layerVisible</string>
+	<key>cupertinoDensity</key>
+	<string>rapidSignature</string>
+	<key>liteFrame</key>
+	<string>isStep</string>
+	<key>popupdecoratorinteraction</key>
+	<string>canPushInkWell</string>
+	<key>resizableLoop</key>
+	<string>originalbitratevalidation</string>
+	<key>savebullet</key>
+	<string>canAttachPrecision</string>
+	<key>shouldpersistrole</key>
+	<string>shouldshowactivity</string>
+	<key>timerPressure</key>
+	<string>canEndOption</string>
+	<key>unactivatedTraversal</key>
+	<string>itemHue</string>
+</dict>
+</plist>

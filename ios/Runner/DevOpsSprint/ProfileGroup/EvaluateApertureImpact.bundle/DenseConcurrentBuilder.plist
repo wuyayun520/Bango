@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticGestureDetector</key>
+	<string>shouldSetStateSine</string>
+	<key>entropyDelay</key>
+	<string>listenerShape</string>
+	<key>globalAspectRatio</key>
+	<string>screenSingleton</string>
+	<key>intuitivenotifiervisible</key>
+	<string>shouldDismissMember</string>
+	<key>invisibleCursor</key>
+	<string>smallDelegate</string>
+	<key>managerbrightness</key>
+	<string>shouldParseMatrix</string>
+	<key>rowtolerance</key>
+	<string>concurrentReduction</string>
+</dict>
+</plist>

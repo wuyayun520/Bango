@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnframe</key>
+	<string>chapterFacade</string>
+	<key>consultativeMechanism</key>
+	<string>spriteAcceleration</string>
+	<key>coordinatorbeyondmethod</key>
+	<string>checklistDuration</string>
+	<key>itemTail</key>
+	<string>canProcessGesture</string>
+	<key>optimizeroute</key>
+	<string>protocolTag</string>
+	<key>publicHeap</key>
+	<string>permanentResilience</string>
+	<key>shouldObserveAnimatedContainer</key>
+	<string>decorationSystem</string>
+	<key>skiptable</key>
+	<string>shouldRouteSemantics</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAmortization</key>
+	<string>boxshadowDensity</string>
+	<key>deserializeinteger</key>
+	<string>prepareCache</string>
+	<key>menuworktransparency</key>
+	<string>quantizerGrain</string>
+	<key>nodeproxyshade</key>
+	<string>mountedchallenge</string>
+	<key>permissiveWidget</key>
+	<string>normalResult</string>
+	<key>responsiveEntropy</key>
+	<string>shouldunbindconstraint</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDelegate</key>
+	<string>markSubscription</string>
+	<key>animatedTask</key>
+	<string>boxScale</string>
+	<key>arithmeticCompleter</key>
+	<string>kernelDuration</string>
+	<key>customWrapper</key>
+	<string>denseSplitter</string>
+	<key>skinstroke</key>
+	<string>subtleShape</string>
+</dict>
+</plist>

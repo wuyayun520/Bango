@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateDuration</key>
+	<string>canPresentPlate</string>
+	<key>dataOffset</key>
+	<string>grayscaleStage</string>
+	<key>hyperbolicKernel</key>
+	<string>currentTexture</string>
+	<key>imperativeMaterializer</key>
+	<string>requiredProgressBar</string>
+	<key>objectShade</key>
+	<string>crudeDistinction</string>
+	<key>publicsensor</key>
+	<string>dynamicResolver</string>
+	<key>techniquerate</key>
+	<string>selectedGradient</string>
+	<key>utilattask</key>
+	<string>themeKind</string>
+	<key>variantSaturation</key>
+	<string>databehavior</string>
+</dict>
+</plist>

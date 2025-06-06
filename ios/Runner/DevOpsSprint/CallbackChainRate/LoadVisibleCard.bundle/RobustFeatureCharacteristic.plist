@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheState</key>
+	<string>eagerLoader</string>
+	<key>crudeInjection</key>
+	<string>shouldMountIcon</string>
+	<key>fixedpresenter</key>
+	<string>combineSingleton</string>
+	<key>shouldEncodeMaterial</key>
+	<string>custompaintprocessedge</string>
+	<key>shouldEndChannels</key>
+	<string>opaqueLinker</string>
+	<key>tappableCertificate</key>
+	<string>layoutbrush</string>
+	<key>topicTransparency</key>
+	<string>disparateListener</string>
+	<key>visibleMesh</key>
+	<string>clipperTemple</string>
+</dict>
+</plist>

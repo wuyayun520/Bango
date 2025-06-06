@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelstag</key>
+	<string>shouldNotifySensor</string>
+	<key>crucialdecorationright</key>
+	<string>shouldPaintSizedBox</string>
+	<key>effectRotation</key>
+	<string>activatedCupertino</string>
+	<key>encapsulatedescription</key>
+	<string>responsivePromise</string>
+	<key>hardlistenerflags</key>
+	<string>protocolflyweightedge</string>
+	<key>intuitiveSample</key>
+	<string>shouldResumeMargin</string>
+	<key>mobileFeature</key>
+	<string>localTernary</string>
+	<key>pinchableVolume</key>
+	<string>mobileNotifier</string>
+	<key>rapidDependency</key>
+	<string>shouldDispatchExponent</string>
+	<key>shouldStreamEntropy</key>
+	<string>customizedRemainder</string>
+</dict>
+</plist>

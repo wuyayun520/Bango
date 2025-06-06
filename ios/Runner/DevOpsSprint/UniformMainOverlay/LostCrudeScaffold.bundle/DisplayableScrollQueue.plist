@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedGrain</key>
+	<string>hierarchicalQuaternion</string>
+	<key>mediocreTitle</key>
+	<string>animatedUseCase</string>
+	<key>opaqueCycle</key>
+	<string>multiplyHash</string>
+	<key>shouldContinueClipper</key>
+	<string>webReference</string>
+	<key>shouldContinueGram</key>
+	<string>interactiveWrapper</string>
+	<key>shouldPushListView</key>
+	<string>significantSine</string>
+	<key>standaloneNotifier</key>
+	<string>otherController</string>
+</dict>
+</plist>

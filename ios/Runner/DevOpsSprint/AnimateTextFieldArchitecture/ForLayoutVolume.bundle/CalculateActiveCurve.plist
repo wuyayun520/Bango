@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoTicker</key>
+	<string>emitPlayback</string>
+	<key>discardedWrapper</key>
+	<string>substantialconnector</string>
+	<key>ignoredLayout</key>
+	<string>alertActivity</string>
+	<key>mountedsession</key>
+	<string>asynchronousChannels</string>
+	<key>resizablePicker</key>
+	<string>canStartCompletion</string>
+	<key>shouldAnimateBox</key>
+	<string>accordionUnary</string>
+</dict>
+</plist>

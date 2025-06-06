@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missedReducer</key>
+	<string>unmountedCharacter</string>
+	<key>popupAlignment</key>
+	<string>opaqueHeap</string>
+	<key>shouldDetachWorkflow</key>
+	<string>arithmeticmapdirection</string>
+	<key>shouldTransitionCheckbox</key>
+	<string>canPrepareHeap</string>
+</dict>
+</plist>

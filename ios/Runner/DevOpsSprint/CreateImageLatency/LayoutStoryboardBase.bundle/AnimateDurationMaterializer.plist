@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationtierdirection</key>
+	<string>menuinparameter</string>
+	<key>behavioropacity</key>
+	<string>dispatcherOffset</string>
+	<key>completercount</key>
+	<string>popBase</string>
+	<key>createscene</key>
+	<string>localizationaroundoperation</string>
+	<key>shouldDeserializeStream</key>
+	<string>publishNorm</string>
+	<key>subscriptionasproxy</key>
+	<string>routeComposite</string>
+	<key>volumeRate</key>
+	<string>arithmeticVector</string>
+</dict>
+</plist>

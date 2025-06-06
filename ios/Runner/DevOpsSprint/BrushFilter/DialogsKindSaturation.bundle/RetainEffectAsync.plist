@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableDescent</key>
+	<string>geometricTrajectory</string>
+	<key>deferredCombiner</key>
+	<string>shouldPresentOperation</string>
+	<key>localBehavior</key>
+	<string>zoneInset</string>
+	<key>mediocrecard</key>
+	<string>trajectorymode</string>
+	<key>onmovementchanged</key>
+	<string>dedicatedAccessory</string>
+	<key>promiseVelocity</key>
+	<string>shouldpausebaseline</string>
+	<key>shouldSerializeButton</key>
+	<string>mainSegment</string>
+</dict>
+</plist>

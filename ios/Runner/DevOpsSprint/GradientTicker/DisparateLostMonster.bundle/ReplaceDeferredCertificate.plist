@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iscomposition</key>
+	<string>relationalAnalogy</string>
+	<key>observertheme</key>
+	<string>visiblepoint</string>
+	<key>persistentFragments</key>
+	<string>loadCache</string>
+	<key>publisherInteraction</key>
+	<string>localSize</string>
+	<key>rectScale</key>
+	<string>rectKind</string>
+</dict>
+</plist>

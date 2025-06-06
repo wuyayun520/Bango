@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryOrientation</key>
+	<string>diffableDetector</string>
+	<key>associatemethod</key>
+	<string>shouldnotifythread</string>
+	<key>canvasAlignment</key>
+	<string>canLoadPageView</string>
+	<key>desktopProvider</key>
+	<string>diffableEntropy</string>
+	<key>missedEqualization</key>
+	<string>shouldPrepareReference</string>
+	<key>relationalContraction</key>
+	<string>popupuntillevel</string>
+	<key>shouldCacheRow</key>
+	<string>renameTitle</string>
+	<key>shouldTransitionDimension</key>
+	<string>accordionAscent</string>
+	<key>stackacceleration</key>
+	<string>queuerectangle</string>
+	<key>transformerrate</key>
+	<string>documentHue</string>
+</dict>
+</plist>

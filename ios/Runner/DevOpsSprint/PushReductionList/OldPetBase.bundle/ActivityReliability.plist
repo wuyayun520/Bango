@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseconstraintbehavior</key>
+	<string>gradientFramework</string>
+	<key>errorOrientation</key>
+	<string>deprecateboxshadow</string>
+	<key>materialForce</key>
+	<string>binaryShade</string>
+	<key>mechanismDelay</key>
+	<string>uniformTechnique</string>
+	<key>reducernearflyweight</key>
+	<string>mediaStructure</string>
+	<key>shouldRestartProtocol</key>
+	<string>canValidateMovement</string>
+	<key>singletoncommandcoord</key>
+	<string>errortransparency</string>
+	<key>typicallocalizationshape</key>
+	<string>adaptiveRequest</string>
+	<key>unregisterposition</key>
+	<string>numericalCheckbox</string>
+</dict>
+</plist>

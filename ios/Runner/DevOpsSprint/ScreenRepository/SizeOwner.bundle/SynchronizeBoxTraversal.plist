@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinePressure</key>
+	<string>dispatchScale</string>
+	<key>entropyintensity</key>
+	<string>fusedShape</string>
+	<key>factoryValidation</key>
+	<string>directrestriction</string>
+	<key>instructionthroughtype</key>
+	<string>observemargin</string>
+	<key>petForce</key>
+	<string>logState</string>
+	<key>schemaCoord</key>
+	<string>cosineIndex</string>
+</dict>
+</plist>

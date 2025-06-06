@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonspacing</key>
+	<string>sophisticatedTable</string>
+	<key>easyComponent</key>
+	<string>deliveryborder</string>
+	<key>easyDelivery</key>
+	<string>starttween</string>
+	<key>hasStateful</key>
+	<string>unlockRequest</string>
+	<key>layoutmomentum</key>
+	<string>standaloneLoader</string>
+	<key>modulusShape</key>
+	<string>basicDelivery</string>
+	<key>pinchableSegment</key>
+	<string>functionalPicker</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultStateless</key>
+	<string>precisiontop</string>
+	<key>equalizationMargin</key>
+	<string>requiredReducer</string>
+	<key>explicitAudio</key>
+	<string>pushChannels</string>
+	<key>mobiletransformer</key>
+	<string>otherCupertino</string>
+	<key>notifierFormat</key>
+	<string>cartesianDisclaimer</string>
+	<key>shouldInflateTask</key>
+	<string>compositionalCombiner</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationType</key>
+	<string>itemSkewX</string>
+	<key>attachlog</key>
+	<string>equivalentHead</string>
+	<key>basicdescriptioncoord</key>
+	<string>liteAnchor</string>
+	<key>nativeSkirt</key>
+	<string>selectedGraphic</string>
+	<key>scalabilityValidation</key>
+	<string>emitCube</string>
+	<key>singletonawayscope</key>
+	<string>visitButton</string>
+	<key>specifyPolygon</key>
+	<string>decorationduringlevel</string>
+	<key>statearoundscope</key>
+	<string>flexibleEntropy</string>
+</dict>
+</plist>

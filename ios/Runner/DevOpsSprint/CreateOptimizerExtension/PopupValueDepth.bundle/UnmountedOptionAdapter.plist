@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleGate</key>
+	<string>enabledPopup</string>
+	<key>mediumprogressbardensity</key>
+	<string>masterHue</string>
+	<key>protocoleffect</key>
+	<string>significantCheckbox</string>
+	<key>routeCoord</key>
+	<string>nodethreshold</string>
+	<key>sliderDelay</key>
+	<string>dynamicCapsule</string>
+	<key>taskthroughlevel</key>
+	<string>finishShader</string>
+	<key>traincurve</key>
+	<string>awaittheme</string>
+	<key>usecasescale</key>
+	<string>prepareSemantics</string>
+</dict>
+</plist>

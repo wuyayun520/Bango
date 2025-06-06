@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScenario</key>
+	<string>customStatus</string>
+	<key>commonMedia</key>
+	<string>numericalView</string>
+	<key>functionalScaffold</key>
+	<string>flexibleStrength</string>
+	<key>lossversusmediator</key>
+	<string>canPushTangent</string>
+	<key>reducerRight</key>
+	<string>wrapController</string>
+	<key>statefulRepository</key>
+	<string>particleversuskind</string>
+	<key>vectorinteraction</key>
+	<string>intuitiveAlpha</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerResponse</key>
+	<string>canPersistMargin</string>
+	<key>compositionBehavior</key>
+	<string>keydialogsvisibility</string>
+	<key>curveCoord</key>
+	<string>dimensionerror</string>
+	<key>hasEntropy</key>
+	<string>menuOpacity</string>
+	<key>serviceTension</key>
+	<string>scrollabletimeline</string>
+</dict>
+</plist>

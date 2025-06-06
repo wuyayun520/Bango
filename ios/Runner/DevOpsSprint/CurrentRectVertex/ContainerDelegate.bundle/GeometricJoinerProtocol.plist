@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedButton</key>
+	<string>storagecompositebehavior</string>
+	<key>containerDepth</key>
+	<string>retaineddocument</string>
+	<key>dedicatedGestureDetector</key>
+	<string>newestMenu</string>
+	<key>desktopImpression</key>
+	<string>methodtypepressure</string>
+	<key>interactionInset</key>
+	<string>accordionFuture</string>
+	<key>shouldPopIndicator</key>
+	<string>unlocksensor</string>
+	<key>significantComposition</key>
+	<string>debugSingleton</string>
+	<key>skinStyle</key>
+	<string>transformLog</string>
+</dict>
+</plist>

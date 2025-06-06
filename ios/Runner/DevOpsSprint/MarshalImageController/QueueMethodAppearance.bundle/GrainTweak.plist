@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSelector</key>
+	<string>positionedPressure</string>
+	<key>amortizationRight</key>
+	<string>updateStream</string>
+	<key>autoTabBar</key>
+	<string>localdocumentmode</string>
+	<key>basicDelegate</key>
+	<string>findInterface</string>
+	<key>gateVisible</key>
+	<string>drawerright</string>
+	<key>shouldlistenanimation</key>
+	<string>shouldconnectbase</string>
+</dict>
+</plist>

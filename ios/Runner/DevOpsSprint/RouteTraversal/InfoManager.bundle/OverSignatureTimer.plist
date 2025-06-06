@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effecthandler</key>
+	<string>borderValidation</string>
+	<key>grainrotation</key>
+	<string>encodeInteractor</string>
+	<key>normRate</key>
+	<string>cupertinoDescription</string>
+	<key>stopprojection</key>
+	<string>multiplicationMethod</string>
+	<key>touchTag</key>
+	<string>canDetachSign</string>
+</dict>
+</plist>

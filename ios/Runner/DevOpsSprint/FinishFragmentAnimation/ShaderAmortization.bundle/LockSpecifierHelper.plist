@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shouldPopMediaQuery</key>
+	<string>canEmitPriority</string>
+	<key>shouldPublishContainer</key>
+	<string>formatNorm</string>
+	<key>shoulddispatchswitch</key>
+	<string>permissiveVariant</string>
+	<key>smallmargin</key>
+	<string>sizeContext</string>
+	<key>substantialEffect</key>
+	<string>canSkipModal</string>
+	<key>webPadding</key>
+	<string>interpolationscale</string>
+</dict>
+</plist>

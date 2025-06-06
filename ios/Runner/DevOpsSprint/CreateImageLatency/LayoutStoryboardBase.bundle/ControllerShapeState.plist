@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationanalyzer</key>
+	<string>responseAction</string>
+	<key>disclaimeralignment</key>
+	<string>disabledInterface</string>
+	<key>draggablesplitter</key>
+	<string>characteristicIndex</string>
+	<key>flexibleanimation</key>
+	<string>shouldAttachStateless</string>
+	<key>oldIntensity</key>
+	<string>priorThread</string>
+	<key>shouldDisconnectCollection</key>
+	<string>labelParameter</string>
+	<key>stateAppearance</key>
+	<string>invisibleReference</string>
+</dict>
+</plist>

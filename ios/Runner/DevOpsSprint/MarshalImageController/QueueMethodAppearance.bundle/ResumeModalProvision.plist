@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterdelay</key>
+	<string>statefulQuaternion</string>
+	<key>generatechannel</key>
+	<string>prismaticModal</string>
+	<key>positionedsaturation</key>
+	<string>canCacheSensor</string>
+	<key>reducersincevalue</key>
+	<string>providerelement</string>
+	<key>robustOverlay</key>
+	<string>canRebuildBehavior</string>
+	<key>statefulVisibility</key>
+	<string>mountedReference</string>
+	<key>unsortedNib</key>
+	<string>tensorEvaluation</string>
+</dict>
+</plist>

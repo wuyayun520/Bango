@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSkin</key>
+	<string>deserializeCube</string>
+	<key>aperturetop</key>
+	<string>margininteraction</string>
+	<key>asynchronousPresenter</key>
+	<string>momentumprovider</string>
+	<key>denseAllocator</key>
+	<string>borderadapterbottom</string>
+	<key>liteThreshold</key>
+	<string>mixinAnimation</string>
+	<key>occasionKind</key>
+	<string>revisitChapter</string>
+	<key>shouldSaveBase</key>
+	<string>documentamongpattern</string>
+</dict>
+</plist>

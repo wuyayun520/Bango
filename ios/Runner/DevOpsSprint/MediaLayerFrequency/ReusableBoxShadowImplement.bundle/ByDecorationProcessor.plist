@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredInfrastructure</key>
+	<string>mainAspectRatio</string>
+	<key>modelOrigin</key>
+	<string>shouldFormatAxis</string>
+	<key>notificationShape</key>
+	<string>smartTraversal</string>
+	<key>routerStyle</key>
+	<string>observerlevelorientation</string>
+	<key>semanticDocument</key>
+	<string>presentermediatorbottom</string>
+	<key>stateTag</key>
+	<string>transformerVariable</string>
+	<key>statelessInteractor</key>
+	<string>agileColumn</string>
+	<key>traversalpressure</key>
+	<string>substantialPet</string>
+</dict>
+</plist>

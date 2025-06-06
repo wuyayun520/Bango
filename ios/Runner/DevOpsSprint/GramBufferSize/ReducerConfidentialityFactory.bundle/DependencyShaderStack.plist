@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedExpanded</key>
+	<string>nibMediator</string>
+	<key>decorationinteraction</key>
+	<string>canSkipIcon</string>
+	<key>disclaimerHead</key>
+	<string>shouldBuildGridView</string>
+	<key>hierarchicalCombiner</key>
+	<string>scopeCount</string>
+	<key>hierarchicalMap</key>
+	<string>crudeFilter</string>
+	<key>listenerOrigin</key>
+	<string>currentstack</string>
+	<key>operationinterval</key>
+	<string>fillInjection</string>
+	<key>shouldBindStoryboard</key>
+	<string>attachOverlay</string>
+	<key>substantialOption</key>
+	<string>draggableMesh</string>
+</dict>
+</plist>

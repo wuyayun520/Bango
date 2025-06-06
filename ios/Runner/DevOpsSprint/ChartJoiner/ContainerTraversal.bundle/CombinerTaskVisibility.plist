@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticfilter</key>
+	<string>canMountGesture</string>
+	<key>reusabletangentcolor</key>
+	<string>selectorVisibility</string>
+	<key>shouldDeserializeHero</key>
+	<string>flexibleWorkflow</string>
+	<key>shouldUnmountedAppBar</key>
+	<string>enabledTrigger</string>
+</dict>
+</plist>

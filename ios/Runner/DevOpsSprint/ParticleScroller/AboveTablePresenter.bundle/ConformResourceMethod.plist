@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardutil</key>
+	<string>animateSymbol</string>
+	<key>precisionState</key>
+	<string>lostAnalyzer</string>
+	<key>previewHead</key>
+	<string>subsequentsplitter</string>
+	<key>shouldDispatchAperture</key>
+	<string>equalizationstyle</string>
+	<key>shouldValidateFragment</key>
+	<string>memberRotation</string>
+	<key>statefulChannels</key>
+	<string>normalDocument</string>
+</dict>
+</plist>

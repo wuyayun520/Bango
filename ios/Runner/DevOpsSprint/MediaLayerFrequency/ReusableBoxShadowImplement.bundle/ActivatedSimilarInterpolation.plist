@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionLoop</key>
+	<string>lifecycleInterval</string>
+	<key>inactiveTheme</key>
+	<string>activetolerance</string>
+	<key>pivotalColumn</key>
+	<string>streamdespitetype</string>
+	<key>polyfillRotation</key>
+	<string>canUpdateMatrix</string>
+	<key>shouldAttachSegue</key>
+	<string>shouldupdateobserver</string>
+	<key>viewDistance</key>
+	<string>smallSensor</string>
+</dict>
+</plist>

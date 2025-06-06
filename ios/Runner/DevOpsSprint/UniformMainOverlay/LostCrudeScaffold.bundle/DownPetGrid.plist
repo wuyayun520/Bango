@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableOverlay</key>
+	<string>uniqueObject</string>
+	<key>materialActivity</key>
+	<string>techniqueBorder</string>
+	<key>notificationBorder</key>
+	<string>serviceShade</string>
+	<key>persistentReliability</key>
+	<string>textfieldtexture</string>
+	<key>receiverDirection</key>
+	<string>nextNavigator</string>
+	<key>shouldKeepReference</key>
+	<string>fragmentRight</string>
+	<key>smartIsolate</key>
+	<string>pointForce</string>
+	<key>specifyMechanism</key>
+	<string>canAnimateDropdownButton</string>
+	<key>statefulPlayback</key>
+	<string>architectureinset</string>
+</dict>
+</plist>

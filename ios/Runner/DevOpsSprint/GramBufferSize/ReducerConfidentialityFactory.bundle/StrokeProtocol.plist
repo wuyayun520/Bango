@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedHistogram</key>
+	<string>shouldLoadNavigation</string>
+	<key>batchBehavior</key>
+	<string>sizedboxAdapter</string>
+	<key>currentinteger</key>
+	<string>granularAudio</string>
+	<key>groupContrast</key>
+	<string>statepressure</string>
+	<key>largeFeature</key>
+	<string>defaultdrawer</string>
+	<key>repositoryFrequency</key>
+	<string>shouldMountRemainder</string>
+	<key>requestInteraction</key>
+	<string>crucialNib</string>
+	<key>singleAwait</key>
+	<string>isstateless</string>
+	<key>specifyConsumer</key>
+	<string>modulusComposite</string>
+</dict>
+</plist>

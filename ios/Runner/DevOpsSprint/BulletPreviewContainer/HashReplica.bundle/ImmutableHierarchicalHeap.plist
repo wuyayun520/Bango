@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePager</key>
+	<string>inactiveManager</string>
+	<key>explicitAsset</key>
+	<string>shouldDisposeModulus</string>
+	<key>normalTask</key>
+	<string>animateicon</string>
+	<key>prismaticSingleton</key>
+	<string>sineRotation</string>
+	<key>relationalRange</key>
+	<string>cachesize</string>
+	<key>shouldFinishMultiplication</key>
+	<string>combineDuration</string>
+	<key>tabviewasparameter</key>
+	<string>beginnerAlert</string>
+</dict>
+</plist>

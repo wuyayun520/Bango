@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTabBar</key>
+	<string>dedicatedStrength</string>
+	<key>clippercoord</key>
+	<string>tensorChooser</string>
+	<key>invisibleworkflowopacity</key>
+	<string>radioSaturation</string>
+	<key>profiletime</key>
+	<string>easyController</string>
+	<key>rangeOrientation</key>
+	<string>catalystBrightness</string>
+	<key>shouldPauseSwift</key>
+	<string>integerActivity</string>
+	<key>shouldRebuildCycle</key>
+	<string>referenceType</string>
+	<key>shouldstreammaster</key>
+	<string>shouldHandleLabel</string>
+	<key>statelessGraphic</key>
+	<string>composableLabel</string>
+	<key>unactivatedLocalization</key>
+	<string>detachGradient</string>
+</dict>
+</plist>

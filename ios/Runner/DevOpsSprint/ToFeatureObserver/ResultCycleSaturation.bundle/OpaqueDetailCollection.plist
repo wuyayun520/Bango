@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcubitmomentum</key>
+	<string>controllerAcceleration</string>
+	<key>controllerName</key>
+	<string>rapidBinder</string>
+	<key>graphictask</key>
+	<string>comprehensiveContrast</string>
+	<key>oldGrain</key>
+	<string>advancedPosition</string>
+	<key>petCoord</key>
+	<string>layoutDuration</string>
+	<key>retainedFragments</key>
+	<string>publicComponent</string>
+	<key>shouldparsebaseline</key>
+	<string>indicatorVisibility</string>
+	<key>transformerobservermargin</key>
+	<string>shouldmountwidget</string>
+	<key>transformstore</key>
+	<string>mobileMap</string>
+</dict>
+</plist>

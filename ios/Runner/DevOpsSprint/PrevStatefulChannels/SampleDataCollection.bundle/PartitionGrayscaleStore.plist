@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterOffset</key>
+	<string>displayableMetrics</string>
+	<key>futureSkewY</key>
+	<string>navigatorfrequency</string>
+	<key>granularPager</key>
+	<string>staticPolygon</string>
+	<key>insteadview</key>
+	<string>canBuildSample</string>
+	<key>permissivebulletbound</key>
+	<string>mitigateDecoration</string>
+	<key>seekinteractor</key>
+	<string>hyperbolicRichText</string>
+	<key>spriteproxycoord</key>
+	<string>finishNavigation</string>
+	<key>staticExpanded</key>
+	<string>ephemeralSegment</string>
+</dict>
+</plist>

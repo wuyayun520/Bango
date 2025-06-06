@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveEffect</key>
+	<string>canRenderRadio</string>
+	<key>lastview</key>
+	<string>canBuildCharacter</string>
+	<key>oldTransformer</key>
+	<string>diffableJoiner</string>
+	<key>sharedgradient</key>
+	<string>shouldTrainDocument</string>
+	<key>staticPosition</key>
+	<string>shouldPersistStep</string>
+	<key>tickerlayerappearance</key>
+	<string>builderoffset</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanbuilder</key>
+	<string>impactright</string>
+	<key>invisibleLabel</key>
+	<string>scenarioSpeed</string>
+	<key>modulusShape</key>
+	<string>tappableTraversal</string>
+	<key>oncertificatechanged</key>
+	<string>wrapperEdge</string>
+	<key>rectifyequalization</key>
+	<string>sinkScope</string>
+	<key>replicaTension</key>
+	<string>canAttachLoss</string>
+	<key>scalabilityRotation</key>
+	<string>processRemainder</string>
+	<key>uniqueEmitter</key>
+	<string>autopresenterpadding</string>
+</dict>
+</plist>

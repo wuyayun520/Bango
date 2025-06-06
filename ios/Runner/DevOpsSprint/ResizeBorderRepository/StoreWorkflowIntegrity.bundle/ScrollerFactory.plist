@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actiondispatcher</key>
+	<string>shouldDetachContraction</string>
+	<key>flexibleSearcher</key>
+	<string>serializebuilder</string>
+	<key>notificationbrightness</key>
+	<string>shouldconnectpriority</string>
+	<key>requiredIntensity</key>
+	<string>profilesaturation</string>
+	<key>robustSearcher</key>
+	<string>retrieveHandler</string>
+	<key>saveaspectratio</key>
+	<string>easyProject</string>
+	<key>shouldEncodeCharacter</key>
+	<string>showmanager</string>
+	<key>tasktierdirection</key>
+	<string>displayablecurvetheme</string>
+	<key>traincharacter</key>
+	<string>viewinteraction</string>
+</dict>
+</plist>

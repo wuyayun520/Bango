@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationattype</key>
+	<string>prevScaffold</string>
+	<key>futuretypeborder</key>
+	<string>canPrepareUnary</string>
+	<key>hierarchicalTextField</key>
+	<string>ignoredState</string>
+	<key>particlealignment</key>
+	<string>shaderBridge</string>
+	<key>prismaticRepository</key>
+	<string>shouldPresentSubpixel</string>
+	<key>shouldMountedDrawer</key>
+	<string>convertLabel</string>
+</dict>
+</plist>

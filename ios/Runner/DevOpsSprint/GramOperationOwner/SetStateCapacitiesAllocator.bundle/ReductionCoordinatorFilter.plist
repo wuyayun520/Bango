@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicStyle</key>
+	<string>mediumContrast</string>
+	<key>concurrentCard</key>
+	<string>dropdownbuttonPressure</string>
+	<key>delicateIsolate</key>
+	<string>declarativeConsumption</string>
+	<key>functionalprovider</key>
+	<string>relationalroute</string>
+	<key>immutableDocument</key>
+	<string>fusedStack</string>
+	<key>immutableLocalization</key>
+	<string>canSkipGate</string>
+	<key>providemenu</key>
+	<string>easysizedboxflags</string>
+	<key>shouldCacheAnimatedContainer</key>
+	<string>shouldProcessAccessory</string>
+	<key>shouldUnbindGraphic</key>
+	<string>delegateOperation</string>
+	<key>visibleProjection</key>
+	<string>repositoryPosition</string>
+</dict>
+</plist>

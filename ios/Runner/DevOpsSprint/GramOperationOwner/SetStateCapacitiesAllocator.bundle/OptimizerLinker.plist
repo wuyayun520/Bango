@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengePadding</key>
+	<string>timerStrategy</string>
+	<key>contractionHue</key>
+	<string>shouldUnmountSpine</string>
+	<key>eagerProfile</key>
+	<string>materialstack</string>
+	<key>mediocreDetector</key>
+	<string>bindBloc</string>
+	<key>prevReceiver</key>
+	<string>rebuildProfile</string>
+	<key>shouldProcessChallenge</key>
+	<string>architectureBound</string>
+	<key>storekind</key>
+	<string>transformerProxy</string>
+	<key>texttheme</key>
+	<string>durationDelay</string>
+	<key>unbinddelegate</key>
+	<string>entityColor</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocategroup</key>
+	<string>normKind</string>
+	<key>blocthanvalue</key>
+	<string>updateTransformer</string>
+	<key>constantValidation</key>
+	<string>selectedTool</string>
+	<key>directlyReliability</key>
+	<string>uniformSplitter</string>
+	<key>grayscaleTint</key>
+	<string>precisionValue</string>
+	<key>shouldStreamFuture</key>
+	<string>shouldLoadLog</string>
+	<key>tentativeShade</key>
+	<string>channelsframe</string>
+	<key>visibleAsset</key>
+	<string>canEndMedia</string>
+</dict>
+</plist>

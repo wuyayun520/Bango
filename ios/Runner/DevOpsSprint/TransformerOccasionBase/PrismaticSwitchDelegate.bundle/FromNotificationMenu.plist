@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedObserver</key>
+	<string>hierarchicalPreview</string>
+	<key>rapidPadding</key>
+	<string>pagerInteraction</string>
+	<key>responderPressure</key>
+	<string>minTask</string>
+	<key>shouldrenderoverlay</key>
+	<string>canMountConstraint</string>
+	<key>singleheroindex</key>
+	<string>sequentialLayout</string>
+</dict>
+</plist>

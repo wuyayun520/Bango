@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentsemantics</key>
+	<string>numericalsorter</string>
+	<key>dedicatedPainter</key>
+	<string>imageJob</string>
+	<key>factoryBound</key>
+	<string>onnormchanged</string>
+	<key>globalHash</key>
+	<string>flexibleQuaternion</string>
+	<key>invisiblecoordinator</key>
+	<string>tentativeVisibility</string>
+	<key>optimizerRate</key>
+	<string>missedRectangle</string>
+	<key>shouldTransformNotifier</key>
+	<string>responsiveSubscriber</string>
+	<key>unaryresponse</key>
+	<string>activateObserver</string>
+</dict>
+</plist>

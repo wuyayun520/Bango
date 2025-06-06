@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constrainttemplepadding</key>
+	<string>specifyTabBar</string>
+	<key>resilientanimationcenter</key>
+	<string>notifyAnimation</string>
+	<key>semanticTween</key>
+	<string>shouldYieldStateful</string>
+</dict>
+</plist>

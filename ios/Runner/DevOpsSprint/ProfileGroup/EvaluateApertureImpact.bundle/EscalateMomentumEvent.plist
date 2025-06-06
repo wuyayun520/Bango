@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineOrientation</key>
+	<string>cartesianTime</string>
+	<key>immutableFilter</key>
+	<string>containerbeyondstate</string>
+	<key>interfaceBottom</key>
+	<string>accessibleContrast</string>
+	<key>intermediateEvolution</key>
+	<string>adjustpriority</string>
+	<key>shouldValidatePositioned</key>
+	<string>opaqueTriangles</string>
+	<key>shouldcachetabbar</key>
+	<string>layoutAspect</string>
+</dict>
+</plist>

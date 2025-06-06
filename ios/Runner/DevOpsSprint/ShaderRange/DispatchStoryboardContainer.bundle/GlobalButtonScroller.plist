@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateright</key>
+	<string>canTrainGem</string>
+	<key>eventHue</key>
+	<string>debugListener</string>
+	<key>intuitiveGraphic</key>
+	<string>quantizerMenu</string>
+	<key>liteSkin</key>
+	<string>quantizationexpanded</string>
+	<key>pushconstraint</key>
+	<string>shouldpaintfragment</string>
+	<key>shouldCreateCell</key>
+	<string>canListenMaster</string>
+	<key>skinatcommand</key>
+	<string>functionalHeap</string>
+</dict>
+</plist>

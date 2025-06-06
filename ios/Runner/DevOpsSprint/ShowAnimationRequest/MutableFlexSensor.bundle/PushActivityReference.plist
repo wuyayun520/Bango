@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionKind</key>
+	<string>canHandleCustomPaint</string>
+	<key>elasticityHue</key>
+	<string>meshCount</string>
+	<key>sharedTitle</key>
+	<string>inactivePrecision</string>
+</dict>
+</plist>

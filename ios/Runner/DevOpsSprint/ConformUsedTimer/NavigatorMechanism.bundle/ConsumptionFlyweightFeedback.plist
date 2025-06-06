@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionmomentum</key>
+	<string>defaultwidget</string>
+	<key>entityphaseinterval</key>
+	<string>resilientPainter</string>
+	<key>largehandleroffset</key>
+	<string>shouldCreateLog</string>
+	<key>listenerjoiner</key>
+	<string>callbackTransparency</string>
+	<key>splitterBottom</key>
+	<string>tappableStatus</string>
+	<key>standaloneTheme</key>
+	<string>finderAppearance</string>
+</dict>
+</plist>

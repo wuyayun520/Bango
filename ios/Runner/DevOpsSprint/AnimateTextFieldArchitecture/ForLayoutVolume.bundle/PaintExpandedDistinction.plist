@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeComponent</key>
+	<string>displayablefactory</string>
+	<key>displayableoption</key>
+	<string>trainMatrix</string>
+	<key>handleallocator</key>
+	<string>shouldUpdateNorm</string>
+	<key>seamlessEquivalent</key>
+	<string>drawResult</string>
+	<key>serviceOrientation</key>
+	<string>equivalentDensity</string>
+	<key>smartImpression</key>
+	<string>unregisterInjection</string>
+	<key>staticAnimatedContainer</key>
+	<string>nodePrototype</string>
+</dict>
+</plist>

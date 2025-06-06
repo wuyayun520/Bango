@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRoute</key>
+	<string>subscriberDirection</string>
+	<key>advancedinterfacehead</key>
+	<string>subsequentscrollstyle</string>
+	<key>firstOptimizer</key>
+	<string>functionalGradient</string>
+	<key>missedPageView</key>
+	<string>replaceTernary</string>
+	<key>retainedTouch</key>
+	<string>shouldHandleCycle</string>
+	<key>shouldTransformPriority</key>
+	<string>persistInstruction</string>
+</dict>
+</plist>

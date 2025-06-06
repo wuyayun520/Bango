@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramfeedback</key>
+	<string>monsterCount</string>
+	<key>interfaceasfunction</key>
+	<string>startlistview</string>
+	<key>materializerFlags</key>
+	<string>restartCell</string>
+	<key>rapidGrayscale</key>
+	<string>textPressure</string>
+</dict>
+</plist>

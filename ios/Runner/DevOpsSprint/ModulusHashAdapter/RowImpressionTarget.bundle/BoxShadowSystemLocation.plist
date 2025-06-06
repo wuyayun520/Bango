@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachusecase</key>
+	<string>parseTextField</string>
+	<key>gridTag</key>
+	<string>canSkipProfile</string>
+	<key>persistentRadius</key>
+	<string>crudeMedia</string>
+	<key>unsortedcontainerbrightness</key>
+	<string>animatedradius</string>
+</dict>
+</plist>

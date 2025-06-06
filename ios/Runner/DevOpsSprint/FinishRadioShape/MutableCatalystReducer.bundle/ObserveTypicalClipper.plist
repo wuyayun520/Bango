@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeBuffer</key>
+	<string>disconnectInteractor</string>
+	<key>customLocalization</key>
+	<string>eagerIsolate</string>
+	<key>layoutwrapper</key>
+	<string>primaryDelegate</string>
+	<key>protectedController</key>
+	<string>shouldUnmountColumn</string>
+	<key>semanticsDelay</key>
+	<string>maxGridView</string>
+	<key>shouldobserveoverlay</key>
+	<string>canResumePositioned</string>
+	<key>signVisibility</key>
+	<string>robustCallback</string>
+	<key>standaloneService</key>
+	<string>missedEquipment</string>
+</dict>
+</plist>

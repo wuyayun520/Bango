@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentLatency</key>
+	<string>secondbuttonmode</string>
+	<key>metricsDistance</key>
+	<string>restartCupertino</string>
+	<key>sceneamortization</key>
+	<string>unaryValue</string>
+	<key>schedulerColor</key>
+	<string>injectionMomentum</string>
+	<key>semanticselector</key>
+	<string>largeMovement</string>
+	<key>usedData</key>
+	<string>fetchScroll</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mutableConfiguration</key>
+	<string>embedPresenter</string>
+	<key>scaffoldnumbervisibility</key>
+	<string>canPushInkWell</string>
+	<key>singleChapter</key>
+	<string>unmountedListView</string>
+	<key>streamtype</key>
+	<string>cloneBloc</string>
+	<key>unactivatedChart</key>
+	<string>backwardSubscriber</string>
+</dict>
+</plist>

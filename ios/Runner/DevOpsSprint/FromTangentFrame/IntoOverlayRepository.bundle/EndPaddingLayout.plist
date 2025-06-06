@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteScalability</key>
+	<string>connectNode</string>
+	<key>lostbandwidth</key>
+	<string>lastPermutation</string>
+	<key>pinchableinteractorfrequency</key>
+	<string>interactiveBehavior</string>
+	<key>provideralongmode</key>
+	<string>chooserpadding</string>
+	<key>shouldUnbindInkWell</key>
+	<string>reusableAlert</string>
+	<key>substantialListener</key>
+	<string>shouldSetStateMaterial</string>
+</dict>
+</plist>

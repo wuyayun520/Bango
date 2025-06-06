@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disclaimerDirection</key>
+	<string>notifyPet</string>
+	<key>localDialogs</key>
+	<string>dedicatedGesture</string>
+	<key>protectedIndicator</key>
+	<string>seamlessPermutation</string>
+	<key>scenecontextleft</key>
+	<string>normalAsset</string>
+	<key>sequentialActivity</key>
+	<string>mediaProcess</string>
+	<key>significantBloc</key>
+	<string>featureLevel</string>
+	<key>statefulRow</key>
+	<string>monsterDecorator</string>
+	<key>transformcursor</key>
+	<string>reliabilityHead</string>
+</dict>
+</plist>

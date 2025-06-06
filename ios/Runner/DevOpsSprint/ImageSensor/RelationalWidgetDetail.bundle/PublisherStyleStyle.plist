@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>publicArchitecture</key>
+	<string>cacheNotification</string>
+	<key>shouldInflateAnchor</key>
+	<string>normTemple</string>
+	<key>specifyDisclaimer</key>
+	<string>spritehandler</string>
+</dict>
+</plist>

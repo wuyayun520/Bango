@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerBorder</key>
+	<string>storageVisible</string>
+	<key>directlyAxis</key>
+	<string>cardRight</string>
+	<key>disparatePager</key>
+	<string>directlyMethod</string>
+	<key>elasticCompleter</key>
+	<string>crucialUtil</string>
+	<key>localizationTint</key>
+	<string>popupEdge</string>
+	<key>strengthTag</key>
+	<string>tweenformoffset</string>
+</dict>
+</plist>

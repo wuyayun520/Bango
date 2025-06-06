@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicGrid</key>
+	<string>groupmend</string>
+	<key>compositionalProgressBar</key>
+	<string>statelessLoader</string>
+	<key>customBullet</key>
+	<string>shouldDismissLayout</string>
+	<key>provisionTint</key>
+	<string>canNotifyLog</string>
+	<key>shouldTransformSine</key>
+	<string>restartDialogs</string>
+	<key>sizeFeedback</key>
+	<string>staticSearcher</string>
+</dict>
+</plist>

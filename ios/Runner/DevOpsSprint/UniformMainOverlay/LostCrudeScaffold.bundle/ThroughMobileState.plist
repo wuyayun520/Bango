@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSession</key>
+	<string>beginnerInformation</string>
+	<key>augmentexception</key>
+	<string>ignoredSelector</string>
+	<key>channelBound</key>
+	<string>shouldRouteDelegate</string>
+	<key>gesturedetectorInteraction</key>
+	<string>reductionOrientation</string>
+	<key>numericalhandler</key>
+	<string>checklistContrast</string>
+	<key>pushnotification</key>
+	<string>explicitIntegration</string>
+	<key>radiusanalyzer</key>
+	<string>mapdetector</string>
+	<key>sharedPromise</key>
+	<string>displayMenu</string>
+	<key>uniqueWrapper</key>
+	<string>dynamicSensor</string>
+</dict>
+</plist>

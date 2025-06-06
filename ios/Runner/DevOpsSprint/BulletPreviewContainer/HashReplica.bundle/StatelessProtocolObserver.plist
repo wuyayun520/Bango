@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicStep</key>
+	<string>optimizerStructure</string>
+	<key>fixedSemantics</key>
+	<string>canDeserializeExpanded</string>
+	<key>parallelTexture</key>
+	<string>invisibleTolerance</string>
+	<key>shouldTransformCosine</key>
+	<string>cartesianLatency</string>
+	<key>sortedLogarithm</key>
+	<string>tweenVisibility</string>
+	<key>tappableUsage</key>
+	<string>createInteger</string>
+</dict>
+</plist>

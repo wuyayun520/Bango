@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorawait</key>
+	<string>disparateTrigger</string>
+	<key>beginnerAxis</key>
+	<string>sequentialButton</string>
+	<key>eagerLifecycle</key>
+	<string>interactorStyle</string>
+	<key>ephemeralMechanism</key>
+	<string>shouldNavigateEquipment</string>
+	<key>granularChannels</key>
+	<string>descentOrigin</string>
+	<key>opaqueAppBar</key>
+	<string>cupertinoCharacteristic</string>
+	<key>shouldSerializeVariant</key>
+	<string>canDisposePoint</string>
+	<key>smallProject</key>
+	<string>shouldYieldInstruction</string>
+	<key>storeEdge</key>
+	<string>temporarySound</string>
+	<key>synchronousContainer</key>
+	<string>backwardnormrotation</string>
+</dict>
+</plist>

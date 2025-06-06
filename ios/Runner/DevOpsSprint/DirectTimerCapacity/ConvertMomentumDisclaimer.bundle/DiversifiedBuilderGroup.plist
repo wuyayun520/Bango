@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>executecoordinator</key>
+	<string>canDeserializeDialogs</string>
+	<key>featureOpacity</key>
+	<string>canDetachMaster</string>
+	<key>retainedProject</key>
+	<string>transformintensity</string>
+	<key>titleCoord</key>
+	<string>projectvelocity</string>
+	<key>uniqueDelivery</key>
+	<string>markDelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulecommandstyle</key>
+	<string>grayscaleValidation</string>
+	<key>compositionalLinker</key>
+	<string>smallInstruction</string>
+	<key>largeLabel</key>
+	<string>paintMomentum</string>
+	<key>multiInterpolation</key>
+	<string>animationTransparency</string>
+	<key>seamlesseventforce</key>
+	<string>curveSpeed</string>
+	<key>statelessCluster</key>
+	<string>quitProvider</string>
+	<key>timelineCount</key>
+	<string>resetsubscription</string>
+</dict>
+</plist>

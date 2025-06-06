@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertBrightness</key>
+	<string>intuitiveConfiguration</string>
+	<key>alphaPadding</key>
+	<string>strengthTail</string>
+	<key>displayableReduction</key>
+	<string>autoIsolate</string>
+	<key>providerlabel</key>
+	<string>volumeContrast</string>
+	<key>requestaxis</key>
+	<string>invokeBuilder</string>
+	<key>respectiveSpot</key>
+	<string>sequentialanimation</string>
+	<key>seamlessCallback</key>
+	<string>rowTension</string>
+	<key>smartMesh</key>
+	<string>compositionalAxis</string>
+	<key>sortedFactory</key>
+	<string>cellVisibility</string>
+</dict>
+</plist>

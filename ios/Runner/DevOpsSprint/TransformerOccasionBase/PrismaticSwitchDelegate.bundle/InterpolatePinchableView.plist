@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeCertificate</key>
+	<string>spinFactory</string>
+	<key>pointCenter</key>
+	<string>instructionDepth</string>
+	<key>reactiveVector</key>
+	<string>serviceHead</string>
+	<key>statelessTabBar</key>
+	<string>consumerframe</string>
+	<key>streamStatus</key>
+	<string>consultativeAsset</string>
+</dict>
+</plist>

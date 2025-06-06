@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleScale</key>
+	<string>shouldObserveReference</string>
+	<key>hardSound</key>
+	<string>menuShape</string>
+	<key>integrityOpacity</key>
+	<string>channelsShade</string>
+	<key>normevent</key>
+	<string>transitionMap</string>
+	<key>shouldEmitRadio</key>
+	<string>canListenSlider</string>
+	<key>shouldcontinuescreen</key>
+	<string>gridviewSystem</string>
+	<key>transitionBehavior</key>
+	<string>labelOrientation</string>
+</dict>
+</plist>

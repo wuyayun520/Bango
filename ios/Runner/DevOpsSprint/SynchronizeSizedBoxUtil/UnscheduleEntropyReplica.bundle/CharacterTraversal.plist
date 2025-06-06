@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedScheduler</key>
+	<string>validatedecoration</string>
+	<key>batchInteraction</key>
+	<string>protocolDirection</string>
+	<key>confidentialityInteraction</key>
+	<string>tweenForce</string>
+	<key>hardchannelposition</key>
+	<string>shouldPresentRoute</string>
+	<key>normcontrast</key>
+	<string>shouldYieldDialogs</string>
+	<key>originalScheduler</key>
+	<string>frameLeft</string>
+	<key>tensorDecoration</key>
+	<string>introspectDescription</string>
+	<key>transformerSkewX</key>
+	<string>connectView</string>
+</dict>
+</plist>

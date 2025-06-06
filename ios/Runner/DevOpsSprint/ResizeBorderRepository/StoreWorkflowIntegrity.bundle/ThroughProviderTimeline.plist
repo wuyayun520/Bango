@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationaroundtier</key>
+	<string>shouldYieldAnimatedContainer</string>
+	<key>catalystBrightness</key>
+	<string>monsterflyweightrate</string>
+	<key>iterativeScaffold</key>
+	<string>canObserveActivity</string>
+	<key>notificationrotation</key>
+	<string>inheritedPainter</string>
+	<key>opaqueColumn</key>
+	<string>webInfrastructure</string>
+	<key>requestscopeleft</key>
+	<string>granularCollection</string>
+	<key>smartAllocator</key>
+	<string>commonScene</string>
+</dict>
+</plist>

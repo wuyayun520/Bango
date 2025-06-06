@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertleft</key>
+	<string>resilientEvolution</string>
+	<key>backwardMerger</key>
+	<string>canRestartAccessory</string>
+	<key>documentPosition</key>
+	<string>herostate</string>
+	<key>heapBrightness</key>
+	<string>basicGraph</string>
+	<key>hierarchicalCaption</key>
+	<string>immediateLog</string>
+	<key>otherCombiner</key>
+	<string>dismissStep</string>
+	<key>singletonStatus</key>
+	<string>pendingStoryboard</string>
+</dict>
+</plist>

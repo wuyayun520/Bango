@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredPolygon</key>
+	<string>canDisconnectCapacities</string>
+	<key>radiusBottom</key>
+	<string>desktopSensor</string>
+	<key>responsivepoint</key>
+	<string>similarDisclaimer</string>
+	<key>sustainablechooser</key>
+	<string>canCreateRichText</string>
+	<key>timerState</key>
+	<string>sessionStyle</string>
+	<key>usedProvision</key>
+	<string>drawerDepth</string>
+</dict>
+</plist>

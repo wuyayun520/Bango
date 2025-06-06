@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonexceptionopacity</key>
+	<string>operationaspect</string>
+	<key>cupertinoPolyfill</key>
+	<string>ephemeralChannel</string>
+	<key>functionalPolyfill</key>
+	<string>canHandleModal</string>
+	<key>presenterDistance</key>
+	<string>mapPlatform</string>
+	<key>previewcreator</key>
+	<string>canInflateScale</string>
+	<key>shouldpublishconstraint</key>
+	<string>shouldPushAnimatedContainer</string>
+	<key>unactivatedProtocol</key>
+	<string>mechanismShape</string>
+</dict>
+</plist>

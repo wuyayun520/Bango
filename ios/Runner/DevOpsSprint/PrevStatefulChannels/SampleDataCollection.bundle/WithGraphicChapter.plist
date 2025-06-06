@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activescenario</key>
+	<string>enabledTouch</string>
+	<key>commonEquivalent</key>
+	<string>multiplicationVisible</string>
+	<key>menumethodvisibility</key>
+	<string>loadCaption</string>
+	<key>ontangenttap</key>
+	<string>emitprojection</string>
+	<key>statelessObject</key>
+	<string>canNavigateSkirt</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missedicon</key>
+	<string>navigateOptimizer</string>
+	<key>navigatorcolor</key>
+	<string>visualizeStorage</string>
+	<key>resilientTextField</key>
+	<string>canDispatchShader</string>
+	<key>shouldCancelCurve</key>
+	<string>shouldFormatMap</string>
+	<key>sineOffset</key>
+	<string>semanticsLocation</string>
+	<key>widgetcontrast</key>
+	<string>graphDensity</string>
+</dict>
+</plist>

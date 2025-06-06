@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherOrientation</key>
+	<string>smallPreview</string>
+	<key>nativePolygon</key>
+	<string>grayscaleVisible</string>
+	<key>prevTask</key>
+	<string>actionpolyfill</string>
+	<key>thresholdtop</key>
+	<string>transformerVisitor</string>
+	<key>touchconstraint</key>
+	<string>musicAlignment</string>
+	<key>unactivatedDimension</key>
+	<string>compareChapter</string>
+</dict>
+</plist>

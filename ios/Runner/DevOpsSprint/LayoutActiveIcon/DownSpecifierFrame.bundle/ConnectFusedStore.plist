@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateResponse</key>
+	<string>smartVolume</string>
+	<key>immutableoperation</key>
+	<string>shouldBindSpecifier</string>
+	<key>inheritedAccessory</key>
+	<string>skinSingleton</string>
+	<key>metricsEdge</key>
+	<string>parallelviewspeed</string>
+	<key>richtextDelay</key>
+	<string>shouldrenderplayback</string>
+	<key>sophisticatedScroll</key>
+	<string>containercontrast</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionConstant</key>
+	<string>routerForm</string>
+	<key>chapterscale</key>
+	<string>retainedListView</string>
+	<key>exceptionforproxy</key>
+	<string>handlerTask</string>
+	<key>lostSizedBox</key>
+	<string>evaluationTail</string>
+	<key>shouldPrepareSymbol</key>
+	<string>updatePadding</string>
+	<key>shouldSaveEquipment</key>
+	<string>concreteStep</string>
+</dict>
+</plist>

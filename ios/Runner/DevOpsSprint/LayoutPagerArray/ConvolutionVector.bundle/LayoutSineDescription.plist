@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSegue</key>
+	<string>intuitiveAsset</string>
+	<key>cartesianScaffold</key>
+	<string>canCancelEffect</string>
+	<key>concreteSensor</key>
+	<string>customizedTime</string>
+	<key>localizationcontainflyweight</key>
+	<string>monsterLocation</string>
+	<key>poppreview</key>
+	<string>histogramSkewX</string>
+	<key>transformertriangles</key>
+	<string>profileFacade</string>
+	<key>unregisterstack</key>
+	<string>sortedinfrastructure</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationtransparency</key>
+	<string>shouldtrainduration</string>
+	<key>hasConsumer</key>
+	<string>disposeGradient</string>
+	<key>stackscalability</key>
+	<string>canPauseFuture</string>
+	<key>titleRight</key>
+	<string>behaviorEdge</string>
+</dict>
+</plist>

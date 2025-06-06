@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationsinceframework</key>
+	<string>limitTween</string>
+	<key>currentLayer</key>
+	<string>appendCallback</string>
+	<key>denseskirtcoord</key>
+	<string>uniformUnary</string>
+	<key>diversifiedEvent</key>
+	<string>replaceText</string>
+	<key>draggableAnimation</key>
+	<string>shouldTransitionAnchor</string>
+	<key>isSkirt</key>
+	<string>stackIndex</string>
+	<key>numericalScenario</key>
+	<string>divideGrid</string>
+	<key>permanentScalability</key>
+	<string>promiseState</string>
+	<key>requiredLatency</key>
+	<string>parseStore</string>
+	<key>specifyAction</key>
+	<string>methodProcess</string>
+</dict>
+</plist>

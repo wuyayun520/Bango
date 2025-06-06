@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleState</key>
+	<string>resourceInset</string>
+	<key>composableContrast</key>
+	<string>controllercompositetint</string>
+	<key>declarativeStack</key>
+	<string>missedSubscription</string>
+	<key>distinctionresponse</key>
+	<string>titleWork</string>
+	<key>multiInkWell</key>
+	<string>shouldShowSegue</string>
+	<key>scenenearcontext</key>
+	<string>shouldlistenpadding</string>
+	<key>transpiletween</key>
+	<string>labelInterval</string>
+</dict>
+</plist>

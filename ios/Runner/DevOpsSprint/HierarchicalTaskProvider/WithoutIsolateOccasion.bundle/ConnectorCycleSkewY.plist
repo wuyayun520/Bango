@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticdispatcher</key>
+	<string>delicateStamp</string>
+	<key>declarativeTheme</key>
+	<string>poolGroup</string>
+	<key>gateoutsidelevel</key>
+	<string>pushResult</string>
+	<key>localcallback</key>
+	<string>accessibleHandler</string>
+	<key>numericalLocalization</key>
+	<string>swiftState</string>
+	<key>secondBloc</key>
+	<string>alertbywork</string>
+	<key>shouldTransformStream</key>
+	<string>shouldYieldEqualization</string>
+	<key>techniqueconsumption</key>
+	<string>queueValue</string>
+	<key>uniformModal</key>
+	<string>inheritednotification</string>
+	<key>webRepository</key>
+	<string>giftColor</string>
+</dict>
+</plist>

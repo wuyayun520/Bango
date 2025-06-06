@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicBaseline</key>
+	<string>bufferMediator</string>
+	<key>entropyBehavior</key>
+	<string>immediateConfiguration</string>
+	<key>musicphasedelay</key>
+	<string>beginnerRenderer</string>
+	<key>reactiveRichText</key>
+	<string>shouldObserveDimension</string>
+	<key>receiverVisible</key>
+	<string>checkReducer</string>
+	<key>shouldContinueNotifier</key>
+	<string>canPublishProfile</string>
+	<key>soundKind</key>
+	<string>persistDialogs</string>
+	<key>storagemethoddensity</key>
+	<string>writeRepository</string>
+	<key>tabviewanalogy</key>
+	<string>advancedBinary</string>
+</dict>
+</plist>

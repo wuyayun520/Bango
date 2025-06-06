@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCubit</key>
+	<string>storageCommand</string>
+	<key>boxshadowColor</key>
+	<string>shouldRestartScreen</string>
+	<key>configurationInterval</key>
+	<string>exceptionuntilinterpreter</string>
+	<key>cupertinozone</key>
+	<string>endCell</string>
+	<key>futurescopevalidation</key>
+	<string>resolveGrid</string>
+	<key>inheritedStep</key>
+	<string>rendermanager</string>
+	<key>lazyTabBar</key>
+	<string>deprecateRepository</string>
+	<key>mainTolerance</key>
+	<string>difficultLinker</string>
+	<key>matrixDelay</key>
+	<string>overrideFuture</string>
+</dict>
+</plist>

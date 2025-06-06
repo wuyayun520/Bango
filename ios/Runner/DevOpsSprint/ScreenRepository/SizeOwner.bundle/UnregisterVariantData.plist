@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMedia</key>
+	<string>diffableresponse</string>
+	<key>capsuleorientation</key>
+	<string>canShowMaterial</string>
+	<key>chartvariabletransparency</key>
+	<string>shouldSetStateBox</string>
+	<key>conformaspectratio</key>
+	<string>gestureDensity</string>
+	<key>particleplatformright</key>
+	<string>mountedConstraint</string>
+	<key>receivegate</key>
+	<string>shouldSetStateAspectRatio</string>
+	<key>textureBehavior</key>
+	<string>unactivatedMenu</string>
+</dict>
+</plist>

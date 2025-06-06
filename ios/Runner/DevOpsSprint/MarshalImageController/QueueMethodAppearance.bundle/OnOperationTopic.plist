@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateMargin</key>
+	<string>canReplaceTabBar</string>
+	<key>graphicBorder</key>
+	<string>callbackTier</string>
+	<key>materialappearance</key>
+	<string>documentVar</string>
+	<key>mountwidget</key>
+	<string>threadVisitor</string>
+	<key>shouldFetchSpot</key>
+	<string>activeAmortization</string>
+	<key>shouldSetStateMonster</key>
+	<string>viewbyflyweight</string>
+	<key>usecaseSaturation</key>
+	<string>nodeProxy</string>
+</dict>
+</plist>

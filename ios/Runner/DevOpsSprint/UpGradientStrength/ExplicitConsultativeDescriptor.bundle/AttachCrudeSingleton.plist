@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateatplatform</key>
+	<string>shouldDisposeScreen</string>
+	<key>criticalTexture</key>
+	<string>unsortedHeap</string>
+	<key>defaultObserver</key>
+	<string>numericalSprite</string>
+	<key>directSine</key>
+	<string>shouldListenBorder</string>
+	<key>disabledOperation</key>
+	<string>canRestartSpot</string>
+	<key>easyCycle</key>
+	<string>keyNotifier</string>
+	<key>entropyCenter</key>
+	<string>cacheVar</string>
+	<key>queuebehavior</key>
+	<string>exceptionVisitor</string>
+	<key>symbolcontainstyle</key>
+	<string>cupertinoEnvironment</string>
+	<key>taskstatus</key>
+	<string>swiftnavigator</string>
+</dict>
+</plist>

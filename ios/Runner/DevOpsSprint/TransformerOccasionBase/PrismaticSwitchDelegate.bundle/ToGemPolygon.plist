@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineForce</key>
+	<string>awaitInset</string>
+	<key>difficultDetector</key>
+	<string>projectionimage</string>
+	<key>immediateProvider</key>
+	<string>advancedSemantics</string>
+	<key>missedmodulustail</key>
+	<string>logState</string>
+	<key>reactiveLayout</key>
+	<string>stampVariable</string>
+	<key>respectivepetappearance</key>
+	<string>inactivebuffer</string>
+	<key>reusableSound</key>
+	<string>shouldKeepListView</string>
+	<key>similarTolerance</key>
+	<string>parsezone</string>
+	<key>tickerFeedback</key>
+	<string>featureopacity</string>
+	<key>titlemetrics</key>
+	<string>controllerprototypestatus</string>
+</dict>
+</plist>

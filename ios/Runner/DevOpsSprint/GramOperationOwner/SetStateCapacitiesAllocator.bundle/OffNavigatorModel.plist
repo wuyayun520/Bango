@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticScaffold</key>
+	<string>emitProvider</string>
+	<key>chartinteraction</key>
+	<string>colorflags</string>
+	<key>iterativeRouter</key>
+	<string>cacheModal</string>
+	<key>prevVector</key>
+	<string>shouldStartTextField</string>
+	<key>subscribername</key>
+	<string>reusableException</string>
+	<key>tappableRadius</key>
+	<string>rapidheroright</string>
+</dict>
+</plist>

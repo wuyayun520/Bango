@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryLeft</key>
+	<string>persistentRectangle</string>
+	<key>dynamicOverlay</key>
+	<string>diversifiedAspectRatio</string>
+	<key>equalizationVelocity</key>
+	<string>methodCenter</string>
+	<key>euclideanreducer</key>
+	<string>basicCapacities</string>
+	<key>multiScheduler</key>
+	<string>canvasFacade</string>
+	<key>operationsincevariable</key>
+	<string>shouldSerializeDropdownButton</string>
+	<key>requiredsine</key>
+	<string>shouldProcessInstruction</string>
+	<key>selectorIndex</key>
+	<string>concretePrecision</string>
+</dict>
+</plist>

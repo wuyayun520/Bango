@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticGram</key>
+	<string>ephemeralEffect</string>
+	<key>ephemeralTechnique</key>
+	<string>configurationActivity</string>
+	<key>managertop</key>
+	<string>mountedSymbol</string>
+	<key>subsequentTraversal</key>
+	<string>tweakFlags</string>
+</dict>
+</plist>

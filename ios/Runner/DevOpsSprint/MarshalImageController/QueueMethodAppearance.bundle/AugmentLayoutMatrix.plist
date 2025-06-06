@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedSorter</key>
+	<string>remainderAppearance</string>
+	<key>labelphaseinset</key>
+	<string>brushscopetail</string>
+	<key>sequentialCycle</key>
+	<string>symmetricMap</string>
+	<key>sortedRestriction</key>
+	<string>connectAccessory</string>
+	<key>viewkind</key>
+	<string>rapidtext</string>
+</dict>
+</plist>

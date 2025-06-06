@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggablecache</key>
+	<string>smallMaster</string>
+	<key>ephemeralTouch</key>
+	<string>spotPhase</string>
+	<key>originalcollectionlocation</key>
+	<string>stackShade</string>
+	<key>shouldAttachExpanded</key>
+	<string>canValidatePadding</string>
+	<key>shouldSaveCaption</key>
+	<string>activityservice</string>
+</dict>
+</plist>

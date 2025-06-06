@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatecontroller</key>
+	<string>fixedCharacter</string>
+	<key>cosineVisible</key>
+	<string>activatedAsync</string>
+	<key>curveorcomposite</key>
+	<string>componentTransparency</string>
+	<key>elasticBinder</key>
+	<string>smallBandwidth</string>
+	<key>lockticker</key>
+	<string>enabledreducer</string>
+	<key>respectivebuilderinterval</key>
+	<string>effectJob</string>
+	<key>semanticTime</key>
+	<string>webSound</string>
+	<key>visibleChooser</key>
+	<string>shouldCreateMedia</string>
+</dict>
+</plist>

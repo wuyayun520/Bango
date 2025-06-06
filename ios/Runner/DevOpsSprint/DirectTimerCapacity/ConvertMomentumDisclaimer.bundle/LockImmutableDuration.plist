@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureSaturation</key>
+	<string>shouldPersistMomentum</string>
+	<key>consumptionBehavior</key>
+	<string>moduleLeft</string>
+	<key>descriptorContrast</key>
+	<string>geometricCurve</string>
+	<key>opaqueVideo</key>
+	<string>detachResponse</string>
+	<key>polyfillDepth</key>
+	<string>sinkTail</string>
+	<key>singleVariant</key>
+	<string>bindSignature</string>
+	<key>synchronousView</key>
+	<string>documentexception</string>
+	<key>typicalIntegrity</key>
+	<string>textfieldSingleton</string>
+</dict>
+</plist>

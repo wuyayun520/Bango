@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationlistener</key>
+	<string>shouldFetchSizedBox</string>
+	<key>binderBound</key>
+	<string>pageviewCommand</string>
+	<key>converterTheme</key>
+	<string>synchronousResult</string>
+	<key>intuitivefeature</key>
+	<string>inkwellOrientation</string>
+	<key>sustainableAnchor</key>
+	<string>roleorientation</string>
+</dict>
+</plist>

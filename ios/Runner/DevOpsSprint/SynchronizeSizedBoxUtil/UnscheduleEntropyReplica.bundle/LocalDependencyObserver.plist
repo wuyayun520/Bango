@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedScene</key>
+	<string>handleasync</string>
+	<key>asynchronousUnary</key>
+	<string>hardEntropy</string>
+	<key>concreteSlider</key>
+	<string>dialogsmomentum</string>
+	<key>cupertinoAwait</key>
+	<string>floatIsolate</string>
+	<key>drawervarinset</key>
+	<string>synchronousGrayscale</string>
+	<key>expandedStatus</key>
+	<string>granularBandwidth</string>
+	<key>interpolationCenter</key>
+	<string>shouldPushDrawer</string>
+	<key>nibstate</key>
+	<string>constraintcenter</string>
+	<key>observenotification</key>
+	<string>captionInterpreter</string>
+</dict>
+</plist>

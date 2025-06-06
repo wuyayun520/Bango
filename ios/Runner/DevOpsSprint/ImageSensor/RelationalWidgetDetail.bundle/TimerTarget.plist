@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerBehavior</key>
+	<string>optimizerPattern</string>
+	<key>coordinatorslider</key>
+	<string>sensorimage</string>
+	<key>inheritedstep</key>
+	<string>shouldPrepareInkWell</string>
+	<key>parallelStateful</key>
+	<string>sceneSystem</string>
+	<key>shouldPrepareOperation</key>
+	<string>localChapter</string>
+	<key>statefulpressure</key>
+	<string>detectorBehavior</string>
+</dict>
+</plist>

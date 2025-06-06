@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediatelayout</key>
+	<string>eraseRoute</string>
+	<key>iterativePainter</key>
+	<string>permanentSelector</string>
+	<key>oldView</key>
+	<string>draggableGesture</string>
+	<key>previewOrientation</key>
+	<string>defaultpoint</string>
+	<key>shouldDecodeSign</key>
+	<string>usageHue</string>
+</dict>
+</plist>

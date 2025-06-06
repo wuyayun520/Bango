@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorVisibility</key>
+	<string>binaryAdapter</string>
+	<key>bandwidthMomentum</key>
+	<string>hardFragments</string>
+	<key>configureanimation</key>
+	<string>joineredge</string>
+	<key>displayablesigninset</key>
+	<string>reusableAspect</string>
+	<key>elasticmethodindex</key>
+	<string>overridefeature</string>
+	<key>shouldPauseActivity</key>
+	<string>streamlineLoop</string>
+	<key>unsortednoderate</key>
+	<string>navigatorFramework</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableOffset</key>
+	<string>tensorTangent</string>
+	<key>easyBaseline</key>
+	<string>significantScroll</string>
+	<key>fusedReceiver</key>
+	<string>statelessCompleter</string>
+	<key>requiredTween</key>
+	<string>clipLabel</string>
+	<key>shouldNotifyTransition</key>
+	<string>selectedDialogs</string>
+	<key>shouldnavigatethread</key>
+	<string>conformAnimation</string>
+</dict>
+</plist>

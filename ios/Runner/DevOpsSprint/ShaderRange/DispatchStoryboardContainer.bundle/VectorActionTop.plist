@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateTransition</key>
+	<string>adjustStorage</string>
+	<key>functionalStoryboard</key>
+	<string>shouldFinishGift</string>
+	<key>isClipper</key>
+	<string>detachMovement</string>
+	<key>pinchableSegue</key>
+	<string>grouprecursion</string>
+	<key>shouldPresentDrawer</key>
+	<string>respectiveButton</string>
+	<key>subscribesizedbox</key>
+	<string>durationcontextmargin</string>
+	<key>taskKind</key>
+	<string>canFinishChecklist</string>
+	<key>unsortedfactory</key>
+	<string>startBitrate</string>
+</dict>
+</plist>

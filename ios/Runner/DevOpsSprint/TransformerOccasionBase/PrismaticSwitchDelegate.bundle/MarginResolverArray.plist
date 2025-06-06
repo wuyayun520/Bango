@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionTransparency</key>
+	<string>hashstyle</string>
+	<key>curveAppearance</key>
+	<string>statusDirection</string>
+	<key>intensityDistance</key>
+	<string>significantReceiver</string>
+	<key>lostPlayback</key>
+	<string>canResumeDropdownButton</string>
+	<key>pageviewSpacing</key>
+	<string>profiletaskleft</string>
+	<key>popupTint</key>
+	<string>marshalPopup</string>
+	<key>positiondistance</key>
+	<string>nextProjection</string>
+	<key>previewforce</key>
+	<string>multiEvent</string>
+	<key>shouldUnbindCube</key>
+	<string>customizedlabel</string>
+</dict>
+</plist>

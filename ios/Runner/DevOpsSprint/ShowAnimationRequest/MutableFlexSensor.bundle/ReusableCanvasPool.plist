@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratetail</key>
+	<string>resizableEvaluation</string>
+	<key>cardinfo</key>
+	<string>converterAppearance</string>
+	<key>cupertinoDelegate</key>
+	<string>usedBuffer</string>
+	<key>embedtexture</key>
+	<string>canDisconnectSpot</string>
+	<key>filterinterval</key>
+	<string>globalIntegrity</string>
+	<key>inheritedpolyfill</key>
+	<string>flexcoord</string>
+	<key>permissiveContrast</key>
+	<string>integerTransparency</string>
+	<key>servicestatus</key>
+	<string>dropdownbuttonDecorator</string>
+</dict>
+</plist>

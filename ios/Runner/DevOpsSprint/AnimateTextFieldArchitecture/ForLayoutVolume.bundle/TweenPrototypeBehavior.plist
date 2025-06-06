@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistsingleton</key>
+	<string>fetchduration</string>
+	<key>disabledInterface</key>
+	<string>titleedge</string>
+	<key>flexibleMaterial</key>
+	<string>inflateinjection</string>
+	<key>globalBitrate</key>
+	<string>animatorFrequency</string>
+	<key>layoutconnector</key>
+	<string>canPushDuration</string>
+	<key>popupascent</key>
+	<string>sequentialProfile</string>
+	<key>queueoccasion</key>
+	<string>replicaShape</string>
+	<key>resolverAcceleration</key>
+	<string>searcherOrientation</string>
+	<key>threadstatus</key>
+	<string>fusedRadius</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintBound</key>
+	<string>localFragment</string>
+	<key>difficultThroughput</key>
+	<string>shouldPaintAperture</string>
+	<key>disparateTabBar</key>
+	<string>strokeBorder</string>
+	<key>geometricStamp</key>
+	<string>initializeoptimizer</string>
+	<key>haslayout</key>
+	<string>controllerleft</string>
+	<key>iconmenu</key>
+	<string>statefulScene</string>
+	<key>lostRestriction</key>
+	<string>shouldConnectShader</string>
+	<key>progressbarBehavior</key>
+	<string>marshalVector</string>
+	<key>standalonegroup</key>
+	<string>canUnbindMaster</string>
+	<key>tappableGraph</key>
+	<string>gesturedetectorHead</string>
+</dict>
+</plist>

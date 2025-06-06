@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionshapedelay</key>
+	<string>seamlessChart</string>
+	<key>integerSpeed</key>
+	<string>enumerateRect</string>
+	<key>streamfeature</key>
+	<string>restartCheckbox</string>
+	<key>videooffset</key>
+	<string>compositionalSink</string>
+</dict>
+</plist>

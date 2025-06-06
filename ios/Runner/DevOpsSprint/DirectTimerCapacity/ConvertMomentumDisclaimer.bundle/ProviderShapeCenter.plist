@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorScale</key>
+	<string>draggableStack</string>
+	<key>fragmentHead</key>
+	<string>canRestartBox</string>
+	<key>greatAperture</key>
+	<string>intensityoutsidestrategy</string>
+	<key>nextcontainerforce</key>
+	<string>canNotifyAccessory</string>
+	<key>skinIndex</key>
+	<string>mountDecoration</string>
+	<key>streamSkewX</key>
+	<string>crudeMedia</string>
+	<key>tensorFormat</key>
+	<string>searchObserver</string>
+	<key>zoneDensity</key>
+	<string>deferredLocalization</string>
+</dict>
+</plist>

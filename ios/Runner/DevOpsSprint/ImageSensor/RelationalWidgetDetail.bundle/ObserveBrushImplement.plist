@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultSignature</key>
+	<string>sortedCatalyst</string>
+	<key>immutableanimation</key>
+	<string>shouldDispatchGrayscale</string>
+	<key>unactivatedUnary</key>
+	<string>nibSaturation</string>
+	<key>unbindloop</key>
+	<string>integerAcceleration</string>
+</dict>
+</plist>

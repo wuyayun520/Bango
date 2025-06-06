@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticobserver</key>
+	<string>shouldUpdateFuture</string>
+	<key>flexiblePopup</key>
+	<string>intuitiveCheckbox</string>
+	<key>invisiblecontractionbrightness</key>
+	<string>associatedcurve</string>
+	<key>managerSkewX</key>
+	<string>optimizerVisitor</string>
+	<key>provisionTheme</key>
+	<string>lastinterpolation</string>
+	<key>retainedMonster</key>
+	<string>seekStore</string>
+	<key>seamlessConverter</key>
+	<string>unsortedisolateborder</string>
+	<key>tangentvarspacing</key>
+	<string>uniqueTabView</string>
+</dict>
+</plist>

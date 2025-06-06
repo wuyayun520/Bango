@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorEdge</key>
+	<string>shouldUnmountedInstruction</string>
+	<key>greatTopic</key>
+	<string>shouldResumeMatrix</string>
+	<key>hyperbolicrectacceleration</key>
+	<string>hyperbolicDuration</string>
+	<key>layoutmementosaturation</key>
+	<string>primaryAction</string>
+	<key>priorSample</key>
+	<string>delegateprototypecolor</string>
+	<key>semanticAction</key>
+	<string>temporaryComposition</string>
+	<key>singleDialogs</key>
+	<string>visibleTolerance</string>
+	<key>usedAscent</key>
+	<string>zoneMode</string>
+	<key>widgetalongcontext</key>
+	<string>canDeserializeMission</string>
+</dict>
+</plist>

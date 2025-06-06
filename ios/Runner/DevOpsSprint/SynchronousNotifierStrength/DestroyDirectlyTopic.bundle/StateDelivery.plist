@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableContrast</key>
+	<string>canProcessGram</string>
+	<key>mediocreNotation</key>
+	<string>advancedGrayscale</string>
+	<key>notationSpeed</key>
+	<string>selectedCharacter</string>
+	<key>otherSprite</key>
+	<string>overridePresenter</string>
+	<key>remediationShade</key>
+	<string>architectureOrientation</string>
+	<key>scopeSkewX</key>
+	<string>iconCommand</string>
+	<key>shouldDismissTernary</key>
+	<string>shouldinflatelayout</string>
+	<key>shouldSaveGradient</key>
+	<string>directStorage</string>
+	<key>tappableComponent</key>
+	<string>prevMomentum</string>
+</dict>
+</plist>

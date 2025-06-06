@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoStep</key>
+	<string>keepFlex</string>
+	<key>compositionalDrawer</key>
+	<string>toleranceBehavior</string>
+	<key>endcolumn</key>
+	<string>emitexpanded</string>
+	<key>granularchannel</key>
+	<string>graphicMediator</string>
+	<key>providertraversal</key>
+	<string>declarativeResponse</string>
+	<key>richtextanimator</key>
+	<string>converterDirection</string>
+	<key>significantVertex</key>
+	<string>canPopCatalyst</string>
+	<key>swiftmanager</key>
+	<string>rebuildSpecifier</string>
+</dict>
+</plist>

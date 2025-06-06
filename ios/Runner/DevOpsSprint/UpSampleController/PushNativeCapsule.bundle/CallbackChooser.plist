@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarValidation</key>
+	<string>observerCenter</string>
+	<key>appbarmodestyle</key>
+	<string>mediumResource</string>
+	<key>blocimage</key>
+	<string>poolCoordinator</string>
+	<key>checkboxlikestyle</key>
+	<string>independentTechnique</string>
+	<key>concurrentEqualization</key>
+	<string>concurrentDescription</string>
+	<key>independentCell</key>
+	<string>findSink</string>
+	<key>meshInset</key>
+	<string>cosineTail</string>
+	<key>reducerconverter</key>
+	<string>triggerScale</string>
+</dict>
+</plist>

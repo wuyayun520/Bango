@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileScroller</key>
+	<string>cartesianCompleter</string>
+	<key>audiocenter</key>
+	<string>onblocchanged</string>
+	<key>basicRichText</key>
+	<string>immediateWidget</string>
+	<key>delegateOpacity</key>
+	<string>inkwellfactory</string>
+	<key>isMusic</key>
+	<string>hardConsumption</string>
+	<key>popupvisible</key>
+	<string>dependencyBuffer</string>
+	<key>remainderContrast</key>
+	<string>nibcoord</string>
+	<key>shouldObserveDimension</key>
+	<string>threadVariable</string>
+</dict>
+</plist>

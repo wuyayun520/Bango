@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheedge</key>
+	<string>delicateWidget</string>
+	<key>channeltail</key>
+	<string>gestureChain</string>
+	<key>denseConfiguration</key>
+	<string>formatBuilder</string>
+	<key>enabledSpine</key>
+	<string>smartCurve</string>
+	<key>memberstate</key>
+	<string>hashoperationkind</string>
+	<key>multiRenderer</key>
+	<string>stateActivity</string>
+	<key>observebox</key>
+	<string>standaloneTime</string>
+	<key>shouldCreateMap</key>
+	<string>shouldRestartRoute</string>
+	<key>usedActivity</key>
+	<string>layoutUnary</string>
+</dict>
+</plist>

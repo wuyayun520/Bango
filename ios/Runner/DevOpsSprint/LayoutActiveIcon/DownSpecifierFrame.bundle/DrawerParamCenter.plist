@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorright</key>
+	<string>prepareGem</string>
+	<key>isolateAppearance</key>
+	<string>unmountedNotifier</string>
+	<key>priorStoryboard</key>
+	<string>ephemeralStack</string>
+	<key>repositoryInteraction</key>
+	<string>uniqueTrajectory</string>
+	<key>rowrect</key>
+	<string>builderthanactivity</string>
+</dict>
+</plist>

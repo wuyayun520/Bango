@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonMomentum</key>
+	<string>paintercontainer</string>
+	<key>defaultMap</key>
+	<string>characterProxy</string>
+	<key>eagerStore</key>
+	<string>rectStatus</string>
+	<key>errorStyle</key>
+	<string>mediocreCube</string>
+	<key>handlelistener</key>
+	<string>evolutionDirection</string>
+	<key>hasfragment</key>
+	<string>combinerValidation</string>
+	<key>intuitivemomentum</key>
+	<string>selectedgram</string>
+	<key>operationrequest</key>
+	<string>diversifiedCell</string>
+	<key>subsequentResolver</key>
+	<string>resumerect</string>
+	<key>taskpadding</key>
+	<string>multiAspect</string>
+</dict>
+</plist>

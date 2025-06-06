@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMusic</key>
+	<string>utilspacing</string>
+	<key>dispatcherLeft</key>
+	<string>informationDirection</string>
+	<key>featuredrawer</key>
+	<string>validatebuffer</string>
+	<key>independentInstruction</key>
+	<string>bitrateType</string>
+	<key>nibstate</key>
+	<string>rapidStatus</string>
+	<key>shouldDeserializeEqualization</key>
+	<string>shouldCreateCapacities</string>
+	<key>stampDelay</key>
+	<string>hierarchicalCaption</string>
+	<key>trajectoryTransparency</key>
+	<string>canDetachLog</string>
+</dict>
+</plist>

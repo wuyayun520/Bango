@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSink</key>
+	<string>largeMetrics</string>
+	<key>deferredcardsize</key>
+	<string>resizableChapter</string>
+	<key>eagerImage</key>
+	<string>mainModulus</string>
+	<key>positionedFeedback</key>
+	<string>canDispatchStateless</string>
+	<key>resilientInformation</key>
+	<string>instructionDepth</string>
+	<key>shouldNotifyBuilder</key>
+	<string>fusedconsumer</string>
+	<key>soundtint</key>
+	<string>symbolmethod</string>
+	<key>visibleCell</key>
+	<string>canTransitionDrawer</string>
+</dict>
+</plist>

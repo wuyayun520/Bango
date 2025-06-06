@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchoroutsidevalue</key>
+	<string>subpixelCycle</string>
+	<key>embracesizedbox</key>
+	<string>canPushSpine</string>
+	<key>grayscaleBrightness</key>
+	<string>canReplaceSine</string>
+	<key>mobileTriangles</key>
+	<string>independentLatency</string>
+	<key>pageviewtransition</key>
+	<string>onherochanged</string>
+	<key>scaffoldchannel</key>
+	<string>canProcessPet</string>
+	<key>shouldstartprojection</key>
+	<string>shouldResumeSegment</string>
+	<key>visualizedrawer</key>
+	<string>litethreadfrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousFlex</key>
+	<string>easyparticlecount</string>
+	<key>buildercapacity</key>
+	<string>yieldBatch</string>
+	<key>denseConstant</key>
+	<string>quantizationradius</string>
+	<key>monsterLeft</key>
+	<string>fusedSound</string>
+	<key>resilientHeap</key>
+	<string>animationBehavior</string>
+	<key>shouldDeserializeEqualization</key>
+	<string>animatedcontainerVisitor</string>
+	<key>uniqueVector</key>
+	<string>pushInjection</string>
+</dict>
+</plist>

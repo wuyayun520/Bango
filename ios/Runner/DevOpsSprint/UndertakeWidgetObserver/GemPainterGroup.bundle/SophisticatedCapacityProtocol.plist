@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityBound</key>
+	<string>repositoryanimator</string>
+	<key>checklistBottom</key>
+	<string>fillGraph</string>
+	<key>defaultOption</key>
+	<string>opaqueanimation</string>
+	<key>disparatetickertop</key>
+	<string>shouldDisposeSkirt</string>
+	<key>factorytint</key>
+	<string>axisreducer</string>
+	<key>liteShape</key>
+	<string>newestBehavior</string>
+	<key>mapDistance</key>
+	<string>shouldTransitionMovement</string>
+	<key>replacetext</key>
+	<string>concatenateBloc</string>
+	<key>tabbarShape</key>
+	<string>eagerrichtext</string>
+</dict>
+</plist>

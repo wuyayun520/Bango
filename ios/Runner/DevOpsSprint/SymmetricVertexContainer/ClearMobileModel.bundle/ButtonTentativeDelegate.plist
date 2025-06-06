@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mutableJoiner</key>
+	<string>isolateKind</string>
+	<key>mutableRemainder</key>
+	<string>shouldInflateContainer</string>
+	<key>oldVector</key>
+	<string>resolvedependency</string>
+	<key>positionDelay</key>
+	<string>restartCheckbox</string>
+	<key>previewawaystructure</key>
+	<string>showrequest</string>
+</dict>
+</plist>

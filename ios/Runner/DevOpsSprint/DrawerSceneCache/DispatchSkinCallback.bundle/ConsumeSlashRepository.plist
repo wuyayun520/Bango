@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryCenter</key>
+	<string>sessionAcceleration</string>
+	<key>methodFlags</key>
+	<string>displayableInterface</string>
+	<key>prevlistview</key>
+	<string>completionParam</string>
+	<key>rapidmobilealignment</key>
+	<string>particleMomentum</string>
+	<key>subpixelPadding</key>
+	<string>prepareProtocol</string>
+	<key>usageLeft</key>
+	<string>transpileCoordinator</string>
+</dict>
+</plist>

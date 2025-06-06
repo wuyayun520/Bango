@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletview</key>
+	<string>multiStateless</string>
+	<key>ephemeralActivity</key>
+	<string>arithmeticGraphic</string>
+	<key>fusedInstruction</key>
+	<string>pendingLog</string>
+	<key>prevTheme</key>
+	<string>scrollerContrast</string>
+	<key>reusableProjection</key>
+	<string>webequipment</string>
+	<key>seamlessspine</key>
+	<string>precisionframe</string>
+	<key>shouldLayoutProvider</key>
+	<string>invisibleFlex</string>
+</dict>
+</plist>

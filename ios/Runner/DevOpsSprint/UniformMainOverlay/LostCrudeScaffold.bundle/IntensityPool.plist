@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTask</key>
+	<string>rapidStorage</string>
+	<key>dismissmedia</key>
+	<string>labeldispatcher</string>
+	<key>gesturedetectordensity</key>
+	<string>sequentialoperation</string>
+	<key>similarTraversal</key>
+	<string>substantialInteraction</string>
+	<key>throughputSpeed</key>
+	<string>shouldunbindloss</string>
+</dict>
+</plist>

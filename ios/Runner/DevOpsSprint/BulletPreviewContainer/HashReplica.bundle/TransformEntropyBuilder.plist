@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveFragments</key>
+	<string>desktopListener</string>
+	<key>interactiveCustomPaint</key>
+	<string>syncHandler</string>
+	<key>primarycard</key>
+	<string>resumeBatch</string>
+	<key>radiusoperationinterval</key>
+	<string>granularChart</string>
+	<key>shouldNavigateSwitch</key>
+	<string>generateLayer</string>
+</dict>
+</plist>

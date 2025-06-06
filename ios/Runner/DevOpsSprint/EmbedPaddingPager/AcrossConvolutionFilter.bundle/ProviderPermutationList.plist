@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistalongtask</key>
+	<string>basicOptimizer</string>
+	<key>pickervisible</key>
+	<string>transformCard</string>
+	<key>responsiveDelegate</key>
+	<string>reusableEvaluation</string>
+	<key>shouldCancelView</key>
+	<string>custompaintspacing</string>
+	<key>shouldParseEffect</key>
+	<string>compilemediaquery</string>
+	<key>shouldProcessClipper</key>
+	<string>hyperbolicProvision</string>
+	<key>shouldnavigatedropdownbutton</key>
+	<string>backwardCupertino</string>
+</dict>
+</plist>

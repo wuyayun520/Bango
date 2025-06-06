@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTheme</key>
+	<string>resizableradius</string>
+	<key>consultativeAwait</key>
+	<string>encodeBullet</string>
+	<key>disconnecterror</key>
+	<string>spinecompleter</string>
+	<key>nextVertex</key>
+	<string>canCancelPromise</string>
+	<key>referenceinset</key>
+	<string>materialMechanism</string>
+	<key>shouldConnectAnchor</key>
+	<string>smallpolyfill</string>
+	<key>shouldNotifyCertificate</key>
+	<string>operationDistance</string>
+	<key>tensorChapter</key>
+	<string>responseSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorinterval</key>
+	<string>graphtension</string>
+	<key>consultativeDescriptor</key>
+	<string>canPaintGesture</string>
+	<key>descriptorCenter</key>
+	<string>registerPresenter</string>
+	<key>logSkewX</key>
+	<string>canPresentAlert</string>
+	<key>newestAnalogy</key>
+	<string>respectiveanimatedcontainername</string>
+	<key>shouldValidateInstruction</key>
+	<string>shouldSubscribeTabView</string>
+	<key>shouldmountedsemantics</key>
+	<string>seamlessMatrix</string>
+</dict>
+</plist>

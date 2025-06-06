@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedSubpixel</key>
+	<string>adaptiveInteraction</string>
+	<key>disabledMusic</key>
+	<string>graphPressure</string>
+	<key>hierarchicalinformation</key>
+	<string>semanticRadio</string>
+	<key>largeEffect</key>
+	<string>missedWidget</string>
+	<key>persistalert</key>
+	<string>navigationCount</string>
+	<key>pinchableException</key>
+	<string>shouldPrepareEntropy</string>
+	<key>resourcecoord</key>
+	<string>adjustPresenter</string>
+	<key>scaleparticle</key>
+	<string>certificatemapper</string>
+</dict>
+</plist>

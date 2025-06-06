@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLatency</key>
+	<string>captionDirection</string>
+	<key>coordinatorcount</key>
+	<string>catalystAppearance</string>
+	<key>disclaimertype</key>
+	<string>canListenCoordinator</string>
+	<key>draggableEfficiency</key>
+	<string>normalResponse</string>
+	<key>oncyclechanged</key>
+	<string>localSpot</string>
+	<key>routeDelay</key>
+	<string>materializeBuilder</string>
+	<key>semanticColumn</key>
+	<string>canFetchCheckbox</string>
+</dict>
+</plist>

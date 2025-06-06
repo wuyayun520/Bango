@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeVector</key>
+	<string>shouldPushMediaQuery</string>
+	<key>draggableShader</key>
+	<string>canPublishSegment</string>
+	<key>explicitScheduler</key>
+	<string>scrollInset</string>
+	<key>notifytable</key>
+	<string>mobileternary</string>
+	<key>resourceawayshape</key>
+	<string>invisibleSlash</string>
+	<key>shouldSubscribeVariant</key>
+	<string>navigateGradient</string>
+	<key>subsequentScale</key>
+	<string>primaryDescriptor</string>
+	<key>tangentFormat</key>
+	<string>shouldUpdateEquipment</string>
+	<key>touchDelay</key>
+	<string>sessionAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStyle</key>
+	<string>layoutmodel</string>
+	<key>inactiveEvolution</key>
+	<string>symmetricHash</string>
+	<key>intermediateRect</key>
+	<string>disabledAsync</string>
+	<key>newestoffsettint</key>
+	<string>shouldNotifyGem</string>
+	<key>painterOpacity</key>
+	<string>canCancelBorder</string>
+	<key>statefulDelegate</key>
+	<string>canMountedAppBar</string>
+	<key>stateinsideaction</key>
+	<string>viewParameter</string>
+	<key>visibleInteraction</key>
+	<string>multiSignature</string>
+</dict>
+</plist>

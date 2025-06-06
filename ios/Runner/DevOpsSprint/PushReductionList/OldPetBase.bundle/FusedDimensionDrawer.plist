@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerelasticity</key>
+	<string>batchAction</string>
+	<key>dependencyamongbuffer</key>
+	<string>skinscale</string>
+	<key>receiverforce</key>
+	<string>mediaqueryBorder</string>
+	<key>shouldUnbindBase</key>
+	<string>loadMaterial</string>
+	<key>shouldfetchmonster</key>
+	<string>shouldCacheEntropy</string>
+	<key>streamPosition</key>
+	<string>advancedConfidentiality</string>
+</dict>
+</plist>

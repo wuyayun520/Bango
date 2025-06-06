@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGroup</key>
+	<string>shouldCreateController</string>
+	<key>beginnerSplitter</key>
+	<string>shouldListenProfile</string>
+	<key>behaviorFormat</key>
+	<string>streamDuration</string>
+	<key>endrow</key>
+	<string>scrollableScheduler</string>
+	<key>graphicbridgepadding</key>
+	<string>allocatorType</string>
+	<key>nodeinoperation</key>
+	<string>animatetask</string>
+	<key>objectAcceleration</key>
+	<string>radioScope</string>
+	<key>radiustaxonomy</key>
+	<string>prevJoiner</string>
+	<key>semanticTriangles</key>
+	<string>shouldSubscribeBehavior</string>
+	<key>smallSlider</key>
+	<string>priorAppBar</string>
+</dict>
+</plist>

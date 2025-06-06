@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultprojection</key>
+	<string>shouldPushAnimatedContainer</string>
+	<key>ephemeralParticle</key>
+	<string>symmetricrect</string>
+	<key>exceptionDirection</key>
+	<string>requestsegment</string>
+	<key>shouldSetStateAnchor</key>
+	<string>mediocreAppBar</string>
+</dict>
+</plist>

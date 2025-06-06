@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDelegate</key>
+	<string>regulateVector</string>
+	<key>currentreliability</key>
+	<string>canUnbindEquipment</string>
+	<key>deferredWrapper</key>
+	<string>fragmentintask</string>
+	<key>limitstore</key>
+	<string>convertChannel</string>
+	<key>oldScroller</key>
+	<string>defaultinkwell</string>
+	<key>screenappearance</key>
+	<string>activeAnalyzer</string>
+	<key>viewsystemfrequency</key>
+	<string>othertickerbehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzervisibility</key>
+	<string>cursorActivity</string>
+	<key>drawsubpixel</key>
+	<string>sortedRichText</string>
+	<key>navigatechart</key>
+	<string>shouldDeserializeNotification</string>
+	<key>notationKind</key>
+	<string>canRebuildSession</string>
+	<key>statefulLabel</key>
+	<string>makeStore</string>
+	<key>substantialrouter</key>
+	<string>bitrateLevel</string>
+</dict>
+</plist>

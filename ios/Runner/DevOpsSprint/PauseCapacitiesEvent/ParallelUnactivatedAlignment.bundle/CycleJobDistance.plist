@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionevaluation</key>
+	<string>canObserveVariant</string>
+	<key>crucialObserver</key>
+	<string>elasticPopup</string>
+	<key>customizedShader</key>
+	<string>canRouteTextField</string>
+	<key>draggableprioritydepth</key>
+	<string>endtransition</string>
+	<key>explicitAnalogy</key>
+	<string>transitionSkirt</string>
+	<key>remediationColor</key>
+	<string>disconnectProfile</string>
+	<key>secondRow</key>
+	<string>canAnimateOption</string>
+	<key>uniqueGesture</key>
+	<string>momentumbeyondprocess</string>
+</dict>
+</plist>

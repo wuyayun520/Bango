@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleappbarorigin</key>
+	<string>responsiveReceiver</string>
+	<key>imageoffset</key>
+	<string>mediocreLatency</string>
+	<key>localloader</key>
+	<string>bindChannels</string>
+	<key>maptypeformat</key>
+	<string>textureOrigin</string>
+	<key>otherAspect</key>
+	<string>canSerializeMaterial</string>
+	<key>quaternionSpeed</key>
+	<string>vertexSaturation</string>
+	<key>reusableTime</key>
+	<string>handlerSaturation</string>
+	<key>shouldNavigateCoordinator</key>
+	<string>seamlessPadding</string>
+	<key>shouldParseMusic</key>
+	<string>typicalTouch</string>
+</dict>
+</plist>

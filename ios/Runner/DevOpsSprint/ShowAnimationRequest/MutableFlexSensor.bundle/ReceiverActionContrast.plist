@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchBrightness</key>
+	<string>desktopPopup</string>
+	<key>characteristicCount</key>
+	<string>shouldStreamAnchor</string>
+	<key>concurrentinterpolationshape</key>
+	<string>nativeDetector</string>
+	<key>lastScope</key>
+	<string>navigateSignature</string>
+	<key>oldcallback</key>
+	<string>numericalCertificate</string>
+	<key>positionvelocity</key>
+	<string>intermediateCubit</string>
+	<key>resizableTentative</key>
+	<string>maintweenbound</string>
+	<key>shouldPopAnimation</key>
+	<string>advancedMend</string>
+</dict>
+</plist>

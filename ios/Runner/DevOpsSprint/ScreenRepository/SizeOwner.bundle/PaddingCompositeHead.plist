@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedReceiver</key>
+	<string>optimizeskirt</string>
+	<key>containerdepth</key>
+	<string>independentConsumer</string>
+	<key>immutableAspectRatio</key>
+	<string>euclideanProvider</string>
+	<key>multiplystoryboard</key>
+	<string>symmetricRadius</string>
+	<key>publisherbehavior</key>
+	<string>cancelstoryboard</string>
+	<key>schedulecupertino</key>
+	<string>shouldEmitArithmetic</string>
+	<key>streamlineindicator</key>
+	<string>sustainableAspect</string>
+	<key>tabbarDelay</key>
+	<string>consultativeEfficiency</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveModulus</key>
+	<string>synchronousScenario</string>
+	<key>backwardAlignment</key>
+	<string>shouldDeserializeMovement</string>
+	<key>behaviorTransparency</key>
+	<string>trainScale</string>
+	<key>requestBottom</key>
+	<string>keepTechnique</string>
+	<key>resizableTabView</key>
+	<string>adaptiveAxis</string>
+	<key>slashRate</key>
+	<string>sorterCount</string>
+</dict>
+</plist>

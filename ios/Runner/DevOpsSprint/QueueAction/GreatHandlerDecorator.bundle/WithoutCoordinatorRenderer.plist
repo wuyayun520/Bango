@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianmultiplicationrotation</key>
+	<string>schedulerDepth</string>
+	<key>directButton</key>
+	<string>logRate</string>
+	<key>euclideanAllocator</key>
+	<string>mobilePoint</string>
+	<key>routestrategytension</key>
+	<string>globalResponder</string>
+	<key>scrollRight</key>
+	<string>pinchableView</string>
+	<key>themedensity</key>
+	<string>offsetIsolate</string>
+</dict>
+</plist>

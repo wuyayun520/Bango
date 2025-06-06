@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryresponse</key>
+	<string>errorPressure</string>
+	<key>apertureColor</key>
+	<string>displayableDimension</string>
+	<key>cupertinoTraversal</key>
+	<string>cycleobserverdistance</string>
+	<key>dynamicInterpolation</key>
+	<string>shouldUnmountDelegate</string>
+	<key>servicecoord</key>
+	<string>disconnectmodal</string>
+	<key>shouldListenChecklist</key>
+	<string>shouldNavigateMap</string>
+	<key>toolStyle</key>
+	<string>difficultNotification</string>
+	<key>vectorKind</key>
+	<string>baseDepth</string>
+</dict>
+</plist>

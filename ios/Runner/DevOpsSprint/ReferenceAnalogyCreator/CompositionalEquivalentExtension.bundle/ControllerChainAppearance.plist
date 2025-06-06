@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisPadding</key>
+	<string>crudeSymbol</string>
+	<key>beginnerButton</key>
+	<string>canEncodeCursor</string>
+	<key>discardedFormat</key>
+	<string>orchestrateGrain</string>
+	<key>independentStamp</key>
+	<string>shouldPublishFuture</string>
+	<key>missedprovider</key>
+	<string>decodePrecision</string>
+	<key>otherMend</key>
+	<string>canValidateAxis</string>
+	<key>petLocation</key>
+	<string>keyRange</string>
+	<key>resourceproxystatus</key>
+	<string>decodeSample</string>
+	<key>scrollerSpeed</key>
+	<string>canSerializeCapacities</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableDependency</key>
+	<string>schematag</string>
+	<key>inheritedExponent</key>
+	<string>concreteExponent</string>
+	<key>listviewaboutprototype</key>
+	<string>signstate</string>
+	<key>loopOrientation</key>
+	<string>nibCount</string>
+	<key>overlaymechanism</key>
+	<string>combineAction</string>
+	<key>staticBloc</key>
+	<string>canDecodeGraphic</string>
+</dict>
+</plist>

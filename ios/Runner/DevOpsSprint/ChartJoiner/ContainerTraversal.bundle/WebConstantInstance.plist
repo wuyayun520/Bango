@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyScale</key>
+	<string>presentaction</string>
+	<key>entityscopetint</key>
+	<string>notifyRole</string>
+	<key>expandedName</key>
+	<string>granularHeap</string>
+	<key>respectivetitle</key>
+	<string>publishWorkflow</string>
+	<key>sequentialAllocator</key>
+	<string>shouldrendercompletion</string>
+	<key>sequentialIsolate</key>
+	<string>hyperbolicsorter</string>
+	<key>sharedCapacity</key>
+	<string>grainTask</string>
+	<key>sophisticatedThroughput</key>
+	<string>containerIndex</string>
+</dict>
+</plist>

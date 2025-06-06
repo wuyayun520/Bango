@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>originalplaybackformat</key>
+	<string>stopPadding</string>
+	<key>significantSpecifier</key>
+	<string>robustLifecycle</string>
+	<key>skirtPadding</key>
+	<string>shouldPersistCursor</string>
+	<key>substantialBase</key>
+	<string>minMaterial</string>
+</dict>
+</plist>

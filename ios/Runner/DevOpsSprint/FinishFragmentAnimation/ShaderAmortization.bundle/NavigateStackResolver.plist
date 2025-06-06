@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureresult</key>
+	<string>delegateMethod</string>
+	<key>buttonfactory</key>
+	<string>viewPosition</string>
+	<key>crudeInstruction</key>
+	<string>largeScroll</string>
+	<key>dedicatedPainter</key>
+	<string>mountedBrush</string>
+	<key>durationparamscale</key>
+	<string>builderEnvironment</string>
+	<key>finderFrequency</key>
+	<string>newestConfidentiality</string>
+	<key>responsiveAction</key>
+	<string>methodOrientation</string>
+	<key>unmountedqueue</key>
+	<string>accessibleReference</string>
+</dict>
+</plist>

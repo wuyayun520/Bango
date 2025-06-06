@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTail</key>
+	<string>crucialButton</string>
+	<key>euclideanSpine</key>
+	<string>usecaseState</string>
+	<key>locateevent</key>
+	<string>canBindSignature</string>
+	<key>missedUsage</key>
+	<string>measureBuffer</string>
+	<key>mountedgridview</key>
+	<string>storeListener</string>
+	<key>shouldUnmountTransition</key>
+	<string>liteExpanded</string>
+	<key>unsortedcallback</key>
+	<string>statefulBaseline</string>
+</dict>
+</plist>

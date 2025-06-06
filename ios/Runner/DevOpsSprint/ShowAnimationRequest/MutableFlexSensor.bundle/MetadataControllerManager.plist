@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbacksize</key>
+	<string>compositionalIsolate</string>
+	<key>exitposition</key>
+	<string>holdTexture</string>
+	<key>groupVelocity</key>
+	<string>splitterVisibility</string>
+	<key>groupscope</key>
+	<string>diffableResolver</string>
+	<key>inactiveSearcher</key>
+	<string>nextLoop</string>
+	<key>partitionboxshadow</key>
+	<string>hardStateless</string>
+	<key>relationalIntegrity</key>
+	<string>completerSize</string>
+	<key>respectiveCharacter</key>
+	<string>shouldParseDuration</string>
+	<key>shouldloadboxshadow</key>
+	<string>notifySpot</string>
+	<key>singletonTail</key>
+	<string>granularBitrate</string>
+</dict>
+</plist>

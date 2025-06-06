@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertLeft</key>
+	<string>replaceCapsule</string>
+	<key>asynchronousGridView</key>
+	<string>resultChain</string>
+	<key>documentBottom</key>
+	<string>configurationPadding</string>
+	<key>fixedProgressBar</key>
+	<string>mountedListView</string>
+	<key>interactiveWorkflow</key>
+	<string>quantizerFactory</string>
+	<key>intuitiveAspect</key>
+	<string>diversifiedobject</string>
+	<key>pinchableLoader</key>
+	<string>mediaqueryOffset</string>
+	<key>shouldEmitSegment</key>
+	<string>paintExponent</string>
+	<key>symmetricHash</key>
+	<string>lossMediator</string>
+	<key>webStoryboard</key>
+	<string>ephemeralResolver</string>
+</dict>
+</plist>

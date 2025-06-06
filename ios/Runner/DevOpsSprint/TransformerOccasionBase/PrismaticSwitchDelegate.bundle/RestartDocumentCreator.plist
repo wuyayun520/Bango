@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionLeft</key>
+	<string>materialMediaQuery</string>
+	<key>challengebandwidth</key>
+	<string>maintainFrame</string>
+	<key>futuredirection</key>
+	<string>semanticShader</string>
+	<key>gesturereducer</key>
+	<string>executeAwait</string>
+	<key>largeResponder</key>
+	<string>animationtop</string>
+	<key>pickerAppearance</key>
+	<string>constraintshade</string>
+	<key>reusableCoordinator</key>
+	<string>asynchronoussprite</string>
+	<key>stateValidation</key>
+	<string>usecaseDensity</string>
+</dict>
+</plist>

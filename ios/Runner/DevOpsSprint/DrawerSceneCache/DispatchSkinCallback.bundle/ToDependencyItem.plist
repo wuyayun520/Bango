@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioOrigin</key>
+	<string>dataScale</string>
+	<key>awaitthanadapter</key>
+	<string>colorShape</string>
+	<key>clusterTransparency</key>
+	<string>criticalScroller</string>
+	<key>diversifiedService</key>
+	<string>deferredPriority</string>
+	<key>permissiveResolver</key>
+	<string>robustCell</string>
+	<key>prepareinkwell</key>
+	<string>mendInteraction</string>
+	<key>rectspeed</key>
+	<string>desktopReduction</string>
+	<key>synchronousLatency</key>
+	<string>introspectscene</string>
+	<key>visibleText</key>
+	<string>canPrepareResource</string>
+</dict>
+</plist>

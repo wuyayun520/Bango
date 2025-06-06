@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticReliability</key>
+	<string>streamlineReducer</string>
+	<key>currentdependencyposition</key>
+	<string>temporaryLoop</string>
+	<key>easyoverlay</key>
+	<string>tickerfrequency</string>
+	<key>errorproxyorigin</key>
+	<string>yieldSignature</string>
+	<key>errortransparency</key>
+	<string>plateFunction</string>
+	<key>hardFragments</key>
+	<string>shouldUnmountTouch</string>
+	<key>multiWorkflow</key>
+	<string>mobileMaster</string>
+	<key>pinchablePlate</key>
+	<string>characterDecorator</string>
+</dict>
+</plist>

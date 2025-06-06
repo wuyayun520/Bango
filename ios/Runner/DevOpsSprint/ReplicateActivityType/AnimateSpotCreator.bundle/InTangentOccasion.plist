@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaulttask</key>
+	<string>notifierForce</string>
+	<key>directPet</key>
+	<string>isTransition</string>
+	<key>lostPlate</key>
+	<string>shouldTrainActivity</string>
+	<key>managerRate</key>
+	<string>mobileAnalyzer</string>
+	<key>shouldBuildCharacter</key>
+	<string>effectPattern</string>
+	<key>statelessTweak</key>
+	<string>exponentfrequency</string>
+	<key>streamKind</key>
+	<string>taskbottom</string>
+	<key>volumeOrientation</key>
+	<string>encodegrain</string>
+</dict>
+</plist>

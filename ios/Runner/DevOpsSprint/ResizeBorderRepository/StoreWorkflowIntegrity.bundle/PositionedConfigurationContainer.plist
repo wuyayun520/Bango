@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorLocation</key>
+	<string>queueTransparency</string>
+	<key>clusterDirection</key>
+	<string>dismissGraph</string>
+	<key>kernelBehavior</key>
+	<string>consumergrain</string>
+	<key>mobileData</key>
+	<string>touchVector</string>
+	<key>resultliketask</key>
+	<string>splitterTint</string>
+	<key>shouldAttachCosine</key>
+	<string>canStopConvolution</string>
+	<key>shouldPauseSegment</key>
+	<string>composableRectangle</string>
+	<key>similarInstruction</key>
+	<string>animatedTitle</string>
+	<key>spriteInset</key>
+	<string>respectiveTolerance</string>
+	<key>unsortedCompleter</key>
+	<string>floatRoute</string>
+</dict>
+</plist>

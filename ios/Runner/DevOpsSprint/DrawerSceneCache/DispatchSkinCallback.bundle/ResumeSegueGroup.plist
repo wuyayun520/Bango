@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateprovider</key>
+	<string>ignoredTimer</string>
+	<key>isunary</key>
+	<string>permanentDocument</string>
+	<key>normBehavior</key>
+	<string>listenmargin</string>
+	<key>singleScenario</key>
+	<string>explicitRenderer</string>
+	<key>symmetricIntegrity</key>
+	<string>denseAsync</string>
+	<key>temporaryPermutation</key>
+	<string>cleanService</string>
+	<key>typicalChecklist</key>
+	<string>enhanceResource</string>
+</dict>
+</plist>

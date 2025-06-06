@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedTitle</key>
+	<string>scaffoldFacade</string>
+	<key>elasticCache</key>
+	<string>shouldEndTask</string>
+	<key>permanentasynchead</key>
+	<string>decorationSpeed</string>
+	<key>reactiveModule</key>
+	<string>integrityFrequency</string>
+	<key>sequentialZone</key>
+	<string>hashcluster</string>
+	<key>shouldFetchFlex</key>
+	<string>heroPrototype</string>
+	<key>upgradeconstraint</key>
+	<string>alignmentCommand</string>
+</dict>
+</plist>

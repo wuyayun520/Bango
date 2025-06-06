@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanscreen</key>
+	<string>synchronousInjection</string>
+	<key>linkerDistance</key>
+	<string>futureTail</string>
+	<key>mediumIsolate</key>
+	<string>canSerializeFuture</string>
+	<key>relationalMatrix</key>
+	<string>canRestartBloc</string>
+	<key>storeVisible</key>
+	<string>renderPlate</string>
+</dict>
+</plist>

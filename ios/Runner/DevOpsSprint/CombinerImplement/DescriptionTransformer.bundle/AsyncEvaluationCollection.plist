@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyMargin</key>
+	<string>significantAction</string>
+	<key>beginnerSpecifier</key>
+	<string>stampTask</string>
+	<key>interactorFrequency</key>
+	<string>radioTag</string>
+	<key>intermediateIntensity</key>
+	<string>resetTransformer</string>
+	<key>providerflyweighthead</key>
+	<string>appbarDirection</string>
+	<key>shouldpaintnavigation</key>
+	<string>substantialCard</string>
+	<key>statefulInfrastructure</key>
+	<string>removeLabel</string>
+</dict>
+</plist>

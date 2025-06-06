@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentCount</key>
+	<string>observeProvider</string>
+	<key>beginnerPolyfill</key>
+	<string>featureFramework</string>
+	<key>ephemeralProgressBar</key>
+	<string>permanentGrid</string>
+	<key>exceptionKind</key>
+	<string>canResumeLabel</string>
+	<key>tweenimpact</key>
+	<string>responderSpeed</string>
+	<key>unactivatedPager</key>
+	<string>canRouteNorm</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerequivalent</key>
+	<string>undertakeAsset</string>
+	<key>createusecase</key>
+	<string>tablePosition</string>
+	<key>diffableHero</key>
+	<string>shouldCacheBitrate</string>
+	<key>dynamicPolyfill</key>
+	<string>cursorSpeed</string>
+	<key>ephemeralMember</key>
+	<string>nativeevolution</string>
+	<key>fixedContraction</key>
+	<string>stopResource</string>
+	<key>mediumChooser</key>
+	<string>strengthPosition</string>
+	<key>oldAnimation</key>
+	<string>shouldNotifyMobile</string>
+	<key>resultplatformcount</key>
+	<string>touchOrigin</string>
+</dict>
+</plist>

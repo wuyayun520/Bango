@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableWorkflow</key>
+	<string>buttonalignment</string>
+	<key>directResponse</key>
+	<string>resilientVariant</string>
+	<key>discardedSound</key>
+	<string>desktopData</string>
+	<key>greatSubscriber</key>
+	<string>createProtocol</string>
+	<key>indicatorAcceleration</key>
+	<string>descriptionoffset</string>
+	<key>pointvalidation</key>
+	<string>cartesianController</string>
+	<key>promisecoordinator</key>
+	<string>iconFeedback</string>
+	<key>shouldConnectFragment</key>
+	<string>shouldUnbindPageView</string>
+	<key>transformerhead</key>
+	<string>callbackKind</string>
+</dict>
+</plist>

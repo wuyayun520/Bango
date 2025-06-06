@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constructtopic</key>
+	<string>equipmentlayeralignment</string>
+	<key>createinteractor</key>
+	<string>resilientListener</string>
+	<key>equipmentagainstvar</key>
+	<string>largeCatalyst</string>
+	<key>loadspine</key>
+	<string>utilobserver</string>
+	<key>modulusagainsttask</key>
+	<string>delicateRole</string>
+	<key>respectiveDrawer</key>
+	<string>observeSprite</string>
+	<key>shouldAttachAlpha</key>
+	<string>iscaption</string>
+	<key>shouldPaintBrush</key>
+	<string>shouldPersistMission</string>
+	<key>significantCoordinator</key>
+	<string>lastEvent</string>
+</dict>
+</plist>

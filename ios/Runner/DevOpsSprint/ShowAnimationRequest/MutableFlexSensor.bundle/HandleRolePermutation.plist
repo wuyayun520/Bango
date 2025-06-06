@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleEdge</key>
+	<string>createImage</string>
+	<key>cartesianScalability</key>
+	<string>oldLinker</string>
+	<key>mendState</key>
+	<string>connectBatch</string>
+	<key>shouldListenEqualization</key>
+	<string>painterwithnumber</string>
+	<key>shouldParseExponent</key>
+	<string>updateasync</string>
+	<key>shouldYieldSegue</key>
+	<string>backwardAction</string>
+	<key>sizeSaturation</key>
+	<string>cursorForce</string>
+	<key>streamTail</key>
+	<string>copyBuffer</string>
+</dict>
+</plist>

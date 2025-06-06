@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticitySkewY</key>
+	<string>tabbarperactivity</string>
+	<key>gridpermutation</key>
+	<string>canEncodeView</string>
+	<key>loopPosition</key>
+	<string>canPushHeap</string>
+	<key>resultpermutation</key>
+	<string>updateFuture</string>
+	<key>shouldPaintController</key>
+	<string>deferredDelivery</string>
+	<key>tappableMatrix</key>
+	<string>nativeMultiplication</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedEvent</key>
+	<string>radiusFrequency</string>
+	<key>interactorSize</key>
+	<string>contractionContrast</string>
+	<key>intuitiveEmitter</key>
+	<string>shouldPushMovement</string>
+	<key>joinerTint</key>
+	<string>onbasechanged</string>
+	<key>mobileDropdownButton</key>
+	<string>trajectoryfeedback</string>
+	<key>rowvisibility</key>
+	<string>priorFragments</string>
+	<key>semanticExponent</key>
+	<string>orchestrateHandler</string>
+	<key>shapeOpacity</key>
+	<string>shouldStopAspect</string>
+	<key>shouldPresentCube</key>
+	<string>multiIntensity</string>
+</dict>
+</plist>

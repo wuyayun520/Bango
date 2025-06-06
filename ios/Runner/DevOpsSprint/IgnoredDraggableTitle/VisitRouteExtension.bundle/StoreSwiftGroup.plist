@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioBehavior</key>
+	<string>subpixelIndex</string>
+	<key>mainStatus</key>
+	<string>shouldSetStateMedia</string>
+	<key>opaqueItem</key>
+	<string>switchresponse</string>
+	<key>shouldContinueMobile</key>
+	<string>axisscene</string>
+	<key>shouldloadsegment</key>
+	<string>finishHistogram</string>
+</dict>
+</plist>

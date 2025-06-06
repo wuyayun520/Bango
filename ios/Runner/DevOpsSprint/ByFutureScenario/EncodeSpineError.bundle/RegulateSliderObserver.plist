@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAnimation</key>
+	<string>activemodelspeed</string>
+	<key>constraintasset</key>
+	<string>oldScaffold</string>
+	<key>hierarchicalAnalyzer</key>
+	<string>obtaindialogs</string>
+	<key>labelandscope</key>
+	<string>positionVariable</string>
+	<key>reusableState</key>
+	<string>shouldresumetext</string>
+	<key>shouldFormatNorm</key>
+	<string>textfieldbehavior</string>
+	<key>shouldInflateRow</key>
+	<string>granularTween</string>
+</dict>
+</plist>

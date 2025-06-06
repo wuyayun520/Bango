@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTransparency</key>
+	<string>mediaparameterresponse</string>
+	<key>cartesianShader</key>
+	<string>agileGridView</string>
+	<key>denserectscale</key>
+	<string>disabledLifecycle</string>
+	<key>detailType</key>
+	<string>declarativeNorm</string>
+	<key>liteManager</key>
+	<string>resultVisible</string>
+	<key>nodejoiner</key>
+	<string>searchSlider</string>
+	<key>normalMend</key>
+	<string>ternaryInterval</string>
+	<key>priorRow</key>
+	<string>accessibleChooser</string>
+	<key>shouldAttachDrawer</key>
+	<string>resizableAppBar</string>
+	<key>synctabview</key>
+	<string>retainedmanagercount</string>
+</dict>
+</plist>

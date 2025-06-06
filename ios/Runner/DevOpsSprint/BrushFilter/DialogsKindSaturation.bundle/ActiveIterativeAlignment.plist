@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderrect</key>
+	<string>batchTask</string>
+	<key>coordinatormodebrightness</key>
+	<string>canSaveCell</string>
+	<key>currentTaxonomy</key>
+	<string>batchPadding</string>
+	<key>effectdependency</key>
+	<string>canStreamExponent</string>
+	<key>graphResponse</key>
+	<string>invisibleExponent</string>
+	<key>graphopacity</key>
+	<string>debugsegment</string>
+	<key>loopposition</key>
+	<string>euclideanGram</string>
+</dict>
+</plist>

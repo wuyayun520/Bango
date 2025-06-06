@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerspacing</key>
+	<string>textureBrightness</string>
+	<key>dedicatedDelivery</key>
+	<string>cupertinoView</string>
+	<key>delicateconstant</key>
+	<string>clearmethod</string>
+	<key>finderFlags</key>
+	<string>streamForce</string>
+	<key>hardhash</key>
+	<string>logFeedback</string>
+	<key>isstateful</key>
+	<string>cancelExpanded</string>
+	<key>missedDescriptor</key>
+	<string>basicModulus</string>
+	<key>radiusanimation</key>
+	<string>validateGrayscale</string>
+</dict>
+</plist>

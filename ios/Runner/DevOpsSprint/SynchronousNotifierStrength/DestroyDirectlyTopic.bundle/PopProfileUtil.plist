@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsawaybridge</key>
+	<string>adjustInterface</string>
+	<key>granularresultappearance</key>
+	<string>customException</string>
+	<key>lifecycleState</key>
+	<string>logarithmIndex</string>
+	<key>prismaticTabView</key>
+	<string>beginnerVertex</string>
+	<key>pushtable</key>
+	<string>scrollableMetadata</string>
+	<key>shouldNavigateDropdownButton</key>
+	<string>canPushEquipment</string>
+	<key>shouldRebuildRole</key>
+	<string>deliveryStatus</string>
+</dict>
+</plist>

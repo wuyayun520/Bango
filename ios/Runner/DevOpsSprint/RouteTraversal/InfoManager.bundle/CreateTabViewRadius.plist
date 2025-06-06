@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedbuffer</key>
+	<string>inheritedDelivery</string>
+	<key>displayableProvision</key>
+	<string>largeAsset</string>
+	<key>euclideanSegment</key>
+	<string>globalSound</string>
+	<key>isolatemementotag</key>
+	<string>topicHue</string>
+	<key>multiState</key>
+	<string>pinchableScroller</string>
+	<key>persistentContrast</key>
+	<string>threadDirection</string>
+	<key>shouldEndAxis</key>
+	<string>scrolldelegate</string>
+	<key>shouldEndStateless</key>
+	<string>addDecoration</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseContainer</key>
+	<string>processorvisibility</string>
+	<key>intermediateReplica</key>
+	<string>globalReceiver</string>
+	<key>mendspacing</key>
+	<string>explicitobject</string>
+	<key>otherreducerstyle</key>
+	<string>navigatorpicker</string>
+	<key>secondblocvisibility</key>
+	<string>groupContrast</string>
+	<key>startisolate</key>
+	<string>desktopHandler</string>
+	<key>unmountedasync</key>
+	<string>permissiveGraph</string>
+	<key>visibleScheduler</key>
+	<string>sortedcursorbehavior</string>
+</dict>
+</plist>

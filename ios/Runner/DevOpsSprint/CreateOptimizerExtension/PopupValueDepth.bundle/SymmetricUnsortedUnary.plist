@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionright</key>
+	<string>cubeCommand</string>
+	<key>channellevelinset</key>
+	<string>shouldBuildLoss</string>
+	<key>easyGesture</key>
+	<string>animationAppearance</string>
+	<key>mainRoute</key>
+	<string>compositionwithcontext</string>
+	<key>numericalScalability</key>
+	<string>scrollerSpeed</string>
+	<key>screenperplatform</key>
+	<string>cursorOperation</string>
+	<key>sortedDescription</key>
+	<string>unsortedOptimizer</string>
+	<key>stopawait</key>
+	<string>requestCubit</string>
+	<key>stringifyspecifier</key>
+	<string>cardFlags</string>
+</dict>
+</plist>

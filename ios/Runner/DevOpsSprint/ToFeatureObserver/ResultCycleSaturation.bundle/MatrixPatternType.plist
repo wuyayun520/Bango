@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorrate</key>
+	<string>displayableSearcher</string>
+	<key>constraintopacity</key>
+	<string>actionCoord</string>
+	<key>consultativeClipper</key>
+	<string>colorShape</string>
+	<key>densePageView</key>
+	<string>profileDuration</string>
+	<key>imperativeRadio</key>
+	<string>controllerBuffer</string>
+	<key>scenescenario</key>
+	<string>canRestartOperation</string>
+	<key>shouldMountModulus</key>
+	<string>mediocreGate</string>
+	<key>tappableRect</key>
+	<string>eagerAmortization</string>
+	<key>unaryfactory</key>
+	<string>provideManager</string>
+</dict>
+</plist>

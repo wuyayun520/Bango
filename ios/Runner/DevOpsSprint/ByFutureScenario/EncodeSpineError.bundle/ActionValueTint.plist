@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetcolor</key>
+	<string>smallImage</string>
+	<key>interfacemargin</key>
+	<string>unscheduleBuffer</string>
+	<key>shouldConnectCanvas</key>
+	<string>compilescene</string>
+	<key>shouldSkipHero</key>
+	<string>buttonIndex</string>
+	<key>singleTolerance</key>
+	<string>declarativeEqualization</string>
+	<key>textfieldCount</key>
+	<string>fixedDecoration</string>
+</dict>
+</plist>

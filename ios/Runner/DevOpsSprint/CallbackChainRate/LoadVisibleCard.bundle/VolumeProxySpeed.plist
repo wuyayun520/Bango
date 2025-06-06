@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionfeedback</key>
+	<string>canMountPrecision</string>
+	<key>displayableGram</key>
+	<string>indicatordensity</string>
+	<key>gridOrigin</key>
+	<string>nativeDetector</string>
+	<key>imperativeMethod</key>
+	<string>canAnimateHero</string>
+	<key>integrityVisibility</key>
+	<string>customReliability</string>
+	<key>shouldFinishGestureDetector</key>
+	<string>subscribecontainer</string>
+	<key>utilsystemacceleration</key>
+	<string>serializeSlider</string>
+</dict>
+</plist>

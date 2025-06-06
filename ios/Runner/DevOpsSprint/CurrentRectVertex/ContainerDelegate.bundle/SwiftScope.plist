@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoObject</key>
+	<string>staticFormat</string>
+	<key>effectcubit</key>
+	<string>primaryObserver</string>
+	<key>emitterFlags</key>
+	<string>prismaticrenderer</string>
+	<key>gateKind</key>
+	<string>isMonster</string>
+	<key>heapparametercontrast</key>
+	<string>shouldSerializeContainer</string>
+	<key>indicatorVelocity</key>
+	<string>gemtension</string>
+	<key>shouldDecodeTask</key>
+	<string>minSlash</string>
+</dict>
+</plist>

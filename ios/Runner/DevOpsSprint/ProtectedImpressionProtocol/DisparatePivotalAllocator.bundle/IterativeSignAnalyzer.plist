@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardprovider</key>
+	<string>pinchableRow</string>
+	<key>intermediateTernary</key>
+	<string>basicActivity</string>
+	<key>onbuttontap</key>
+	<string>pivotalchallengeshade</string>
+	<key>synchronousLatency</key>
+	<string>disabledcurveacceleration</string>
+	<key>toolpressure</key>
+	<string>canUnbindReduction</string>
+</dict>
+</plist>

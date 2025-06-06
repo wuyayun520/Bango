@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitmaterial</key>
+	<string>synchronousBinder</string>
+	<key>heapState</key>
+	<string>sharedEqualization</string>
+	<key>observecontainer</key>
+	<string>dedicatedLoss</string>
+	<key>rebuildprofile</key>
+	<string>animatorStatus</string>
+	<key>replacestateless</key>
+	<string>publisherOpacity</string>
+</dict>
+</plist>

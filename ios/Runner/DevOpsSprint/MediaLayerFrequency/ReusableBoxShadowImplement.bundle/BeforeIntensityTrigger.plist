@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentEvent</key>
+	<string>hastabbar</string>
+	<key>dedicatedCaption</key>
+	<string>shouldPresentFragment</string>
+	<key>exponentstyle</key>
+	<string>reducercount</string>
+	<key>labelAppearance</key>
+	<string>analogyOrientation</string>
+	<key>matrixtaxonomy</key>
+	<string>dedicatedTweak</string>
+	<key>notifierDensity</key>
+	<string>sliderpressure</string>
+	<key>parallelGate</key>
+	<string>keepCaption</string>
+	<key>shouldReplaceOption</key>
+	<string>processdependency</string>
+</dict>
+</plist>

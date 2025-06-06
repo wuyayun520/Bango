@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAwait</key>
+	<string>timeSkewY</string>
+	<key>calculateprotocol</key>
+	<string>newestAppBar</string>
+	<key>layoutedge</key>
+	<string>canRebuildSample</string>
+	<key>modelValidation</key>
+	<string>shouldLayoutMomentum</string>
+	<key>onappbarchanged</key>
+	<string>canUpdateGem</string>
+	<key>persistentMetrics</key>
+	<string>shouldAttachModulus</string>
+	<key>routeinphase</key>
+	<string>brushwithoutmediator</string>
+	<key>toleranceMomentum</key>
+	<string>standaloneTexture</string>
+	<key>widgetschema</key>
+	<string>spininstruction</string>
+</dict>
+</plist>

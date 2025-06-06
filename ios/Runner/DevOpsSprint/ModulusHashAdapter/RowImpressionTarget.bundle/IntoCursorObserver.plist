@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowDistance</key>
+	<string>observeCurve</string>
+	<key>checkboxmementoopacity</key>
+	<string>canFetchSizedBox</string>
+	<key>imperativeImage</key>
+	<string>interpolateLayout</string>
+	<key>referenceinterpreterinset</key>
+	<string>autoTicker</string>
+	<key>requiredZone</key>
+	<string>storescaffold</string>
+	<key>scrollableEntropy</key>
+	<string>deflatecomposition</string>
+	<key>shouldUnbindCustomPaint</key>
+	<string>resolverType</string>
+</dict>
+</plist>

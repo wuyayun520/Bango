@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackrange</key>
+	<string>containertemplemode</string>
+	<key>channelforchain</key>
+	<string>intuitivegraphic</string>
+	<key>listeneralignment</key>
+	<string>futureIndex</string>
+	<key>lostModel</key>
+	<string>exponentTag</string>
+	<key>pinchableSemantics</key>
+	<string>localController</string>
+	<key>responsiveArithmetic</key>
+	<string>shouldStartExponent</string>
+	<key>segmentfeedback</key>
+	<string>retainedStamp</string>
+</dict>
+</plist>

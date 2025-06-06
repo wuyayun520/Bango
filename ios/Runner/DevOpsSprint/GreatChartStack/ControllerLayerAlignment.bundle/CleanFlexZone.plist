@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTweak</key>
+	<string>showRow</string>
+	<key>controllerduringcommand</key>
+	<string>shouldHandleOptimizer</string>
+	<key>functionalBase</key>
+	<string>ignoredInjection</string>
+	<key>independentcreator</key>
+	<string>intuitiveDescription</string>
+	<key>informationFrequency</key>
+	<string>shouldKeepBoxShadow</string>
+	<key>selectedrichtext</key>
+	<string>prepareLabel</string>
+	<key>shouldPopBullet</key>
+	<string>compositionalManager</string>
+	<key>shouldPushActivity</key>
+	<string>tappabledialogs</string>
+	<key>sizeFrequency</key>
+	<string>scrollableAnalogy</string>
+</dict>
+</plist>

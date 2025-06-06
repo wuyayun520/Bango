@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infrastructureBound</key>
+	<string>emitMediaQuery</string>
+	<key>mobileBound</key>
+	<string>newestSelector</string>
+	<key>shouldMountedBuilder</key>
+	<string>flexibleReplica</string>
+	<key>shouldpreparenavigation</key>
+	<string>backwarddistinction</string>
+</dict>
+</plist>

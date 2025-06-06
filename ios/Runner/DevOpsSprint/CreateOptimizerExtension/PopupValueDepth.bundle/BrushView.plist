@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushDensity</key>
+	<string>backwardTabBar</string>
+	<key>contractionfromframework</key>
+	<string>activenavigatorkind</string>
+	<key>lostChecklist</key>
+	<string>layerpatterntop</string>
+	<key>shouldMountBrush</key>
+	<string>transitionBullet</string>
+	<key>smartMapper</key>
+	<string>canEndAnchor</string>
+	<key>temporaryImage</key>
+	<string>shouldTransformDropdownButton</string>
+	<key>unregistertext</key>
+	<string>largepaintertype</string>
+</dict>
+</plist>

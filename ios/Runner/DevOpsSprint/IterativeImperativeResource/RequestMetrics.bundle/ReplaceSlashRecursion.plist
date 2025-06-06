@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeChecklist</key>
+	<string>advancedInteractor</string>
+	<key>futureCenter</key>
+	<string>profileFuture</string>
+	<key>selectedheap</key>
+	<string>sequentialReference</string>
+	<key>shouldUnmountLayout</key>
+	<string>limitLoop</string>
+	<key>synchronousColumn</key>
+	<string>mountedscene</string>
+</dict>
+</plist>

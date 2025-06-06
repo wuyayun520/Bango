@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTolerance</key>
+	<string>singletonLocation</string>
+	<key>constructmaster</key>
+	<string>stampFunction</string>
+	<key>discardedtrigger</key>
+	<string>serviceEdge</string>
+	<key>easyReducer</key>
+	<string>cloneStorage</string>
+	<key>lastCharacter</key>
+	<string>architecturePadding</string>
+	<key>nextFragments</key>
+	<string>heapValidation</string>
+	<key>offsetaspectratio</key>
+	<string>eagerAnimatedContainer</string>
+	<key>shouldtransformgrayscale</key>
+	<string>canLayoutResource</string>
+	<key>singleAlert</key>
+	<string>originalReducer</string>
+	<key>vertexAcceleration</key>
+	<string>shouldUnmountedMusic</string>
+</dict>
+</plist>

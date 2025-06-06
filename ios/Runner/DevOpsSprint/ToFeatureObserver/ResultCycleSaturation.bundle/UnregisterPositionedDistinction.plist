@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationdelivery</key>
+	<string>standaloneconsumer</string>
+	<key>mediocrePriority</key>
+	<string>sessionCycle</string>
+	<key>resumethread</key>
+	<string>shouldDismissPadding</string>
+	<key>sizeTag</key>
+	<string>consultativeProvider</string>
+</dict>
+</plist>

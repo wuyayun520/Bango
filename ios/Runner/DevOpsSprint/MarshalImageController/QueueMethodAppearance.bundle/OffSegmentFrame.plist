@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscalemodesize</key>
+	<string>primaryGrayscale</string>
+	<key>lostAlert</key>
+	<string>resolverbound</string>
+	<key>mediumExpanded</key>
+	<string>mediumFragment</string>
+	<key>queueformat</key>
+	<string>canSaveExtension</string>
+	<key>sharedstream</key>
+	<string>inheritedGrain</string>
+	<key>shouldContinueAnimation</key>
+	<string>metadataskewx</string>
+	<key>shouldPresentSwitch</key>
+	<string>monsterParam</string>
+	<key>shouldProcessFlex</key>
+	<string>compositionalController</string>
+	<key>statelessadaptername</key>
+	<string>hardQuaternion</string>
+</dict>
+</plist>

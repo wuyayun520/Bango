@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basefuture</key>
+	<string>liteMaterializer</string>
+	<key>beginnerColor</key>
+	<string>defaultreference</string>
+	<key>inkwelloutsidestage</key>
+	<string>elasticlatency</string>
+	<key>mobileFlags</key>
+	<string>textureFramework</string>
+	<key>shouldLayoutProject</key>
+	<string>handlereduction</string>
+	<key>strokeborder</key>
+	<string>shouldPersistListView</string>
+</dict>
+</plist>

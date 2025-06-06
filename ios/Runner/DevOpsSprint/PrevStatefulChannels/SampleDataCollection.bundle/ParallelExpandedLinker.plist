@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatError</key>
+	<string>musicmodel</string>
+	<key>injectionorientation</key>
+	<string>crudeSingleton</string>
+	<key>resizablechannels</key>
+	<string>invisiblecollectiontop</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSlider</key>
+	<string>shouldInflateOperation</string>
+	<key>elasticityValidation</key>
+	<string>retainSingleton</string>
+	<key>executeisolate</key>
+	<string>imperativeConfidentiality</string>
+	<key>mainCycle</key>
+	<string>beginnerPainter</string>
+	<key>normalProtocol</key>
+	<string>delegateCount</string>
+</dict>
+</plist>

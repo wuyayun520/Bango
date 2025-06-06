@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentHeap</key>
+	<string>syncTexture</string>
+	<key>cubitLocation</key>
+	<string>chartprototypeacceleration</string>
+	<key>disparatepresenterborder</key>
+	<string>endSubpixel</string>
+	<key>eagerMobile</key>
+	<string>processUnary</string>
+	<key>exceptionofcycle</key>
+	<string>staticNode</string>
+	<key>inactiveBuffer</key>
+	<string>memberdisclaimer</string>
+	<key>normName</key>
+	<string>parseTabBar</string>
+	<key>retainedDocument</key>
+	<string>providerTail</string>
+</dict>
+</plist>

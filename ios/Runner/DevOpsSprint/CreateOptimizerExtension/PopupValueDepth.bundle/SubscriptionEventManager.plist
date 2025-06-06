@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultEqualization</key>
+	<string>canRestartCompletion</string>
+	<key>elasticTechnique</key>
+	<string>scalethroughput</string>
+	<key>imperativelistener</key>
+	<string>serviceDepth</string>
+	<key>pickerOrientation</key>
+	<string>skirtOpacity</string>
+	<key>protocoldespitework</key>
+	<string>gridInterval</string>
+	<key>taskresolver</key>
+	<string>revisitbuffer</string>
+	<key>viewsearcher</key>
+	<string>lastSpecifier</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderVelocity</key>
+	<string>canCancelMovement</string>
+	<key>fixedBorder</key>
+	<string>canUnmountComposition</string>
+	<key>nextcontrollerborder</key>
+	<string>shouldListenRadio</string>
+	<key>relationalInstruction</key>
+	<string>shouldPushPriority</string>
+	<key>shouldPaintMaterial</key>
+	<string>loadCheckbox</string>
+	<key>startlogarithm</key>
+	<string>similarReliability</string>
+	<key>tabviewCenter</key>
+	<string>textureduration</string>
+</dict>
+</plist>

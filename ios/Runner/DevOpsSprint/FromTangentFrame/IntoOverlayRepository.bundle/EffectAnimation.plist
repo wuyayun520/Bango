@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSlider</key>
+	<string>membersingletonindex</string>
+	<key>backwardAlignment</key>
+	<string>concatenatebutton</string>
+	<key>lostProcessor</key>
+	<string>activityAdapter</string>
+	<key>missedcomponent</key>
+	<string>arithmetictable</string>
+	<key>parallelRow</key>
+	<string>exitPreview</string>
+</dict>
+</plist>

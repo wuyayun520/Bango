@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardCache</key>
+	<string>radiusVisitor</string>
+	<key>backwardvolume</key>
+	<string>unsortedpopup</string>
+	<key>channelslocalization</key>
+	<string>symbolasoperation</string>
+	<key>dynamicAnimation</key>
+	<string>iconHue</string>
+	<key>mainpreviewforce</key>
+	<string>transpileHash</string>
+	<key>retainedKernel</key>
+	<string>decodeShader</string>
+</dict>
+</plist>

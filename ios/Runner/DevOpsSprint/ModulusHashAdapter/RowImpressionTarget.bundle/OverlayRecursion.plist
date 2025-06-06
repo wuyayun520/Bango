@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfaceMode</key>
+	<string>unbindBase</string>
+	<key>nextVariant</key>
+	<string>displayableCell</string>
+	<key>permanentData</key>
+	<string>limitLoop</string>
+	<key>providerinset</key>
+	<string>managerVisibility</string>
+	<key>shouldmounttransition</key>
+	<string>storagespeed</string>
+</dict>
+</plist>

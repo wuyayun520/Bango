@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerSkewY</key>
+	<string>shouldObserveEqualization</string>
+	<key>displayableChannel</key>
+	<string>measureDelegate</string>
+	<key>euclideanIcon</key>
+	<string>hardContainer</string>
+	<key>materialusage</key>
+	<string>synchronousCaption</string>
+	<key>processanimation</key>
+	<string>tappableMapper</string>
+	<key>resourceState</key>
+	<string>canUnmountSign</string>
+	<key>shouldSerializeExpanded</key>
+	<string>lostProgressBar</string>
+</dict>
+</plist>

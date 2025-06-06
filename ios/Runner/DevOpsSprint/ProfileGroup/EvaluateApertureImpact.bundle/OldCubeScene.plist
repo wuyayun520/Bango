@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTimeline</key>
+	<string>shouldContinueVariant</string>
+	<key>materialstatus</key>
+	<string>canEndBinary</string>
+	<key>mutableColumn</key>
+	<string>canListenCollection</string>
+	<key>respectiveSegment</key>
+	<string>normPattern</string>
+	<key>shouldFormatScreen</key>
+	<string>largeRenderer</string>
+	<key>textformat</key>
+	<string>eagerLayer</string>
+</dict>
+</plist>

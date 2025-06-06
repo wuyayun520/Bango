@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficulttolerance</key>
+	<string>layoutatshape</string>
+	<key>priortransformer</key>
+	<string>deprecateHash</string>
+	<key>rownumberbottom</key>
+	<string>pushState</string>
+	<key>shouldRestartDimension</key>
+	<string>canResumeCapsule</string>
+	<key>sophisticatedbaseline</key>
+	<string>accessibleReference</string>
+	<key>specifierhue</key>
+	<string>dismissMusic</string>
+</dict>
+</plist>

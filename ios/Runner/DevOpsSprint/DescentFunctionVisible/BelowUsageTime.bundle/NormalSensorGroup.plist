@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetSkewY</key>
+	<string>augmentMethod</string>
+	<key>directGate</key>
+	<string>capsuleOpacity</string>
+	<key>mutableCapsule</key>
+	<string>tappableResilience</string>
+	<key>pausegate</key>
+	<string>injectionwrapper</string>
+	<key>shouldPauseSpecifier</key>
+	<string>hierarchicalgem</string>
+	<key>shouldPushCheckbox</key>
+	<string>timelineDuration</string>
+	<key>significantRouter</key>
+	<string>shouldconnectspine</string>
+	<key>visibledescriptor</key>
+	<string>publishEffect</string>
+</dict>
+</plist>

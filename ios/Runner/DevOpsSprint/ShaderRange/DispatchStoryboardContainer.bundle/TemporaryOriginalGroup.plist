@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatormesh</key>
+	<string>pickerVelocity</string>
+	<key>impactAcceleration</key>
+	<string>basicSlider</string>
+	<key>keycapsulecount</key>
+	<string>canDisconnectPoint</string>
+	<key>operationPressure</key>
+	<string>segmentOperation</string>
+	<key>retainedZone</key>
+	<string>reflectResult</string>
+</dict>
+</plist>

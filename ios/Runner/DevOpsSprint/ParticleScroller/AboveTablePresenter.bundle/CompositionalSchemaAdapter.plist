@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoNotification</key>
+	<string>activeMomentum</string>
+	<key>defaultNotifier</key>
+	<string>disconnectIcon</string>
+	<key>mutableRemediation</key>
+	<string>sharedspot</string>
+	<key>newestframeflags</key>
+	<string>webawait</string>
+	<key>notationindex</key>
+	<string>independentIntegration</string>
+	<key>replicatype</key>
+	<string>emitMobile</string>
+	<key>respectivefactory</key>
+	<string>multiDetector</string>
+	<key>shouldShowSpine</key>
+	<string>widgetTier</string>
+	<key>shouldUnmountedWorkflow</key>
+	<string>brushDuration</string>
+	<key>sorterScale</key>
+	<string>replacepoint</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseEntity</key>
+	<string>draggableLayer</string>
+	<key>objectlocation</key>
+	<string>canStopCatalyst</string>
+	<key>shouldDetachSpecifier</key>
+	<string>directlyCombiner</string>
+	<key>shoulddisposeactivity</key>
+	<string>nextPoint</string>
+	<key>temporaryLayout</key>
+	<string>concatenateTicker</string>
+</dict>
+</plist>

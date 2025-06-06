@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsResponse</key>
+	<string>cubeMargin</string>
+	<key>elasticProvider</key>
+	<string>navigationDensity</string>
+	<key>entityofshape</key>
+	<string>intuitivecursor</string>
+	<key>gridskewy</key>
+	<string>intuitiveSine</string>
+	<key>infoDirection</key>
+	<string>usagePhase</string>
+	<key>nativeBox</key>
+	<string>canvasValue</string>
+	<key>nodescale</key>
+	<string>isbox</string>
+	<key>sharedGestureDetector</key>
+	<string>alphatension</string>
+</dict>
+</plist>

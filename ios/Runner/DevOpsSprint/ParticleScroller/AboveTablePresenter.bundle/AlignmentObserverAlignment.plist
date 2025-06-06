@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTable</key>
+	<string>primaryRectangle</string>
+	<key>clusterBound</key>
+	<string>statelessTop</string>
+	<key>concreteRenderer</key>
+	<string>rowScale</string>
+	<key>contractionSkewY</key>
+	<string>persistSwift</string>
+	<key>geometricZone</key>
+	<string>usecasepolyfill</string>
+	<key>layoutBottom</key>
+	<string>plateState</string>
+	<key>shouldStopProject</key>
+	<string>invokebase</string>
+</dict>
+</plist>

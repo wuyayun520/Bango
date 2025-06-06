@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>restartgrid</key>
+	<string>inflateGate</string>
+	<key>schedulerCount</key>
+	<string>shouldDisposeArithmetic</string>
+	<key>seamlesscompleteroffset</key>
+	<string>tappableSensor</string>
+	<key>serializegesture</key>
+	<string>mobileSignature</string>
+	<key>standaloneAnimation</key>
+	<string>largeHeap</string>
+</dict>
+</plist>

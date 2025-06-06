@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorShape</key>
+	<string>permissiverect</string>
+	<key>clonekernel</key>
+	<string>dynamicSwitch</string>
+	<key>currentAnalyzer</key>
+	<string>delicateAlignment</string>
+	<key>firstFuture</key>
+	<string>providertop</string>
+	<key>receiverVelocity</key>
+	<string>informationpressure</string>
+	<key>roleoperationsaturation</key>
+	<string>dropdownbuttonAppearance</string>
+	<key>shouldHandleUnary</key>
+	<string>replaceRichText</string>
+	<key>transitionuntilprocess</key>
+	<string>tappableTrajectory</string>
+	<key>unsortedLatency</key>
+	<string>factoryBottom</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalBloc</key>
+	<string>shouldSerializeUsage</string>
+	<key>descriptorinset</key>
+	<string>mechanismfrequency</string>
+	<key>ignoredCapacities</key>
+	<string>marshalOffset</string>
+	<key>immutableLocalization</key>
+	<string>transformerDuration</string>
+	<key>infoForce</key>
+	<string>replaceStoryboard</string>
+	<key>sceneoffset</key>
+	<string>entitySaturation</string>
+	<key>sharedChallenge</key>
+	<string>canContinueBrush</string>
+	<key>swiftName</key>
+	<string>uniqueAnimation</string>
+	<key>tablelevelfrequency</key>
+	<string>imperativeTask</string>
+</dict>
+</plist>

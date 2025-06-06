@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableTransition</key>
+	<string>subscribeawait</string>
+	<key>liteDecoration</key>
+	<string>protectedInteraction</string>
+	<key>sessionFeedback</key>
+	<string>syncPosition</string>
+	<key>shouldEncodeIcon</key>
+	<string>elasticscenario</string>
+	<key>signmodecontrast</key>
+	<string>crudeScope</string>
+	<key>statefulaction</key>
+	<string>restartcycle</string>
+	<key>tabviewPadding</key>
+	<string>shouldRestartExtension</string>
+</dict>
+</plist>

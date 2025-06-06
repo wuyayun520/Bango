@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredBinary</key>
+	<string>clipUseCase</string>
+	<key>diversifiedBinder</key>
+	<string>popPrecision</string>
+	<key>euclideanequipmenttransparency</key>
+	<string>canParseTouch</string>
+	<key>executedelegate</key>
+	<string>locateText</string>
+	<key>flexibleFeature</key>
+	<string>easyPolygon</string>
+	<key>hierarchicalContainer</key>
+	<string>slidervelocity</string>
+	<key>isradio</key>
+	<string>seamlessUsage</string>
+	<key>precisionplatformscale</key>
+	<string>cubeScale</string>
+	<key>shouldLoadRichText</key>
+	<string>shouldDisposeCaption</string>
+</dict>
+</plist>

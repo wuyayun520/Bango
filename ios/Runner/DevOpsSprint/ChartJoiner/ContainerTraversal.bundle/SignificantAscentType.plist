@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMap</key>
+	<string>gramBehavior</string>
+	<key>graphicRotation</key>
+	<string>mixinticker</string>
+	<key>shouldDismissMission</key>
+	<string>basicprogressbarscale</string>
+	<key>shouldKeepSwitch</key>
+	<string>skinpadding</string>
+	<key>shouldParseSpecifier</key>
+	<string>topicchainlocation</string>
+	<key>shouldStartEquipment</key>
+	<string>shouldUpdateSignature</string>
+	<key>temporaryConfiguration</key>
+	<string>tabbarAction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarSize</key>
+	<string>popexponent</string>
+	<key>brushRate</key>
+	<string>robustChecklist</string>
+	<key>disabledStrength</key>
+	<string>canSetStateView</string>
+	<key>heapBound</key>
+	<string>entityinterval</string>
+	<key>mediocretextureinset</key>
+	<string>connectorTop</string>
+	<key>shouldEmitSwitch</key>
+	<string>canBuildCell</string>
+</dict>
+</plist>

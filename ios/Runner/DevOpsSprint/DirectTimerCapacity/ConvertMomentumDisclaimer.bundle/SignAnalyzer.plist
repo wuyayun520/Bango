@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoElasticity</key>
+	<string>deferredIntensity</string>
+	<key>layervisitorname</key>
+	<string>canConnectTernary</string>
+	<key>prevTraversal</key>
+	<string>canEndSwift</string>
+	<key>shouldNotifyPainter</key>
+	<string>mediaqueryBorder</string>
+	<key>strengthContrast</key>
+	<string>analyzeTitle</string>
+</dict>
+</plist>

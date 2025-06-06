@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseBinder</key>
+	<string>precisionframe</string>
+	<key>effectSaturation</key>
+	<string>restrictionAppearance</string>
+	<key>isolatevalidation</key>
+	<string>haspadding</string>
+	<key>responsiveArchitecture</key>
+	<string>sortedSlider</string>
+	<key>shouldUnmountedPlayback</key>
+	<string>explicitMethod</string>
+	<key>standaloneCanvas</key>
+	<string>coordinatorbottom</string>
+</dict>
+</plist>

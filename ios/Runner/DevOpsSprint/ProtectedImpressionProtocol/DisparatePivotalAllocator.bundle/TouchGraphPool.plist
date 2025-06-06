@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandeddistance</key>
+	<string>publicBuffer</string>
+	<key>intermediateChannels</key>
+	<string>sortedmobiledepth</string>
+	<key>onboxtap</key>
+	<string>staticSound</string>
+	<key>paddingSaturation</key>
+	<string>shoulddisconnectrichtext</string>
+	<key>shouldFormatScroll</key>
+	<string>inheritedCosine</string>
+</dict>
+</plist>

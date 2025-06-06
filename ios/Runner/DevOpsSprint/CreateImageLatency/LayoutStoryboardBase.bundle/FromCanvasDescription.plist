@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGift</key>
+	<string>cartesianWidget</string>
+	<key>composableScroller</key>
+	<string>smartDuration</string>
+	<key>defaultbase</key>
+	<string>stateasflyweight</string>
+	<key>displayableView</key>
+	<string>checkboxhead</string>
+	<key>explicitScalability</key>
+	<string>sliderSingleton</string>
+	<key>gridCenter</key>
+	<string>similarBullet</string>
+	<key>isolateAppearance</key>
+	<string>restartCupertino</string>
+	<key>scrollableCosine</key>
+	<string>cartesianProgressBar</string>
+	<key>shouldHandleMomentum</key>
+	<string>cacheSession</string>
+</dict>
+</plist>

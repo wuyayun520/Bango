@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionworkbrightness</key>
+	<string>denseSorter</string>
+	<key>converterOpacity</key>
+	<string>tabviewJob</string>
+	<key>cupertinoMaterial</key>
+	<string>associatedIntensity</string>
+	<key>hasDialogs</key>
+	<string>rowMode</string>
+	<key>layersaturation</key>
+	<string>geometricSpot</string>
+	<key>mapperShape</key>
+	<string>canMountedRow</string>
+	<key>shouldDispatchClipper</key>
+	<string>observerOrigin</string>
+	<key>staticMetrics</key>
+	<string>discardedBorder</string>
+</dict>
+</plist>

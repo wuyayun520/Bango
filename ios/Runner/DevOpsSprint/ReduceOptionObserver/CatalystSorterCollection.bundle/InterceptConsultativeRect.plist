@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTweak</key>
+	<string>mountedbaseline</string>
+	<key>impactvalidation</key>
+	<string>shouldbuildprovider</string>
+	<key>imperativewidget</key>
+	<string>nativethemeshape</string>
+	<key>liteModal</key>
+	<string>loadPadding</string>
+	<key>markanimatedcontainer</key>
+	<string>liteTouch</string>
+	<key>obtainmonster</key>
+	<string>mutableContraction</string>
+	<key>uniqueRenderer</key>
+	<string>norminobserver</string>
+	<key>usedmechanism</key>
+	<string>subscriptionDuration</string>
+	<key>webTouch</key>
+	<string>entropyLayer</string>
+</dict>
+</plist>

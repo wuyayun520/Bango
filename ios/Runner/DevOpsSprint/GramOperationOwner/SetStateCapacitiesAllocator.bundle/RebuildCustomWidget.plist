@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectpageview</key>
+	<string>retainedRect</string>
+	<key>frametransformer</key>
+	<string>platePressure</string>
+	<key>gesturedetectorEdge</key>
+	<string>shaderoutsideactivity</string>
+	<key>globalmatrix</key>
+	<string>materialTopic</string>
+	<key>lastLifecycle</key>
+	<string>masterspacing</string>
+	<key>rapidCluster</key>
+	<string>paddingFlags</string>
+	<key>seamlessGram</key>
+	<string>commonCatalyst</string>
+	<key>tabviewcenter</key>
+	<string>resizableSwift</string>
+</dict>
+</plist>

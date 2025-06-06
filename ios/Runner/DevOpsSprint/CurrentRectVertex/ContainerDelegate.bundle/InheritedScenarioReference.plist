@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMomentum</key>
+	<string>shouldLayoutMatrix</string>
+	<key>basicTabBar</key>
+	<string>refreshMethod</string>
+	<key>boxshadowFormat</key>
+	<string>actionOffset</string>
+	<key>listviewevent</key>
+	<string>diffableBloc</string>
+	<key>sharedBuilder</key>
+	<string>adaptiveDistinction</string>
+	<key>shouldnotifyswift</key>
+	<string>processBatch</string>
+	<key>vectorstrength</key>
+	<string>observeParticle</string>
+</dict>
+</plist>

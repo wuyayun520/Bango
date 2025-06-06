@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDuration</key>
+	<string>invisibleGraph</string>
+	<key>directLoop</key>
+	<string>defaultstamp</string>
+	<key>floatgrain</key>
+	<string>showFuture</string>
+	<key>queueType</key>
+	<string>parseProfile</string>
+	<key>responsiveRadius</key>
+	<string>appbarStage</string>
+	<key>routeofflyweight</key>
+	<string>uniqueTaxonomy</string>
+	<key>shouldUnmountedSkirt</key>
+	<string>shouldLoadCaption</string>
+	<key>videoformat</key>
+	<string>dynamicarithmetic</string>
+</dict>
+</plist>

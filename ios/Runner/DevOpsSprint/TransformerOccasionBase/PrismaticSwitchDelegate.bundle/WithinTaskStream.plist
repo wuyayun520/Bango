@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanCanvas</key>
+	<string>rebuildCapacities</string>
+	<key>shouldBuildPriority</key>
+	<string>independentConnector</string>
+	<key>toolValidation</key>
+	<string>materialCharacteristic</string>
+	<key>traversalKind</key>
+	<string>immutablecellname</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantfrequency</key>
+	<string>lifecycleBrightness</string>
+	<key>criticalEfficiency</key>
+	<string>exitLoop</string>
+	<key>descriptorAppearance</key>
+	<string>permissiveternarycontrast</string>
+	<key>hyperbolicFinder</key>
+	<string>cancelThread</string>
+	<key>prevMediaQuery</key>
+	<string>sustainableSpine</string>
+	<key>rowpolyfill</key>
+	<string>groupRotation</string>
+	<key>shouldCancelDialogs</key>
+	<string>directInfrastructure</string>
+	<key>shouldpersistrichtext</key>
+	<string>canDecodeSwitch</string>
+</dict>
+</plist>

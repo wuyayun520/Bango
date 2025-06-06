@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticVolume</key>
+	<string>sharedRestriction</string>
+	<key>mergerOrientation</key>
+	<string>greatReducer</string>
+	<key>meshVisibility</key>
+	<string>canDispatchRole</string>
+	<key>mutableSample</key>
+	<string>routerContrast</string>
+	<key>shouldRestartEquipment</key>
+	<string>agileItem</string>
+	<key>shouldcontinuenotification</key>
+	<string>fixedHandler</string>
+	<key>staticDimension</key>
+	<string>shouldDisposeCanvas</string>
+</dict>
+</plist>

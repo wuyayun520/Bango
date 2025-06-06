@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultrichtext</key>
+	<string>equipmentnumberhead</string>
+	<key>difficultDetector</key>
+	<string>localLatency</string>
+	<key>ephemeraldimensiondepth</key>
+	<string>joinerAppearance</string>
+	<key>methodleveldepth</key>
+	<string>shouldFinishSession</string>
+	<key>priorColor</key>
+	<string>persistHero</string>
+	<key>scrollableAllocator</key>
+	<string>canSaveContraction</string>
+	<key>statelessbitrateedge</key>
+	<string>graphRight</string>
+	<key>uniqueCube</key>
+	<string>scrollimage</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachconsumer</key>
+	<string>emitterFrequency</string>
+	<key>cachetextfield</key>
+	<string>navigatecoordinator</string>
+	<key>euclideanInkWell</key>
+	<string>dispatcherResponse</string>
+	<key>popborder</key>
+	<string>hyperbolicmargin</string>
+	<key>shouldDeserializeInstruction</key>
+	<string>navigateCapsule</string>
+	<key>shouldInflateRemainder</key>
+	<string>selectedimage</string>
+</dict>
+</plist>

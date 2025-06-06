@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderBehavior</key>
+	<string>canDismissMediaQuery</string>
+	<key>draggableReceiver</key>
+	<string>shaderOrientation</string>
+	<key>inactiveDelivery</key>
+	<string>profileAwait</string>
+	<key>materialtransparency</key>
+	<string>subsequentEqualization</string>
+	<key>mediaqueryinfo</key>
+	<string>lastDescriptor</string>
+	<key>operationHue</key>
+	<string>reducelocalization</string>
+	<key>permanentRadius</key>
+	<string>shouldSkipHero</string>
+	<key>singletonprocesscount</key>
+	<string>notifierBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeEvaluation</key>
+	<string>relationalAsync</string>
+	<key>configurationBorder</key>
+	<string>shouldRenderOverlay</string>
+	<key>dispatcherColor</key>
+	<string>newestframe</string>
+	<key>shoulddismisschallenge</key>
+	<string>masterstate</string>
+	<key>taxonomyAppearance</key>
+	<string>directlygrid</string>
+</dict>
+</plist>

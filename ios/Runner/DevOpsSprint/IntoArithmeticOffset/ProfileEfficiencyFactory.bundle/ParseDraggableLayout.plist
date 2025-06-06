@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaPosition</key>
+	<string>spriteinterval</string>
+	<key>exponentopacity</key>
+	<string>sliderprototypetint</string>
+	<key>immediateImpact</key>
+	<string>mountAperture</string>
+	<key>kernelTop</key>
+	<string>nextpopup</string>
+	<key>mutablesensorrotation</key>
+	<string>immutableRect</string>
+	<key>respectiveHistogram</key>
+	<string>canParseProfile</string>
+	<key>routeMomentum</key>
+	<string>marshalPopup</string>
+	<key>shouldskiplog</key>
+	<string>multiUseCase</string>
+	<key>synchronouslabelmomentum</key>
+	<string>shouldMountCube</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureSaturation</key>
+	<string>effectSize</string>
+	<key>disparatetitlevelocity</key>
+	<string>requiredflex</string>
+	<key>granularStoryboard</key>
+	<string>singleInkWell</string>
+	<key>pinchablelogarithmorientation</key>
+	<string>transitionCoordinator</string>
+	<key>publicState</key>
+	<string>ephemeralGrain</string>
+	<key>respondershape</key>
+	<string>formatSizedBox</string>
+	<key>seamlessSelector</key>
+	<string>pageviewDecorator</string>
+	<key>shaderMode</key>
+	<string>mutableHash</string>
+</dict>
+</plist>

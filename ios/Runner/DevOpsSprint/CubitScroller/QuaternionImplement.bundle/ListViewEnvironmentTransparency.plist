@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerMomentum</key>
+	<string>canFetchResource</string>
+	<key>defaultMovement</key>
+	<string>diffableCallback</string>
+	<key>findrepository</key>
+	<string>synchronousPicker</string>
+	<key>imperativedropdownbuttonrate</key>
+	<string>tabviewaroundjob</string>
+	<key>parallelInteractor</key>
+	<string>decodeCatalyst</string>
+	<key>remainderedge</key>
+	<string>loopDuration</string>
+	<key>selectedThread</key>
+	<string>resilientMediaQuery</string>
+	<key>shouldConnectPositioned</key>
+	<string>persistentGridView</string>
+	<key>storesincestyle</key>
+	<string>deflateController</string>
+	<key>webScenario</key>
+	<string>yieldPromise</string>
+</dict>
+</plist>

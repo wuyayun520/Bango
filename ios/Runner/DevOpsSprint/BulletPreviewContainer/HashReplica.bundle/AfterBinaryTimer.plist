@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerRate</key>
+	<string>capacitiesFlags</string>
+	<key>deserializeresponse</key>
+	<string>shouldCancelSegue</string>
+	<key>mechanismSize</key>
+	<string>greatContrast</string>
+	<key>progressbarpadding</key>
+	<string>liteScale</string>
+	<key>spriteOrientation</key>
+	<string>isolateFacade</string>
+	<key>statelesscallbacktag</key>
+	<string>specifyBox</string>
+</dict>
+</plist>

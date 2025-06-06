@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasmobile</key>
+	<string>prepareUnary</string>
+	<key>independentEffect</key>
+	<string>newestSplitter</string>
+	<key>positionedskewy</key>
+	<string>liteNib</string>
+	<key>semanticInterpolation</key>
+	<string>entropytweak</string>
+	<key>shouldLoadResource</key>
+	<string>sustainableInformation</string>
+	<key>shouldMountedDecoration</key>
+	<string>attachAllocator</string>
+	<key>shouldSkipPet</key>
+	<string>replaceProfile</string>
+	<key>textdistance</key>
+	<string>extensionFlyweight</string>
+</dict>
+</plist>

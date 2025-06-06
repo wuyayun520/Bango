@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionbridgeright</key>
+	<string>parallelProjection</string>
+	<key>metadatadespitefacade</key>
+	<string>accessibleScope</string>
+	<key>sensormode</key>
+	<string>standaloneTextField</string>
+	<key>significantBox</key>
+	<string>shouldStartShader</string>
+	<key>textureatparam</key>
+	<string>shouldDecodeAlpha</string>
+</dict>
+</plist>

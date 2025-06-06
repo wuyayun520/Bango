@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeReducer</key>
+	<string>shouldReplaceButton</string>
+	<key>logforce</key>
+	<string>tweenOperation</string>
+	<key>ontabviewchanged</key>
+	<string>channelCenter</string>
+	<key>resizableManager</key>
+	<string>stampcontrast</string>
+	<key>selectedSlash</key>
+	<string>sliderTransparency</string>
+</dict>
+</plist>

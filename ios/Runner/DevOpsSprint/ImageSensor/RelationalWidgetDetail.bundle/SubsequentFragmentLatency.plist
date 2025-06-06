@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedQueue</key>
+	<string>canPrepareAppBar</string>
+	<key>beginnerTopic</key>
+	<string>scrollableFrame</string>
+	<key>missedSemantics</key>
+	<string>quantizerNode</string>
+	<key>mobileQueue</key>
+	<string>greatBuffer</string>
+	<key>persistentModel</key>
+	<string>immutableRequest</string>
+</dict>
+</plist>

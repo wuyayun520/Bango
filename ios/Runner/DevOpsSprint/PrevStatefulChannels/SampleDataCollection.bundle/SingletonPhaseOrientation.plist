@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeHeap</key>
+	<string>canUnmountMedia</string>
+	<key>firstpopupmode</key>
+	<string>relationalImpact</string>
+	<key>multipresenter</key>
+	<string>canFormatHeap</string>
+	<key>newestasync</key>
+	<string>musicmaterializer</string>
+	<key>receiveworkflow</key>
+	<string>globalconfigurationshade</string>
+	<key>responsiveoptimizer</key>
+	<string>discardedChooser</string>
+	<key>shouldLoadSizedBox</key>
+	<string>measureLocalization</string>
+	<key>shouldStopAlert</key>
+	<string>associateTween</string>
+</dict>
+</plist>

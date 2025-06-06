@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedamortization</key>
+	<string>replaceGradient</string>
+	<key>difficultSemantics</key>
+	<string>canRenderPositioned</string>
+	<key>hyperbolicScroller</key>
+	<string>swiftinteraction</string>
+	<key>permissiveEmitter</key>
+	<string>framemodeleft</string>
+	<key>positionTag</key>
+	<string>cardborder</string>
+	<key>responsiveTraversal</key>
+	<string>priorityScale</string>
+</dict>
+</plist>

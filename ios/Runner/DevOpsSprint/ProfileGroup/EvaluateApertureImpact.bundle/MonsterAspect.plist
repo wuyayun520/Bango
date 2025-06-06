@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricnormlocation</key>
+	<string>usedSearcher</string>
+	<key>iterativedocument</key>
+	<string>completeredge</string>
+	<key>metricscount</key>
+	<string>showScale</string>
+	<key>missedSample</key>
+	<string>paddingstatename</string>
+	<key>originalShader</key>
+	<string>shouldDismissPriority</string>
+	<key>otherGem</key>
+	<string>permissiveWidget</string>
+	<key>precisionShade</key>
+	<string>emitSlider</string>
+	<key>semanticDelegate</key>
+	<string>prepareScale</string>
+	<key>shouldTransformOption</key>
+	<string>kernelduration</string>
+</dict>
+</plist>

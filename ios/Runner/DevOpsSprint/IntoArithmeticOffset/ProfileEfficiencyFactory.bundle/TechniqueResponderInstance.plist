@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintEdge</key>
+	<string>ternaryEdge</string>
+	<key>geometricVector</key>
+	<string>desktopalpha</string>
+	<key>hashTail</key>
+	<string>responsiveGate</string>
+	<key>modulusBorder</key>
+	<string>storageBridge</string>
+	<key>oldDecoration</key>
+	<string>giftMediator</string>
+	<key>parsestore</key>
+	<string>transposeSingleton</string>
+	<key>queueStatus</key>
+	<string>shouldLayoutHeap</string>
+	<key>shouldKeepBehavior</key>
+	<string>storeHandler</string>
+	<key>shouldPaintCurve</key>
+	<string>provideasset</string>
+</dict>
+</plist>

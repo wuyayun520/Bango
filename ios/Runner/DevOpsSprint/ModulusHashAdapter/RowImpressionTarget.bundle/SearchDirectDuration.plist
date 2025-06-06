@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerPosition</key>
+	<string>scrollablereductionstate</string>
+	<key>displayableOccasion</key>
+	<string>eraseGrain</string>
+	<key>executeheap</key>
+	<string>activatedChannels</string>
+	<key>fragmentFeedback</key>
+	<string>renameTask</string>
+	<key>responderAlignment</key>
+	<string>mobileFragment</string>
+	<key>similarAwait</key>
+	<string>advancedListView</string>
+	<key>subscriberinteraction</key>
+	<string>enabledreducer</string>
+</dict>
+</plist>

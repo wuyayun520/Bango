@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableActivity</key>
+	<string>repositoryatoperation</string>
+	<key>errorTail</key>
+	<string>cacheBottom</string>
+	<key>fixedCallback</key>
+	<string>parallelVideo</string>
+	<key>overlayTail</key>
+	<string>coordinatorJob</string>
+	<key>rendererCount</key>
+	<string>unbindCoordinator</string>
+	<key>seamlessTitle</key>
+	<string>strengthKind</string>
+	<key>synchronousEmitter</key>
+	<string>normSize</string>
+</dict>
+</plist>

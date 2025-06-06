@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheSkewY</key>
+	<string>missionMomentum</string>
+	<key>cubedirection</key>
+	<string>firstChooser</string>
+	<key>displayableSample</key>
+	<string>canBuildWorkflow</string>
+	<key>materialleveltransparency</key>
+	<string>requiredActivity</string>
+	<key>metadataColor</key>
+	<string>statelessQuaternion</string>
+	<key>navigationforce</key>
+	<string>synchronizeProgressBar</string>
+	<key>respectivequeue</key>
+	<string>elasticSearcher</string>
+	<key>sampleSpacing</key>
+	<string>streamThread</string>
+	<key>tensorAnalyzer</key>
+	<string>canUnbindShader</string>
+</dict>
+</plist>

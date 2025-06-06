@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoInformation</key>
+	<string>fragmentsskewx</string>
+	<key>enabledExponent</key>
+	<string>shouldContinueSensor</string>
+	<key>explicitInformation</key>
+	<string>navigateDialogs</string>
+	<key>occasionFlags</key>
+	<string>explicitTrigger</string>
+	<key>wrapview</key>
+	<string>keyIcon</string>
+</dict>
+</plist>

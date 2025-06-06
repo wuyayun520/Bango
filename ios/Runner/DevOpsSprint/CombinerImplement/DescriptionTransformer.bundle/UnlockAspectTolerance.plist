@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachelayer</key>
+	<string>characteristicScale</string>
+	<key>consultativeMargin</key>
+	<string>canSubscribeReduction</string>
+	<key>difficultFrame</key>
+	<string>storyboardBound</string>
+	<key>draggableClipper</key>
+	<string>canInflateInkWell</string>
+	<key>statelessGestureDetector</key>
+	<string>receivercolor</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocformat</key>
+	<string>shouldRestartSizedBox</string>
+	<key>challengemodecolor</key>
+	<string>invokeTransition</string>
+	<key>contractionShade</key>
+	<string>pauseCharacter</string>
+	<key>contractionTransparency</key>
+	<string>themeVar</string>
+	<key>displayableStatus</key>
+	<string>updateconsumer</string>
+	<key>mainWrapper</key>
+	<string>tweenLocation</string>
+	<key>projectionAcceleration</key>
+	<string>shouldContinuePlayback</string>
+	<key>shouldRenderCheckbox</key>
+	<string>entityRate</string>
+	<key>timerFrequency</key>
+	<string>compositionalContainer</string>
+	<key>tweenBorder</key>
+	<string>delegateoffset</string>
+</dict>
+</plist>

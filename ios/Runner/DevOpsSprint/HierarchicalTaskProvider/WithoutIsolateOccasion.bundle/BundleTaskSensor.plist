@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTransformer</key>
+	<string>canDetachNavigator</string>
+	<key>elasticCatalyst</key>
+	<string>completedStateless</string>
+	<key>enabledCallback</key>
+	<string>lazyanimationvelocity</string>
+	<key>robustTweak</key>
+	<string>durationSpeed</string>
+	<key>shouldPaintTabBar</key>
+	<string>advancedgrayscale</string>
+	<key>skipinkwell</key>
+	<string>eventanalogy</string>
+	<key>timelineSaturation</key>
+	<string>numericalAscent</string>
+</dict>
+</plist>

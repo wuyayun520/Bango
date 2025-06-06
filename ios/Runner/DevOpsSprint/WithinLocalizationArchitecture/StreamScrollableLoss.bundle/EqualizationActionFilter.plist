@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendcache</key>
+	<string>declarativeException</string>
+	<key>finishnib</key>
+	<string>gesturedetectorTheme</string>
+	<key>hierarchicalbehaviorleft</key>
+	<string>shouldResumeConsumer</string>
+	<key>sampleHead</key>
+	<string>nativeScroller</string>
+	<key>shouldHandleMedia</key>
+	<string>adaptivePageView</string>
+	<key>shouldPrepareThread</key>
+	<string>selectorPressure</string>
+	<key>switchvisibility</key>
+	<string>loadIcon</string>
+</dict>
+</plist>

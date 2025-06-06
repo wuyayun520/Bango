@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerStamp</key>
+	<string>globalanimatedcontainer</string>
+	<key>fusedstateful</key>
+	<string>enumerateCoordinator</string>
+	<key>musicDelay</key>
+	<string>awaitBehavior</string>
+	<key>respectiveEntity</key>
+	<string>preparePet</string>
+	<key>taskchannel</key>
+	<string>checkboxTier</string>
+	<key>variantPosition</key>
+	<string>draggablePriority</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containeritem</key>
+	<string>crucialNotation</string>
+	<key>cursorAcceleration</key>
+	<string>shapeTail</string>
+	<key>hasInterpolation</key>
+	<string>canUnmountedMobile</string>
+	<key>intensityBound</key>
+	<string>deactivateSprite</string>
+	<key>layoutgroup</key>
+	<string>resizableHero</string>
+	<key>mergerleft</key>
+	<string>beginnerCurve</string>
+	<key>originalScroller</key>
+	<string>seamlessSkirt</string>
+	<key>pointagainstwork</key>
+	<string>restrictionMode</string>
+</dict>
+</plist>

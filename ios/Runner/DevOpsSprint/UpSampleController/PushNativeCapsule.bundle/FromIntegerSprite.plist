@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultWorkflow</key>
+	<string>insteadConstraint</string>
+	<key>disabledComposition</key>
+	<string>requestForce</string>
+	<key>interactiveRectangle</key>
+	<string>particlekind</string>
+	<key>mediumroutestatus</key>
+	<string>unmarshalRadius</string>
+	<key>shouldSerializeDialogs</key>
+	<string>integerdirection</string>
+	<key>sineTop</key>
+	<string>previewResponse</string>
+</dict>
+</plist>

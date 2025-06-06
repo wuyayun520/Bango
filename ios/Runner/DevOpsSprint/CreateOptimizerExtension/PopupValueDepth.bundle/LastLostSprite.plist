@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityBehavior</key>
+	<string>lastChapter</string>
+	<key>currentService</key>
+	<string>entityHead</string>
+	<key>primaryConstant</key>
+	<string>eagerException</string>
+	<key>statelessBitrate</key>
+	<string>uniformResolver</string>
+	<key>utilbesidenumber</key>
+	<string>mapoffset</string>
+</dict>
+</plist>

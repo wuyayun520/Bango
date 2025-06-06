@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvemetrics</key>
+	<string>retainedConsumption</string>
+	<key>primaryResponder</key>
+	<string>notifierCoord</string>
+	<key>relationalStateless</key>
+	<string>advancedRectangle</string>
+	<key>shouldPauseAspectRatio</key>
+	<string>compareTransformer</string>
+	<key>similarAudio</key>
+	<string>touchCurve</string>
+	<key>statefulMerger</key>
+	<string>collectionStyle</string>
+</dict>
+</plist>

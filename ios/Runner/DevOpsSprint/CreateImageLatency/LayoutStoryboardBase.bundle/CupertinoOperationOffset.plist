@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAnimator</key>
+	<string>fusedData</string>
+	<key>contrastCoord</key>
+	<string>shouldshowtabbar</string>
+	<key>disabledScenario</key>
+	<string>switchDelay</string>
+	<key>lostTrigger</key>
+	<string>smartIntensity</string>
+	<key>semanticMetrics</key>
+	<string>addReducer</string>
+	<key>substantialgroup</key>
+	<string>shaderSize</string>
+</dict>
+</plist>

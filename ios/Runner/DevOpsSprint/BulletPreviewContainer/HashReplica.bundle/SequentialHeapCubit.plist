@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedlinker</key>
+	<string>storenumberedge</string>
+	<key>amortizationType</key>
+	<string>removereduction</string>
+	<key>currentprecision</key>
+	<string>transitionBaseline</string>
+	<key>permanentMechanism</key>
+	<string>notifierresult</string>
+	<key>publicConstant</key>
+	<string>consumeChannel</string>
+	<key>shouldValidateNavigator</key>
+	<string>displayableanimation</string>
+	<key>standaloneBatch</key>
+	<string>intuitiveContainer</string>
+	<key>unactivatedsign</key>
+	<string>specifyMetadata</string>
+</dict>
+</plist>

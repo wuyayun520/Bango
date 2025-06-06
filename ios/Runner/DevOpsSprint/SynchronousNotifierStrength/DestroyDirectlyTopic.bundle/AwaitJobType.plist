@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTheme</key>
+	<string>canReplaceSemantics</string>
+	<key>audioBound</key>
+	<string>transpileStream</string>
+	<key>fixedCosine</key>
+	<string>shouldCreateAnimation</string>
+	<key>intensityindex</key>
+	<string>fillHandler</string>
+	<key>mainReceiver</key>
+	<string>tappableSingleton</string>
+	<key>resumeanimatedcontainer</key>
+	<string>modelFlyweight</string>
+	<key>robustcallbackborder</key>
+	<string>canBuildEffect</string>
+	<key>shouldAnimateGesture</key>
+	<string>robustProtocol</string>
+	<key>shouldCacheTask</key>
+	<string>marginefficiency</string>
+	<key>utiltag</key>
+	<string>lazyAllocator</string>
+</dict>
+</plist>

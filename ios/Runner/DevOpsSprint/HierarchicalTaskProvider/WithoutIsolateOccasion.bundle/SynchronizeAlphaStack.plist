@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousFilter</key>
+	<string>hyperbolicLatency</string>
+	<key>augmentduration</key>
+	<string>dimensionMethod</string>
+	<key>currentEntropy</key>
+	<string>introspectWidget</string>
+	<key>dedicatedText</key>
+	<string>checkboxRotation</string>
+	<key>directMenu</key>
+	<string>renameBuilder</string>
+	<key>gateSpacing</key>
+	<string>scenestate</string>
+	<key>semanticsContrast</key>
+	<string>symmetricMission</string>
+	<key>specifycapsulealignment</key>
+	<string>eagerOperation</string>
+	<key>spriteDelay</key>
+	<string>serializeAperture</string>
+</dict>
+</plist>

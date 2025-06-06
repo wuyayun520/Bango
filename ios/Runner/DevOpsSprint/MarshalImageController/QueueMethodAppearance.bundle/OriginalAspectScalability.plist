@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientvertex</key>
+	<string>interactivePopup</string>
+	<key>pinchableCapsule</key>
+	<string>mediocreSample</string>
+	<key>robustListView</key>
+	<string>aspectexceptlevel</string>
+	<key>segmentScale</key>
+	<string>shouldResumeDescriptor</string>
+	<key>showchart</key>
+	<string>completedGem</string>
+	<key>specifyAnchor</key>
+	<string>coordinatorEnvironment</string>
+	<key>staticscene</key>
+	<string>rapidParticle</string>
+	<key>tensorThreshold</key>
+	<string>asynchronousPainter</string>
+</dict>
+</plist>

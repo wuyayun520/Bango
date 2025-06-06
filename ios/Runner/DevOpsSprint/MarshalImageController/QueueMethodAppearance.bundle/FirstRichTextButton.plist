@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGrid</key>
+	<string>keyInteraction</string>
+	<key>cellworkdelay</key>
+	<string>disclaimerStatus</string>
+	<key>seamlessCurve</key>
+	<string>specifyGrain</string>
+	<key>semanticOccasion</key>
+	<string>synchronousScenario</string>
+	<key>shouldCancelInstruction</key>
+	<string>columnType</string>
+	<key>shoulddecodeentropy</key>
+	<string>deflateListener</string>
+	<key>smartCompletion</key>
+	<string>euclideanBullet</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitcycleflags</key>
+	<string>canDecodeController</string>
+	<key>finderInterval</key>
+	<string>bitrateinset</string>
+	<key>fragmentSkewX</key>
+	<string>requiredModule</string>
+	<key>hyperbolicVideo</key>
+	<string>emitIcon</string>
+	<key>shouldDispatchWidget</key>
+	<string>shouldFetchTool</string>
+	<key>singleschema</key>
+	<string>staticChart</string>
+	<key>vectorEdge</key>
+	<string>integerDirection</string>
+</dict>
+</plist>

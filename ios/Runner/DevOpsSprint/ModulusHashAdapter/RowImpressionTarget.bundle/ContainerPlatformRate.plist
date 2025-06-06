@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audiodensity</key>
+	<string>symmetricreceiver</string>
+	<key>basicGraph</key>
+	<string>directlyPosition</string>
+	<key>imperativeNotification</key>
+	<string>injectionsystembrightness</string>
+	<key>publishcollection</key>
+	<string>refreshinjection</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretelayout</key>
+	<string>orchestrateManager</string>
+	<key>mediumbuildershape</key>
+	<string>buildersize</string>
+	<key>pinchableconstraint</key>
+	<string>exponentProxy</string>
+	<key>seamlessIndicator</key>
+	<string>resilientGram</string>
+	<key>unbindinteger</key>
+	<string>shouldStreamMatrix</string>
+	<key>workflowShape</key>
+	<string>animatedPermutation</string>
+</dict>
+</plist>

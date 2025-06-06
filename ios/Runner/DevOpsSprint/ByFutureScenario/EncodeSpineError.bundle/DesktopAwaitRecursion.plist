@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyConnector</key>
+	<string>responsedepth</string>
+	<key>gesturedetectortitle</key>
+	<string>orchestrateMenu</string>
+	<key>lazyInteractor</key>
+	<string>petCycle</string>
+	<key>permanentchaptermargin</key>
+	<string>disposecolumn</string>
+	<key>publicModel</key>
+	<string>mediumModel</string>
+	<key>shouldFinishMusic</key>
+	<string>animateSample</string>
+	<key>shouldtrainchannels</key>
+	<string>shouldHandleSpine</string>
+	<key>specifierVisible</key>
+	<string>statefulWorkflow</string>
+	<key>statelessMomentum</key>
+	<string>cacheDocument</string>
+</dict>
+</plist>

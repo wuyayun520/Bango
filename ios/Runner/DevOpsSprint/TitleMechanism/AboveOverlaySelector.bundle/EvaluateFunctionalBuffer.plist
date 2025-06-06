@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositiontransition</key>
+	<string>channelexceptshape</string>
+	<key>nibResponse</key>
+	<string>usedTitle</string>
+	<key>richtexthandler</key>
+	<string>tangentAlignment</string>
+	<key>shouldNavigateLabel</key>
+	<string>shouldBuildOverlay</string>
+	<key>subsequentCubit</key>
+	<string>reusableMultiplication</string>
+</dict>
+</plist>

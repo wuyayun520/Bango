@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isboxshadow</key>
+	<string>grainopacity</string>
+	<key>onpaddingtap</key>
+	<string>bundlecapacities</string>
+	<key>playbackVisibility</key>
+	<string>canRouteScale</string>
+	<key>selectedStack</key>
+	<string>canEndDialogs</string>
+	<key>shouldreplacescroll</key>
+	<string>iterativetrigger</string>
+	<key>sizedboxadaptervisibility</key>
+	<string>listviewCoord</string>
+	<key>substantialScalability</key>
+	<string>nativeStroke</string>
+</dict>
+</plist>

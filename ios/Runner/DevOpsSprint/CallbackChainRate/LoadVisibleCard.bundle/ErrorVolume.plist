@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableBloc</key>
+	<string>freeCoordinator</string>
+	<key>customMaterial</key>
+	<string>canPresentModulus</string>
+	<key>emitoffset</key>
+	<string>canRenderGridView</string>
+	<key>hashlayeroffset</key>
+	<string>canLoadRole</string>
+	<key>inactiveLog</key>
+	<string>smartPrecision</string>
+	<key>inheritedCallback</key>
+	<string>activatedQuaternion</string>
+	<key>initializeheap</key>
+	<string>lazyNavigator</string>
+	<key>instructionappearance</key>
+	<string>singletonTask</string>
+	<key>reusableCreator</key>
+	<string>deferredTaxonomy</string>
+	<key>visibleAperture</key>
+	<string>detectorForce</string>
+</dict>
+</plist>

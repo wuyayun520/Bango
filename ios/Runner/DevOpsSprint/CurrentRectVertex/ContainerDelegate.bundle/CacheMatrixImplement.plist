@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileobserver</key>
+	<string>transitionMethod</string>
+	<key>declarativeComposition</key>
+	<string>renderConsumer</string>
+	<key>dropdownbuttonbuilder</key>
+	<string>enabledOffset</string>
+	<key>groupsorter</key>
+	<string>setstateScroll</string>
+	<key>respectiveJoiner</key>
+	<string>typicalscroller</string>
+	<key>shouldPresentExponent</key>
+	<string>shouldFetchMonster</string>
+	<key>uniformpaintertag</key>
+	<string>loadhistogram</string>
+</dict>
+</plist>

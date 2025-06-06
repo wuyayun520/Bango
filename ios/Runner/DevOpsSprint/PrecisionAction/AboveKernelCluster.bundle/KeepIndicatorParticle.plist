@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticincludelayer</key>
+	<string>cardchooser</string>
+	<key>euclideanAction</key>
+	<string>processDelegate</string>
+	<key>modelversusflyweight</key>
+	<string>createProfile</string>
+	<key>shouldmountedsession</key>
+	<string>onsampletap</string>
+	<key>sliderCount</key>
+	<string>interpolationbottom</string>
+	<key>updategesturedetector</key>
+	<string>selectedindicator</string>
+</dict>
+</plist>

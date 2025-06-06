@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaittail</key>
+	<string>retainedGraph</string>
+	<key>imagekind</key>
+	<string>lossinset</string>
+	<key>inactiveVector</key>
+	<string>createFragment</string>
+	<key>prismaticTexture</key>
+	<string>canDisposeMap</string>
+	<key>protocolMode</key>
+	<string>sortedResource</string>
+	<key>skiptimer</key>
+	<string>unbindProfile</string>
+	<key>stateBorder</key>
+	<string>primaryDocument</string>
+	<key>synchronousasyncflags</key>
+	<string>calculateResource</string>
+</dict>
+</plist>

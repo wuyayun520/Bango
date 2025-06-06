@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deployevent</key>
+	<string>notifyMaster</string>
+	<key>enhancecapacities</key>
+	<string>liteThread</string>
+	<key>fixedRadio</key>
+	<string>shouldcachesymbol</string>
+	<key>sizeLocation</key>
+	<string>shouldUnmountGesture</string>
+</dict>
+</plist>

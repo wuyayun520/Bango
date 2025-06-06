@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamictasktag</key>
+	<string>originalAlignment</string>
+	<key>elasticmarginbound</key>
+	<string>inkwellfeedback</string>
+	<key>histogramShade</key>
+	<string>offsetfromaction</string>
+	<key>iterativeController</key>
+	<string>enhanceAsync</string>
+	<key>linkerBehavior</key>
+	<string>keyInteraction</string>
+	<key>normalstoreleft</key>
+	<string>floatTween</string>
+	<key>overridemap</key>
+	<string>shouldRenderHistogram</string>
+	<key>shouldPaintBullet</key>
+	<string>backwardScheduler</string>
+	<key>staticAmortization</key>
+	<string>consultativeGroup</string>
+	<key>symmetricActivity</key>
+	<string>shouldYieldInteger</string>
+</dict>
+</plist>

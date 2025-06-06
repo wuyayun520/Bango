@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentBound</key>
+	<string>pinchableJoiner</string>
+	<key>expandedcolor</key>
+	<string>unactivatedTheme</string>
+	<key>explicitPainter</key>
+	<string>saveChecklist</string>
+	<key>resilientProject</key>
+	<string>formatNorm</string>
+	<key>shouldDisconnectResource</key>
+	<string>shouldFormatLog</string>
+	<key>shouldObserveSpot</key>
+	<string>reusableSession</string>
+	<key>shouldRebuildExpanded</key>
+	<string>batchObserver</string>
+	<key>unsortedStream</key>
+	<string>immediateSegue</string>
+	<key>visibleReliability</key>
+	<string>replicateChapter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueresource</key>
+	<string>asyncStatus</string>
+	<key>dataVelocity</key>
+	<string>parseFragment</string>
+	<key>deferredBehavior</key>
+	<string>reactiveSubpixel</string>
+	<key>directlycustompainttag</key>
+	<string>canParseProvider</string>
+	<key>modulusSkewX</key>
+	<string>beginnerStamp</string>
+	<key>ternaryOpacity</key>
+	<string>matrixsize</string>
+	<key>unsortedtopic</key>
+	<string>canUnmountCosine</string>
+</dict>
+</plist>

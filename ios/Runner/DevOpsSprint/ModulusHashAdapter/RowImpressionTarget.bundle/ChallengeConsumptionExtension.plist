@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containercoord</key>
+	<string>selectedGift</string>
+	<key>crudeVector</key>
+	<string>advancedModel</string>
+	<key>dispatcherDelay</key>
+	<string>emitsprite</string>
+	<key>exitcustompaint</key>
+	<string>opaqueBox</string>
+	<key>requestindex</key>
+	<string>loadAperture</string>
+	<key>shouldMountedBinary</key>
+	<string>canShowGraphic</string>
+	<key>sortedProtocol</key>
+	<string>canUnmountCard</string>
+	<key>texturecapacity</key>
+	<string>mobileBound</string>
+</dict>
+</plist>

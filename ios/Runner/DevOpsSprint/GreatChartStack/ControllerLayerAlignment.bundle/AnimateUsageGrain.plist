@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentShape</key>
+	<string>compositionAdapter</string>
+	<key>comprehensiveLocalization</key>
+	<string>relationalTopic</string>
+	<key>delicateIcon</key>
+	<string>subtleRenderer</string>
+	<key>dispatchposition</key>
+	<string>canFormatAnchor</string>
+	<key>grainagainsttier</key>
+	<string>euclideanprojection</string>
+	<key>positionStatus</key>
+	<string>connectInteractor</string>
+	<key>segueBehavior</key>
+	<string>loopMemento</string>
+	<key>sequentialSegment</key>
+	<string>skipNotifier</string>
+	<key>statefulShader</key>
+	<string>streamlineRoute</string>
+	<key>subscriberindex</key>
+	<string>sortedSizedBox</string>
+</dict>
+</plist>

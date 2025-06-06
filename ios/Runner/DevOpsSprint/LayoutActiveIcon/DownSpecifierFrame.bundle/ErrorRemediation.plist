@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerOpacity</key>
+	<string>canStartAxis</string>
+	<key>contrastBehavior</key>
+	<string>shouldObserveNavigator</string>
+	<key>delicateDescriptor</key>
+	<string>skinBound</string>
+	<key>maintainscene</key>
+	<string>shouldUpdateAspect</string>
+	<key>queueSaturation</key>
+	<string>shouldPublishCosine</string>
+	<key>reusableBitrate</key>
+	<string>constraintparametercolor</string>
+	<key>sortedoffsethead</key>
+	<string>timertiermode</string>
+</dict>
+</plist>

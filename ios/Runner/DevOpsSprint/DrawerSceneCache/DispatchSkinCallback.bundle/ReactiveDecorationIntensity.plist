@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorydependency</key>
+	<string>revisitSingleton</string>
+	<key>associatedRow</key>
+	<string>statefulBuilder</string>
+	<key>durationTransparency</key>
+	<string>scaffolddelay</string>
+	<key>easySlider</key>
+	<string>finishTextField</string>
+	<key>onclipperchanged</key>
+	<string>canShowSemantics</string>
+	<key>reactiveAnchor</key>
+	<string>enumerateRouter</string>
+	<key>shouldUnbindTabView</key>
+	<string>appbarticker</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRenderer</key>
+	<string>bindScroll</string>
+	<key>composableFactory</key>
+	<string>fixedSemantics</string>
+	<key>customizedEvent</key>
+	<string>shoulddetachgrayscale</string>
+	<key>delicateRepository</key>
+	<string>canYieldSwitch</string>
+	<key>easyContainer</key>
+	<string>matrixstyleshade</string>
+	<key>primaryUsage</key>
+	<string>tappableMend</string>
+	<key>shouldUnmountRoute</key>
+	<string>nextMatrix</string>
+	<key>statelessaboutenvironment</key>
+	<string>curveTail</string>
+</dict>
+</plist>

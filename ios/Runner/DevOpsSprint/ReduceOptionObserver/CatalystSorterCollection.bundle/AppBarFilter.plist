@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotatezone</key>
+	<string>oldLocalization</string>
+	<key>factoryOffset</key>
+	<string>activatedFragment</string>
+	<key>imperativeException</key>
+	<string>modulusversusaction</string>
+	<key>navigatecoordinator</key>
+	<string>gradientzone</string>
+	<key>originalGridView</key>
+	<string>subscriptionoffset</string>
+</dict>
+</plist>

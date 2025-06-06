@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultSkirt</key>
+	<string>traversalTop</string>
+	<key>geometricRestriction</key>
+	<string>dynamicComposition</string>
+	<key>shouldPrepareActivity</key>
+	<string>typicalInfo</string>
+	<key>standaloneTime</key>
+	<string>exceptionLocation</string>
+	<key>stateflags</key>
+	<string>detachBuilder</string>
+	<key>typicalnode</key>
+	<string>shouldPauseRow</string>
+</dict>
+</plist>

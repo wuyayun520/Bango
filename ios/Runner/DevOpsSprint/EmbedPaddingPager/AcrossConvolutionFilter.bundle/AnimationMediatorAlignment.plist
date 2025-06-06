@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretereducer</key>
+	<string>animatorcolor</string>
+	<key>crucialRequest</key>
+	<string>criticalnode</string>
+	<key>currentcupertino</key>
+	<string>threadAdapter</string>
+	<key>eagerData</key>
+	<string>animatelistener</string>
+	<key>fragmentlevelvalidation</key>
+	<string>requestRouter</string>
+	<key>resizableDelivery</key>
+	<string>entityPosition</string>
+	<key>sharedAnimation</key>
+	<string>capacitiesCount</string>
+	<key>shouldAnimateExpanded</key>
+	<string>persistUnary</string>
+	<key>viewTint</key>
+	<string>usedCapsule</string>
+</dict>
+</plist>

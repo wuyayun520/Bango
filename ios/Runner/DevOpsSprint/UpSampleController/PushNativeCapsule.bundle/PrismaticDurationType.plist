@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedfragments</key>
+	<string>activeDelegate</string>
+	<key>denseResponder</key>
+	<string>durationComposite</string>
+	<key>globalcubespacing</key>
+	<string>explicitSound</string>
+	<key>hardDimension</key>
+	<string>autoImage</string>
+	<key>iterativeboxshadow</key>
+	<string>tappableSound</string>
+	<key>paddingEdge</key>
+	<string>exitinstruction</string>
+	<key>scrolllabel</key>
+	<string>statefulTicker</string>
+	<key>shouldDisposeBinary</key>
+	<string>isdropdownbutton</string>
+	<key>traversalInterval</key>
+	<string>minFragment</string>
+</dict>
+</plist>

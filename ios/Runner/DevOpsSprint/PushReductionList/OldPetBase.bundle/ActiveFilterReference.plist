@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficulttext</key>
+	<string>canNavigateWidget</string>
+	<key>functionalDecoration</key>
+	<string>listviewForm</string>
+	<key>mobileStateless</key>
+	<string>permanentPublisher</string>
+	<key>servicemechanism</key>
+	<string>servicePosition</string>
+	<key>transitioncontrast</key>
+	<string>similarBinary</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationsize</key>
+	<string>adjustGrid</string>
+	<key>currentWorkflow</key>
+	<string>modalJob</string>
+	<key>flexFrequency</key>
+	<string>shouldAttachStateful</string>
+	<key>hyperbolicCursor</key>
+	<string>popupenvironmentrotation</string>
+	<key>localLinker</key>
+	<string>shouldSkipBitrate</string>
+	<key>nextSkin</key>
+	<string>numericalGrain</string>
+	<key>resizableObject</key>
+	<string>canCreatePlayback</string>
+	<key>shouldStopInterpolation</key>
+	<string>transformNorm</string>
+</dict>
+</plist>

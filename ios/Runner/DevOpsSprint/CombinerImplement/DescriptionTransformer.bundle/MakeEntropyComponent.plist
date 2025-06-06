@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actiondispatcher</key>
+	<string>symmetricNavigator</string>
+	<key>integerinlayer</key>
+	<string>disconnectTopic</string>
+	<key>registerstep</key>
+	<string>offsetMenu</string>
+	<key>shouldSetStateGift</key>
+	<string>rotateTopic</string>
+	<key>viewuntiltemple</key>
+	<string>sessionobservertransparency</string>
+	<key>visibleskin</key>
+	<string>limithash</string>
+</dict>
+</plist>

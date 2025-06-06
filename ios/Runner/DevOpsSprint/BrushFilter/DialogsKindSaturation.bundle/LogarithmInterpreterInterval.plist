@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousInfo</key>
+	<string>displayableOccasion</string>
+	<key>criticalConstraint</key>
+	<string>transformMember</string>
+	<key>gradientstate</key>
+	<string>shouldObserveCard</string>
+	<key>newestposition</key>
+	<string>scheduleLayout</string>
+	<key>primarycontainerhead</key>
+	<string>allocatorFrequency</string>
+	<key>scalabilityName</key>
+	<string>inheritedData</string>
+	<key>shouldEncodePainter</key>
+	<string>shouldhandlecaption</string>
+	<key>standaloneMargin</key>
+	<string>shouldunmountedstateful</string>
+</dict>
+</plist>

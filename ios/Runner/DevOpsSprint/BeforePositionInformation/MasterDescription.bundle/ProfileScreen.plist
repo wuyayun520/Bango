@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedDelegate</key>
+	<string>kernelSingleton</string>
+	<key>largeResult</key>
+	<string>processallocator</string>
+	<key>protocolLeft</key>
+	<string>usecaseFormat</string>
+	<key>scaffoldtag</key>
+	<string>boxBridge</string>
+	<key>shouldUnmountTouch</key>
+	<string>subtleScene</string>
+	<key>subscriptionLeft</key>
+	<string>accordionRow</string>
+</dict>
+</plist>

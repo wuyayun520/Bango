@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinehead</key>
+	<string>cursoroperationcontrast</string>
+	<key>cellrate</key>
+	<string>activeChart</string>
+	<key>comprehensiveObserver</key>
+	<string>scrollablePreview</string>
+	<key>enabledThreshold</key>
+	<string>metadatamode</string>
+	<key>shouldCacheDropdownButton</key>
+	<string>shapeFlags</string>
+	<key>shouldNavigateLabel</key>
+	<string>ignoredhandler</string>
+	<key>temporaryTrigger</key>
+	<string>standaloneData</string>
+</dict>
+</plist>

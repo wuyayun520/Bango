@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesPosition</key>
+	<string>dedicatedExtension</string>
+	<key>checklistSkewY</key>
+	<string>gridviewlikestyle</string>
+	<key>explicitTentative</key>
+	<string>interfaceMethod</string>
+	<key>limitallocator</key>
+	<string>itemTop</string>
+	<key>memberorvariable</key>
+	<string>precisionedge</string>
+	<key>relationalDependency</key>
+	<string>tweenFlags</string>
+	<key>semanticcyclecontrast</key>
+	<string>normBottom</string>
+	<key>typicalInfo</key>
+	<string>workflowoperation</string>
+</dict>
+</plist>

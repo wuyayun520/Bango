@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedResponse</key>
+	<string>processTween</string>
+	<key>meshAppearance</key>
+	<string>modulusTheme</string>
+	<key>permissivetickerspacing</key>
+	<string>shouldPrepareSegment</string>
+	<key>prevInteraction</key>
+	<string>shouldCacheMovement</string>
+	<key>retainedInfo</key>
+	<string>discardedEntropy</string>
+	<key>selectortheme</key>
+	<string>layerOpacity</string>
+	<key>significantCustomPaint</key>
+	<string>impactColor</string>
+</dict>
+</plist>

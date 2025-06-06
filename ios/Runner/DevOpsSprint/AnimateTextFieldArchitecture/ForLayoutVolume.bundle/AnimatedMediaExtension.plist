@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledResponder</key>
+	<string>shouldFetchProject</string>
+	<key>immutablefuture</key>
+	<string>synchronizeAllocator</string>
+	<key>prevtasktag</key>
+	<string>canDispatchMap</string>
+	<key>providecoordinator</key>
+	<string>concreteImage</string>
+	<key>shouldPersistGridView</key>
+	<string>specifyvariant</string>
+	<key>shouldpauseusage</key>
+	<string>precisionIndex</string>
+	<key>subtleMapper</key>
+	<string>ternaryincludefacade</string>
+</dict>
+</plist>

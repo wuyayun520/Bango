@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterpadding</key>
+	<string>finishcheckbox</string>
+	<key>customScroll</key>
+	<string>nibmetrics</string>
+	<key>descriptionedge</key>
+	<string>previewActivity</string>
+	<key>localInfrastructure</key>
+	<string>canBuildBloc</string>
+	<key>sequentialscenario</key>
+	<string>limitslider</string>
+	<key>uniformAlert</key>
+	<string>assetdepth</string>
+</dict>
+</plist>

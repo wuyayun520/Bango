@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSession</key>
+	<string>controllerFrequency</string>
+	<key>composablePadding</key>
+	<string>adaptiveWorkflow</string>
+	<key>cosineKind</key>
+	<string>customAsset</string>
+	<key>deactivateequipment</key>
+	<string>onroutechanged</string>
+	<key>intermediateScenario</key>
+	<string>slashwidget</string>
+	<key>ondelegatetap</key>
+	<string>logLeft</string>
+	<key>requiredpopupmomentum</key>
+	<string>formatStep</string>
+	<key>shouldTransitionDescriptor</key>
+	<string>interceptStream</string>
+	<key>tappableAlignment</key>
+	<string>shouldEncodeTask</string>
+	<key>titleTail</key>
+	<string>scaffoldcenter</string>
+</dict>
+</plist>

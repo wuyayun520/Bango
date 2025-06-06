@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveBitrate</key>
+	<string>canSubscribeCapsule</string>
+	<key>discardedInterpolation</key>
+	<string>shouldEncodeBase</string>
+	<key>resourceAlignment</key>
+	<string>unaryLeft</string>
+	<key>resourceaboutvalue</key>
+	<string>canHandleBitrate</string>
+</dict>
+</plist>

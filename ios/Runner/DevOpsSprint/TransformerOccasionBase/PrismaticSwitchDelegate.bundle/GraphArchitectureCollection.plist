@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioDirection</key>
+	<string>imperativeQueue</string>
+	<key>bindmetadata</key>
+	<string>shouldDetachImage</string>
+	<key>criticaltopictop</key>
+	<string>multiplicationdirection</string>
+	<key>crudeAmortization</key>
+	<string>resizableFilter</string>
+	<key>dedicatedAnimation</key>
+	<string>stateEnvironment</string>
+	<key>integrationStatus</key>
+	<string>scopeCoord</string>
+	<key>intuitiveAlert</key>
+	<string>geometricPrecision</string>
+	<key>modelTension</key>
+	<string>inactivePreview</string>
+	<key>parallelButton</key>
+	<string>detachTangent</string>
+</dict>
+</plist>

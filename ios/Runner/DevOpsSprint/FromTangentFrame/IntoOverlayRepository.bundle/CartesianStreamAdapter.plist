@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentflex</key>
+	<string>injectionStrategy</string>
+	<key>chaptermargin</key>
+	<string>shouldResumeMargin</string>
+	<key>descriptorInterval</key>
+	<string>composableamortization</string>
+	<key>expandedshape</key>
+	<string>grainDistance</string>
+	<key>prismaticboxshadow</key>
+	<string>rotateTimer</string>
+	<key>resizableReceiver</key>
+	<string>processorSkewY</string>
+	<key>rowalongplatform</key>
+	<string>detachStep</string>
+	<key>seamlessRole</key>
+	<string>hyperbolicmatrix</string>
+	<key>visibleLabel</key>
+	<string>bulletstorage</string>
+</dict>
+</plist>

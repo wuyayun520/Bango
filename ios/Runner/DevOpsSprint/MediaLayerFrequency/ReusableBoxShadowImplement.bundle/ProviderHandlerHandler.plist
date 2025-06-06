@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAnalyzer</key>
+	<string>canSaveStateful</string>
+	<key>baseorientation</key>
+	<string>quantizationDependency</string>
+	<key>functionalEntity</key>
+	<string>cleanSprite</string>
+	<key>greatreducertheme</key>
+	<string>mobileStep</string>
+	<key>optimizerPosition</key>
+	<string>shouldParseAccessory</string>
+	<key>shouldBindCurve</key>
+	<string>methodstyledelay</string>
+	<key>shouldCancelSizedBox</key>
+	<string>interpolateFeature</string>
+	<key>shouldStreamMap</key>
+	<string>loadDecoration</string>
+	<key>subsequentDocument</key>
+	<string>hyperbolicScaffold</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAction</key>
+	<string>multiResult</string>
+	<key>denseDrawer</key>
+	<string>restoreconsumer</string>
+	<key>dynamicVolume</key>
+	<string>mobileParam</string>
+	<key>functionalAmortization</key>
+	<string>overrideChart</string>
+	<key>invisibleAnimatedContainer</key>
+	<string>profileBound</string>
+	<key>iterativeImpact</key>
+	<string>symmetricMedia</string>
+	<key>prevchannelborder</key>
+	<string>directgridtint</string>
+	<key>shouldMountButton</key>
+	<string>parallelTransition</string>
+	<key>synchronousEfficiency</key>
+	<string>storeFrame</string>
+	<key>uniqueEfficiency</key>
+	<string>converterContrast</string>
+</dict>
+</plist>

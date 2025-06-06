@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveChooser</key>
+	<string>canResumeView</string>
+	<key>confidentialityinset</key>
+	<string>functionalPlayback</string>
+	<key>constraintdirection</key>
+	<string>dynamicnavigationstyle</string>
+	<key>currentalpha</key>
+	<string>completedBorder</string>
+	<key>independentPrecision</key>
+	<string>localDropdownButton</string>
+	<key>specifierTheme</key>
+	<string>debugVector</string>
+</dict>
+</plist>

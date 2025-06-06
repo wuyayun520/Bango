@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitShade</key>
+	<string>originalinterfacestate</string>
+	<key>explicitRepository</key>
+	<string>primaryHandler</string>
+	<key>movementforenvironment</key>
+	<string>keyTask</string>
+	<key>scaffoldTheme</key>
+	<string>dependencyTail</string>
+	<key>seamlessCoordinator</key>
+	<string>shouldUnbindSegment</string>
+	<key>shouldProcessStamp</key>
+	<string>updateAspectRatio</string>
+</dict>
+</plist>

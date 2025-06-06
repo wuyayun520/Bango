@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTechnique</key>
+	<string>delicateView</string>
+	<key>disabledcaptionresponse</key>
+	<string>handleEquipment</string>
+	<key>sequentialPager</key>
+	<string>robustParticle</string>
+	<key>shouldBuildBaseline</key>
+	<string>shouldSubscribeTernary</string>
+</dict>
+</plist>

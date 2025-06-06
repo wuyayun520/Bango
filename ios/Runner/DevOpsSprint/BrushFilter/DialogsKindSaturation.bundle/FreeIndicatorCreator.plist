@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvefromform</key>
+	<string>cancelCurve</string>
+	<key>originalConverter</key>
+	<string>symmetricQuaternion</string>
+	<key>particlereliability</key>
+	<string>iterativeGroup</string>
+	<key>protectedVideo</key>
+	<string>mitigateProvider</string>
+	<key>resilientArchitecture</key>
+	<string>overlayPressure</string>
+	<key>shouldRebuildStamp</key>
+	<string>immediatewidget</string>
+	<key>sustainablehashname</key>
+	<string>opaqueSymbol</string>
+	<key>usageAlignment</key>
+	<string>poploop</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedresulttail</key>
+	<string>listenerCycle</string>
+	<key>contractionposition</key>
+	<string>shouldConnectExponent</string>
+	<key>futureplatformtransparency</key>
+	<string>playbackposition</string>
+	<key>hierarchicalMesh</key>
+	<string>shouldformatdialogs</string>
+	<key>shouldContinueSpot</key>
+	<string>sessionResponse</string>
+	<key>transformicon</key>
+	<string>processDuration</string>
+</dict>
+</plist>

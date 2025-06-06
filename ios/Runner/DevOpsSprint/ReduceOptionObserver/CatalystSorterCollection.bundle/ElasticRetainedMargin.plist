@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedFlex</key>
+	<string>associatedarithmeticspacing</string>
+	<key>formatposition</key>
+	<string>activeLabel</string>
+	<key>shouldResumeInteger</key>
+	<string>canLoadStamp</string>
+	<key>smallObserver</key>
+	<string>disconnectResult</string>
+</dict>
+</plist>

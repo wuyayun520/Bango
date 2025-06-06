@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorFormat</key>
+	<string>flexDistance</string>
+	<key>disabledVariant</key>
+	<string>onconsumertap</string>
+	<key>providertween</key>
+	<string>draggableConfiguration</string>
+	<key>queueatjob</key>
+	<string>canDetachCosine</string>
+	<key>richtextLeft</key>
+	<string>canRouteGesture</string>
+	<key>standaloneAmortization</key>
+	<string>dialogsSaturation</string>
+	<key>sustainableBinder</key>
+	<string>shouldTrainSkin</string>
+</dict>
+</plist>

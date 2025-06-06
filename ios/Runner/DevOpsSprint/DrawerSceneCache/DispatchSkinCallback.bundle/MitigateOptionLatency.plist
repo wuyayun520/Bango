@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculatecoordinator</key>
+	<string>mutableresolver</string>
+	<key>customizedBaseline</key>
+	<string>sustainableConverter</string>
+	<key>mobileDistance</key>
+	<string>intuitiveSlider</string>
+	<key>otherstate</key>
+	<string>nodeParameter</string>
+	<key>stampResponse</key>
+	<string>enumerateRepository</string>
+</dict>
+</plist>

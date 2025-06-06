@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeProtocol</key>
+	<string>notificationCoord</string>
+	<key>delicateAllocator</key>
+	<string>polygonValidation</string>
+	<key>gesturedetectorofstrategy</key>
+	<string>denseDetector</string>
+	<key>lazyChart</key>
+	<string>mediumMovement</string>
+	<key>materialCapacities</key>
+	<string>directRange</string>
+	<key>oldAppBar</key>
+	<string>stateDelay</string>
+	<key>subtleAmortization</key>
+	<string>differentiatebuffer</string>
+	<key>temporaryisolate</key>
+	<string>stepAcceleration</string>
+	<key>themearchitecture</key>
+	<string>divideView</string>
+</dict>
+</plist>

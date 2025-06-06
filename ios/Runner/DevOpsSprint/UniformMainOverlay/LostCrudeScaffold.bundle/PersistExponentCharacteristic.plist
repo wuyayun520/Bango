@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanrouterleft</key>
+	<string>sampleactivityvelocity</string>
+	<key>hyperbolicDimension</key>
+	<string>consultativeChooser</string>
+	<key>requiredStatus</key>
+	<string>staticContrast</string>
+	<key>routertransparency</key>
+	<string>releaseResponse</string>
+	<key>shouldNotifyPageView</key>
+	<string>shouldpausestoryboard</string>
+	<key>smartGrayscale</key>
+	<string>shouldBuildRadio</string>
+	<key>topicStatus</key>
+	<string>interpolationphasevelocity</string>
+	<key>uniformCollection</key>
+	<string>shouldDisconnectPoint</string>
+</dict>
+</plist>

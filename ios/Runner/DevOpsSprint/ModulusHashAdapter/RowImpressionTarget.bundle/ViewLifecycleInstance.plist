@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateanimation</key>
+	<string>numericalCache</string>
+	<key>componentTheme</key>
+	<string>concatenateManager</string>
+	<key>immediateSlider</key>
+	<string>petphaseshape</string>
+	<key>iterativerequest</key>
+	<string>symbolSpeed</string>
+	<key>mediaqueryColor</key>
+	<string>groupquaternion</string>
+	<key>pivotalAlert</key>
+	<string>defaultnib</string>
+	<key>shouldCacheAperture</key>
+	<string>yieldOverlay</string>
+	<key>shouldContinueTextField</key>
+	<string>singleModule</string>
+	<key>shouldFetchSensor</key>
+	<string>activatedContrast</string>
+	<key>sophisticatedDescription</key>
+	<string>unscheduleLabel</string>
+</dict>
+</plist>

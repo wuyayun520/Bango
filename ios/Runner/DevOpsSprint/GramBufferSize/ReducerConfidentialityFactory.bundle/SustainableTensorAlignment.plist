@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridright</key>
+	<string>shouldValidateMaterial</string>
+	<key>groupAppearance</key>
+	<string>marshalEntity</string>
+	<key>lazyTweak</key>
+	<string>labelHue</string>
+	<key>tweakStatus</key>
+	<string>reactiveCallback</string>
+</dict>
+</plist>

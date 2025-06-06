@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTimeline</key>
+	<string>updateMap</string>
+	<key>desktopbulletlocation</key>
+	<string>granularFlex</string>
+	<key>permissiveRectangle</key>
+	<string>sortedStateful</string>
+	<key>shouldEmitAccessory</key>
+	<string>clearConfiguration</string>
+	<key>subsequentModel</key>
+	<string>unbindDimension</string>
+</dict>
+</plist>

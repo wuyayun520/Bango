@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapBehavior</key>
+	<string>canSaveOperation</string>
+	<key>masterCenter</key>
+	<string>activeMission</string>
+	<key>matrixstatus</key>
+	<string>shouldKeepDropdownButton</string>
+	<key>mergerLeft</key>
+	<string>measureradius</string>
+	<key>parsemap</key>
+	<string>canAnimateCube</string>
+	<key>reusableDelegate</key>
+	<string>explicitWorkflow</string>
+</dict>
+</plist>

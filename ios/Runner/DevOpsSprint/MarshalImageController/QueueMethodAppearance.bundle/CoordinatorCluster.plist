@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartValidation</key>
+	<string>prioritytheme</string>
+	<key>ephemeralMetrics</key>
+	<string>evaluationSaturation</string>
+	<key>euclideanArithmetic</key>
+	<string>tweenBorder</string>
+	<key>reductioninteraction</key>
+	<string>streamPlate</string>
+	<key>usecasesystemalignment</key>
+	<string>easycupertino</string>
+</dict>
+</plist>

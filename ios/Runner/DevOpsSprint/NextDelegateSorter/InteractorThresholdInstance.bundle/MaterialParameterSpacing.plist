@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nibinsidephase</key>
+	<string>shouldHandleNib</string>
+	<key>pageviewFeedback</key>
+	<string>activatedObserver</string>
+	<key>semanticscontaincycle</key>
+	<string>multiObject</string>
+	<key>sizeincludeparameter</key>
+	<string>modalPadding</string>
+	<key>smartgraph</key>
+	<string>enabledReducer</string>
+	<key>tabviewShade</key>
+	<string>canResumeGraphic</string>
+	<key>taxonomyappearance</key>
+	<string>comprehensiveLayer</string>
+	<key>temporaryState</key>
+	<string>intensitydescent</string>
+	<key>tickeralongstage</key>
+	<string>showPreview</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentBase</key>
+	<string>canCreateInstruction</string>
+	<key>desktopBloc</key>
+	<string>shouldReplaceOverlay</string>
+	<key>eventInteraction</key>
+	<string>normalProvider</string>
+	<key>immutableMechanism</key>
+	<string>checklistType</string>
+	<key>numericalborder</key>
+	<string>vertexskewx</string>
+	<key>reductionHead</key>
+	<string>mediocreFragments</string>
+	<key>rendererRate</key>
+	<string>deserializeGrayscale</string>
+	<key>shouldConnectSession</key>
+	<string>hashduration</string>
+	<key>streammultiplication</key>
+	<string>permissiveSplitter</string>
+</dict>
+</plist>

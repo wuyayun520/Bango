@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeRight</key>
+	<string>presentsingleton</string>
+	<key>declarativeScreen</key>
+	<string>resizableAspectRatio</string>
+	<key>itemShape</key>
+	<string>mediocreLabel</string>
+	<key>shouldHandleContraction</key>
+	<string>performButton</string>
+	<key>tensorTraversal</key>
+	<string>mutableDuration</string>
+</dict>
+</plist>

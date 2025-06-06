@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCycle</key>
+	<string>canNotifyNotification</string>
+	<key>dynamicCheckbox</key>
+	<string>asyncName</string>
+	<key>originalInteger</key>
+	<string>referenceProcess</string>
+	<key>painterappearance</key>
+	<string>resumescale</string>
+	<key>permanentMission</key>
+	<string>statefulThread</string>
+	<key>responseLocation</key>
+	<string>providePresenter</string>
+	<key>unsortedUseCase</key>
+	<string>metadataShade</string>
+</dict>
+</plist>

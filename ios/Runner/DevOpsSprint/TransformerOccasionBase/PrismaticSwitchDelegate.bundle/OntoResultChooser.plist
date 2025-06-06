@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameBottom</key>
+	<string>shouldFinishMusic</string>
+	<key>lostcharacter</key>
+	<string>significantLoss</string>
+	<key>mobileContrast</key>
+	<string>synchronizeDescription</string>
+	<key>nibbehavior</key>
+	<string>upgradeHandler</string>
+	<key>sophisticatedAlignment</key>
+	<string>semanticpreviewname</string>
+	<key>sophisticatedProcessor</key>
+	<string>canPreparePromise</string>
+	<key>spritebeyondprocess</key>
+	<string>shouldConnectCell</string>
+	<key>uniqueRequest</key>
+	<string>pendingBoxShadow</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedBandwidth</key>
+	<string>provideView</string>
+	<key>asynchronousGem</key>
+	<string>bindInstruction</string>
+	<key>asynchronousThroughput</key>
+	<string>sharedDispatcher</string>
+	<key>deferredslidertheme</key>
+	<string>basicpositionoffset</string>
+	<key>displayableBaseline</key>
+	<string>overlayEnvironment</string>
+	<key>isNorm</key>
+	<string>validateExtension</string>
+	<key>lazysorter</key>
+	<string>bufferobserver</string>
+	<key>navigationoperationmode</key>
+	<string>delegatedescriptor</string>
+</dict>
+</plist>

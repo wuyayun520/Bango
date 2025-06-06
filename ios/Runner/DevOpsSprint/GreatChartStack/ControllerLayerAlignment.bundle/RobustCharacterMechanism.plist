@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicatePreview</key>
+	<string>greatHero</string>
+	<key>elasticSensor</key>
+	<string>keepBatch</string>
+	<key>persistentDelegate</key>
+	<string>minCharacter</string>
+	<key>usagevertex</key>
+	<string>canValidateLogarithm</string>
+</dict>
+</plist>

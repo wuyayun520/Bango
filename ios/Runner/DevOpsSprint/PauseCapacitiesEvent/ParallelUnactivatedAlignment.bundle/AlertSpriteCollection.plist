@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interceptcharacter</key>
+	<string>canDetachSlider</string>
+	<key>labelviaplatform</key>
+	<string>generatePopup</string>
+	<key>membername</key>
+	<string>currentanchor</string>
+	<key>originalBuilder</key>
+	<string>tangentBuffer</string>
+	<key>scalabilityResponse</key>
+	<string>keyScope</string>
+</dict>
+</plist>

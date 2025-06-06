@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedWidget</key>
+	<string>subtleChooser</string>
+	<key>ephemeralMomentum</key>
+	<string>prismaticMethod</string>
+	<key>euclideanCycle</key>
+	<string>textfieldgraph</string>
+	<key>lazyDocument</key>
+	<string>responsivepainter</string>
+	<key>priorMerger</key>
+	<string>matrixPressure</string>
+	<key>rangeDuration</key>
+	<string>durationworkrate</string>
+	<key>robustMesh</key>
+	<string>sessionProxy</string>
+	<key>shouldDisconnectAlert</key>
+	<string>sustainableGrid</string>
+	<key>skiptransition</key>
+	<string>conformlistview</string>
+	<key>themestroke</key>
+	<string>appbarFeedback</string>
+</dict>
+</plist>

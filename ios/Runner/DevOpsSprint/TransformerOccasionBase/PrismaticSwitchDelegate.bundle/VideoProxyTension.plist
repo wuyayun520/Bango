@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nativevectororientation</key>
+	<string>constantBrightness</string>
+	<key>onreferencetap</key>
+	<string>streamPosition</string>
+	<key>semanticSubscriber</key>
+	<string>labelVisitor</string>
+	<key>shouldContinueProtocol</key>
+	<string>shouldDecodeTangent</string>
+	<key>shouldEndCupertino</key>
+	<string>semanticVector</string>
+	<key>taskuntilstructure</key>
+	<string>shouldProcessModulus</string>
+</dict>
+</plist>

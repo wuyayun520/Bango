@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyTopic</key>
+	<string>prepareSkirt</string>
+	<key>indicatorresponse</key>
+	<string>markAlignment</string>
+	<key>opaqueLatency</key>
+	<string>radiusduringmediator</string>
+	<key>pivotalCapsule</key>
+	<string>numericalObserver</string>
+	<key>providerfromflyweight</key>
+	<string>positionedTail</string>
+	<key>retainedTrigger</key>
+	<string>shouldRouteNotifier</string>
+	<key>shouldSerializeGesture</key>
+	<string>criticalScheduler</string>
+	<key>similarAnimatedContainer</key>
+	<string>materialTransition</string>
+	<key>tensorExpanded</key>
+	<string>rangeKind</string>
+</dict>
+</plist>

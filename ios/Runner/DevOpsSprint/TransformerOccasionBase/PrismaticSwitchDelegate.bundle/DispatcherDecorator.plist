@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>marshalresource</key>
+	<string>priorityShade</string>
+	<key>materialScaffold</key>
+	<string>switchOrientation</string>
+	<key>missedfuture</key>
+	<string>retainModel</string>
+	<key>reducerVisibility</key>
+	<string>canEndGestureDetector</string>
+	<key>selectedchecklist</key>
+	<string>arithmeticNotification</string>
+	<key>stringifyservice</key>
+	<string>shouldStartBrush</string>
+	<key>titleBound</key>
+	<string>touchSink</string>
+</dict>
+</plist>

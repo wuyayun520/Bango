@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinovideo</key>
+	<string>granularRecursion</string>
+	<key>gestureMode</key>
+	<string>pauseExponent</string>
+	<key>immutableListView</key>
+	<string>fusedGrain</string>
+	<key>interactiveMetrics</key>
+	<string>convolutionpadding</string>
+	<key>invisibleFactory</key>
+	<string>particleEnvironment</string>
+	<key>roleLocation</key>
+	<string>shouldUpdateAspectRatio</string>
+	<key>shouldDisposeAnimatedContainer</key>
+	<string>shouldLoadLayout</string>
+	<key>textviaaction</key>
+	<string>shouldYieldWidget</string>
+</dict>
+</plist>

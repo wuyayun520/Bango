@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerspacing</key>
+	<string>popdescription</string>
+	<key>crucialMapper</key>
+	<string>persistentTabView</string>
+	<key>dataFrequency</key>
+	<string>custompaintAcceleration</string>
+	<key>loopfinder</key>
+	<string>embracedescription</string>
+	<key>promiseSaturation</key>
+	<string>standaloneModule</string>
+	<key>startprogressbar</key>
+	<string>denseResolver</string>
+	<key>subtleInjection</key>
+	<string>shouldAnimateSession</string>
+	<key>sustainableSpot</key>
+	<string>eraseCompleter</string>
+	<key>trianglesHue</key>
+	<string>advancedProvision</string>
+</dict>
+</plist>

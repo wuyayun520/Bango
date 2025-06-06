@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubesincemode</key>
+	<string>deferredCharacteristic</string>
+	<key>ephemeralColor</key>
+	<string>persistentFrame</string>
+	<key>functionalController</key>
+	<string>statelessStack</string>
+	<key>loadcurve</key>
+	<string>previewInterpreter</string>
+	<key>positionDelay</key>
+	<string>defaultnavigator</string>
+	<key>protectedMonster</key>
+	<string>accordionTimeline</string>
+	<key>repositorytint</key>
+	<string>parallelLocalization</string>
+	<key>symmetricmemberopacity</key>
+	<string>overlayNumber</string>
+	<key>tabviewState</key>
+	<string>resumeGridView</string>
+</dict>
+</plist>

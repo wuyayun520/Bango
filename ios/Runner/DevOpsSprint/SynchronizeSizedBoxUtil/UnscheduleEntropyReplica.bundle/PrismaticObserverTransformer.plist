@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnercheckboxinterval</key>
+	<string>previewForce</string>
+	<key>easyStoryboard</key>
+	<string>accordionbrushrate</string>
+	<key>hardShape</key>
+	<string>crudeModal</string>
+	<key>inkwellalignment</key>
+	<string>backwardStore</string>
+	<key>interactortemplespacing</key>
+	<string>hardComposition</string>
+	<key>metadataincludestyle</key>
+	<string>visiblePoint</string>
+	<key>parallellistener</key>
+	<string>handleMethod</string>
+	<key>responseviaadapter</key>
+	<string>unmountedappbar</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableView</key>
+	<string>sizedboxroute</string>
+	<key>immediateSearcher</key>
+	<string>canRebuildEquipment</string>
+	<key>offsetTag</key>
+	<string>euclideanresolver</string>
+	<key>operationBound</key>
+	<string>loopMargin</string>
+	<key>shouldRebuildIcon</key>
+	<string>gramKind</string>
+	<key>traversalInset</key>
+	<string>performLocalization</string>
+</dict>
+</plist>

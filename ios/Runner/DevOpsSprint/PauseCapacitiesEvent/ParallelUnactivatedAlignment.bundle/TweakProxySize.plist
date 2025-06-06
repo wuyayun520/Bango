@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAcceleration</key>
+	<string>strokeFlags</string>
+	<key>hardLifecycle</key>
+	<string>gemandmediator</string>
+	<key>integrationResponse</key>
+	<string>connectExpanded</string>
+	<key>mediocreSize</key>
+	<string>interactorMediator</string>
+	<key>performalignment</key>
+	<string>declarativeFactory</string>
+	<key>sharedbuilderfeedback</key>
+	<string>converterPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorycontroller</key>
+	<string>minDocument</string>
+	<key>controllerResponse</key>
+	<string>commonDispatcher</string>
+	<key>crucialslidershape</key>
+	<string>globalAperture</string>
+	<key>draggablespot</key>
+	<string>cursortension</string>
+	<key>lazyDescription</key>
+	<string>decodeSlash</string>
+	<key>notifierrect</key>
+	<string>presentSlash</string>
+	<key>sequentialSplitter</key>
+	<string>visualizeCubit</string>
+	<key>shapeValidation</key>
+	<string>nextAnalyzer</string>
+	<key>shouldDisposeMomentum</key>
+	<string>consumeInterface</string>
+	<key>shouldStopSwitch</key>
+	<string>synchronousRouter</string>
+</dict>
+</plist>

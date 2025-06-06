@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionstrategyfeedback</key>
+	<string>statelessMission</string>
+	<key>displayableNib</key>
+	<string>transformSingleton</string>
+	<key>nibValidation</key>
+	<string>threadVisibility</string>
+	<key>protectedNavigator</key>
+	<string>shouldSerializePet</string>
+	<key>semanticanimator</key>
+	<string>pendingEquipment</string>
+	<key>synchronousChecklist</key>
+	<string>listenerOrientation</string>
+</dict>
+</plist>

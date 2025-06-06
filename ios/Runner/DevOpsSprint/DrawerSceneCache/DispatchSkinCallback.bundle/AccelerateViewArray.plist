@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredDetector</key>
+	<string>receiveException</string>
+	<key>easyElement</key>
+	<string>hardstate</string>
+	<key>immediateBitrate</key>
+	<string>orchestrateRadius</string>
+	<key>independentSorter</key>
+	<string>resumeMediaQuery</string>
+	<key>keycoordinator</key>
+	<string>mediocreView</string>
+	<key>publicFilter</key>
+	<string>constraintObserver</string>
+	<key>resolverRate</key>
+	<string>enabledinfo</string>
+	<key>sortedRole</key>
+	<string>selectedBase</string>
+</dict>
+</plist>

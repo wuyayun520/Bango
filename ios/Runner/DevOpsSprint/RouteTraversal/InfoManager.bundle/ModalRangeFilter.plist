@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGraphic</key>
+	<string>requestInterval</string>
+	<key>bindtheme</key>
+	<string>errorFlyweight</string>
+	<key>channelalignment</key>
+	<string>shouldResumeScaffold</string>
+	<key>entityInset</key>
+	<string>shouldRenderPet</string>
+	<key>globalCharacter</key>
+	<string>robustcreator</string>
+	<key>materialdocument</key>
+	<string>dynamicEmitter</string>
+	<key>parseevent</key>
+	<string>currentanchor</string>
+	<key>shouldCreateView</key>
+	<string>canMountedAlpha</string>
+</dict>
+</plist>

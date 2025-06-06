@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerindex</key>
+	<string>nextposition</string>
+	<key>associatedtheme</key>
+	<string>selecteddecoration</string>
+	<key>criticalComposition</key>
+	<string>canEmitPlayback</string>
+	<key>eagerButton</key>
+	<string>sanitizeallocator</string>
+	<key>elementDepth</key>
+	<string>layoutFramework</string>
+	<key>rapidInterpolation</key>
+	<string>gateTop</string>
+	<key>resilientGram</key>
+	<string>apertureMode</string>
+	<key>touchSpacing</key>
+	<string>titlePadding</string>
+</dict>
+</plist>

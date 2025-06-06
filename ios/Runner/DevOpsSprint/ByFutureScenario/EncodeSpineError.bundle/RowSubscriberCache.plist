@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnShape</key>
+	<string>shouldTransformGradient</string>
+	<key>effectstate</key>
+	<string>lazyInteraction</string>
+	<key>gridindex</key>
+	<string>prevHistogram</string>
+	<key>interactivebinarycolor</key>
+	<string>embraceFrame</string>
+	<key>interfaceinterval</key>
+	<string>filterRight</string>
+	<key>keyIntegrity</key>
+	<string>shouldStartScaffold</string>
+	<key>keyLocalization</key>
+	<string>persistentBinary</string>
+	<key>shouldBindScroll</key>
+	<string>mediaqueryObserver</string>
+	<key>shouldPauseProvider</key>
+	<string>cubitbottom</string>
+	<key>shouldResumeAlert</key>
+	<string>accordionParticle</string>
+</dict>
+</plist>

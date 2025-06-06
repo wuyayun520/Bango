@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintshapecoord</key>
+	<string>relationalLinker</string>
+	<key>immediateGrain</key>
+	<string>canSetStatePlate</string>
+	<key>localizationBound</key>
+	<string>selectorStatus</string>
+	<key>movementCount</key>
+	<string>canCacheStateless</string>
+	<key>numericalCustomPaint</key>
+	<string>positionFlyweight</string>
+	<key>secondConnector</key>
+	<string>rapidAccessory</string>
+	<key>shouldConnectAperture</key>
+	<string>composableDescent</string>
+</dict>
+</plist>

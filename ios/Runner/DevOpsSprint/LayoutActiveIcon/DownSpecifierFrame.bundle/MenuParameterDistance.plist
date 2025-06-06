@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionName</key>
+	<string>granularRole</string>
+	<key>lazyResolver</key>
+	<string>rendererOrientation</string>
+	<key>localThroughput</key>
+	<string>shouldContinuePainter</string>
+	<key>mediapressure</key>
+	<string>otherFormat</string>
+	<key>responsiveCurve</key>
+	<string>prismaticTexture</string>
+	<key>robustTolerance</key>
+	<string>permissiveAwait</string>
+	<key>shouldStartExpanded</key>
+	<string>cycleRate</string>
+	<key>subsequentBinder</key>
+	<string>singleMatrix</string>
+	<key>webspriteedge</key>
+	<string>activatebaseline</string>
+</dict>
+</plist>

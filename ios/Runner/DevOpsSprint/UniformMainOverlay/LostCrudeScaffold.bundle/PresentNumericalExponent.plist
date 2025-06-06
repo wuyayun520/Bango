@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodelayout</key>
+	<string>statefulIsolate</string>
+	<key>easyFlex</key>
+	<string>canTransitionCapacities</string>
+	<key>largeSwift</key>
+	<string>euclideanSwift</string>
+	<key>tappableitem</key>
+	<string>fetchMonster</string>
+</dict>
+</plist>

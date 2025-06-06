@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryDensity</key>
+	<string>positionneartemple</string>
+	<key>seamlessaspect</key>
+	<string>compositionalSegue</string>
+	<key>toolRight</key>
+	<string>currenthero</string>
+	<key>usedTimer</key>
+	<string>dedicatedPlayback</string>
+</dict>
+</plist>

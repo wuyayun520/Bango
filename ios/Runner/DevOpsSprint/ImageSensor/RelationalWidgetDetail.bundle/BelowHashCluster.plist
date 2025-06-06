@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerExtension</key>
+	<string>sinebrightness</string>
+	<key>independentchannel</key>
+	<string>canKeepNavigation</string>
+	<key>markboxshadow</key>
+	<string>shouldRebuildListView</string>
+	<key>receiverpadding</key>
+	<string>coordinatorasvisitor</string>
+	<key>significantstatus</key>
+	<string>lastProvider</string>
+</dict>
+</plist>

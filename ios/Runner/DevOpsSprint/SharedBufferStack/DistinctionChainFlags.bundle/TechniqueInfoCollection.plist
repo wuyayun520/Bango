@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeException</key>
+	<string>effectformtint</string>
+	<key>inactiveAxis</key>
+	<string>scenebrightness</string>
+	<key>iterativeButton</key>
+	<string>iterativeamortization</string>
+	<key>listenerRate</key>
+	<string>presenterSaturation</string>
+	<key>nextEffect</key>
+	<string>canPushPlate</string>
+	<key>primaryStore</key>
+	<string>evolutionCount</string>
+	<key>rapidLayout</key>
+	<string>unactivatedbutton</string>
+	<key>rapidSegue</key>
+	<string>addPopup</string>
+	<key>shouldEndEffect</key>
+	<string>compositionHue</string>
+	<key>substantialSensor</key>
+	<string>finishConstraint</string>
+</dict>
+</plist>

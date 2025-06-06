@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityPressure</key>
+	<string>selectedSwitch</string>
+	<key>constraintvariablestate</key>
+	<string>chapterPattern</string>
+	<key>inheritedExpanded</key>
+	<string>modalForm</string>
+	<key>liteReducer</key>
+	<string>efficiencyTag</string>
+	<key>mainFinder</key>
+	<string>fusedChannels</string>
+	<key>marginFormat</key>
+	<string>shouldDetachSegment</string>
+	<key>permissiveButton</key>
+	<string>toolForm</string>
+	<key>rapidLog</key>
+	<string>drawAsync</string>
+	<key>shouldNavigateThread</key>
+	<string>promiseDensity</string>
+</dict>
+</plist>

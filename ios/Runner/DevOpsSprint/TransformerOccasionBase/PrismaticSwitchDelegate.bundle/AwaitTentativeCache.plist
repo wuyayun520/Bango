@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryDensity</key>
+	<string>isolateParam</string>
+	<key>futureselector</key>
+	<string>displayableRequest</string>
+	<key>impactInteraction</key>
+	<string>richtextTransparency</string>
+	<key>setstatesymbol</key>
+	<string>shouldValidateLayout</string>
+	<key>standaloneState</key>
+	<string>rowPosition</string>
+	<key>subtleUsage</key>
+	<string>shouldCancelSkin</string>
+	<key>textureBound</key>
+	<string>easySemantics</string>
+</dict>
+</plist>

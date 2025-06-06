@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorframeworkresponse</key>
+	<string>quantizationReducer</string>
+	<key>arithmeticResponder</key>
+	<string>requiredRectangle</string>
+	<key>bindtween</key>
+	<string>webLifecycle</string>
+	<key>comprehensiveJoiner</key>
+	<string>paintMovement</string>
+	<key>intuitivenib</key>
+	<string>pageviewMediator</string>
+	<key>publicSound</key>
+	<string>drawerEdge</string>
+	<key>shouldDeserializeConstraint</key>
+	<string>inactiveWrapper</string>
+	<key>traversalAcceleration</key>
+	<string>streamgrid</string>
+	<key>usedLayout</key>
+	<string>durationOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildaxis</key>
+	<string>immediatePolygon</string>
+	<key>canvasPressure</key>
+	<string>localizationandmemento</string>
+	<key>defaultBase</key>
+	<string>dismissCharacter</string>
+	<key>eagerContainer</key>
+	<string>canStartStoryboard</string>
+	<key>emitterHue</key>
+	<string>consultativeZone</string>
+	<key>filterSpeed</key>
+	<string>activatedInterpolation</string>
+	<key>scenarioTail</key>
+	<string>relationalFlex</string>
+	<key>shouldObserveNavigation</key>
+	<string>tappableIntegrity</string>
+	<key>shouldPaintRoute</key>
+	<string>injectionshade</string>
+</dict>
+</plist>

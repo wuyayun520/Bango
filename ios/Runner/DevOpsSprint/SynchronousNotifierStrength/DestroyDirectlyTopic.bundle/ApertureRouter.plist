@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedButton</key>
+	<string>slashCenter</string>
+	<key>explicitMethod</key>
+	<string>canSetStateInkWell</string>
+	<key>listenermodel</key>
+	<string>visibleBloc</string>
+	<key>partitionhash</key>
+	<string>canInflatePlayback</string>
+	<key>scrollableMaterializer</key>
+	<string>handleOptimizer</string>
+	<key>shouldanimateusage</key>
+	<string>upgradeMetadata</string>
+	<key>shouldsavecoordinator</key>
+	<string>shouldTransitionCanvas</string>
+	<key>sophisticatedStatus</key>
+	<string>hardCanvas</string>
+	<key>subsequentNode</key>
+	<string>triggerHead</string>
+</dict>
+</plist>

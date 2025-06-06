@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionallabelmargin</key>
+	<string>titleValidation</string>
+	<key>permissivecustompaint</key>
+	<string>observeGrain</string>
+	<key>shouldfinishcustompaint</key>
+	<string>ignoredProvider</string>
+	<key>subscriptionaroundpattern</key>
+	<string>saveOption</string>
+</dict>
+</plist>

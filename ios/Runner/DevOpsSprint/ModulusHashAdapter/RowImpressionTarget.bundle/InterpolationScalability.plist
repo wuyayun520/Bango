@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTween</key>
+	<string>smallRichText</string>
+	<key>compositionalCubit</key>
+	<string>syncCurve</string>
+	<key>mutableCharacteristic</key>
+	<string>shouldLayoutHistogram</string>
+	<key>rebuildlayer</key>
+	<string>normalvideo</string>
+	<key>requiredFragments</key>
+	<string>titleMomentum</string>
+	<key>reusableLabel</key>
+	<string>scrollableDelegate</string>
+	<key>secondbuttonvisibility</key>
+	<string>aggregateOffset</string>
+	<key>semanticSprite</key>
+	<string>shouldNavigateWidget</string>
+	<key>symmetricConfidentiality</key>
+	<string>elasticcolumnlocation</string>
+	<key>topicFrequency</key>
+	<string>shouldCreateRadio</string>
+</dict>
+</plist>

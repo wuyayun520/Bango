@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionInformation</key>
+	<string>hasprotocol</string>
+	<key>comprehensiveSkin</key>
+	<string>dismissgradient</string>
+	<key>delicatesensor</key>
+	<string>intuitiveInterface</string>
+	<key>desktopCompletion</key>
+	<string>mapperCount</string>
+	<key>globalRecursion</key>
+	<string>largeState</string>
+	<key>ignoredSprite</key>
+	<string>techniqueTag</string>
+	<key>metadataSpeed</key>
+	<string>synchronousOperation</string>
+	<key>shouldCreateCosine</key>
+	<string>schemaFlags</string>
+	<key>standaloneScroll</key>
+	<string>inheritedBandwidth</string>
+</dict>
+</plist>

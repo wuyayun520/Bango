@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationoccasion</key>
+	<string>masterresponse</string>
+	<key>detectortail</key>
+	<string>intensitySingleton</string>
+	<key>infodistance</key>
+	<string>dismissChecklist</string>
+	<key>isCaption</key>
+	<string>statelessBottom</string>
+	<key>newestTopic</key>
+	<string>usecaseBound</string>
+	<key>priorityDepth</key>
+	<string>arithmeticLoop</string>
+	<key>profilestyle</key>
+	<string>screenDistance</string>
+	<key>shouldDispatchTechnique</key>
+	<string>builderSystem</string>
+	<key>wrapperTransparency</key>
+	<string>shouldDispatchSpecifier</string>
+</dict>
+</plist>

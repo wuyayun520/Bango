@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>masterstate</key>
+	<string>entityamongflyweight</string>
+	<key>mutableInteger</key>
+	<string>annotateCoordinator</string>
+	<key>nibtheme</key>
+	<string>defaultgift</string>
+	<key>persistentFragment</key>
+	<string>accessibleRenderer</string>
+	<key>referenceobserver</key>
+	<string>decorationtag</string>
+	<key>responsiveframe</key>
+	<string>canUnmountedDescriptor</string>
+	<key>retainedRemediation</key>
+	<string>elasticAudio</string>
+	<key>seamlessTriangles</key>
+	<string>seekTexture</string>
+</dict>
+</plist>

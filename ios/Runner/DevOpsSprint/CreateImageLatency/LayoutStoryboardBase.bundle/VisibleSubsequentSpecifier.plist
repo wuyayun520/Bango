@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSession</key>
+	<string>unaryprocessinteraction</string>
+	<key>plateBound</key>
+	<string>groupFeedback</string>
+	<key>shouldFetchStateless</key>
+	<string>protectedSession</string>
+	<key>singleDispatcher</key>
+	<string>skinmesh</string>
+	<key>statefulFlex</key>
+	<string>eagerProcessor</string>
+	<key>tasklayerpressure</key>
+	<string>segmentMomentum</string>
+</dict>
+</plist>

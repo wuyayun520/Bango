@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectBottom</key>
+	<string>usedLocalization</string>
+	<key>joinercontrast</key>
+	<string>fusedProjection</string>
+	<key>masterForce</key>
+	<string>persistentMerger</string>
+	<key>progressbarShape</key>
+	<string>combineLoop</string>
+	<key>semanticsinsidebuffer</key>
+	<string>animatedExponent</string>
+	<key>symbolorigin</key>
+	<string>subsequentTimer</string>
+</dict>
+</plist>

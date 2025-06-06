@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardbehaviorcolor</key>
+	<string>arithmeticdisclaimer</string>
+	<key>cachetransparency</key>
+	<string>shouldContinueCharacter</string>
+	<key>intermediatelistview</key>
+	<string>canEncodeKernel</string>
+	<key>oldfactory</key>
+	<string>masterSingleton</string>
+	<key>shouldTransitionRow</key>
+	<string>difficultpageview</string>
+	<key>shouldnavigatematerial</key>
+	<string>inflatePopup</string>
+	<key>shouldsubscribecollection</key>
+	<string>awaitTemple</string>
+	<key>streamlineprotocol</key>
+	<string>spotincludestructure</string>
+</dict>
+</plist>

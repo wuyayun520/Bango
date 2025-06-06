@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachscroll</key>
+	<string>scaffoldTheme</string>
+	<key>rebuildstream</key>
+	<string>basicBuffer</string>
+	<key>respectiveCatalyst</key>
+	<string>normalRemediation</string>
+	<key>shouldDetachEquipment</key>
+	<string>oldcollection</string>
+	<key>shouldParseDimension</key>
+	<string>stopcallback</string>
+	<key>shouldParsePoint</key>
+	<string>grayscaleDepth</string>
+	<key>shouldSkipMedia</key>
+	<string>blocdepth</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeModule</key>
+	<string>shouldBuildScreen</string>
+	<key>blocDelay</key>
+	<string>graphFlyweight</string>
+	<key>draggableFormat</key>
+	<string>missionRight</string>
+	<key>numericalPicker</key>
+	<string>standaloneFilter</string>
+	<key>secondPainter</key>
+	<string>singleIntegration</string>
+	<key>sortedRadius</key>
+	<string>notifytransformer</string>
+	<key>statefulAmortization</key>
+	<string>imperativeLocalization</string>
+</dict>
+</plist>

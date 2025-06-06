@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>onspottap</key>
+	<string>independentSubscriber</string>
+	<key>rangeposition</key>
+	<string>directlyPosition</string>
+	<key>seeksink</key>
+	<string>newestEqualization</string>
+	<key>shouldpublishlistview</key>
+	<string>shouldCancelMovement</string>
+	<key>streamOpacity</key>
+	<string>navigatemodulus</string>
+</dict>
+</plist>

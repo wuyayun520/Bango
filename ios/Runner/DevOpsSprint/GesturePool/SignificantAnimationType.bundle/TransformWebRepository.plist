@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackscopestate</key>
+	<string>capacitiesresponse</string>
+	<key>contractionStyle</key>
+	<string>shouldConnectCube</string>
+	<key>finderbehavior</key>
+	<string>observespine</string>
+	<key>marginrenderer</key>
+	<string>tableEdge</string>
+	<key>showgroup</key>
+	<string>cupertinoLifecycle</string>
+	<key>statefulTopic</key>
+	<string>decodeevent</string>
+</dict>
+</plist>

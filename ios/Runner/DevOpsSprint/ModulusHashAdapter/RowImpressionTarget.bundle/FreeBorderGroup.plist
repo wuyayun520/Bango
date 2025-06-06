@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveThread</key>
+	<string>canResumeDecoration</string>
+	<key>cartesianObserver</key>
+	<string>hasmargin</string>
+	<key>directInterface</key>
+	<string>adjustradius</string>
+	<key>displayableFragments</key>
+	<string>shouldRenderEqualization</string>
+	<key>elasticityvisibility</key>
+	<string>isequipment</string>
+	<key>permutationFlags</key>
+	<string>presentCoordinator</string>
+	<key>shouldHandleTool</key>
+	<string>revisitTicker</string>
+	<key>sinkcontextindex</key>
+	<string>canPersistScale</string>
+	<key>touchtabview</key>
+	<string>mountPoint</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateOpacity</key>
+	<string>loadModulus</string>
+	<key>loopvisibility</key>
+	<string>locatePosition</string>
+	<key>persistentCertificate</key>
+	<string>autostore</string>
+	<key>respectiveIntegrity</key>
+	<string>canUnmountBuilder</string>
+	<key>shouldStreamExponent</key>
+	<string>creatorForce</string>
+	<key>uniquehandlermargin</key>
+	<string>shouldFormatSwift</string>
+	<key>vectorizecache</key>
+	<string>activeMomentum</string>
+</dict>
+</plist>

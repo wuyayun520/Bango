@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparatescaffoldshade</key>
+	<string>shouldDismissDuration</string>
+	<key>materialspot</key>
+	<string>endView</string>
+	<key>priorityopacity</key>
+	<string>robustAnalogy</string>
+	<key>resilientAnalyzer</key>
+	<string>shouldUpdateLayout</string>
+	<key>scrollOrigin</key>
+	<string>textureCommand</string>
+	<key>splitterBound</key>
+	<string>concurrentScene</string>
+	<key>storyboardKind</key>
+	<string>canValidateSegment</string>
+	<key>temporarymodule</key>
+	<string>connectPadding</string>
+</dict>
+</plist>

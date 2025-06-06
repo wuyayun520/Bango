@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSpine</key>
+	<string>resilientClipper</string>
+	<key>fusednib</key>
+	<string>missedTable</string>
+	<key>geometricHeap</key>
+	<string>statelessPressure</string>
+	<key>materialtierdistance</key>
+	<string>shearDuration</string>
+	<key>momentumIndex</key>
+	<string>layoutSemantics</string>
+	<key>respectiveCapsule</key>
+	<string>shouldInflateDimension</string>
+	<key>shouldStartSegment</key>
+	<string>sequentialTopic</string>
+	<key>shouldTransformBloc</key>
+	<string>permanentElasticity</string>
+	<key>singleNib</key>
+	<string>resolveController</string>
+	<key>standalonelinker</key>
+	<string>resizableBullet</string>
+</dict>
+</plist>

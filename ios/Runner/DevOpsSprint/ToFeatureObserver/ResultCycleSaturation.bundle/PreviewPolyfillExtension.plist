@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nextResilience</key>
+	<string>intermediateExtension</string>
+	<key>reconcileslider</key>
+	<string>euclideanPolygon</string>
+	<key>rectifyreducer</key>
+	<string>interceptLayer</string>
+	<key>relationalConverter</key>
+	<string>primaryScalability</string>
+	<key>responsiveThread</key>
+	<string>persistConvolution</string>
+	<key>sizearoundcommand</key>
+	<string>protectedDuration</string>
+	<key>timelineRotation</key>
+	<string>joinerOpacity</string>
+	<key>uniformBullet</key>
+	<string>singleSizedBox</string>
+</dict>
+</plist>

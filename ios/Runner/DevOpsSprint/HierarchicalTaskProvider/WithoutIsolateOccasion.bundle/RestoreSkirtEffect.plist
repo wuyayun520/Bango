@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInjection</key>
+	<string>floatProgressBar</string>
+	<key>baseAcceleration</key>
+	<string>emitCustomPaint</string>
+	<key>cancelpoint</key>
+	<string>typicalframeskewy</string>
+	<key>capsulemargin</key>
+	<string>shouldSkipBase</string>
+	<key>criticalScreen</key>
+	<string>shouldBindScreen</string>
+	<key>cupertinoWorkflow</key>
+	<string>nativeResolver</string>
+	<key>disparateGrain</key>
+	<string>elasticSorter</string>
+	<key>formatspacing</key>
+	<string>descriptionStyle</string>
+	<key>geometricAnimatedContainer</key>
+	<string>shouldConnectBullet</string>
+</dict>
+</plist>

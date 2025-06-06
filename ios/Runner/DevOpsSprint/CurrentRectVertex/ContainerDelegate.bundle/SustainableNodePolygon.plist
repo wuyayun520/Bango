@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnCount</key>
+	<string>canPauseIndicator</string>
+	<key>controllerpressure</key>
+	<string>desktopColor</string>
+	<key>crucialExtension</key>
+	<string>labelbeyondprocess</string>
+	<key>crucialSign</key>
+	<string>gestureCount</string>
+	<key>disparateScheduler</key>
+	<string>exponentviaplatform</string>
+	<key>errorHead</key>
+	<string>petDecorator</string>
+	<key>immediatepager</key>
+	<string>tappableData</string>
+	<key>navigationnavigator</key>
+	<string>enabledStore</string>
+	<key>tweenbesideoperation</key>
+	<string>completerPhase</string>
+</dict>
+</plist>

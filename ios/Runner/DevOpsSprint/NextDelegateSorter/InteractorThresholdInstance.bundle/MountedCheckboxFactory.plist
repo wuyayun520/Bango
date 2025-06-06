@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeInfrastructure</key>
+	<string>tabbartime</string>
+	<key>arithmeticCursor</key>
+	<string>normTheme</string>
+	<key>asyncDensity</key>
+	<string>scalechart</string>
+	<key>mainTernary</key>
+	<string>upgradeHash</string>
+	<key>normalConverter</key>
+	<string>shouldParseChecklist</string>
+	<key>protectedProvision</key>
+	<string>transpiledescriptor</string>
+	<key>relationalNode</key>
+	<string>mobileAccessory</string>
+	<key>singlePicker</key>
+	<string>routeLocation</string>
+</dict>
+</plist>

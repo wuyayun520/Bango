@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorRate</key>
+	<string>intuitiveBehavior</string>
+	<key>cachebuilder</key>
+	<string>shouldEndCollection</string>
+	<key>diffableRole</key>
+	<string>sortedContrast</string>
+	<key>directlyHistogram</key>
+	<string>asynchronousCompletion</string>
+	<key>fetchcupertino</key>
+	<string>reactiveVideo</string>
+	<key>mutableStep</key>
+	<string>cycleProcess</string>
+	<key>navigationVisibility</key>
+	<string>columnTier</string>
+	<key>shouldStopTextField</key>
+	<string>spotTension</string>
+	<key>workflowRight</key>
+	<string>shouldLoadSegue</string>
+</dict>
+</plist>

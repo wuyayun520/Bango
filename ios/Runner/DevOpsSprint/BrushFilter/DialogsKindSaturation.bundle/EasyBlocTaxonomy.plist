@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerTail</key>
+	<string>streamhistogram</string>
+	<key>behaviorStyle</key>
+	<string>dropdownbuttonTail</string>
+	<key>gradientorigin</key>
+	<string>shouldCancelSpine</string>
+	<key>iterativeLog</key>
+	<string>lastInteger</string>
+	<key>staticScene</key>
+	<string>rectspacing</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractioncallback</key>
+	<string>significantStoryboard</string>
+	<key>diversifiedSelector</key>
+	<string>sharedBuffer</string>
+	<key>futurecompositestate</key>
+	<string>canFinishSpot</string>
+	<key>mainContrast</key>
+	<string>shouldResumeSlider</string>
+	<key>shouldDeserializeSine</key>
+	<string>splitterHue</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterCenter</key>
+	<string>replaceCycle</string>
+	<key>durationnumbertint</key>
+	<string>alignmentDuration</string>
+	<key>impressionkind</key>
+	<string>resumeCursor</string>
+	<key>permanentRange</key>
+	<string>pendingEffect</string>
+	<key>radiuswithparameter</key>
+	<string>canPersistPromise</string>
+	<key>shouldRebuildCaption</key>
+	<string>marshalChannel</string>
+	<key>shouldnavigateunary</key>
+	<string>occasionHead</string>
+	<key>specifyanimation</key>
+	<string>canEmitInstruction</string>
+	<key>switchTop</key>
+	<string>reducerstrategyresponse</string>
+</dict>
+</plist>

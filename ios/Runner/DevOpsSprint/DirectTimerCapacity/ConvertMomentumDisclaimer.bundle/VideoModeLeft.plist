@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalError</key>
+	<string>configurationstrength</string>
+	<key>graphTag</key>
+	<string>descentFrequency</string>
+	<key>intermediateRect</key>
+	<string>shouldStartDuration</string>
+	<key>opaqueEntity</key>
+	<string>pinchableCluster</string>
+	<key>rapidcombiner</key>
+	<string>inheritedhandlercenter</string>
+	<key>shouldMountedInterpolation</key>
+	<string>canLoadGestureDetector</string>
+	<key>shouldPopThread</key>
+	<string>disposeEntropy</string>
+	<key>smartSprite</key>
+	<string>canNotifyHeap</string>
+	<key>strengthstyle</key>
+	<string>continueAspectRatio</string>
+	<key>substantialinterpolationvalidation</key>
+	<string>cupertinoEnvironment</string>
+</dict>
+</plist>

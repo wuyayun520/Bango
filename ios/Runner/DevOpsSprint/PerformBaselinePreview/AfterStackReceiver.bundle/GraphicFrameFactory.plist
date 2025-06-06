@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicGraph</key>
+	<string>canUpdateContainer</string>
+	<key>consumptionMomentum</key>
+	<string>attachBitrate</string>
+	<key>heaprectangle</key>
+	<string>provideUseCase</string>
+	<key>intuitiveConsumer</key>
+	<string>aperturerequest</string>
+	<key>protocolstatus</key>
+	<string>compileTransition</string>
+	<key>publictransformer</key>
+	<string>gateerror</string>
+	<key>richtextbandwidth</key>
+	<string>unactivatedTexture</string>
+	<key>shouldDispatchNotification</key>
+	<string>eagerNode</string>
+	<key>techniqueRight</key>
+	<string>storyboardDelay</string>
+	<key>texturestyle</key>
+	<string>canDispatchCanvas</string>
+</dict>
+</plist>

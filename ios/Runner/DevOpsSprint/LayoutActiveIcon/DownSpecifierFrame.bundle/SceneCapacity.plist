@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerChart</key>
+	<string>gridSkewX</string>
+	<key>checkboxprocessbottom</key>
+	<string>interpolationSaturation</string>
+	<key>difficultMargin</key>
+	<string>typicalPrecision</string>
+	<key>grainexceptsingleton</key>
+	<string>statelessGram</string>
+	<key>originalSwitch</key>
+	<string>viewdirection</string>
+	<key>polyfillVelocity</key>
+	<string>crucialSingleton</string>
+</dict>
+</plist>

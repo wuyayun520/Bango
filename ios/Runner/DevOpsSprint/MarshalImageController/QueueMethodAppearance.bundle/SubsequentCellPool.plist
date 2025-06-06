@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionTension</key>
+	<string>shouldDismissFlex</string>
+	<key>mobileRepository</key>
+	<string>ismonster</string>
+	<key>provisionSpeed</key>
+	<string>shouldNavigateFuture</string>
+	<key>similarAlpha</key>
+	<string>canProcessSegment</string>
+	<key>usedPopup</key>
+	<string>semanticConfiguration</string>
+</dict>
+</plist>

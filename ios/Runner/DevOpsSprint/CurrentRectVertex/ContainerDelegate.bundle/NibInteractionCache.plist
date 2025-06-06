@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitmementoinset</key>
+	<string>topicbrightness</string>
+	<key>consultativeservice</key>
+	<string>granularTouch</string>
+	<key>draggablelayerhue</key>
+	<string>draggableInterface</string>
+	<key>factorysensor</key>
+	<string>canCancelScaffold</string>
+	<key>operationawayscope</key>
+	<string>hardStack</string>
+	<key>sophisticatedModal</key>
+	<string>hyperbolicRect</string>
+</dict>
+</plist>

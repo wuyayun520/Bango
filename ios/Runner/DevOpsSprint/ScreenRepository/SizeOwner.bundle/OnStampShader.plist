@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentName</key>
+	<string>associatedAction</string>
+	<key>invisibleSlash</key>
+	<string>onsegmenttap</string>
+	<key>queueresponse</key>
+	<string>canNavigateDocument</string>
+	<key>semanticsBorder</key>
+	<string>missionAlignment</string>
+	<key>shouldCacheController</key>
+	<string>presentbase</string>
+	<key>shouldContinueCell</key>
+	<string>sortedTaxonomy</string>
+	<key>shouldEncodeSlash</key>
+	<string>defaultremainder</string>
+	<key>usedLog</key>
+	<string>unactivatedrecursion</string>
+</dict>
+</plist>

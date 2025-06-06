@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>presenterSpacing</key>
+	<string>startMission</string>
+	<key>protectedEntropy</key>
+	<string>shouldLoadTernary</string>
+	<key>shouldFormatNib</key>
+	<string>listenCustomPaint</string>
+	<key>shouldObserveSegment</key>
+	<string>currentaperture</string>
+	<key>tensorAnimation</key>
+	<string>custompaintstructureforce</string>
+</dict>
+</plist>

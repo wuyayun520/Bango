@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSlash</key>
+	<string>popScale</string>
+	<key>boxTint</key>
+	<string>localSpot</string>
+	<key>remainderdescription</key>
+	<string>connectResponse</string>
+	<key>sessiongrid</key>
+	<string>canEndMultiplication</string>
+	<key>shouldParseSession</key>
+	<string>appbarCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfacereliability</key>
+	<string>canMountTangent</string>
+	<key>lazyVector</key>
+	<string>uniqueConnector</string>
+	<key>mainMobile</key>
+	<string>canPauseDocument</string>
+	<key>matrixprototypeorientation</key>
+	<string>densetickervalidation</string>
+	<key>sessionSkewX</key>
+	<string>subtlerequest</string>
+	<key>shouldStreamAspectRatio</key>
+	<string>backwardTolerance</string>
+	<key>validatetransformer</key>
+	<string>visibleThreshold</string>
+</dict>
+</plist>

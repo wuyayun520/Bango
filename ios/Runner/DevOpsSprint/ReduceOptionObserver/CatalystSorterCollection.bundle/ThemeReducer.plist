@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncofcommand</key>
+	<string>shouldDisposeSymbol</string>
+	<key>concurrentLoss</key>
+	<string>persistentparticle</string>
+	<key>directlyStatus</key>
+	<string>resilientSlider</string>
+	<key>integrityAlignment</key>
+	<string>removeRow</string>
+	<key>shouldPresentListView</key>
+	<string>resilienceRate</string>
+	<key>shouldPushArithmetic</key>
+	<string>semanticsbehavior</string>
+	<key>shouldRouteCompletion</key>
+	<string>cachesubscription</string>
+	<key>shouldcancelcapsule</key>
+	<string>mapVariable</string>
+	<key>stampDirection</key>
+	<string>storeFacade</string>
+	<key>tappableExtension</key>
+	<string>mergerHue</string>
+</dict>
+</plist>

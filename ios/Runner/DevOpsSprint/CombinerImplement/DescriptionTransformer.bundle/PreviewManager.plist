@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyRichText</key>
+	<string>shouldMountedMonster</string>
+	<key>equalizationColor</key>
+	<string>lazyMusic</string>
+	<key>euclideanSorter</key>
+	<string>largePager</string>
+	<key>firstVolume</key>
+	<string>mediaqueryviaproxy</string>
+	<key>fixedMetrics</key>
+	<string>gateDecorator</string>
+	<key>immutableRepository</key>
+	<string>persistentGraphic</string>
+	<key>plateconnector</key>
+	<string>intermediateDelegate</string>
+	<key>typicalalertrate</key>
+	<string>combineBuffer</string>
+</dict>
+</plist>

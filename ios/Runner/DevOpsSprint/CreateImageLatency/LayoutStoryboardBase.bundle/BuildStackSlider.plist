@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationopacity</key>
+	<string>borderDepth</string>
+	<key>interactiveEquivalent</key>
+	<string>floatView</string>
+	<key>iterativeslider</key>
+	<string>canvasenvironmentlocation</string>
+	<key>mountedtitle</key>
+	<string>touchDepth</string>
+	<key>primarymedia</key>
+	<string>shouldSkipRoute</string>
+	<key>requiredResponder</key>
+	<string>interceptHandler</string>
+	<key>shouldUnmountInteger</key>
+	<string>lazyStroke</string>
+	<key>shouldpaintoption</key>
+	<string>canRestartTouch</string>
+	<key>specifyscenehead</key>
+	<string>ignoredStamp</string>
+</dict>
+</plist>

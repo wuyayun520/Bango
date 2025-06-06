@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionstorage</key>
+	<string>fragmentFeedback</string>
+	<key>fixedTween</key>
+	<string>largeTimer</string>
+	<key>iterativeMobile</key>
+	<string>shouldCacheFragment</string>
+	<key>persistentConvolution</key>
+	<string>restartbuffer</string>
+	<key>restrictionPadding</key>
+	<string>statefulCard</string>
+	<key>scrollableCell</key>
+	<string>statelesstaxonomy</string>
+	<key>shouldfinishpromise</key>
+	<string>createinkwell</string>
+</dict>
+</plist>

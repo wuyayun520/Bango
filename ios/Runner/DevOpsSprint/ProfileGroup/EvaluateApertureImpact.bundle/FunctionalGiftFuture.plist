@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCatalyst</key>
+	<string>canSerializeDropdownButton</string>
+	<key>anchorbehavior</key>
+	<string>parseController</string>
+	<key>chartappearance</key>
+	<string>captionAction</string>
+	<key>disparateProgressBar</key>
+	<string>frameTail</string>
+	<key>respectiveProvider</key>
+	<string>canShowView</string>
+	<key>sequentialImage</key>
+	<string>canCachePadding</string>
+	<key>shouldPresentVariant</key>
+	<string>schedulerIndex</string>
+	<key>shouldTransitionStoryboard</key>
+	<string>augmentDelegate</string>
+	<key>unsortedSorter</key>
+	<string>vectorizeCubit</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentdistance</key>
+	<string>canProcessExponent</string>
+	<key>flexibleClipper</key>
+	<string>unbindevent</string>
+	<key>largeStorage</key>
+	<string>listenervarrate</string>
+	<key>lostSign</key>
+	<string>othercontrast</string>
+	<key>replacebox</key>
+	<string>extendGrain</string>
+	<key>shouldPersistBox</key>
+	<string>reduceAnimation</string>
+	<key>unactivatedTexture</key>
+	<string>reductionDensity</string>
+</dict>
+</plist>

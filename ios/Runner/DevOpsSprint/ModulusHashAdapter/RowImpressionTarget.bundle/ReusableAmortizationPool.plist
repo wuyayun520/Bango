@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledservice</key>
+	<string>calculateduration</string>
+	<key>expandedinsidenumber</key>
+	<string>sustainableService</string>
+	<key>missedhistogram</key>
+	<string>mobileInfo</string>
+	<key>projectionColor</key>
+	<string>equipmentAppearance</string>
+	<key>shouldPopKernel</key>
+	<string>replaceAlpha</string>
+	<key>shouldSetStateRichText</key>
+	<string>associatedNode</string>
+	<key>sinkbehavior</key>
+	<string>inactiveStatus</string>
+	<key>transformerInterval</key>
+	<string>canTransitionSegue</string>
+	<key>unactivatedpageviewcenter</key>
+	<string>serializePlate</string>
+</dict>
+</plist>

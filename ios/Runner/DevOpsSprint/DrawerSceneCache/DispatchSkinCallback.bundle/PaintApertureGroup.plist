@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advanceddropdownbuttonvisibility</key>
+	<string>descriptorTint</string>
+	<key>creatorAppearance</key>
+	<string>canObserveKernel</string>
+	<key>delicatesound</key>
+	<string>interpolateChapter</string>
+	<key>invokeexpanded</key>
+	<string>isCard</string>
+	<key>prevBorder</key>
+	<string>shouldPersistMedia</string>
+	<key>protectedIntegrity</key>
+	<string>maxInterpolation</string>
+	<key>providerDuration</key>
+	<string>respondContainer</string>
+	<key>resizableRoute</key>
+	<string>canEmitBatch</string>
+	<key>timerVisibility</key>
+	<string>shouldLoadAspect</string>
+</dict>
+</plist>

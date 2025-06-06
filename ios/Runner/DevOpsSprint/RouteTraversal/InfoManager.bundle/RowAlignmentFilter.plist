@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationCount</key>
+	<string>navigategrid</string>
+	<key>eagerSwitch</key>
+	<string>canFinishProtocol</string>
+	<key>otherCluster</key>
+	<string>swiftvelocity</string>
+	<key>shouldFetchBaseline</key>
+	<string>shouldBindSizedBox</string>
+	<key>storeBorder</key>
+	<string>seamlessResult</string>
+	<key>sustainableSound</key>
+	<string>observeInterface</string>
+</dict>
+</plist>

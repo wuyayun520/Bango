@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileResult</key>
+	<string>significantTopic</string>
+	<key>pickerVisible</key>
+	<string>checklistInset</string>
+	<key>pointRate</key>
+	<string>builderPattern</string>
+	<key>protectedScale</key>
+	<string>provideTask</string>
+	<key>specifyProjection</key>
+	<string>persistentInstruction</string>
+	<key>typicalAccessory</key>
+	<string>shouldRenderSemantics</string>
+</dict>
+</plist>

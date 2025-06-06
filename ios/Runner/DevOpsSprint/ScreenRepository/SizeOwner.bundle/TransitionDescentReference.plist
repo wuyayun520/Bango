@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeVariant</key>
+	<string>mountBitrate</string>
+	<key>buttonoperationshape</key>
+	<string>modelMediator</string>
+	<key>defaultProvider</key>
+	<string>mobileInteractor</string>
+	<key>interpolationOrigin</key>
+	<string>aspectStyle</string>
+	<key>offsetSize</key>
+	<string>gateinformation</string>
+	<key>onmomentumchanged</key>
+	<string>subpixelstate</string>
+	<key>operationBound</key>
+	<string>performRect</string>
+	<key>usedAxis</key>
+	<string>webResponder</string>
+</dict>
+</plist>

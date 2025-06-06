@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicInkWell</key>
+	<string>canPublishContainer</string>
+	<key>methodBorder</key>
+	<string>keyService</string>
+	<key>musicPadding</key>
+	<string>shouldTransformOptimizer</string>
+	<key>overlayCoord</key>
+	<string>tappableinfo</string>
+	<key>rendererState</key>
+	<string>effectCoord</string>
+	<key>shouldEmitScreen</key>
+	<string>listenDocument</string>
+	<key>shouldObserveScaffold</key>
+	<string>threadcommandflags</string>
+	<key>significantzonetype</key>
+	<string>refactorinterface</string>
+	<key>statelesssearcher</key>
+	<string>scaleType</string>
+	<key>stringifyticker</key>
+	<string>shouldDetachStack</string>
+</dict>
+</plist>

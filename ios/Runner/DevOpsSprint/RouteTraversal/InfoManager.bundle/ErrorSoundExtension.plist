@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableCubit</key>
+	<string>canDetachChallenge</string>
+	<key>greatReduction</key>
+	<string>curveradius</string>
+	<key>ignoredSkirt</key>
+	<string>buildzone</string>
+	<key>occasiontail</key>
+	<string>deserializeTween</string>
+	<key>robustManager</key>
+	<string>shouldCacheAspectRatio</string>
+	<key>symmetricmodel</key>
+	<string>defaultaspectratio</string>
+	<key>typicalDetail</key>
+	<string>canFinishCertificate</string>
+</dict>
+</plist>

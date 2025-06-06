@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellCoord</key>
+	<string>subtleDescent</string>
+	<key>channelVelocity</key>
+	<string>unmarshalSprite</string>
+	<key>finderAppearance</key>
+	<string>canObserveSlash</string>
+	<key>graphorsingleton</key>
+	<string>playLocalization</string>
+	<key>subtleLabel</key>
+	<string>concreteSegment</string>
+	<key>tabbartiertransparency</key>
+	<string>canKeepProfile</string>
+	<key>webFactory</key>
+	<string>canResumeBorder</string>
+</dict>
+</plist>

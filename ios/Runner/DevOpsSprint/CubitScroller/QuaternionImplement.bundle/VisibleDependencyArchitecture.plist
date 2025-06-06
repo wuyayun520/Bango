@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioPadding</key>
+	<string>scrollableObject</string>
+	<key>descriptionlikedecorator</key>
+	<string>shouldLoadMomentum</string>
+	<key>displayablerowdensity</key>
+	<string>gemRate</string>
+	<key>fusedQueue</key>
+	<string>synchronousResponse</string>
+	<key>hasBoxShadow</key>
+	<string>requiredAccessory</string>
+	<key>resilientCertificate</key>
+	<string>shouldNotifyGate</string>
+	<key>shouldLayoutCapsule</key>
+	<string>elasticLatency</string>
+	<key>shouldValidatePlayback</key>
+	<string>easyVolume</string>
+	<key>statelessassetmode</key>
+	<string>animatedAsset</string>
+	<key>staticStream</key>
+	<string>asynchronousInstruction</string>
+</dict>
+</plist>

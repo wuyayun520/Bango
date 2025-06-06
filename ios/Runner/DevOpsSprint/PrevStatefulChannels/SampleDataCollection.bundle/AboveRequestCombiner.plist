@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTouch</key>
+	<string>storeMargin</string>
+	<key>customTangent</key>
+	<string>cacheTop</string>
+	<key>defaultaxis</key>
+	<string>paintlogarithm</string>
+	<key>delegateindex</key>
+	<string>richtextStrategy</string>
+	<key>provisionCoord</key>
+	<string>chooserTail</string>
+	<key>sanitizevector</key>
+	<string>unsortedOption</string>
+	<key>shouldNavigateUsage</key>
+	<string>schedulerType</string>
+	<key>shouldTrainTask</key>
+	<string>touchMethod</string>
+	<key>stopstate</key>
+	<string>parseternary</string>
+	<key>tensorLoader</key>
+	<string>previewname</string>
+</dict>
+</plist>

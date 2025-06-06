@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionButton</key>
+	<string>resilienceRight</string>
+	<key>animateimage</key>
+	<string>setstateExponent</string>
+	<key>disabledLatency</key>
+	<string>quitHandler</string>
+	<key>explicitLoss</key>
+	<string>sophisticatedTable</string>
+	<key>navigatorDistance</key>
+	<string>traversalContrast</string>
+	<key>shouldRouteSemantics</key>
+	<string>visibleEffect</string>
+	<key>touchprecision</key>
+	<string>impactLocation</string>
+	<key>webInjection</key>
+	<string>controllerSaturation</string>
+</dict>
+</plist>

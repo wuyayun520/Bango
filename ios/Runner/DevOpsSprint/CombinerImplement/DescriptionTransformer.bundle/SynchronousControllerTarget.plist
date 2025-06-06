@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewcenter</key>
+	<string>missedSelector</string>
+	<key>keyinterfacesize</key>
+	<string>baselineAppearance</string>
+	<key>linkerPadding</key>
+	<string>movePosition</string>
+	<key>platetint</key>
+	<string>binarySkewX</string>
+	<key>vectorizeradius</key>
+	<string>intermediateVideo</string>
+</dict>
+</plist>

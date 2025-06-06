@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalService</key>
+	<string>latencyMomentum</string>
+	<key>compositionalVertex</key>
+	<string>typicalSorter</string>
+	<key>defaultTable</key>
+	<string>hardGraphic</string>
+	<key>easyawaitrate</key>
+	<string>canUnmountedExtension</string>
+	<key>iterativeLayout</key>
+	<string>buildobserver</string>
+	<key>pagerdirection</key>
+	<string>resourceRate</string>
+	<key>pageviewappearance</key>
+	<string>persistentAscent</string>
+	<key>samplefeedback</key>
+	<string>staticFragments</string>
+	<key>shouldconnectsegment</key>
+	<string>missionorigin</string>
+</dict>
+</plist>

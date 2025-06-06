@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardallocatorpadding</key>
+	<string>standaloneTrajectory</string>
+	<key>euclideanPolyfill</key>
+	<string>tappableActivity</string>
+	<key>intuitiveResponse</key>
+	<string>previewAlignment</string>
+	<key>masterKind</key>
+	<string>currentPager</string>
+	<key>positionedContrast</key>
+	<string>taskAction</string>
+	<key>shouldPresentSlash</key>
+	<string>richtextBrightness</string>
+</dict>
+</plist>

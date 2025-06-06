@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDistance</key>
+	<string>scheduleMenu</string>
+	<key>checkboxopacity</key>
+	<string>cartesianScheduler</string>
+	<key>customizedslidertop</key>
+	<string>canRouteChecklist</string>
+	<key>denseAllocator</key>
+	<string>boxTransparency</string>
+	<key>markresource</key>
+	<string>completercoord</string>
+	<key>shouldDismissBorder</key>
+	<string>uniqueslashcenter</string>
+	<key>tentativeTop</key>
+	<string>dialogsMethod</string>
+	<key>workflowmementovelocity</key>
+	<string>captureMetadata</string>
+</dict>
+</plist>

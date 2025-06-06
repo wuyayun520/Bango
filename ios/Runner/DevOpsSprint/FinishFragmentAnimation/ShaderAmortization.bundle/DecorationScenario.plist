@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblepositionedpressure</key>
+	<string>cardvalidation</string>
+	<key>asynchronousNotifier</key>
+	<string>kernelMargin</string>
+	<key>gramaroundcomposite</key>
+	<string>schemaScale</string>
+	<key>greatEfficiency</key>
+	<string>canEndDocument</string>
+	<key>hierarchicalGrid</key>
+	<string>zoneTag</string>
+	<key>shouldCreateStamp</key>
+	<string>lossDirection</string>
+	<key>shouldLoadDrawer</key>
+	<string>publicStrength</string>
+</dict>
+</plist>

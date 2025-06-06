@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAxis</key>
+	<string>desktopCollection</string>
+	<key>apertureKind</key>
+	<string>blocEdge</string>
+	<key>elementType</key>
+	<string>enabledAsync</string>
+	<key>eventkind</key>
+	<string>typicalStoryboard</string>
+	<key>numericalCallback</key>
+	<string>hierarchicalScroller</string>
+	<key>scenelifecycle</key>
+	<string>litekernel</string>
+	<key>shouldPrepareNavigation</key>
+	<string>modulusMode</string>
+	<key>shouldUnmountedTransition</key>
+	<string>substantialNotification</string>
+	<key>transformerframeworkleft</key>
+	<string>smartOptimizer</string>
+</dict>
+</plist>

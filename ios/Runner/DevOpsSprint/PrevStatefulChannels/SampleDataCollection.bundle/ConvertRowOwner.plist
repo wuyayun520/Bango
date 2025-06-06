@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedelement</key>
+	<string>prevSwitch</string>
+	<key>compiletween</key>
+	<string>standaloneFormat</string>
+	<key>lastHero</key>
+	<string>shearAlignment</string>
+	<key>missedProgressBar</key>
+	<string>materialSegment</string>
+	<key>moduluschaintype</key>
+	<string>largeCell</string>
+	<key>parallelprofilerotation</key>
+	<string>taskvisitoropacity</string>
+	<key>serializeexponent</key>
+	<string>momentumMomentum</string>
+	<key>sinkTension</key>
+	<string>adjustDependency</string>
+	<key>throughputtransparency</key>
+	<string>trajectoryTag</string>
+</dict>
+</plist>

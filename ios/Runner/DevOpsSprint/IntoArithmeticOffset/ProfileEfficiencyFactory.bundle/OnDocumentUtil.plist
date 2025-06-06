@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioedge</key>
+	<string>statefulRotation</string>
+	<key>petVisibility</key>
+	<string>informationPadding</string>
+	<key>progressbarEdge</key>
+	<string>retainedSpot</string>
+	<key>sortedLayout</key>
+	<string>baselineMethod</string>
+	<key>themeFrequency</key>
+	<string>cartesiannavigatorsaturation</string>
+	<key>titlescroller</key>
+	<string>lazyTouch</string>
+	<key>triggerMargin</key>
+	<string>constraintcoord</string>
+</dict>
+</plist>

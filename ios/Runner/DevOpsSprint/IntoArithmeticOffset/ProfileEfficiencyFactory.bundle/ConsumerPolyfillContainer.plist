@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderPosition</key>
+	<string>handlechannel</string>
+	<key>canvasSpeed</key>
+	<string>createSubpixel</string>
+	<key>concreteanimatedcontainercoord</key>
+	<string>schedulerLeft</string>
+	<key>contrastKind</key>
+	<string>protocolstroke</string>
+	<key>immutableTime</key>
+	<string>shouldEncodeSpecifier</string>
+	<key>labelVelocity</key>
+	<string>shouldTransformResource</string>
+	<key>scrollableLog</key>
+	<string>canTransformSegment</string>
+	<key>secondBorder</key>
+	<string>nodeSystem</string>
+</dict>
+</plist>

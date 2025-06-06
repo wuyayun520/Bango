@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchdescription</key>
+	<string>sliderrate</string>
+	<key>builderexceptinterpreter</key>
+	<string>shouldEndAlpha</string>
+	<key>contractionCount</key>
+	<string>cupertinobyshape</string>
+	<key>elasticVector</key>
+	<string>trainCaption</string>
+	<key>momentumInteraction</key>
+	<string>receiveequipment</string>
+	<key>processduration</key>
+	<string>integerPhase</string>
+	<key>resilienceLocation</key>
+	<string>canRestartNib</string>
+	<key>sorterInteraction</key>
+	<string>destroyChannel</string>
+</dict>
+</plist>

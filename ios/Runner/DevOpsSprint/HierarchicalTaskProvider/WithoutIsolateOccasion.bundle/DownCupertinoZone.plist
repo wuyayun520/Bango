@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintjobdensity</key>
+	<string>sampleRight</string>
+	<key>observerinterval</key>
+	<string>canLayoutDropdownButton</string>
+	<key>reusableinformation</key>
+	<string>shouldUnmountedGram</string>
+	<key>subtlemediaquery</key>
+	<string>shouldTransformDrawer</string>
+	<key>swiftsprite</key>
+	<string>refreshResult</string>
+	<key>variantshapestyle</key>
+	<string>shouldstreamindicator</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivefragment</key>
+	<string>listviewCount</string>
+	<key>localObserver</key>
+	<string>dropdownbuttonTail</string>
+	<key>opaqueBandwidth</key>
+	<string>delicateBehavior</string>
+	<key>opaqueTabView</key>
+	<string>independentTouch</string>
+	<key>overlayshade</key>
+	<string>reactiveBox</string>
+	<key>resiliencetension</key>
+	<string>giftMediator</string>
+	<key>shouldLayoutSignature</key>
+	<string>pivotalPriority</string>
+	<key>shouldreplaceinterpolation</key>
+	<string>thresholdscale</string>
+</dict>
+</plist>

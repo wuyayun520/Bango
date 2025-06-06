@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoGrain</key>
+	<string>standaloneInteractor</string>
+	<key>customSound</key>
+	<string>logDistance</string>
+	<key>injectionperstrategy</key>
+	<string>advancedReference</string>
+	<key>layoutinform</key>
+	<string>canStreamScale</string>
+	<key>sharedSession</key>
+	<string>profileValidation</string>
+	<key>shouldAttachCurve</key>
+	<string>crucialReliability</string>
+	<key>similarThread</key>
+	<string>hasAnchor</string>
+	<key>specifiermementovisibility</key>
+	<string>sequentialBuilder</string>
+</dict>
+</plist>

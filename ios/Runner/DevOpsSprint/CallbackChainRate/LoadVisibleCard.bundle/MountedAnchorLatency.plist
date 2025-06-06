@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchCount</key>
+	<string>notificationFlyweight</string>
+	<key>emitcontainer</key>
+	<string>optimizerPlatform</string>
+	<key>oldCollection</key>
+	<string>generateController</string>
+	<key>pinchableObserver</key>
+	<string>checkboxPadding</string>
+	<key>shoulddisconnectthread</key>
+	<string>generateBuffer</string>
+	<key>statusPadding</key>
+	<string>analogyVisibility</string>
+	<key>sustainableImage</key>
+	<string>rebuildMission</string>
+	<key>synchronousMechanism</key>
+	<string>canReplaceObserver</string>
+</dict>
+</plist>

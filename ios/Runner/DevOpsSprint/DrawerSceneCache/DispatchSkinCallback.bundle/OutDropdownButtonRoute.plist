@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstWrapper</key>
+	<string>integertint</string>
+	<key>largerow</key>
+	<string>shouldnotifycatalyst</string>
+	<key>pagerFlags</key>
+	<string>typicalBuilder</string>
+	<key>reducerLocation</key>
+	<string>rapidSession</string>
+	<key>respectiveAlignment</key>
+	<string>persistentCapacity</string>
+	<key>shouldpreparebutton</key>
+	<string>keepConstraint</string>
+</dict>
+</plist>

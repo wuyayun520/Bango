@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAnchor</key>
+	<string>coordinatorHue</string>
+	<key>catalystitem</key>
+	<string>hasTheme</string>
+	<key>channelvisibility</key>
+	<string>capsuleBrightness</string>
+	<key>menualonglayer</key>
+	<string>canFinishHistogram</string>
+	<key>rectifyindicator</key>
+	<string>informationMomentum</string>
+	<key>resultvisibility</key>
+	<string>unsortedPainter</string>
+	<key>shouldDisconnectText</key>
+	<string>videoBehavior</string>
+	<key>smartProvider</key>
+	<string>drawercontrast</string>
+	<key>sorterBottom</key>
+	<string>relationalSingleton</string>
+</dict>
+</plist>

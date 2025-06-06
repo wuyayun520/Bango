@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonsystemrate</key>
+	<string>canProcessCell</string>
+	<key>clippercoord</key>
+	<string>requiredLinker</string>
+	<key>elasticText</key>
+	<string>selectedMedia</string>
+	<key>sensorSize</key>
+	<string>nativePresenter</string>
+	<key>threadtimer</key>
+	<string>shouldstreammediaquery</string>
+</dict>
+</plist>

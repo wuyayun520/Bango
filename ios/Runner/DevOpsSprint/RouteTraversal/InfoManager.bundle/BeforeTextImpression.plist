@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDistance</key>
+	<string>replicamode</string>
+	<key>beginnerTimeline</key>
+	<string>shouldPaintTabBar</string>
+	<key>constraintCoord</key>
+	<string>signPhase</string>
+	<key>fixedTime</key>
+	<string>transformCubit</string>
+	<key>hierarchicalFactory</key>
+	<string>canUpdateEqualization</string>
+	<key>persistentObject</key>
+	<string>prevReceiver</string>
+	<key>rapidSpot</key>
+	<string>processTransition</string>
+	<key>responsiveSink</key>
+	<string>logarithmLeft</string>
+	<key>reusablebatch</key>
+	<string>sharedConsumption</string>
+	<key>sinkamongplatform</key>
+	<string>objectDistance</string>
+</dict>
+</plist>

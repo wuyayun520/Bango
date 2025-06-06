@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsStatus</key>
+	<string>expandedSkewY</string>
+	<key>formattext</key>
+	<string>replaceCaption</string>
+	<key>schedulerVisibility</key>
+	<string>uniformDropdownButton</string>
+	<key>seamlessJoiner</key>
+	<string>setstateDropdownButton</string>
+	<key>subsequentprovider</key>
+	<string>nextPopup</string>
+	<key>uniformConverter</key>
+	<string>touchLocation</string>
+</dict>
+</plist>

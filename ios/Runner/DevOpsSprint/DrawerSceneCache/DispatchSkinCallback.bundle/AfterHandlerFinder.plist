@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionlocalization</key>
+	<string>shouldAttachComposition</string>
+	<key>bitrateprovider</key>
+	<string>aspectratioTheme</string>
+	<key>bufferinterpretertint</key>
+	<string>moduluscompositemode</string>
+	<key>dynamicentitysaturation</key>
+	<string>interactordispatcher</string>
+	<key>entropyIndex</key>
+	<string>popupframeworkindex</string>
+	<key>loadcontroller</key>
+	<string>unmountedroute</string>
+	<key>mediumScalability</key>
+	<string>eagerSymbol</string>
+	<key>sizeoutsideprocess</key>
+	<string>resizableTheme</string>
+	<key>unactivatedBorder</key>
+	<string>optionProcess</string>
+</dict>
+</plist>

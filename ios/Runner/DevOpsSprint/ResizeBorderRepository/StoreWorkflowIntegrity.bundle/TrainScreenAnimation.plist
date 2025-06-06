@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infoVisibility</key>
+	<string>sustainableRouter</string>
+	<key>layerAcceleration</key>
+	<string>isAnchor</string>
+	<key>managerTop</key>
+	<string>unsortedSpecifier</string>
+	<key>schedulerSpeed</key>
+	<string>isolateState</string>
+	<key>selectedDocument</key>
+	<string>directDelivery</string>
+	<key>shouldSetStateWorkflow</key>
+	<string>largeTabView</string>
+	<key>shouldSkipWorkflow</key>
+	<string>impactSaturation</string>
+</dict>
+</plist>

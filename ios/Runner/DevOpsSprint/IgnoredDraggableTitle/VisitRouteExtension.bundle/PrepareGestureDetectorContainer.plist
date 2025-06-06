@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableContainer</key>
+	<string>yieldEntropy</string>
+	<key>lossInteraction</key>
+	<string>symbolMargin</string>
+	<key>numericalgesturedetectorspeed</key>
+	<string>techniquecontainer</string>
+	<key>parallelCombiner</key>
+	<string>shouldProcessCapacities</string>
+	<key>shouldCreatePlayback</key>
+	<string>referenceStyle</string>
+</dict>
+</plist>

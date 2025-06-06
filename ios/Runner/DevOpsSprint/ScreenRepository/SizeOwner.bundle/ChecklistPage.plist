@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularTimer</key>
+	<string>positionedAdapter</string>
+	<key>integerDelay</key>
+	<string>sharedConsumption</string>
+	<key>permissiveradius</key>
+	<string>gradientviaprocess</string>
+</dict>
+</plist>

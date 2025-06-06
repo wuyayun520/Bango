@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultHero</key>
+	<string>synchronousVideo</string>
+	<key>difficultRect</key>
+	<string>storageOffset</string>
+	<key>formatHead</key>
+	<string>repositorymetrics</string>
+	<key>inflaterow</key>
+	<string>statelessLinker</string>
+	<key>largeLifecycle</key>
+	<string>subscribemobile</string>
+	<key>localLoss</key>
+	<string>allocatorormode</string>
+	<key>quitpriority</key>
+	<string>escalatePreview</string>
+	<key>transitioninstage</key>
+	<string>mutableActivity</string>
+</dict>
+</plist>

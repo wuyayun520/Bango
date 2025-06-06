@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorgraph</key>
+	<string>newestslider</string>
+	<key>desktopModal</key>
+	<string>masterCommand</string>
+	<key>immediateprojection</key>
+	<string>instantiateChapter</string>
+	<key>independentNavigator</key>
+	<string>respectiveDescription</string>
+	<key>skinInterval</key>
+	<string>dataContrast</string>
+	<key>taskoperationposition</key>
+	<string>injectQueue</string>
+	<key>tensorJoiner</key>
+	<string>cachestrategyorientation</string>
+</dict>
+</plist>

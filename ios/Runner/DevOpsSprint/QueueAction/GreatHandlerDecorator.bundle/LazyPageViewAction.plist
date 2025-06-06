@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileThreshold</key>
+	<string>resetException</string>
+	<key>pinchableGate</key>
+	<string>shouldSerializePlayback</string>
+	<key>responseinsidefacade</key>
+	<string>granularGridView</string>
+	<key>stepFrequency</key>
+	<string>vectorizeUtil</string>
+	<key>tablesystemhue</key>
+	<string>canBindBuilder</string>
+	<key>tickertrajectory</key>
+	<string>tensorBase</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioInset</key>
+	<string>mediocreNotation</string>
+	<key>declarativeState</key>
+	<string>singleMovement</string>
+	<key>defaultstoryboard</key>
+	<string>mountedSubpixel</string>
+	<key>displayresult</key>
+	<string>canDispatchPlayback</string>
+	<key>dynamicanimation</key>
+	<string>clipFeature</string>
+	<key>elasticMap</key>
+	<string>notifysine</string>
+	<key>persistentImpact</key>
+	<string>connectProtocol</string>
+</dict>
+</plist>

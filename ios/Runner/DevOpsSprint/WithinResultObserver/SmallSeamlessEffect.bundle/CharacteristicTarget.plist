@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarTransparency</key>
+	<string>lostSample</string>
+	<key>bulletlistener</key>
+	<string>opaqueContrast</string>
+	<key>canvaserror</key>
+	<string>permissiveConfidentiality</string>
+	<key>consumerstatus</key>
+	<string>shouldDetachSlider</string>
+	<key>deliveryMargin</key>
+	<string>canRestartColumn</string>
+	<key>entityRight</key>
+	<string>mobileMetrics</string>
+	<key>resourceandparameter</key>
+	<string>multipopup</string>
+	<key>shouldListenTangent</key>
+	<string>reducerFlyweight</string>
+	<key>zoneVelocity</key>
+	<string>gramduration</string>
+</dict>
+</plist>

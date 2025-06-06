@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricpadding</key>
+	<string>beginnerElement</string>
+	<key>requiredprogressbarduration</key>
+	<string>compositionalConsumption</string>
+	<key>shouldBindTabBar</key>
+	<string>serviceFeedback</string>
+	<key>shouldMountedPlate</key>
+	<string>convertObserver</string>
+	<key>shouldPauseView</key>
+	<string>cacheConstraint</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCustomPaint</key>
+	<string>mediocreProgressBar</string>
+	<key>granularTouch</key>
+	<string>invisibleSchema</string>
+	<key>immediateOccasion</key>
+	<string>shouldSkipIcon</string>
+	<key>semanticShape</key>
+	<string>debugProvider</string>
+</dict>
+</plist>

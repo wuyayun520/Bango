@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalAscent</key>
+	<string>unsortedTangent</string>
+	<key>observerdecoratorfeedback</key>
+	<string>cancelHero</string>
+	<key>optimizeraroundfacade</key>
+	<string>progressbarRight</string>
+	<key>prismaticCycle</key>
+	<string>shouldpushcoordinator</string>
+	<key>reactiveContainer</key>
+	<string>bitrateformat</string>
+	<key>rebuildservice</key>
+	<string>keepScaffold</string>
+	<key>shouldAnimateGate</key>
+	<string>disposegraph</string>
+	<key>shouldUnmountMomentum</key>
+	<string>canKeepSpecifier</string>
+	<key>sustainableIcon</key>
+	<string>popGraph</string>
+</dict>
+</plist>

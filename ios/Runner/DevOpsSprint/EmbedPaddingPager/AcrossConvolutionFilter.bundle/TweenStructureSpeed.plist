@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAnalyzer</key>
+	<string>canPopShader</string>
+	<key>concurrentTopic</key>
+	<string>shouldDisconnectGridView</string>
+	<key>customizedAspect</key>
+	<string>commonSymbol</string>
+	<key>dynamicvariant</key>
+	<string>elasticSubscription</string>
+	<key>heapSize</key>
+	<string>cubitdistance</string>
+	<key>intuitiveStatus</key>
+	<string>shouldStartNotifier</string>
+	<key>layerVisibility</key>
+	<string>shouldMountStoryboard</string>
+	<key>modelOffset</key>
+	<string>streamBridge</string>
+	<key>parallelmonsteracceleration</key>
+	<string>modulusJob</string>
+	<key>popuplikemode</key>
+	<string>hashRotation</string>
+</dict>
+</plist>

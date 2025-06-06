@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoOffset</key>
+	<string>ignoredRadius</string>
+	<key>directLoader</key>
+	<string>undertakehero</string>
+	<key>fusedGraphic</key>
+	<string>mountnotifier</string>
+	<key>localBrush</key>
+	<string>shouldDetachComposition</string>
+	<key>missionAppearance</key>
+	<string>gateNumber</string>
+	<key>nodefacadetop</key>
+	<string>ephemeralChallenge</string>
+	<key>notifycontroller</key>
+	<string>interceptTimer</string>
+	<key>shapeCenter</key>
+	<string>semanticsSpacing</string>
+	<key>transitionDistance</key>
+	<string>batchHue</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionMode</key>
+	<string>interpolateTicker</string>
+	<key>imperativeCosine</key>
+	<string>ignoredAxis</string>
+	<key>prevTime</key>
+	<string>pivotalObject</string>
+	<key>scopeIndex</key>
+	<string>limitScene</string>
+	<key>shouldPushPositioned</key>
+	<string>canLoadOverlay</string>
+	<key>sliderIndex</key>
+	<string>provisionvisible</string>
+	<key>visibleLabel</key>
+	<string>switchintype</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocdepth</key>
+	<string>selectedstream</string>
+	<key>detectorVisibility</key>
+	<string>scrollablePresenter</string>
+	<key>reductionDistance</key>
+	<string>tableValue</string>
+	<key>resolverphasetail</key>
+	<string>layerdespitepattern</string>
+	<key>scrollableprotocol</key>
+	<string>listenTicker</string>
+	<key>shouldDetachStateless</key>
+	<string>newestresponse</string>
+	<key>trainstream</key>
+	<string>animateSpot</string>
+</dict>
+</plist>

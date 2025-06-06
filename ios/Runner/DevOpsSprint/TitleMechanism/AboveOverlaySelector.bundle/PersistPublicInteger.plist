@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDescription</key>
+	<string>cartesianactivityforce</string>
+	<key>customizedResolver</key>
+	<string>canConnectSine</string>
+	<key>fixedLog</key>
+	<string>injectionconsumption</string>
+	<key>listenerRotation</key>
+	<string>componentSaturation</string>
+	<key>sensormediatorsize</key>
+	<string>disconnectGroup</string>
+	<key>singletonlevelfrequency</key>
+	<string>animatedRoute</string>
+	<key>subtleLog</key>
+	<string>canPresentProtocol</string>
+</dict>
+</plist>

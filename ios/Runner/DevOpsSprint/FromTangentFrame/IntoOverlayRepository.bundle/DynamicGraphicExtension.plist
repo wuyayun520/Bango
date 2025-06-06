@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeMenu</key>
+	<string>inheritedGesture</string>
+	<key>denseCurve</key>
+	<string>providerResponse</string>
+	<key>enabledResolver</key>
+	<string>canTransformUnary</string>
+	<key>resizableDetail</key>
+	<string>widgetStage</string>
+	<key>stackmodel</key>
+	<string>ascentPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerpositionedge</key>
+	<string>divideTimer</string>
+	<key>eagerDispatcher</key>
+	<string>heapCoord</string>
+	<key>elasticElement</key>
+	<string>canLayoutPromise</string>
+	<key>interactororframework</key>
+	<string>shouldRebuildBase</string>
+	<key>mutableschema</key>
+	<string>tensorSchema</string>
+	<key>remediationinteraction</key>
+	<string>iconStyle</string>
+	<key>secondRect</key>
+	<string>canResumeCollection</string>
+	<key>standaloneCubit</key>
+	<string>offsetagainstscope</string>
+	<key>uniqueTool</key>
+	<string>captureMethod</string>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>priorAnimator</key>
+	<string>sophisticatedPriority</string>
+	<key>transitionMargin</key>
+	<string>gridScope</string>
+</dict>
+</plist>

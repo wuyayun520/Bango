@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoSignature</key>
+	<string>audiofrequency</string>
+	<key>curveName</key>
+	<string>tabviewFormat</string>
+	<key>grayscaleHead</key>
+	<string>profileContrast</string>
+	<key>recursionStyle</key>
+	<string>zoneTag</string>
+	<key>responsiveImpact</key>
+	<string>toolStructure</string>
+	<key>shouldEndEqualization</key>
+	<string>channelsObserver</string>
+	<key>shouldProcessTask</key>
+	<string>reactiveSample</string>
+	<key>statefulChallenge</key>
+	<string>segueForm</string>
+</dict>
+</plist>

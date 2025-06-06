@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintresponse</key>
+	<string>scrollableZone</string>
+	<key>difficultInformation</key>
+	<string>movementBehavior</string>
+	<key>robustSound</key>
+	<string>concatenateResponse</string>
+	<key>shouldPushScaffold</key>
+	<string>mounteddecoration</string>
+	<key>shouldrestartcosine</key>
+	<string>listviewOperation</string>
+</dict>
+</plist>

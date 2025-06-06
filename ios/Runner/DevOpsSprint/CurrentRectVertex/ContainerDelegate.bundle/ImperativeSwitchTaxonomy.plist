@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionStyle</key>
+	<string>custompaintInteraction</string>
+	<key>featureFormat</key>
+	<string>shouldUnmountedFlex</string>
+	<key>multiProvision</key>
+	<string>diffableIcon</string>
+	<key>navigatorflyweightbrightness</key>
+	<string>ignoredSpecifier</string>
+	<key>persistentIntensity</key>
+	<string>arithmeticResolver</string>
+	<key>priorityTension</key>
+	<string>reduceChapter</string>
+	<key>requireddescriptorspeed</key>
+	<string>shouldRestartHeap</string>
+	<key>singleSine</key>
+	<string>adaptiveChannel</string>
+</dict>
+</plist>

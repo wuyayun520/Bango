@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerlikevar</key>
+	<string>rapidMultiplication</string>
+	<key>heroticker</key>
+	<string>permutationOrientation</string>
+	<key>inactiveProgressBar</key>
+	<string>canValidateNotification</string>
+	<key>liteclipperinteraction</key>
+	<string>showRepository</string>
+	<key>shouldParseStep</key>
+	<string>canDecodeNorm</string>
+</dict>
+</plist>

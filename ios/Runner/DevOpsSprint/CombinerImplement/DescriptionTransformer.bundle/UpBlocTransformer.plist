@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedFormat</key>
+	<string>immediateResolver</string>
+	<key>dependencyEdge</key>
+	<string>scaffoldPrototype</string>
+	<key>diffablePresenter</key>
+	<string>shouldUnbindAlpha</string>
+	<key>errorBehavior</key>
+	<string>canListenPriority</string>
+	<key>unsortedData</key>
+	<string>hasConvolution</string>
+</dict>
+</plist>

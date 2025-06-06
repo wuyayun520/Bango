@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineFlags</key>
+	<string>draggableIntensity</string>
+	<key>dedicatedSign</key>
+	<string>keyStorage</string>
+	<key>kernelpadding</key>
+	<string>showInterpolation</string>
+	<key>retainedAnimation</key>
+	<string>canSaveContraction</string>
+	<key>roleVelocity</key>
+	<string>currentVector</string>
+	<key>schemaShade</key>
+	<string>comprehensiveLayer</string>
+	<key>shouldMountedWorkflow</key>
+	<string>reconcileException</string>
+	<key>yieldradio</key>
+	<string>originalEmitter</string>
+</dict>
+</plist>

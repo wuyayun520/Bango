@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>holdcell</key>
+	<string>createaspectratio</string>
+	<key>injectionCoord</key>
+	<string>drawRepository</string>
+	<key>keyContrast</key>
+	<string>disabledEfficiency</string>
+	<key>nodeawayparameter</key>
+	<string>isEffect</string>
+	<key>requestFeedback</key>
+	<string>gestureTag</string>
+	<key>shapeVisibility</key>
+	<string>precisionHead</string>
+	<key>standaloneCluster</key>
+	<string>shouldStreamMedia</string>
+	<key>statelessTween</key>
+	<string>shouldReplaceShader</string>
+</dict>
+</plist>

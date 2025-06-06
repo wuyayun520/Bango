@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasactionstyle</key>
+	<string>quitSink</string>
+	<key>denseModel</key>
+	<string>publishScaffold</string>
+	<key>layerRight</key>
+	<string>canNavigateView</string>
+	<key>mechanismResponse</key>
+	<string>bitrateparameteralignment</string>
+	<key>repositoryMomentum</key>
+	<string>movementAcceleration</string>
+	<key>shouldCreateDialogs</key>
+	<string>nextRole</string>
+	<key>shouldProcessProjection</key>
+	<string>serializeModel</string>
+	<key>standaloneThreshold</key>
+	<string>similarListener</string>
+	<key>storereliability</key>
+	<string>yieldController</string>
+</dict>
+</plist>

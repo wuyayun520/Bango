@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableBinary</key>
+	<string>specifyCube</string>
+	<key>paintcallback</key>
+	<string>staticSound</string>
+	<key>painterspacing</key>
+	<string>tappableCapacities</string>
+	<key>shaderStatus</key>
+	<string>elastictween</string>
+	<key>shouldPresentTextField</key>
+	<string>registertween</string>
+	<key>shouldPushProjection</key>
+	<string>largePolyfill</string>
+	<key>smartAsync</key>
+	<string>offsetborder</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedQueue</key>
+	<string>lastEquipment</string>
+	<key>bitrateleft</key>
+	<string>keyGate</string>
+	<key>displayableAnimator</key>
+	<string>shouldpopbutton</string>
+	<key>draggableNorm</key>
+	<string>createTheme</string>
+	<key>functionalInteraction</key>
+	<string>registerWidget</string>
+	<key>inheritedScope</key>
+	<string>inactiveBitrate</string>
+	<key>keepanimation</key>
+	<string>parsePresenter</string>
+	<key>lifecycleInterval</key>
+	<string>itemVisible</string>
+	<key>reducerstyle</key>
+	<string>aspectBound</string>
+	<key>subtleIsolate</key>
+	<string>dynamicEvolution</string>
+</dict>
+</plist>

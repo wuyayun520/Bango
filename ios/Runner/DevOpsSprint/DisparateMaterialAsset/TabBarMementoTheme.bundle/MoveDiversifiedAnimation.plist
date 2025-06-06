@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completervelocity</key>
+	<string>statusDirection</string>
+	<key>cursorright</key>
+	<string>shouldendworkflow</string>
+	<key>otherTrajectory</key>
+	<string>mainMaterializer</string>
+	<key>queueshade</key>
+	<string>delicateImpact</string>
+	<key>resizableProcessor</key>
+	<string>captionStage</string>
+	<key>shouldParseBoxShadow</key>
+	<string>scrollerContrast</string>
+	<key>substantialExpanded</key>
+	<string>tabviewChain</string>
+	<key>webExtension</key>
+	<string>framecommandresponse</string>
+</dict>
+</plist>

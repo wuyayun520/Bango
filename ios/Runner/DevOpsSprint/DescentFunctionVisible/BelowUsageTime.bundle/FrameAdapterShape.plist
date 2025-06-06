@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedPoint</key>
+	<string>decodeslash</string>
+	<key>maintaintween</key>
+	<string>popupDuration</string>
+	<key>movementpatterndensity</key>
+	<string>kernelScope</string>
+	<key>shouldCacheEffect</key>
+	<string>allocatorHue</string>
+	<key>shouldnotifyeffect</key>
+	<string>vectorizeQueue</string>
+	<key>smartStack</key>
+	<string>tableVelocity</string>
+</dict>
+</plist>

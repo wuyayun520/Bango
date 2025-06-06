@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablepolyfill</key>
+	<string>repositoryframeworkappearance</string>
+	<key>euclideanSkin</key>
+	<string>retainRect</string>
+	<key>interactiveFrame</key>
+	<string>newestVector</string>
+	<key>shouldtransitionpoint</key>
+	<string>interactiveAllocator</string>
+	<key>textfieldofstructure</key>
+	<string>shouldPresentSine</string>
+</dict>
+</plist>

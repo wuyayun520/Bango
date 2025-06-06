@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charactertweak</key>
+	<string>triggerPosition</string>
+	<key>decorationconnector</key>
+	<string>activatedUtil</string>
+	<key>dismisschapter</key>
+	<string>unbindMonster</string>
+	<key>permanentExtension</key>
+	<string>fusedLayer</string>
+	<key>searchentity</key>
+	<string>dynamicSpine</string>
+	<key>shouldAnimateGate</key>
+	<string>integerFunction</string>
+	<key>statefulUsage</key>
+	<string>splittertransparency</string>
+</dict>
+</plist>

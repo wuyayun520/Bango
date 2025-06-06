@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationcontrast</key>
+	<string>intuitiveproviderdepth</string>
+	<key>chartBound</key>
+	<string>immediateChooser</string>
+	<key>composableScroll</key>
+	<string>canEndOptimizer</string>
+	<key>equalslider</key>
+	<string>unsortedCallback</string>
+	<key>sequentialQueue</key>
+	<string>offsetChannel</string>
+	<key>shouldRenderGram</key>
+	<string>materialCallback</string>
+	<key>shouldupdatemap</key>
+	<string>mountTheme</string>
+</dict>
+</plist>

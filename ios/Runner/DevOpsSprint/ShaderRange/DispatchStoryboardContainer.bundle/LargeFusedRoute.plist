@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatetexture</key>
+	<string>utilmode</string>
+	<key>hashdecoratorrotation</key>
+	<string>subpixelOperation</string>
+	<key>localPadding</key>
+	<string>temporaryHandler</string>
+	<key>mediumTweak</key>
+	<string>canStartAspectRatio</string>
+	<key>multiMetadata</key>
+	<string>cubeHead</string>
+	<key>nativePresenter</key>
+	<string>observeComposition</string>
+	<key>permanentFilter</key>
+	<string>dropdownbuttonAlignment</string>
+	<key>shouldSerializeMomentum</key>
+	<string>logarithmVisitor</string>
+</dict>
+</plist>

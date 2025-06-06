@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitColor</key>
+	<string>consultativeDecoration</string>
+	<key>mediumTheme</key>
+	<string>navigationDensity</string>
+	<key>precisionOpacity</key>
+	<string>uniformMovement</string>
+	<key>specifySchema</key>
+	<string>cosinealignment</string>
+</dict>
+</plist>

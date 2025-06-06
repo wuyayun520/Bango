@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCoordinator</key>
+	<string>shouldRestartSwitch</string>
+	<key>bulletactionorigin</key>
+	<string>concurrentStroke</string>
+	<key>cartesianCanvas</key>
+	<string>unaryMemento</string>
+	<key>creatorOrigin</key>
+	<string>prismaticOperation</string>
+	<key>desktopProtocol</key>
+	<string>compareSink</string>
+	<key>diversifiedPublisher</key>
+	<string>numericalText</string>
+	<key>menuValidation</key>
+	<string>matrixBottom</string>
+	<key>parallelResolver</key>
+	<string>euclideanrenderer</string>
+	<key>shoulddisconnectsample</key>
+	<string>beginneranimatedcontainercoord</string>
+	<key>specifyHandler</key>
+	<string>shouldCancelTabView</string>
+</dict>
+</plist>

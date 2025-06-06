@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedQuaternion</key>
+	<string>alphaPadding</string>
+	<key>dialogsKind</key>
+	<string>canCacheBatch</string>
+	<key>hasprojection</key>
+	<string>curvebridgeappearance</string>
+	<key>modalPadding</key>
+	<string>evaluateButton</string>
+	<key>notificationBorder</key>
+	<string>unbindSizedBox</string>
+	<key>shouldCancelScale</key>
+	<string>canDismissCustomPaint</string>
+	<key>shouldParseProject</key>
+	<string>expandedJob</string>
+	<key>specifyConfiguration</key>
+	<string>constraintFlags</string>
+	<key>usageforobserver</key>
+	<string>customReduction</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupstructuretag</key>
+	<string>liteGrain</string>
+	<key>respectiveFragments</key>
+	<string>canDismissAnchor</string>
+	<key>sequentialLinker</key>
+	<string>chartBridge</string>
+	<key>shouldnavigateextension</key>
+	<string>cubitCycle</string>
+	<key>statelessMerger</key>
+	<string>blocstyleoffset</string>
+</dict>
+</plist>

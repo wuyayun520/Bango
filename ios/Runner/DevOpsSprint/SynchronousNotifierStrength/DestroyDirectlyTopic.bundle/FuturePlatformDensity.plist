@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryrouter</key>
+	<string>markReducer</string>
+	<key>customSegue</key>
+	<string>entropyActivity</string>
+	<key>dependencymend</key>
+	<string>otherExtension</string>
+	<key>easymovement</key>
+	<string>mitigateSink</string>
+	<key>ignoredDescriptor</key>
+	<string>shouldRouteCustomPaint</string>
+	<key>liteCheckbox</key>
+	<string>shouldMountedCupertino</string>
+	<key>shouldcreateinteger</key>
+	<string>alignmentCommand</string>
+</dict>
+</plist>

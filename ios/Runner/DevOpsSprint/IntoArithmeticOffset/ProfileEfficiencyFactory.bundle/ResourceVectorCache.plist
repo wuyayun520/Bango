@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfaceconsumption</key>
+	<string>upgradeRadius</string>
+	<key>nextTimeline</key>
+	<string>otherCompleter</string>
+	<key>responsiveSlash</key>
+	<string>navigatePlate</string>
+	<key>shouldCacheScaffold</key>
+	<string>themelistener</string>
+	<key>substantialImpression</key>
+	<string>replicateResult</string>
+	<key>unschedulebutton</key>
+	<string>prevConfiguration</string>
+	<key>unsortedGrayscale</key>
+	<string>subpixelInterval</string>
+	<key>unsortedSwift</key>
+	<string>descriptorBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCollection</key>
+	<string>discardedCube</string>
+	<key>adaptivereliability</key>
+	<string>wrapSubscription</string>
+	<key>latencyPosition</key>
+	<string>animationTask</string>
+	<key>primaryloop</key>
+	<string>mobileSchema</string>
+	<key>shouldConnectMusic</key>
+	<string>offsetofstyle</string>
+	<key>shouldSubscribeSlash</key>
+	<string>previewcreator</string>
+</dict>
+</plist>

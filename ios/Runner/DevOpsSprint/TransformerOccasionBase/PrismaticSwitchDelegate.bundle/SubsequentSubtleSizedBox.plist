@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblerow</key>
+	<string>canKeepTool</string>
+	<key>declarativetechnique</key>
+	<string>configureReducer</string>
+	<key>mediocrecupertinoacceleration</key>
+	<string>shouldDisposeResource</string>
+	<key>vectorname</key>
+	<string>checklistmapper</string>
+</dict>
+</plist>

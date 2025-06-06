@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSkin</key>
+	<string>secondWorkflow</string>
+	<key>cursorright</key>
+	<string>refactorstoryboard</string>
+	<key>explicitRemainder</key>
+	<string>uniformPoint</string>
+	<key>flexibleCreator</key>
+	<string>shouldPublishNavigation</string>
+	<key>impactBound</key>
+	<string>canAttachCursor</string>
+	<key>layerInteraction</key>
+	<string>alignmentFramework</string>
+	<key>subsequentArchitecture</key>
+	<string>sequentialMenu</string>
+	<key>taskorframework</key>
+	<string>requiredloop</string>
+</dict>
+</plist>

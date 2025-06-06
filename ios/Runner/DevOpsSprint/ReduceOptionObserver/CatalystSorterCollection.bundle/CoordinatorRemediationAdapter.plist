@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localUseCase</key>
+	<string>eagerPicker</string>
+	<key>nextmenurotation</key>
+	<string>staticLoader</string>
+	<key>responsiveModule</key>
+	<string>confidentialityBound</string>
+	<key>shouldLoadBoxShadow</key>
+	<string>shouldShowTangent</string>
+	<key>unsortedMaster</key>
+	<string>backwardBrush</string>
+</dict>
+</plist>

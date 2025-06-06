@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedcanvasvisibility</key>
+	<string>firstView</string>
+	<key>concurrentPopup</key>
+	<string>canDisconnectCollection</string>
+	<key>converterformat</key>
+	<string>intuitiveTransformer</string>
+	<key>elasticUsage</key>
+	<string>enabledInteractor</string>
+	<key>shouldSerializeMovement</key>
+	<string>unbindSession</string>
+	<key>skinVisible</key>
+	<string>smallEvaluation</string>
+	<key>standaloneBorder</key>
+	<string>deflateRepository</string>
+	<key>timeMargin</key>
+	<string>limitObserver</string>
+</dict>
+</plist>

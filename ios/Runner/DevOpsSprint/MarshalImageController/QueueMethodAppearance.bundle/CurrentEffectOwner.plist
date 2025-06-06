@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBase</key>
+	<string>functionalDescriptor</string>
+	<key>mobileColumn</key>
+	<string>unactivatedCanvas</string>
+	<key>modelAlignment</key>
+	<string>petOrigin</string>
+	<key>multiCursor</key>
+	<string>findGrid</string>
+	<key>shouldListenListView</key>
+	<string>stopScroll</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTentative</key>
+	<string>anchorSpacing</string>
+	<key>disabledDisclaimer</key>
+	<string>flexiblecontroller</string>
+	<key>functionalGradient</key>
+	<string>interactiveMusic</string>
+	<key>mainCube</key>
+	<string>lifecyclePosition</string>
+	<key>materialSubscription</key>
+	<string>richtextMemento</string>
+	<key>memberFormat</key>
+	<string>scaleaudio</string>
+	<key>permissivetabbarvelocity</key>
+	<string>iconmode</string>
+	<key>sequentialObserver</key>
+	<string>requiredPadding</string>
+	<key>shouldContinueFlex</key>
+	<string>transpileHandler</string>
+	<key>shouldLoadRole</key>
+	<string>basicTextField</string>
+</dict>
+</plist>

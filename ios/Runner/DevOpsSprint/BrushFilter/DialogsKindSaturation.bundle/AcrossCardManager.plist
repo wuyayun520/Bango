@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBinary</key>
+	<string>pinchableoperation</string>
+	<key>aspectresource</key>
+	<string>priorityOpacity</string>
+	<key>associatedCard</key>
+	<string>composableFlex</string>
+	<key>calculateusecase</key>
+	<string>canNotifyPainter</string>
+	<key>materialLayout</key>
+	<string>shouldValidateMember</string>
+	<key>mediumRestriction</key>
+	<string>metadataversusflyweight</string>
+	<key>permanentconvolutiondepth</key>
+	<string>sortedCosine</string>
+	<key>presentertweak</key>
+	<string>tappableMobile</string>
+	<key>reactiveprogressbar</key>
+	<string>significantStamp</string>
+	<key>statelessAwait</key>
+	<string>customChannel</string>
+</dict>
+</plist>

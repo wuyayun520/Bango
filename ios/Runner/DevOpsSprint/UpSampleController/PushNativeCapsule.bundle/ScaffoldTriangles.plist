@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resilienceScale</key>
+	<string>shouldSerializeBorder</string>
+	<key>sharedSkin</key>
+	<string>shouldLayoutStep</string>
+	<key>shouldFetchCursor</key>
+	<string>canMountedGram</string>
+	<key>shouldLoadContainer</key>
+	<string>channelinfo</string>
+	<key>shouldStreamCheckbox</key>
+	<string>groupopacity</string>
+	<key>sustainableChecklist</key>
+	<string>regulateGrain</string>
+	<key>symmetricVolume</key>
+	<string>requiredMethod</string>
+</dict>
+</plist>

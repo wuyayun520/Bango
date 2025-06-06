@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyequalization</key>
+	<string>saveGestureDetector</string>
+	<key>shouldReplaceBehavior</key>
+	<string>geometricexponent</string>
+	<key>shouldSubscribeLayout</key>
+	<string>adaptiveTitle</string>
+	<key>singleTween</key>
+	<string>listviewLevel</string>
+	<key>standaloneAscent</key>
+	<string>dependencyFlags</string>
+	<key>trajectoryName</key>
+	<string>fetchBoxShadow</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedresolveracceleration</key>
+	<string>scrollableGradient</string>
+	<key>consultativeSlider</key>
+	<string>canStreamDuration</string>
+	<key>masterKind</key>
+	<string>offsetSingleton</string>
+	<key>shouldYieldDropdownButton</key>
+	<string>initializeNode</string>
+	<key>standaloneDelegate</key>
+	<string>catalystMargin</string>
+	<key>unmountedpet</key>
+	<string>materialInterval</string>
+</dict>
+</plist>

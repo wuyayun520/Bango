@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardresilience</key>
+	<string>disconnectCosine</string>
+	<key>concreterenderer</key>
+	<string>specifyInteger</string>
+	<key>discardedContainer</key>
+	<string>selectedMonster</string>
+	<key>dispatchtabbar</key>
+	<string>typicalTentative</string>
+	<key>lockradius</key>
+	<string>bindSensor</string>
+	<key>mendPadding</key>
+	<string>exponentMethod</string>
+	<key>publicTrigger</key>
+	<string>stackBound</string>
+	<key>retainedLatency</key>
+	<string>interactiveCosine</string>
+</dict>
+</plist>

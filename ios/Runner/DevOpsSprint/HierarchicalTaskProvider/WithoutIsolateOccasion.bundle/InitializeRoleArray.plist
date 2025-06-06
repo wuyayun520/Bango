@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleCoord</key>
+	<string>showDecoration</string>
+	<key>metadataincludeprocess</key>
+	<string>createMargin</string>
+	<key>positionmomentum</key>
+	<string>rowAlignment</string>
+	<key>shouldStopListView</key>
+	<string>alphaPressure</string>
+	<key>statefulSound</key>
+	<string>persisttabview</string>
+</dict>
+</plist>

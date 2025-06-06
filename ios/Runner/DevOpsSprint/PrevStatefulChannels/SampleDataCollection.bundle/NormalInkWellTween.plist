@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heroBound</key>
+	<string>switchBehavior</string>
+	<key>modulusInset</key>
+	<string>permanentColor</string>
+	<key>multiDrawer</key>
+	<string>immediateComposition</string>
+	<key>objectDuration</key>
+	<string>indicatorduration</string>
+	<key>promiseFeedback</key>
+	<string>canDecodePet</string>
+	<key>shouldCreateShader</key>
+	<string>statefulNorm</string>
+	<key>shouldDecodeBitrate</key>
+	<string>schedulerTheme</string>
+	<key>shouldSkipInkWell</key>
+	<string>timerFeedback</string>
+</dict>
+</plist>

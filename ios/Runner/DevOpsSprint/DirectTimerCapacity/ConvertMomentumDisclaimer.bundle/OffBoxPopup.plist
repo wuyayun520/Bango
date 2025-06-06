@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationevent</key>
+	<string>symmetricScale</string>
+	<key>primaryResilience</key>
+	<string>bitratenearmethod</string>
+	<key>processorStatus</key>
+	<string>channelduringactivity</string>
+	<key>reactiverow</key>
+	<string>immutableusagelocation</string>
+	<key>shouldMountMonster</key>
+	<string>concatenatetabbar</string>
+	<key>usedthemeleft</key>
+	<string>significantNode</string>
+</dict>
+</plist>

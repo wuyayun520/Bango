@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeValidation</key>
+	<string>heroInterval</string>
+	<key>coordinatorspacing</key>
+	<string>retainoverlay</string>
+	<key>dynamicOption</key>
+	<string>radioValidation</string>
+	<key>mechanismCount</key>
+	<string>shouldPublishMatrix</string>
+	<key>mediaqueryPressure</key>
+	<string>usedSwift</string>
+	<key>scrollableConsumer</key>
+	<string>copyFuture</string>
+	<key>shouldBindAspectRatio</key>
+	<string>reusableUtil</string>
+	<key>sortedListView</key>
+	<string>firstCompleter</string>
+</dict>
+</plist>

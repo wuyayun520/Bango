@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedSubpixel</key>
+	<string>shouldPersistHero</string>
+	<key>eagerCombiner</key>
+	<string>shouldUpdateDrawer</string>
+	<key>featurespeed</key>
+	<string>tappableSorter</string>
+	<key>filllayer</key>
+	<string>progressbarFeedback</string>
+	<key>pageviewStatus</key>
+	<string>effectVar</string>
+	<key>pinchableCollection</key>
+	<string>minAperture</string>
+	<key>removemission</key>
+	<string>customizedActivity</string>
+	<key>statelessPosition</key>
+	<string>scalabilityRate</string>
+</dict>
+</plist>

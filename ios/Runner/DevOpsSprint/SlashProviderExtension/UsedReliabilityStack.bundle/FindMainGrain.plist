@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopGradient</key>
+	<string>customPolygon</string>
+	<key>directgift</key>
+	<string>directlyDescent</string>
+	<key>easyInjection</key>
+	<string>permanentWidget</string>
+	<key>featureShade</key>
+	<string>singleManager</string>
+	<key>reducerspeed</key>
+	<string>unlockCurve</string>
+	<key>responderName</key>
+	<string>constraintnavigator</string>
+	<key>shouldLoadPet</key>
+	<string>radiusDepth</string>
+	<key>sizeOpacity</key>
+	<string>offsetStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledCard</key>
+	<string>skirtMemento</string>
+	<key>dynamicFrame</key>
+	<string>shouldBindEffect</string>
+	<key>enabledJoiner</key>
+	<string>beginnerStatus</string>
+	<key>giftLeft</key>
+	<string>activeRecursion</string>
+	<key>hyperbolicCubit</key>
+	<string>embedListener</string>
+	<key>imperativePositioned</key>
+	<string>cycleTop</string>
+	<key>otherconstraintmargin</key>
+	<string>shaderawaybridge</string>
+	<key>scrollIndex</key>
+	<string>greatText</string>
+	<key>shouldHandleRole</key>
+	<string>imageLocation</string>
+	<key>videoContrast</key>
+	<string>appbarVar</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chaptermode</key>
+	<string>mountedTouch</string>
+	<key>prevInteger</key>
+	<string>scalabilityRotation</string>
+	<key>resultshade</key>
+	<string>memberLocation</string>
+	<key>shouldEmitTouch</key>
+	<string>metricsdensity</string>
+	<key>shouldListenBinary</key>
+	<string>strokeorigin</string>
+	<key>tasklabel</key>
+	<string>canDispatchTabBar</string>
+</dict>
+</plist>

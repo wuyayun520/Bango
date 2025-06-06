@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseCoord</key>
+	<string>protocolscopeforce</string>
+	<key>entityAcceleration</key>
+	<string>opaqueConsumption</string>
+	<key>hardGroup</key>
+	<string>maxCache</string>
+	<key>sampleincludelevel</key>
+	<string>inheritedview</string>
+	<key>shouldEndRow</key>
+	<string>strokeKind</string>
+	<key>shouldLayoutAlert</key>
+	<string>contractionduringparam</string>
+	<key>shouldValidateScale</key>
+	<string>concatenateSink</string>
+	<key>timeStyle</key>
+	<string>createCursor</string>
+</dict>
+</plist>

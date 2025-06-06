@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTimer</key>
+	<string>persistlistener</string>
+	<key>dynamicEffect</key>
+	<string>cardDirection</string>
+	<key>onthemechanged</key>
+	<string>comprehensiveSensor</string>
+	<key>pinchablestoreappearance</key>
+	<string>cursorincludestrategy</string>
+	<key>segueFormat</key>
+	<string>mutablechapter</string>
+	<key>tensorInstruction</key>
+	<string>shouldUnmountStep</string>
+</dict>
+</plist>

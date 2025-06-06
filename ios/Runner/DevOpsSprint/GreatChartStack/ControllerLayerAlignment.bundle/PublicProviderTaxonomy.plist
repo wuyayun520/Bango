@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderinformation</key>
+	<string>iterativeexponent</string>
+	<key>crucialCaption</key>
+	<string>shouldPresentInstruction</string>
+	<key>queueVelocity</key>
+	<string>eagerRecursion</string>
+	<key>remediationOrientation</key>
+	<string>prismaticStatus</string>
+	<key>seamlessscope</key>
+	<string>shouldParseGesture</string>
+</dict>
+</plist>

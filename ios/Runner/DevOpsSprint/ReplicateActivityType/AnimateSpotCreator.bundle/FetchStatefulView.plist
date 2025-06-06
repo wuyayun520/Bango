@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionfeedback</key>
+	<string>strokeTag</string>
+	<key>draggableUsage</key>
+	<string>priorPopup</string>
+	<key>nextMatrix</key>
+	<string>uniqueGridView</string>
+	<key>responsiveresourceresponse</key>
+	<string>precisionTail</string>
+	<key>smartSprite</key>
+	<string>kernelFrequency</string>
+</dict>
+</plist>

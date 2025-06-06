@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedScroll</key>
+	<string>accessibleCapsule</string>
+	<key>deferredPainter</key>
+	<string>injectionVisible</string>
+	<key>immediateGraph</key>
+	<string>inheritedBatch</string>
+	<key>managerexceptmethod</key>
+	<string>resilientmap</string>
+	<key>menuFeedback</key>
+	<string>optimizerdirection</string>
+	<key>requiredMember</key>
+	<string>playbackLevel</string>
+	<key>screenTail</key>
+	<string>shouldTrainListView</string>
+	<key>shouldrouteextension</key>
+	<string>trainTransition</string>
+</dict>
+</plist>

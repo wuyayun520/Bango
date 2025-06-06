@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitStore</key>
+	<string>statelessAspect</string>
+	<key>largeAspect</key>
+	<string>descriptorParam</string>
+	<key>requiredConstant</key>
+	<string>customMedia</string>
+	<key>shouldDisconnectIndicator</key>
+	<string>generatemodal</string>
+	<key>shouldLayoutTable</key>
+	<string>arithmeticView</string>
+	<key>utilDelay</key>
+	<string>shouldAnimateChannels</string>
+</dict>
+</plist>

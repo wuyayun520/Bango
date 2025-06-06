@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachrouter</key>
+	<string>persistentFrame</string>
+	<key>builderofparameter</key>
+	<string>partitionCurve</string>
+	<key>componentAlignment</key>
+	<string>mainAsset</string>
+	<key>directlySymbol</key>
+	<string>shouldUnbindBitrate</string>
+	<key>imperativeTimer</key>
+	<string>repositoryContrast</string>
+	<key>intermediateEfficiency</key>
+	<string>registerTask</string>
+	<key>localizationwithparam</key>
+	<string>viewTension</string>
+	<key>noderenderer</key>
+	<string>smartremainder</string>
+	<key>shaderBehavior</key>
+	<string>clipperfromcomposite</string>
+	<key>shouldRouteComposition</key>
+	<string>canFinishActivity</string>
+</dict>
+</plist>

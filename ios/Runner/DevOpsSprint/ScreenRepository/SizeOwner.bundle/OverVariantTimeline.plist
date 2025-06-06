@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoReplica</key>
+	<string>resilienceInteraction</string>
+	<key>contractionAlignment</key>
+	<string>notificationScale</string>
+	<key>standaloneGrayscale</key>
+	<string>comprehensiveKernel</string>
+	<key>unactivatedEvaluation</key>
+	<string>disconnectCube</string>
+</dict>
+</plist>

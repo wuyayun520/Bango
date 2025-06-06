@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveChooser</key>
+	<string>standaloneAlert</string>
+	<key>dedicatedtexturevalidation</key>
+	<string>masterTail</string>
+	<key>entropyShape</key>
+	<string>dispatcherAcceleration</string>
+	<key>globalSession</key>
+	<string>containerrenderer</string>
+	<key>greatTopic</key>
+	<string>immutableStrength</string>
+	<key>reactiveRow</key>
+	<string>disposescene</string>
+	<key>shouldAnimateController</key>
+	<string>mediumChannel</string>
+	<key>shouldFormatBox</key>
+	<string>autoSkin</string>
+	<key>shouldunmountedlog</key>
+	<string>transitionInkWell</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicSize</key>
+	<string>slashValue</string>
+	<key>firstMaster</key>
+	<string>cacheTint</string>
+	<key>fragmentBottom</key>
+	<string>subscriberbound</string>
+	<key>materialProcessor</key>
+	<string>smartRole</string>
+	<key>robustshader</key>
+	<string>pinchableCapacities</string>
+	<key>shouldFormatNorm</key>
+	<string>granularSlider</string>
+	<key>shouldTrainTask</key>
+	<string>shouldValidateLabel</string>
+</dict>
+</plist>

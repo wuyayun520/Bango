@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeCompletion</key>
+	<string>commonButton</string>
+	<key>intuitiveMend</key>
+	<string>adaptiveTabBar</string>
+	<key>mutableSearcher</key>
+	<string>pivotalView</string>
+	<key>publicCluster</key>
+	<string>tabviewvisible</string>
+	<key>relationalAlpha</key>
+	<string>shouldObservePainter</string>
+	<key>seamlessTrajectory</key>
+	<string>subtleMenu</string>
+	<key>unaryoutsidescope</key>
+	<string>cacheFlex</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultarithmetic</key>
+	<string>minContainer</string>
+	<key>discardedBase</key>
+	<string>aggregateFactory</string>
+	<key>eventPadding</key>
+	<string>dependencyplatformcenter</string>
+	<key>grainCoord</key>
+	<string>vertexSkewY</string>
+	<key>mechanismOpacity</key>
+	<string>throughputSkewY</string>
+	<key>shouldEmitCaption</key>
+	<string>materializeModel</string>
+	<key>shouldPersistRoute</key>
+	<string>pageviewSize</string>
+	<key>sustainableSize</key>
+	<string>criticaloptimizer</string>
+</dict>
+</plist>

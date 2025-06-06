@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistLocation</key>
+	<string>sampleSystem</string>
+	<key>inheritedCharacter</key>
+	<string>coordinatorsize</string>
+	<key>largescheduler</key>
+	<string>cacheNotification</string>
+	<key>parallelTheme</key>
+	<string>nextLoop</string>
+	<key>performtransition</key>
+	<string>shouldDisconnectSizedBox</string>
+	<key>rolestyle</key>
+	<string>transitionBehavior</string>
+	<key>strengthopacity</key>
+	<string>responsiveProtocol</string>
+	<key>webChallenge</key>
+	<string>paintPageView</string>
+</dict>
+</plist>

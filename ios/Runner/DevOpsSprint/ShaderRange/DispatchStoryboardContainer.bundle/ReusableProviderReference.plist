@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindstamp</key>
+	<string>uniqueTexture</string>
+	<key>capsuleTint</key>
+	<string>shouldSaveEffect</string>
+	<key>commonInjection</key>
+	<string>presenterDelay</string>
+	<key>prevMapper</key>
+	<string>serializeExponent</string>
+	<key>shouldDeserializeTabView</key>
+	<string>autoDistinction</string>
+	<key>shouldTransitionKernel</key>
+	<string>consumershader</string>
+</dict>
+</plist>

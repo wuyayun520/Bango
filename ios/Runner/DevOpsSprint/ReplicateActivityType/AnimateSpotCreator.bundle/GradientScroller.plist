@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitversusdecorator</key>
+	<string>singleTrajectory</string>
+	<key>beginnercoordinatorcontrast</key>
+	<string>sharedScheduler</string>
+	<key>concretelistener</key>
+	<string>dynamicPresenter</string>
+	<key>dialogsBound</key>
+	<string>customRecursion</string>
+	<key>giftPadding</key>
+	<string>variantValue</string>
+	<key>mobileSine</key>
+	<string>callbackoutsidejob</string>
+	<key>prismaticRect</key>
+	<string>shouldStartButton</string>
+	<key>shouldPublishContraction</key>
+	<string>lazydescriptorcount</string>
+	<key>sortedCupertino</key>
+	<string>tappableRemediation</string>
+	<key>stephash</key>
+	<string>quaternionAcceleration</string>
+</dict>
+</plist>

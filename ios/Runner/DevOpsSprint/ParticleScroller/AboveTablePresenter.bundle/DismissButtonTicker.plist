@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianTabBar</key>
+	<string>granularPlate</string>
+	<key>modalOpacity</key>
+	<string>mixinrow</string>
+	<key>restrictionPadding</key>
+	<string>disabledresponseformat</string>
+	<key>tappableLabel</key>
+	<string>missedMedia</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityTheme</key>
+	<string>localDrawer</string>
+	<key>immutableTaxonomy</key>
+	<string>reconcileRadius</string>
+	<key>keyState</key>
+	<string>mountedPadding</string>
+	<key>lastGate</key>
+	<string>backwardLinker</string>
+	<key>tappableStateful</key>
+	<string>mediocreConverter</string>
+</dict>
+</plist>

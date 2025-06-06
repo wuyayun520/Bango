@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorPosition</key>
+	<string>shouldStopSine</string>
+	<key>parallelTimeline</key>
+	<string>shouldStreamGridView</string>
+	<key>shouldListenUnary</key>
+	<string>drawLoop</string>
+	<key>standalonedurationcontrast</key>
+	<string>statefulVisibility</string>
+	<key>uniformdelegate</key>
+	<string>scrollableInteraction</string>
+</dict>
+</plist>

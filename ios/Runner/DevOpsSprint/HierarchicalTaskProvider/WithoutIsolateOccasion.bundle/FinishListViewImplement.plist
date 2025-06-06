@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionticker</key>
+	<string>concreteoptionduration</string>
+	<key>diffablePositioned</key>
+	<string>canRebuildIndicator</string>
+	<key>encoderesponse</key>
+	<string>emittershade</string>
+	<key>respectiveObserver</key>
+	<string>localHistogram</string>
+	<key>shouldListenPositioned</key>
+	<string>tensortextureinteraction</string>
+	<key>usedDetector</key>
+	<string>canValidateCharacter</string>
+</dict>
+</plist>

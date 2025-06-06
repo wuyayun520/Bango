@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTexture</key>
+	<string>ignoredCapacities</string>
+	<key>equalizationDirection</key>
+	<string>offsetthroughvisitor</string>
+	<key>graphicinterval</key>
+	<string>canDecodeStream</string>
+	<key>interpolationFormat</key>
+	<string>keepBinary</string>
+	<key>shouldTrainNib</key>
+	<string>navigateModulus</string>
+</dict>
+</plist>

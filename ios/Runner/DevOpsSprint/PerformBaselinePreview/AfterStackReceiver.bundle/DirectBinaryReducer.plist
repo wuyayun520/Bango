@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletCount</key>
+	<string>beginnerAspect</string>
+	<key>cubeTheme</key>
+	<string>pushLocalization</string>
+	<key>denseUseCase</key>
+	<string>canSaveIcon</string>
+	<key>inheritedfragments</key>
+	<string>disparateNorm</string>
+	<key>oldSession</key>
+	<string>bufferSingleton</string>
+	<key>opaqueCosine</key>
+	<string>canSerializeAnimation</string>
+	<key>otherTitle</key>
+	<string>popupFrequency</string>
+	<key>priorBullet</key>
+	<string>canSerializeBitrate</string>
+	<key>uniqueReducer</key>
+	<string>orchestrateRouter</string>
+</dict>
+</plist>

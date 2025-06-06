@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorypublisher</key>
+	<string>keyNavigator</string>
+	<key>elementRight</key>
+	<string>scopeScale</string>
+	<key>paddingpreview</key>
+	<string>startInterpolation</string>
+	<key>shouldMountedObserver</key>
+	<string>markconstraint</string>
+	<key>tentativeCoord</key>
+	<string>marginSkewX</string>
+</dict>
+</plist>

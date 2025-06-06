@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledAnalyzer</key>
+	<string>interactivesampleborder</string>
+	<key>groupcontextleft</key>
+	<string>greatSwift</string>
+	<key>layerprocessor</key>
+	<string>smallPromise</string>
+	<key>liteEquipment</key>
+	<string>localConsumption</string>
+	<key>protocolFeedback</key>
+	<string>disparatechecklist</string>
+	<key>shouldParseActivity</key>
+	<string>geometricVolume</string>
+	<key>shouldReplaceDescriptor</key>
+	<string>quitCallback</string>
+	<key>shouldUnmountedActivity</key>
+	<string>timerDepth</string>
+	<key>synchronousMovement</key>
+	<string>sortervisibility</string>
+</dict>
+</plist>

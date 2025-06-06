@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRestriction</key>
+	<string>mediocreMenu</string>
+	<key>aspectratioreliability</key>
+	<string>customPublisher</string>
+	<key>decodeheap</key>
+	<string>fillSubscription</string>
+	<key>enabledTexture</key>
+	<string>configurationName</string>
+	<key>gridEdge</key>
+	<string>labelDelay</string>
+	<key>nextRole</key>
+	<string>canSkipUnary</string>
+	<key>unsortedConfidentiality</key>
+	<string>lockAsync</string>
+</dict>
+</plist>

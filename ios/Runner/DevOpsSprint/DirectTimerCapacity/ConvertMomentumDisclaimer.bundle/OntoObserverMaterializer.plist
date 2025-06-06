@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerSegment</key>
+	<string>reductionbehavior</string>
+	<key>immediateAnchor</key>
+	<string>shouldValidateAlpha</string>
+	<key>inactiveBorder</key>
+	<string>canRestartTheme</string>
+	<key>interactiveTouch</key>
+	<string>reactiveEmitter</string>
+	<key>protocolTheme</key>
+	<string>shouldPopTable</string>
+	<key>shouldBindInstruction</key>
+	<string>canEncodeMap</string>
+	<key>shouldLoadMedia</key>
+	<string>aggregatePopup</string>
+	<key>shouldPopCursor</key>
+	<string>temporaryView</string>
+	<key>sophisticatedConsumer</key>
+	<string>normalGate</string>
+</dict>
+</plist>

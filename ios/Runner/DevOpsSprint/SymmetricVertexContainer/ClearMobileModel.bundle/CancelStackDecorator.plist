@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleratetext</key>
+	<string>interpolateCurve</string>
+	<key>concurrentDimension</key>
+	<string>numericalChooser</string>
+	<key>intermediateProfile</key>
+	<string>agileSkin</string>
+	<key>observerinformation</key>
+	<string>featureSkewX</string>
+	<key>responsiveColumn</key>
+	<string>animationtentative</string>
+	<key>similarbandwidth</key>
+	<string>shouldRebuildProfile</string>
+	<key>uniqueLocalization</key>
+	<string>pendingPageView</string>
+</dict>
+</plist>

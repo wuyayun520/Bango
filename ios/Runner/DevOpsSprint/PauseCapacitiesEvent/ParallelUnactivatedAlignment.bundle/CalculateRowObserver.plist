@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentactivityfrequency</key>
+	<string>opaqueConsumption</string>
+	<key>inactiveTweak</key>
+	<string>parallelActivity</string>
+	<key>keypadding</key>
+	<string>agileresourcepadding</string>
+	<key>labeltiermode</key>
+	<string>resumeRow</string>
+	<key>onanchorchanged</key>
+	<string>elementforce</string>
+	<key>remediationdensity</key>
+	<string>dropdownbuttonFacade</string>
+	<key>rowTint</key>
+	<string>audioState</string>
+	<key>shouldBindCapacities</key>
+	<string>keyMission</string>
+	<key>shouldSubscribeExpanded</key>
+	<string>resizeSink</string>
+	<key>titleconnector</key>
+	<string>customradioappearance</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationpressure</key>
+	<string>largeScene</string>
+	<key>associatedRestriction</key>
+	<string>movementVariable</string>
+	<key>commonTolerance</key>
+	<string>hardSpecifier</string>
+	<key>largemenucenter</key>
+	<string>interfaceStyle</string>
+	<key>mediumskin</key>
+	<string>respectiveClipper</string>
+	<key>movementchart</key>
+	<string>occasionInset</string>
+	<key>shouldAnimateSymbol</key>
+	<string>canvasStructure</string>
+	<key>shouldUpdateWidget</key>
+	<string>animatorTension</string>
+	<key>shouldloadalpha</key>
+	<string>dynamicView</string>
+	<key>threadmementotension</key>
+	<string>soundbrightness</string>
+</dict>
+</plist>

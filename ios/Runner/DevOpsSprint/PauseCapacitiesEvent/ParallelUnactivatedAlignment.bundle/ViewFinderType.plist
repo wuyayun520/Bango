@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianDetail</key>
+	<string>registerEvent</string>
+	<key>chartversusvariable</key>
+	<string>alphaLocation</string>
+	<key>menucommandshape</key>
+	<string>unmountPlayback</string>
+	<key>modalorparameter</key>
+	<string>disconnectSpine</string>
+	<key>reactivesplitter</key>
+	<string>bulletforce</string>
+	<key>sampleinteraction</key>
+	<string>divideEntity</string>
+	<key>shouldEncodeCaption</key>
+	<string>orchestrateMetadata</string>
+	<key>specifyLinker</key>
+	<string>textfieldStage</string>
+	<key>typicalSlash</key>
+	<string>bufferbridgeskewx</string>
+</dict>
+</plist>

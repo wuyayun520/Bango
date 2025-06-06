@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAnimator</key>
+	<string>concreteLayout</string>
+	<key>concurrentTheme</key>
+	<string>protocolPattern</string>
+	<key>parallelthreshold</key>
+	<string>canAnimateMember</string>
+	<key>switchtail</key>
+	<string>sinecontextacceleration</string>
+</dict>
+</plist>

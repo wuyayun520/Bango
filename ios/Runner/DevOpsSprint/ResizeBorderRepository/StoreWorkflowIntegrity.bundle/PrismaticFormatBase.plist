@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchDelay</key>
+	<string>smallResilience</string>
+	<key>formatduration</key>
+	<string>storageJob</string>
+	<key>smallNotation</key>
+	<string>gesturedetectorStatus</string>
+	<key>storageInteraction</key>
+	<string>decoupleLayout</string>
+	<key>tabbarfacadecolor</key>
+	<string>rectbesidekind</string>
+</dict>
+</plist>

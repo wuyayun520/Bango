@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarinsidework</key>
+	<string>offsetDistance</string>
+	<key>gestureInteraction</key>
+	<string>multiDrawer</string>
+	<key>globalMenu</key>
+	<string>analyzeTicker</string>
+	<key>ignoredmediaquerybottom</key>
+	<string>materialStack</string>
+	<key>lastDelegate</key>
+	<string>adaptiveRequest</string>
+	<key>memberBound</key>
+	<string>draggableHandler</string>
+	<key>shouldDisposeEntropy</key>
+	<string>decoupleResult</string>
+	<key>shouldMountEntropy</key>
+	<string>projectionShape</string>
+	<key>unactivatedUtil</key>
+	<string>typicalPicker</string>
+</dict>
+</plist>

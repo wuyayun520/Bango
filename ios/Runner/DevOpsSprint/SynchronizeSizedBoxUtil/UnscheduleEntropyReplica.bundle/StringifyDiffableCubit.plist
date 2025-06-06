@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>positionedsincebridge</key>
+	<string>shouldEmitCapsule</string>
+	<key>segmentOrigin</key>
+	<string>captionTier</string>
+	<key>selectedfuture</key>
+	<string>chapterStage</string>
+	<key>traversalOrigin</key>
+	<string>meshForce</string>
+</dict>
+</plist>

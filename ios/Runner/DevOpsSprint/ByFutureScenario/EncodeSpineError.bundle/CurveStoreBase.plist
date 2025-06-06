@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturetint</key>
+	<string>mobileCompleter</string>
+	<key>bufferName</key>
+	<string>rectifyInjection</string>
+	<key>flexibleCapsule</key>
+	<string>shouldYieldBitrate</string>
+	<key>matrixBorder</key>
+	<string>shouldCancelMargin</string>
+</dict>
+</plist>

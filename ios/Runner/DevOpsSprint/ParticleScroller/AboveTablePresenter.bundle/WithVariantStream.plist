@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterForce</key>
+	<string>sceneRight</string>
+	<key>isolatelikestage</key>
+	<string>persistCoordinator</string>
+	<key>localizationtypealignment</key>
+	<string>checkTicker</string>
+	<key>modalMomentum</key>
+	<string>characterTransparency</string>
+	<key>responsiveReceiver</key>
+	<string>popSize</string>
+	<key>shouldSerializeProvider</key>
+	<string>shouldReplaceInteger</string>
+	<key>spineKind</key>
+	<string>gemAppearance</string>
+	<key>subsequentInteraction</key>
+	<string>subpixelFunction</string>
+	<key>temporaryCaption</key>
+	<string>dismissGesture</string>
+</dict>
+</plist>

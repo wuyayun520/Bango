@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integeralignment</key>
+	<string>animatedRenderer</string>
+	<key>materialTheme</key>
+	<string>ephemeralSine</string>
+	<key>mediumSlash</key>
+	<string>shouldDetachContainer</string>
+	<key>positionednearprototype</key>
+	<string>tappableListView</string>
+	<key>sizematrix</key>
+	<string>persistentConfidentiality</string>
+	<key>symmetricStroke</key>
+	<string>singleTaxonomy</string>
+</dict>
+</plist>

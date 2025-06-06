@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentclipper</key>
+	<string>localtransitiontail</string>
+	<key>filtertension</key>
+	<string>tensorThreshold</string>
+	<key>protectedBox</key>
+	<string>cacheCollection</string>
+	<key>providerBrightness</key>
+	<string>sustainableLayout</string>
+	<key>scrollerForce</key>
+	<string>detachTitle</string>
+	<key>synchronousResource</key>
+	<string>resizableRect</string>
+</dict>
+</plist>

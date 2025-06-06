@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableProject</key>
+	<string>cubePosition</string>
+	<key>desktopTopic</key>
+	<string>customizedMedia</string>
+	<key>durationPosition</key>
+	<string>ispriority</string>
+	<key>localizationwrapper</key>
+	<string>activeTouch</string>
+	<key>notationFlags</key>
+	<string>richtextPattern</string>
+	<key>rectworkcolor</key>
+	<string>flexibleCapacities</string>
+	<key>remainderBound</key>
+	<string>shouldFetchMusic</string>
+	<key>responsiveReplica</key>
+	<string>alertdistinction</string>
+	<key>scalabilityskewy</key>
+	<string>canRenderGraphic</string>
+</dict>
+</plist>

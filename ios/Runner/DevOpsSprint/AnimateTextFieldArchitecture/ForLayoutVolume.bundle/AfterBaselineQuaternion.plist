@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocmethodtag</key>
+	<string>denseTimeline</string>
+	<key>checkboxStatus</key>
+	<string>scrollableimage</string>
+	<key>compositionloop</key>
+	<string>providerNumber</string>
+	<key>controllercontrast</key>
+	<string>shouldPauseTheme</string>
+	<key>directlyTangent</key>
+	<string>activateButton</string>
+	<key>easyspot</key>
+	<string>configurationoutsidedecorator</string>
+	<key>granularShape</key>
+	<string>fetchCoordinator</string>
+	<key>mixinprogressbar</key>
+	<string>missedFuture</string>
+	<key>resultEdge</key>
+	<string>insteadBloc</string>
+	<key>specifytouch</key>
+	<string>adaptiveresolver</string>
+</dict>
+</plist>

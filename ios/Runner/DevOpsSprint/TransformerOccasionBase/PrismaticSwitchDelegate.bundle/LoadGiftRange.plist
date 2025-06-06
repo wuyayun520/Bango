@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentFragments</key>
+	<string>difficultElement</string>
+	<key>ephemeralExtension</key>
+	<string>permissiveTimeline</string>
+	<key>fusedStep</key>
+	<string>crudeUnary</string>
+	<key>mutablemetadata</key>
+	<string>mutablecolumn</string>
+	<key>parallelDetector</key>
+	<string>canvasbandwidth</string>
+	<key>reactiveNode</key>
+	<string>disparateThread</string>
+	<key>shouldCacheComposition</key>
+	<string>remainderAction</string>
+	<key>shouldDeserializeOverlay</key>
+	<string>integerTemple</string>
+	<key>shouldencodedropdownbutton</key>
+	<string>skinValue</string>
+</dict>
+</plist>

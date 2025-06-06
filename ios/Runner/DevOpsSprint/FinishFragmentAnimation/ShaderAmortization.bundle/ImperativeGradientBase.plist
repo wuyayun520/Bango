@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggablePermutation</key>
+	<string>multiCluster</string>
+	<key>greatElasticity</key>
+	<string>markTask</string>
+	<key>handlerBrightness</key>
+	<string>shouldPublishGridView</string>
+	<key>pageviewSkewX</key>
+	<string>resetBuffer</string>
+	<key>sharedReceiver</key>
+	<string>canTransformSizedBox</string>
+</dict>
+</plist>

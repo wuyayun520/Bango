@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeAspectRatio</key>
+	<string>particleDelay</string>
+	<key>errorchaincoord</key>
+	<string>canEmitPadding</string>
+	<key>largeCurve</key>
+	<string>isscroll</string>
+	<key>reactiveEvent</key>
+	<string>playbackrestriction</string>
+	<key>shouldBuildKernel</key>
+	<string>freePresenter</string>
+	<key>shouldDispatchVariant</key>
+	<string>shouldEncodeEffect</string>
+</dict>
+</plist>

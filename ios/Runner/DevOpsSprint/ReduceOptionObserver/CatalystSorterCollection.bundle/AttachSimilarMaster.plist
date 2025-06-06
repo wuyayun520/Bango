@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitpadding</key>
+	<string>uniqueTicker</string>
+	<key>fixedModal</key>
+	<string>shouldRouteSubpixel</string>
+	<key>gridviewthroughmode</key>
+	<string>shouldListenChallenge</string>
+	<key>missionSize</key>
+	<string>consumptionValidation</string>
+	<key>normalComponent</key>
+	<string>spineBuffer</string>
+	<key>responsiveDuration</key>
+	<string>capsuleComposite</string>
+	<key>sequentialStore</key>
+	<string>eagerScale</string>
+	<key>similarScope</key>
+	<string>invisibleSensor</string>
+	<key>transformerPadding</key>
+	<string>providerbound</string>
+</dict>
+</plist>

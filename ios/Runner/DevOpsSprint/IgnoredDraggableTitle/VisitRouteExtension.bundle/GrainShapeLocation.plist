@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableColumn</key>
+	<string>binaryIndex</string>
+	<key>easyScale</key>
+	<string>advancedSample</string>
+	<key>hierarchicalLayout</key>
+	<string>deferredEfficiency</string>
+	<key>invisibleAmortization</key>
+	<string>isspine</string>
+	<key>largeScheduler</key>
+	<string>eagerTheme</string>
+	<key>navigatorSpacing</key>
+	<string>shouldFinishCheckbox</string>
+	<key>uniformprogressbarlocation</key>
+	<string>mediumSink</string>
+</dict>
+</plist>

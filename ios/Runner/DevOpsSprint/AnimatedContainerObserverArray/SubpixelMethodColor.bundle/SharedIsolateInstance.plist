@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featurescheduler</key>
+	<string>emitPadding</string>
+	<key>imperativeDimension</key>
+	<string>scaleScale</string>
+	<key>reusableStatus</key>
+	<string>yieldText</string>
+	<key>shouldStreamCompletion</key>
+	<string>subsequentColor</string>
+	<key>uniqueSorter</key>
+	<string>unregisterResult</string>
+</dict>
+</plist>

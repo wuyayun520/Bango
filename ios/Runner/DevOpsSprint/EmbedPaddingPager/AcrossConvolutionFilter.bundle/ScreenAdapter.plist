@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSubscription</key>
+	<string>concatenatestoryboard</string>
+	<key>customLatency</key>
+	<string>storeAction</string>
+	<key>dispatchpadding</key>
+	<string>popupvalidation</string>
+	<key>provisionSize</key>
+	<string>nativeinteractorcolor</string>
+	<key>shouldLoadCharacter</key>
+	<string>canPublishKernel</string>
+	<key>tappableState</key>
+	<string>shouldDisconnectSymbol</string>
+</dict>
+</plist>

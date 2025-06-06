@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeTint</key>
+	<string>sensorInteraction</string>
+	<key>cubeformat</key>
+	<string>wrapfuture</string>
+	<key>liteAxis</key>
+	<string>pivotalNavigation</string>
+	<key>presenteractivityhead</key>
+	<string>shouldYieldTechnique</string>
+	<key>subscribeobserver</key>
+	<string>scrollableScreen</string>
+</dict>
+</plist>

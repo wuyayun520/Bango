@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observerMargin</key>
+	<string>dropoutSize</string>
+	<key>primaryAlpha</key>
+	<string>missedImage</string>
+	<key>selectorTension</key>
+	<string>robustFragment</string>
+	<key>servicesaturation</key>
+	<string>bundleObserver</string>
+	<key>shouldDecodeMovement</key>
+	<string>publishEntropy</string>
+	<key>usedThread</key>
+	<string>concurrentCatalyst</string>
+</dict>
+</plist>

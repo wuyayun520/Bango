@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbacktexture</key>
+	<string>protectedGesture</string>
+	<key>iterativeBinary</key>
+	<string>localizationStyle</string>
+	<key>mobileBrightness</key>
+	<string>shouldInflateBrush</string>
+	<key>persistentrouter</key>
+	<string>reactiveDependency</string>
+	<key>primaryInjection</key>
+	<string>toleranceTransparency</string>
+	<key>respectivecolumn</key>
+	<string>layoutnotation</string>
+	<key>shouldDisposeShader</key>
+	<string>positionedInset</string>
+	<key>shouldrestarttask</key>
+	<string>canAttachConvolution</string>
+	<key>switchVisible</key>
+	<string>nodeBuffer</string>
+</dict>
+</plist>

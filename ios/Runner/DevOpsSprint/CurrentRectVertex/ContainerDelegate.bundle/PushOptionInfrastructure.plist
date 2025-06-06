@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAcceleration</key>
+	<string>stepWork</string>
+	<key>builderdrawer</key>
+	<string>spriteInterpreter</string>
+	<key>denseSkin</key>
+	<string>meshBound</string>
+	<key>independentSine</key>
+	<string>challengeCenter</string>
+	<key>previewTransparency</key>
+	<string>onviewtap</string>
+	<key>shouldattachcontraction</key>
+	<string>hierarchicalUnary</string>
+	<key>tabbarframe</key>
+	<string>mediaqueryContext</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>distinctionPosition</key>
+	<string>tensorKernel</string>
+	<key>mutableSorter</key>
+	<string>stateForm</string>
+	<key>radiusMomentum</key>
+	<string>directlyBoxShadow</string>
+	<key>sceneselector</key>
+	<string>unmountedGrayscale</string>
+	<key>shouldPaintMusic</key>
+	<string>pinchablePresenter</string>
+	<key>synchronousScroll</key>
+	<string>canYieldBloc</string>
+</dict>
+</plist>

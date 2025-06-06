@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileobserver</key>
+	<string>reducerSpeed</string>
+	<key>completerCoord</key>
+	<string>shouldRebuildTabView</string>
+	<key>displayableSlider</key>
+	<string>semanticsType</string>
+	<key>inheritedTweak</key>
+	<string>flexibleinteractor</string>
+	<key>parallelcontroller</key>
+	<string>catalystLeft</string>
+	<key>shouldPauseResource</key>
+	<string>sizedboxtexture</string>
+</dict>
+</plist>

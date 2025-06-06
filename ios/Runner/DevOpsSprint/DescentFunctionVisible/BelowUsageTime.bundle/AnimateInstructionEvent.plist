@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedimension</key>
+	<string>restoreworkflow</string>
+	<key>autoChooser</key>
+	<string>respondoptimizer</string>
+	<key>ignoredArithmetic</key>
+	<string>flexibleText</string>
+	<key>menutypepressure</key>
+	<string>sortedUseCase</string>
+	<key>prismaticTaxonomy</key>
+	<string>shouldSerializeBase</string>
+	<key>scopeDepth</key>
+	<string>basicListView</string>
+	<key>transitionamongwork</key>
+	<string>handleGrid</string>
+</dict>
+</plist>

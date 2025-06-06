@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllersize</key>
+	<string>specifierCenter</string>
+	<key>geometriclossfeedback</key>
+	<string>visibleDelegate</string>
+	<key>lockgift</key>
+	<string>invisibleHistogram</string>
+	<key>resizableRestriction</key>
+	<string>unlockStorage</string>
+	<key>utilValidation</key>
+	<string>nextUseCase</string>
+</dict>
+</plist>

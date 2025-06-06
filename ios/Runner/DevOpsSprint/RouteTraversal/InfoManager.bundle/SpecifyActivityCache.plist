@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatInteraction</key>
+	<string>isMission</string>
+	<key>remainderSpacing</key>
+	<string>canEmitPlayback</string>
+	<key>shouldAttachExponent</key>
+	<string>standaloneGraph</string>
+	<key>shouldattachconstraint</key>
+	<string>plateHue</string>
+	<key>sophisticatedItem</key>
+	<string>deferredEvaluation</string>
+	<key>subtleFlex</key>
+	<string>grainscale</string>
+</dict>
+</plist>

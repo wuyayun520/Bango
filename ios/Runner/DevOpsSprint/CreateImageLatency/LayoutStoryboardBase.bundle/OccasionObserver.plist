@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryIndex</key>
+	<string>positionpatterndelay</string>
+	<key>assetprocessvelocity</key>
+	<string>scrollableComponent</string>
+	<key>declarativesubscriptionorigin</key>
+	<string>immediateProjection</string>
+	<key>filterpadding</key>
+	<string>mobileScroller</string>
+	<key>granularGrain</key>
+	<string>partitionChart</string>
+	<key>startgram</key>
+	<string>invisibleBandwidth</string>
+	<key>staticGrain</key>
+	<string>shouldTrainCosine</string>
+	<key>typicalOption</key>
+	<string>canPersistLabel</string>
+</dict>
+</plist>

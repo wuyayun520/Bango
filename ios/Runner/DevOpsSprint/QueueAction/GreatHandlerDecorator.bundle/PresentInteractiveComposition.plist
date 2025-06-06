@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoFilter</key>
+	<string>dynamicWrapper</string>
+	<key>multiAnalogy</key>
+	<string>keyDropdownButton</string>
+	<key>retainedColor</key>
+	<string>cardMomentum</string>
+	<key>shoulddeserializestream</key>
+	<string>animatedPopup</string>
+</dict>
+</plist>

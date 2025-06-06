@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheforminset</key>
+	<string>canDisconnectAnimation</string>
+	<key>discardedPriority</key>
+	<string>shouldPersistOperation</string>
+	<key>independentBuffer</key>
+	<string>exceptionHue</string>
+	<key>sequentialEquipment</key>
+	<string>channelsTier</string>
+	<key>shouldlayoutstep</key>
+	<string>shouldSkipMaster</string>
+</dict>
+</plist>

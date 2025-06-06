@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisBound</key>
+	<string>elasticResponder</string>
+	<key>dataMomentum</key>
+	<string>shouldserializeprovider</string>
+	<key>enabledAction</key>
+	<string>reusableKernel</string>
+	<key>permissiveScreen</key>
+	<string>shouldEncodeKernel</string>
+</dict>
+</plist>

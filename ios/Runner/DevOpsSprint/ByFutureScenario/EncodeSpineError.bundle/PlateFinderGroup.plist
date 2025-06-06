@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioawaybuffer</key>
+	<string>trainStamp</string>
+	<key>deactivatestream</key>
+	<string>activePolygon</string>
+	<key>diversifiedRole</key>
+	<string>maintainTicker</string>
+	<key>shouldParseInterpolation</key>
+	<string>deflateInjection</string>
+	<key>shouldReplaceDuration</key>
+	<string>relationalClipper</string>
+	<key>transformcontroller</key>
+	<string>moduleSkewY</string>
+	<key>vertexTint</key>
+	<string>shearResource</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticConsumer</key>
+	<string>primarypageview</string>
+	<key>configurebrush</key>
+	<string>unactivatedanimation</string>
+	<key>disabledMission</key>
+	<string>subscriptionAdapter</string>
+	<key>playbackValidation</key>
+	<string>equivalentShape</string>
+	<key>polyfillName</key>
+	<string>sinkmomentum</string>
+	<key>provisionSkewX</key>
+	<string>interactiveSample</string>
+	<key>rectangleLeft</key>
+	<string>shouldDeserializePlate</string>
+</dict>
+</plist>

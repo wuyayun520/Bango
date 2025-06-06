@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRange</key>
+	<string>delicateImage</string>
+	<key>backwardAnalogy</key>
+	<string>subsequentSelector</string>
+	<key>persistentCollection</key>
+	<string>webFinder</string>
+	<key>prevProjection</key>
+	<string>maxConstraint</string>
+	<key>retainedQueue</key>
+	<string>detachStateless</string>
+</dict>
+</plist>

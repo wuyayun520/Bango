@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDialogs</key>
+	<string>performController</string>
+	<key>declarativeBoxShadow</key>
+	<string>responsiveschema</string>
+	<key>enabledrepositorydelay</key>
+	<string>switchDirection</string>
+	<key>ephemeralCosine</key>
+	<string>workflowadapteroffset</string>
+	<key>operationSize</key>
+	<string>contrastvisibility</string>
+	<key>sharedStatus</key>
+	<string>sharedSkin</string>
+	<key>tensorJoiner</key>
+	<string>hierarchicalProject</string>
+	<key>zonebesidecommand</key>
+	<string>transitionConstraint</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionEdge</key>
+	<string>occasionSpeed</string>
+	<key>decorationitem</key>
+	<string>schemaRotation</string>
+	<key>dynamicvolume</key>
+	<string>offsetService</string>
+	<key>providestateful</key>
+	<string>validateDialogs</string>
+</dict>
+</plist>

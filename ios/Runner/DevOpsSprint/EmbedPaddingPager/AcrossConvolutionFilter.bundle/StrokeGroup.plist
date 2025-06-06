@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralslider</key>
+	<string>binderShape</string>
+	<key>hierarchicalslash</key>
+	<string>independentGradient</string>
+	<key>lostStack</key>
+	<string>vectorProcess</string>
+	<key>nodeAlignment</key>
+	<string>polygonSkewY</string>
+	<key>resultResponse</key>
+	<string>onexponenttap</string>
+	<key>semanticBase</key>
+	<string>createMonster</string>
+	<key>shouldLoadResource</key>
+	<string>skipController</string>
+	<key>shouldStopButton</key>
+	<string>validateConsumer</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeGift</key>
+	<string>elasticStamp</string>
+	<key>lazyState</key>
+	<string>cubitMode</string>
+	<key>onbuttontap</key>
+	<string>typicalChallenge</string>
+	<key>shouldEmitStream</key>
+	<string>musicname</string>
+</dict>
+</plist>

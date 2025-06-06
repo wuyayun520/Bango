@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerinteraction</key>
+	<string>shouldListenDropdownButton</string>
+	<key>missedMaterializer</key>
+	<string>deferredPopup</string>
+	<key>reusableWidget</key>
+	<string>operationScope</string>
+</dict>
+</plist>

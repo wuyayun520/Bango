@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableSize</key>
+	<string>newestSemantics</string>
+	<key>keyTentative</key>
+	<string>clipperduration</string>
+	<key>mediaqueryRotation</key>
+	<string>immediateInteger</string>
+	<key>mendSpeed</key>
+	<string>consumerresource</string>
+	<key>notifyslash</key>
+	<string>progressbarphaseflags</string>
+	<key>pivotalviewskewy</key>
+	<string>pauseMap</string>
+	<key>relationalLog</key>
+	<string>routervisible</string>
+	<key>resizableDialogs</key>
+	<string>alphamargin</string>
+	<key>singleJoiner</key>
+	<string>canPauseMatrix</string>
+</dict>
+</plist>

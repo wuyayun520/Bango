@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryBound</key>
+	<string>relationalwidget</string>
+	<key>cosineIndex</key>
+	<string>autometadataformat</string>
+	<key>functionalAnchor</key>
+	<string>matrixDistance</string>
+	<key>permissiveComponent</key>
+	<string>directlySwitch</string>
+	<key>requiredEquipment</key>
+	<string>sessionrouter</string>
+	<key>toolformat</key>
+	<string>shouldBuildBinary</string>
+	<key>videoBottom</key>
+	<string>pendingClipper</string>
+</dict>
+</plist>

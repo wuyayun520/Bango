@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachcube</key>
+	<string>adaptiveCosine</string>
+	<key>euclideanAllocator</key>
+	<string>listenerpressure</string>
+	<key>hyperbolicComposition</key>
+	<string>completerforce</string>
+</dict>
+</plist>

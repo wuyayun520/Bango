@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvetaskresponse</key>
+	<string>navigationcurve</string>
+	<key>frameBorder</key>
+	<string>streamCenter</string>
+	<key>inactiveConvolution</key>
+	<string>gramCenter</string>
+	<key>intermediateRenderer</key>
+	<string>serviceAppearance</string>
+	<key>nexttransition</key>
+	<string>newestPosition</string>
+	<key>shouldSkipObserver</key>
+	<string>frameLeft</string>
+	<key>sineenvironmentskewx</key>
+	<string>animatedcontainerForce</string>
+	<key>variantlocation</key>
+	<string>usedusecaseborder</string>
+</dict>
+</plist>

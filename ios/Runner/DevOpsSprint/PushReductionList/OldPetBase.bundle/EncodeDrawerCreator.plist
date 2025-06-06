@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerdescriptionindex</key>
+	<string>lifecycleInteraction</string>
+	<key>cubetransparency</key>
+	<string>wrapperTail</string>
+	<key>presenterscroller</key>
+	<string>touchWork</string>
+	<key>rendererRate</key>
+	<string>mainVector</string>
+	<key>scrollablebitratetension</key>
+	<string>monsterdirection</string>
+	<key>shouldObserveLoss</key>
+	<string>brushAdapter</string>
+</dict>
+</plist>

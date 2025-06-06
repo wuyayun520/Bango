@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyInformation</key>
+	<string>respectiveText</string>
+	<key>dropdownbuttonTail</key>
+	<string>explicittextfield</string>
+	<key>requestSkewX</key>
+	<string>accelerateAlignment</string>
+	<key>shouldLoadController</key>
+	<string>persistentFlex</string>
+	<key>shoulddisposespot</key>
+	<string>controllernotation</string>
+	<key>spottierinterval</key>
+	<string>subtleScene</string>
+	<key>statefulForce</key>
+	<string>robustSpecifier</string>
+	<key>subtleDetail</key>
+	<string>modelprototyperate</string>
+	<key>uniformContrast</key>
+	<string>shouldEndBullet</string>
+</dict>
+</plist>

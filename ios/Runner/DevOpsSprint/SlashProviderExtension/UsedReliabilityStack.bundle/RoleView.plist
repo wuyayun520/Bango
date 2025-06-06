@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>oldTransformer</key>
+	<string>shouldbindrole</string>
+	<key>optionTail</key>
+	<string>replaceResource</string>
+	<key>serializecupertino</key>
+	<string>diversifiedElasticity</string>
+	<key>shouldDismissSizedBox</key>
+	<string>cellVariable</string>
+	<key>shouldPopRole</key>
+	<string>minBrush</string>
+	<key>statefulResult</key>
+	<string>invisibleLocalization</string>
+	<key>temporaryExpanded</key>
+	<string>canPushRadio</string>
+</dict>
+</plist>

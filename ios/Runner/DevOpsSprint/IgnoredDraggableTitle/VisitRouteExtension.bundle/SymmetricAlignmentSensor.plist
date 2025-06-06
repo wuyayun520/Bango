@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedReference</key>
+	<string>observerTask</string>
+	<key>diffableModule</key>
+	<string>textbridgecount</string>
+	<key>documentagainstdecorator</key>
+	<string>largeScroll</string>
+	<key>integerDirection</key>
+	<string>layersincemode</string>
+	<key>intuitiveScaffold</key>
+	<string>diversifiedCard</string>
+	<key>robustQueue</key>
+	<string>transitionSlider</string>
+</dict>
+</plist>

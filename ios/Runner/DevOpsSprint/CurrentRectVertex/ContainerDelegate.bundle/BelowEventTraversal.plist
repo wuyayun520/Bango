@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderSpeed</key>
+	<string>materialReducer</string>
+	<key>cellwithoutvariable</key>
+	<string>parallellayoutmode</string>
+	<key>drawertentative</key>
+	<string>recttemplecolor</string>
+	<key>flexibleEvolution</key>
+	<string>unmarshalGrid</string>
+	<key>shouldUnbindSwitch</key>
+	<string>resilientSkin</string>
+	<key>similarinjection</key>
+	<string>asynchronousResolver</string>
+	<key>uniqueError</key>
+	<string>onsignaturetap</string>
+</dict>
+</plist>

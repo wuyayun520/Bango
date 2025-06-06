@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeReduction</key>
+	<string>slideroffset</string>
+	<key>descriptorcenter</key>
+	<string>lastCharacter</string>
+	<key>multiplicationHue</key>
+	<string>defaultView</string>
+	<key>onhistogramchanged</key>
+	<string>desktopRestriction</string>
+	<key>sequentialMetadata</key>
+	<string>dialogsdecoration</string>
+	<key>storestatus</key>
+	<string>protectedExpanded</string>
+	<key>subsequentIntegration</key>
+	<string>shouldStartGradient</string>
+	<key>triggerShape</key>
+	<string>parseReference</string>
+</dict>
+</plist>

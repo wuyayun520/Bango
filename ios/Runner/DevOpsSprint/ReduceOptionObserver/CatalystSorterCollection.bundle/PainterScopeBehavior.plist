@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryEdge</key>
+	<string>shouldNotifyGift</string>
+	<key>canvasBorder</key>
+	<string>canDisposeTextField</string>
+	<key>controllerstrength</key>
+	<string>buttonIndex</string>
+	<key>sharedRestriction</key>
+	<string>synchronousWidget</string>
+	<key>shouldUnmountStream</key>
+	<string>tappableLocalization</string>
+	<key>sinkShade</key>
+	<string>hasRichText</string>
+</dict>
+</plist>

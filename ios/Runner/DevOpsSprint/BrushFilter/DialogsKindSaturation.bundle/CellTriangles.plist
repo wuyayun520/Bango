@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledRepository</key>
+	<string>adaptiveTransition</string>
+	<key>equipmentContrast</key>
+	<string>trainObserver</string>
+	<key>firstborder</key>
+	<string>dedicatedLocalization</string>
+	<key>ignoredIntensity</key>
+	<string>shouldDisposePadding</string>
+	<key>pinchableintensity</key>
+	<string>navigateTitle</string>
+	<key>prevAlert</key>
+	<string>enumeratebuilder</string>
+	<key>respectivedrawer</key>
+	<string>notifyWidget</string>
+	<key>sinkinterpretercontrast</key>
+	<string>basicManager</string>
+</dict>
+</plist>

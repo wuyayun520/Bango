@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialSelector</key>
+	<string>subtleConsumer</string>
+	<key>profilestorage</key>
+	<string>gridDecorator</string>
+	<key>sharedbox</key>
+	<string>streamsaturation</string>
+	<key>shouldBindNavigation</key>
+	<string>visibleSegment</string>
+	<key>shouldDispatchAspect</key>
+	<string>hierarchicalMenu</string>
+	<key>shouldInflateGem</key>
+	<string>localOffset</string>
+	<key>shoulddisconnectprojection</key>
+	<string>ternaryPlatform</string>
+	<key>themetraversal</key>
+	<string>setstateMediaQuery</string>
+	<key>transformdocument</key>
+	<string>responsiveSpine</string>
+	<key>transitionthanphase</key>
+	<string>advancedAllocator</string>
+</dict>
+</plist>

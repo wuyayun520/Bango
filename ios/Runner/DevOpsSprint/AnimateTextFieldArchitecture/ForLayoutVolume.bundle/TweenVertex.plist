@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureparticle</key>
+	<string>flexibleAxis</string>
+	<key>currentLoader</key>
+	<string>multiOffset</string>
+	<key>declarativeChecklist</key>
+	<string>visiblenorm</string>
+	<key>fixedtime</key>
+	<string>basestructurestyle</string>
+	<key>promiseOffset</key>
+	<string>skirtFunction</string>
+	<key>rectOpacity</key>
+	<string>canUnmountedPlayback</string>
+</dict>
+</plist>

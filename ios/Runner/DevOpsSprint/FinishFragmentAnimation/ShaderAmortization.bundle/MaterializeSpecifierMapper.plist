@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledHeap</key>
+	<string>displayableImpression</string>
+	<key>fixedsceneresponse</key>
+	<string>standaloneAspect</string>
+	<key>managerstateforce</key>
+	<string>uniformcontrollername</string>
+	<key>permanentSession</key>
+	<string>positionedInterval</string>
+	<key>workflowOffset</key>
+	<string>transformeraspect</string>
+</dict>
+</plist>

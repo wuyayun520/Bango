@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorFlags</key>
+	<string>setstateAlpha</string>
+	<key>backwardLinker</key>
+	<string>listviewduration</string>
+	<key>deferredHero</key>
+	<string>cellDepth</string>
+	<key>granularCompletion</key>
+	<string>shouldPresentCanvas</string>
+	<key>numericalSubpixel</key>
+	<string>canLayoutModal</string>
+	<key>persistentCreator</key>
+	<string>resizableCurve</string>
+	<key>statelesslikedecorator</key>
+	<string>catalystDepth</string>
+	<key>tappableDropdownButton</key>
+	<string>elasticAspectRatio</string>
+</dict>
+</plist>

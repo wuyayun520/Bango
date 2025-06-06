@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialPicker</key>
+	<string>routeIcon</string>
+	<key>inkwellDepth</key>
+	<string>mainCache</string>
+	<key>prevLatency</key>
+	<string>relationalSubpixel</string>
+	<key>shouldDeserializeCursor</key>
+	<string>introspectSubscription</string>
+	<key>sinkOffset</key>
+	<string>shouldUnmountSign</string>
+	<key>sizedboxisolate</key>
+	<string>revisitchart</string>
+	<key>typicalEvaluation</key>
+	<string>setstateResource</string>
+</dict>
+</plist>

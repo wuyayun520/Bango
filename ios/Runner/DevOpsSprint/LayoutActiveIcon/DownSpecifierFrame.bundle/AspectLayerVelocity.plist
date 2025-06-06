@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAnimator</key>
+	<string>cellPadding</string>
+	<key>disclaimerCenter</key>
+	<string>initializeTask</string>
+	<key>dispatchheap</key>
+	<string>tabviewForm</string>
+	<key>permanentDecoration</key>
+	<string>descriptionDistance</string>
+	<key>persistentInfrastructure</key>
+	<string>iterativeStoryboard</string>
+	<key>shouldRouteScroll</key>
+	<string>formatCosine</string>
+</dict>
+</plist>

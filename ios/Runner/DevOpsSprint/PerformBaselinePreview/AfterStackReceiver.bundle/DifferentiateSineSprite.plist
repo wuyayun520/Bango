@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedMargin</key>
+	<string>shouldFetchGift</string>
+	<key>labelandmemento</key>
+	<string>shouldSerializeHistogram</string>
+	<key>mediaqueryMargin</key>
+	<string>usedDescent</string>
+	<key>shouldBuildStack</key>
+	<string>intermediatePet</string>
+	<key>smartCycle</key>
+	<string>persistProvider</string>
+</dict>
+</plist>

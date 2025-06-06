@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionObserver</key>
+	<string>selectedstack</string>
+	<key>intermediateNotifier</key>
+	<string>alertAppearance</string>
+	<key>keyRouter</key>
+	<string>shouldRenderEquipment</string>
+	<key>routercenter</key>
+	<string>prismaticProgressBar</string>
+	<key>sustainableExpanded</key>
+	<string>lockQueue</string>
+	<key>vectorfortier</key>
+	<string>factoryaroundfacade</string>
+</dict>
+</plist>

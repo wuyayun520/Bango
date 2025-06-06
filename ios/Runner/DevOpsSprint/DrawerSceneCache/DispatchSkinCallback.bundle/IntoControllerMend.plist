@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entitysize</key>
+	<string>substantialroledepth</string>
+	<key>flexibleAsset</key>
+	<string>shapeTension</string>
+	<key>hasequalization</key>
+	<string>canNavigatePageView</string>
+	<key>lazyAsync</key>
+	<string>continueprovider</string>
+	<key>lazyLabel</key>
+	<string>directlyGradient</string>
+	<key>notifybuffer</key>
+	<string>screenFacade</string>
+	<key>resizableSample</key>
+	<string>shouldUpdateRichText</string>
+	<key>shouldListenOperation</key>
+	<string>canStopMargin</string>
+	<key>trajectoryOrigin</key>
+	<string>profileState</string>
+</dict>
+</plist>

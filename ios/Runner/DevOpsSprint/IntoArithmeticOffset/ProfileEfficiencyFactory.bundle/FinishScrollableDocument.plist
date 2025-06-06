@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedanchorvalidation</key>
+	<string>captionstate</string>
+	<key>grainforactivity</key>
+	<string>canTransitionActivity</string>
+	<key>keypresenterbound</key>
+	<string>presenterphasetheme</string>
+	<key>otheraspectratio</key>
+	<string>unlockSubscription</string>
+	<key>permanentLayer</key>
+	<string>shouldDispatchConsumer</string>
+	<key>prevSpecifier</key>
+	<string>substantialDelegate</string>
+	<key>resizabletransition</key>
+	<string>shouldDisposeArithmetic</string>
+	<key>singletonconsumer</key>
+	<string>canDeserializeCapsule</string>
+	<key>trianglesStatus</key>
+	<string>currentbase</string>
+</dict>
+</plist>

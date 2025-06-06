@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionspacing</key>
+	<string>seekUtil</string>
+	<key>activatedAsset</key>
+	<string>asyncperenvironment</string>
+	<key>delicateUseCase</key>
+	<string>sliderMode</string>
+	<key>diversifiedConsumer</key>
+	<string>topicSingleton</string>
+	<key>shouldStopProject</key>
+	<string>binaryStyle</string>
+</dict>
+</plist>

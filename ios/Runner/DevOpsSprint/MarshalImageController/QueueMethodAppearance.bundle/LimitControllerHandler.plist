@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGrayscale</key>
+	<string>containerSaturation</string>
+	<key>crudeController</key>
+	<string>findResolver</string>
+	<key>disposetext</key>
+	<string>prismaticMerger</string>
+	<key>mainCharacteristic</key>
+	<string>publicJoiner</string>
+	<key>mediumObject</key>
+	<string>evaluateTimer</string>
+	<key>nibContrast</key>
+	<string>titletension</string>
+	<key>oldcontroller</key>
+	<string>immutableImage</string>
+	<key>pivotalPopup</key>
+	<string>selectorLeft</string>
+	<key>shouldCreateBorder</key>
+	<string>canObserveInstruction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableAsync</key>
+	<string>imperativeMusic</string>
+	<key>freematerial</key>
+	<string>variantShape</string>
+	<key>fusedRow</key>
+	<string>nibContext</string>
+	<key>globalBloc</key>
+	<string>streamdrawer</string>
+	<key>shouldTransformEntropy</key>
+	<string>reusableAllocator</string>
+	<key>sinklevelpadding</key>
+	<string>parsePlayback</string>
+</dict>
+</plist>

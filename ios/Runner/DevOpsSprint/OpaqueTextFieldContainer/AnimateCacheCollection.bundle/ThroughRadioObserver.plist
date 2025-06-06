@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelSpeed</key>
+	<string>deferredChart</string>
+	<key>detachbutton</key>
+	<string>canLayoutStream</string>
+	<key>interpolationaroundcycle</key>
+	<string>diversifiedRadius</string>
+	<key>modelMomentum</key>
+	<string>flexforinterpreter</string>
+	<key>shouldBuildBullet</key>
+	<string>canSerializeSwift</string>
+	<key>shouldPushReference</key>
+	<string>commonProgressBar</string>
+	<key>tweenawayoperation</key>
+	<string>navigationCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customRoute</key>
+	<string>smallMission</string>
+	<key>inactivePicker</key>
+	<string>canSerializeCanvas</string>
+	<key>litegraphichead</key>
+	<string>usedResilience</string>
+	<key>nextlogtransparency</key>
+	<string>deserializeLocalization</string>
+	<key>receiverIndex</key>
+	<string>finishInkWell</string>
+	<key>shouldAttachRoute</key>
+	<string>progressbarpershape</string>
+	<key>shouldCancelPrecision</key>
+	<string>displayableGestureDetector</string>
+	<key>substantialEfficiency</key>
+	<string>canInflateContainer</string>
+	<key>wrapperrotation</key>
+	<string>independentCosine</string>
+</dict>
+</plist>

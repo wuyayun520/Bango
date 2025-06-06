@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinecount</key>
+	<string>appendConfiguration</string>
+	<key>currentbaseline</key>
+	<string>dispatchNib</string>
+	<key>independentAppBar</key>
+	<string>canUnmountCoordinator</string>
+	<key>previewresponse</key>
+	<string>descriptorPlatform</string>
+	<key>requiredProvider</key>
+	<string>histogramKind</string>
+	<key>shouldBindDimension</key>
+	<string>fixedText</string>
+	<key>shouldNotifyLogarithm</key>
+	<string>shouldHandleProjection</string>
+	<key>shouldPresentCosine</key>
+	<string>decodeconfiguration</string>
+	<key>subscriptionInteraction</key>
+	<string>revisitPreview</string>
+</dict>
+</plist>

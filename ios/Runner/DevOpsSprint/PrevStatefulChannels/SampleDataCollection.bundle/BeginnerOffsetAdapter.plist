@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTangent</key>
+	<string>constraintalongform</string>
+	<key>capacitiesplatformhue</key>
+	<string>processBox</string>
+	<key>dynamicStream</key>
+	<string>canSubscribeInkWell</string>
+	<key>interpolationsorter</key>
+	<string>capacityFormat</string>
+	<key>matrixVisible</key>
+	<string>efficiencySpacing</string>
+	<key>selectedNotifier</key>
+	<string>catalystResponse</string>
+	<key>shouldprocessappbar</key>
+	<string>storyboardShape</string>
+	<key>timelineTail</key>
+	<string>canDeserializeKernel</string>
+	<key>utilinsidestyle</key>
+	<string>shouldDisposeLabel</string>
+</dict>
+</plist>

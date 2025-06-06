@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTabView</key>
+	<string>hyperbolicStep</string>
+	<key>isolatevisitorcenter</key>
+	<string>shouldDisconnectSlider</string>
+	<key>lastentity</key>
+	<string>fixedprojection</string>
+	<key>marginsingleton</key>
+	<string>vertexrate</string>
+	<key>particleorigin</key>
+	<string>shouldConnectSkin</string>
+	<key>protectedBrush</key>
+	<string>unmountInterpolation</string>
+	<key>remediationSkewX</key>
+	<string>statelessAsync</string>
+	<key>shouldunbinddimension</key>
+	<string>ephemeralAlpha</string>
+	<key>unactivatedChannels</key>
+	<string>canDisposeLoss</string>
+</dict>
+</plist>

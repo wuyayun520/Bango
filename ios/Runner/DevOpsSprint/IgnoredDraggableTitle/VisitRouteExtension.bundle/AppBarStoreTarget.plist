@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonArchitecture</key>
+	<string>respectiveModulus</string>
+	<key>discardedDescriptor</key>
+	<string>progressbarInterval</string>
+	<key>heroContrast</key>
+	<string>opaqueNorm</string>
+	<key>numericalchart</key>
+	<string>sophisticatedLabel</string>
+	<key>permissivePreview</key>
+	<string>navigatetool</string>
+	<key>selectorleft</key>
+	<string>signatureDecorator</string>
+	<key>singleBuffer</key>
+	<string>componentVelocity</string>
+	<key>singlePermutation</key>
+	<string>certificateTint</string>
+	<key>temporaryRectangle</key>
+	<string>overrideLabel</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSkin</key>
+	<string>behaviorRate</string>
+	<key>currentLatency</key>
+	<string>notificationTension</string>
+	<key>equalizationinlayer</key>
+	<string>canSaveDuration</string>
+	<key>groupPosition</key>
+	<string>hasIndicator</string>
+	<key>robustProvision</key>
+	<string>positionedMemento</string>
+	<key>scalabilityPressure</key>
+	<string>descriptorBorder</string>
+	<key>tangentScale</key>
+	<string>partitionTitle</string>
+</dict>
+</plist>

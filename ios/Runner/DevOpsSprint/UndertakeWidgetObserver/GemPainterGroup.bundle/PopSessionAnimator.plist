@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTime</key>
+	<string>directIndicator</string>
+	<key>denseCard</key>
+	<string>sortedBrush</string>
+	<key>tabbarKind</key>
+	<string>pageviewdrawer</string>
+	<key>uniqueScheduler</key>
+	<string>partitionVector</string>
+</dict>
+</plist>

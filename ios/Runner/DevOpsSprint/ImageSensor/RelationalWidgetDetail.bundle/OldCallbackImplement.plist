@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>giftflyweightshape</key>
+	<string>unmountScaffold</string>
+	<key>rowoffunction</key>
+	<string>connectorvelocity</string>
+	<key>shouldEmitMultiplication</key>
+	<string>custompaintInterpreter</string>
+</dict>
+</plist>

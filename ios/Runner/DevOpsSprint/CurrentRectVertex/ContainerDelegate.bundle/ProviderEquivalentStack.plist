@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedShape</key>
+	<string>subscriptionFrequency</string>
+	<key>flexibleNavigation</key>
+	<string>integrityPadding</string>
+	<key>scrollerHue</key>
+	<string>symmetricWidget</string>
+	<key>storageaction</key>
+	<string>queueinterval</string>
+	<key>typicalAspect</key>
+	<string>composableStream</string>
+	<key>webSession</key>
+	<string>shouldFinishSpecifier</string>
+</dict>
+</plist>

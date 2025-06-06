@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCube</key>
+	<string>canBuildMaterial</string>
+	<key>autoResilience</key>
+	<string>semanticResolver</string>
+	<key>mainLog</key>
+	<string>missionhandler</string>
+	<key>mechanismFeedback</key>
+	<string>pauseMaterial</string>
+	<key>mediumgemvelocity</key>
+	<string>pickerfrequency</string>
+	<key>persistentMediaQuery</key>
+	<string>replaceVector</string>
+	<key>publicSprite</key>
+	<string>fragmentsforce</string>
+	<key>specifyAperture</key>
+	<string>resizeInteractor</string>
+	<key>streamlineplayback</key>
+	<string>flexibleMaster</string>
+</dict>
+</plist>

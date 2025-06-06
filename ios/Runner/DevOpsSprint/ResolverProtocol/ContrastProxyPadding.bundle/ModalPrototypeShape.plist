@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonMode</key>
+	<string>greatTaxonomy</string>
+	<key>eventscheduler</key>
+	<string>cursorskewy</string>
+	<key>globalVector</key>
+	<string>collectionSingleton</string>
+	<key>mapbystage</key>
+	<string>labelColor</string>
+	<key>tappableQuaternion</key>
+	<string>uniquereliability</string>
+</dict>
+</plist>

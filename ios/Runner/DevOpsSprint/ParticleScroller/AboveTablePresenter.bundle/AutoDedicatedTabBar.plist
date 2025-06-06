@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentsizedbox</key>
+	<string>brushEdge</string>
+	<key>draggableresponsecoord</key>
+	<string>reactiveTriangles</string>
+	<key>fragmentskewy</key>
+	<string>multiplyService</string>
+	<key>layoutsizedbox</key>
+	<string>shouldPauseSizedBox</string>
+	<key>numericalMethod</key>
+	<string>connectorMargin</string>
+	<key>opaqueInfo</key>
+	<string>usedBorder</string>
+	<key>pickerHue</key>
+	<string>keyGate</string>
+	<key>primaryThread</key>
+	<string>contractionSingleton</string>
+	<key>seamlessanimatedcontainerskewx</key>
+	<string>shouldConnectMaterial</string>
+	<key>uniqueMetrics</key>
+	<string>tablenumbercount</string>
+</dict>
+</plist>

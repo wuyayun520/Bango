@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphathroughmediator</key>
+	<string>controllerMomentum</string>
+	<key>denseDropdownButton</key>
+	<string>createSkirt</string>
+	<key>detachexpanded</key>
+	<string>interpolateContainer</string>
+	<key>gateFrequency</key>
+	<string>spotInset</string>
+	<key>keyMethod</key>
+	<string>iterativePresenter</string>
+	<key>pauseconstraint</key>
+	<string>paddingDepth</string>
+	<key>tangenttime</key>
+	<string>immutableBehavior</string>
+</dict>
+</plist>

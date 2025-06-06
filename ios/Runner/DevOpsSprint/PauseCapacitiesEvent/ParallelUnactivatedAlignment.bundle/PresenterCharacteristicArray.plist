@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorMargin</key>
+	<string>pauseview</string>
+	<key>difficultLatency</key>
+	<string>disabledMission</string>
+	<key>flexfeature</key>
+	<string>allocatorMode</string>
+	<key>materializerDuration</key>
+	<string>overlaystrategyinset</string>
+	<key>movementPressure</key>
+	<string>globalawait</string>
+	<key>providerHead</key>
+	<string>builderright</string>
+	<key>shouldPrepareInkWell</key>
+	<string>advancedState</string>
+	<key>shouldSerializeComposition</key>
+	<string>quantizationTitle</string>
+	<key>spotRotation</key>
+	<string>pivotalMetrics</string>
+</dict>
+</plist>

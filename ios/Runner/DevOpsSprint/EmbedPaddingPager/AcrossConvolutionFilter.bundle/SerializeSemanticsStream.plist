@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAlignment</key>
+	<string>parallelOptimizer</string>
+	<key>compositionalDescription</key>
+	<string>decorationLevel</string>
+	<key>materialMonster</key>
+	<string>listviewResponse</string>
+	<key>overlaycoord</key>
+	<string>shouldAnimateAppBar</string>
+	<key>prevmatrixacceleration</key>
+	<string>persistduration</string>
+	<key>resilientEntropy</key>
+	<string>accelerateticker</string>
+	<key>shouldTransformEquipment</key>
+	<string>fragmentCommand</string>
+	<key>transformerinchain</key>
+	<string>emitAppBar</string>
+	<key>visibleFuture</key>
+	<string>ignoredUnary</string>
+</dict>
+</plist>

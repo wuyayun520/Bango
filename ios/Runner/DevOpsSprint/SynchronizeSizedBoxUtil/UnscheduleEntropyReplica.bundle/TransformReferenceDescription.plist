@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasbycontext</key>
+	<string>canSerializeConstraint</string>
+	<key>controllerBorder</key>
+	<string>injectResult</string>
+	<key>delegatepadding</key>
+	<string>shouldDisposeBoxShadow</string>
+	<key>hasalpha</key>
+	<string>hierarchicalGrid</string>
+	<key>inactiveOverlay</key>
+	<string>secondEqualization</string>
+	<key>lifecycleType</key>
+	<string>secondAnalyzer</string>
+	<key>overlayForce</key>
+	<string>originalSwift</string>
+	<key>publisherPadding</key>
+	<string>textfieldDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deploytween</key>
+	<string>responsiveAnchor</string>
+	<key>interfaceformat</key>
+	<string>robustStroke</string>
+	<key>metadataslider</key>
+	<string>shapecoord</string>
+	<key>quaternionResponse</key>
+	<string>workflowscalability</string>
+	<key>segueInteraction</key>
+	<string>largecustompaint</string>
+	<key>sessionInset</key>
+	<string>significantCycle</string>
+	<key>shouldRebuildMaterial</key>
+	<string>localArchitecture</string>
+	<key>shouldRestartGem</key>
+	<string>createCharacter</string>
+</dict>
+</plist>

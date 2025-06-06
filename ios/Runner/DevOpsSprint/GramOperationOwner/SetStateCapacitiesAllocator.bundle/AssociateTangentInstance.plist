@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletvertex</key>
+	<string>axisamongbuffer</string>
+	<key>disabledlabelinteraction</key>
+	<string>streamlineZone</string>
+	<key>lazyCombiner</key>
+	<string>subscriberorigin</string>
+	<key>matrixdensity</key>
+	<string>techniqueFrequency</string>
+	<key>optioninteraction</key>
+	<string>computeVector</string>
+	<key>shouldStreamTask</key>
+	<string>hasChecklist</string>
+	<key>startroute</key>
+	<string>activateStore</string>
+	<key>sustainablebrushstate</key>
+	<string>inheritedsemantics</string>
+	<key>tangentLocation</key>
+	<string>emitterTag</string>
+</dict>
+</plist>

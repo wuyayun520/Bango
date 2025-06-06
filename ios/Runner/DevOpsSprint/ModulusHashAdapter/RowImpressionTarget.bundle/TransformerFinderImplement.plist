@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileConnector</key>
+	<string>shearFactory</string>
+	<key>alphaFeedback</key>
+	<string>immutableVideo</string>
+	<key>alphaVelocity</key>
+	<string>requiredScene</string>
+	<key>basicunary</key>
+	<string>rangeSaturation</string>
+	<key>fusedintegrity</key>
+	<string>selectedaperture</string>
+	<key>positionfactory</key>
+	<string>standaloneSingleton</string>
+	<key>retainedDescent</key>
+	<string>momentumMode</string>
+	<key>semanticPet</key>
+	<string>compositionaltechnique</string>
+	<key>shouldYieldSample</key>
+	<string>updateNib</string>
+	<key>statefulGestureDetector</key>
+	<string>baseChain</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actioninterpreterstate</key>
+	<string>cubeTail</string>
+	<key>analyzecapacities</key>
+	<string>scenarioVisibility</string>
+	<key>basicmanagertransparency</key>
+	<string>itemCoord</string>
+	<key>gridviewlistener</key>
+	<string>activityPlatform</string>
+	<key>mediocreZone</key>
+	<string>combinerShade</string>
+	<key>shouldPopPromise</key>
+	<string>canValidateCollection</string>
+</dict>
+</plist>

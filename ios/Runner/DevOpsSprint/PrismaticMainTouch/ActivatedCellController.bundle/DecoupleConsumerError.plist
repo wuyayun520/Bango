@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushShape</key>
+	<string>pivotalSwitch</string>
+	<key>implementgraph</key>
+	<string>canCancelProfile</string>
+	<key>interactorMargin</key>
+	<string>transitionAlert</string>
+	<key>rapidLoss</key>
+	<string>textureIndex</string>
+	<key>shouldUpdateSymbol</key>
+	<string>elementTail</string>
+	<key>showcursor</key>
+	<string>temporarySorter</string>
+	<key>substantialIntegration</key>
+	<string>notifierStatus</string>
+</dict>
+</plist>

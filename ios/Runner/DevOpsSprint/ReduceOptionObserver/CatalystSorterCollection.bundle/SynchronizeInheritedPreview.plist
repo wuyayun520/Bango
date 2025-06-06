@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectorientation</key>
+	<string>canSerializeTernary</string>
+	<key>firstColor</key>
+	<string>combineSize</string>
+	<key>sampleState</key>
+	<string>materialListView</string>
+	<key>shouldUnmountedBoxShadow</key>
+	<string>prevShape</string>
+</dict>
+</plist>

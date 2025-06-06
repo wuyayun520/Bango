@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorShade</key>
+	<string>shouldInflateMomentum</string>
+	<key>draggableTransition</key>
+	<string>canvaseffect</string>
+	<key>inheritedRow</key>
+	<string>topicParameter</string>
+	<key>labelPosition</key>
+	<string>managerdelay</string>
+	<key>methodrate</key>
+	<string>resolverVariable</string>
+	<key>shouldBindAspectRatio</key>
+	<string>gatechannel</string>
+	<key>shouldConnectCycle</key>
+	<string>canPersistAppBar</string>
+	<key>shouldStreamCatalyst</key>
+	<string>detachNorm</string>
+	<key>shouldStreamTabBar</key>
+	<string>autoStoryboard</string>
+	<key>similarResource</key>
+	<string>subscribeGestureDetector</string>
+</dict>
+</plist>

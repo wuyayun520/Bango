@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushValidation</key>
+	<string>temporaryTransition</string>
+	<key>dynamicElasticity</key>
+	<string>defaultContainer</string>
+	<key>hardTimeline</key>
+	<string>staticpicker</string>
+	<key>injectionForce</key>
+	<string>encodeLabel</string>
+	<key>mainSignature</key>
+	<string>dismissDecoration</string>
+	<key>originalProvision</key>
+	<string>subscriptionlayersize</string>
+	<key>originalSwitch</key>
+	<string>dissociatesingleton</string>
+	<key>primaryImage</key>
+	<string>interfaceAlignment</string>
+</dict>
+</plist>

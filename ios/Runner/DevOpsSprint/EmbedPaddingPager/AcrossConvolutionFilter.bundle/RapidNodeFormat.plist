@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateProcessor</key>
+	<string>deferredPresenter</string>
+	<key>imperativeTriangles</key>
+	<string>layoutInterpolation</string>
+	<key>intermediateLayer</key>
+	<string>canDispatchStateless</string>
+	<key>musicBorder</key>
+	<string>ignoredSubpixel</string>
+	<key>radiusSpeed</key>
+	<string>sizedboxedge</string>
+	<key>shouldUnmountedInstruction</key>
+	<string>sceneduringbridge</string>
+	<key>shouldUnmountedUsage</key>
+	<string>canMountAnimation</string>
+	<key>tensorAlignment</key>
+	<string>intuitiveSemantics</string>
+</dict>
+</plist>

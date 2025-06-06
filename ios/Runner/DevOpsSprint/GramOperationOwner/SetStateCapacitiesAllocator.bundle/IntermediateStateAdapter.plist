@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorlatency</key>
+	<string>shouldRestartMovement</string>
+	<key>equalbutton</key>
+	<string>revisitCompleter</string>
+	<key>mutableevolution</key>
+	<string>localCycle</string>
+	<key>retainedAnalogy</key>
+	<string>hierarchicalInkWell</string>
+	<key>shouldAttachTabBar</key>
+	<string>interactiveBitrate</string>
+	<key>shouldDecodeDropdownButton</key>
+	<string>columnProxy</string>
+</dict>
+</plist>

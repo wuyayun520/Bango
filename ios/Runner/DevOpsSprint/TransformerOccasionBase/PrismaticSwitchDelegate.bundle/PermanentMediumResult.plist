@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>metricsMomentum</key>
+	<string>invisibleState</string>
+	<key>normalModal</key>
+	<string>bindResource</string>
+	<key>shouldListenMovement</key>
+	<string>slashinteraction</string>
+	<key>shouldNavigateSession</key>
+	<string>controllerParam</string>
+	<key>shouldPrepareFragment</key>
+	<string>shouldpopprofile</string>
+	<key>significantException</key>
+	<string>mediabeyonddecorator</string>
+	<key>sineamongparam</key>
+	<string>formatMatrix</string>
+	<key>smartQueue</key>
+	<string>workflowaboutcontext</string>
+	<key>spotaction</key>
+	<string>dispatcherFormat</string>
+</dict>
+</plist>

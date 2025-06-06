@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablecolumnforce</key>
+	<string>matrixVisible</string>
+	<key>disabledService</key>
+	<string>reactiveSine</string>
+	<key>framebridgepressure</key>
+	<string>columnContext</string>
+	<key>intuitiveInfo</key>
+	<string>convertQueue</string>
+	<key>largeTheme</key>
+	<string>platetime</string>
+	<key>prismaticqueueresponse</key>
+	<string>pinchableRemainder</string>
+	<key>sharedpolygon</key>
+	<string>errorPosition</string>
+	<key>shouldBindPoint</key>
+	<string>popEqualization</string>
+	<key>shouldUnmountBuilder</key>
+	<string>pushColumn</string>
+	<key>toolscopedirection</key>
+	<string>loadSkirt</string>
+</dict>
+</plist>

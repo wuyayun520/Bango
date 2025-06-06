@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatelabel</key>
+	<string>nextEvolution</string>
+	<key>batchsize</key>
+	<string>pushMap</string>
+	<key>delicatedimension</key>
+	<string>popupTag</string>
+	<key>durationInterval</key>
+	<string>shouldFinishCycle</string>
+	<key>optimizerobserver</key>
+	<string>grainaboutsingleton</string>
+	<key>progressbarproxyskewx</key>
+	<string>granularCupertino</string>
+	<key>statelessEntity</key>
+	<string>reductionSingleton</string>
+</dict>
+</plist>

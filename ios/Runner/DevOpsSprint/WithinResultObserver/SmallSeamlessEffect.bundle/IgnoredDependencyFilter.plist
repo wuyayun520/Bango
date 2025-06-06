@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushStyle</key>
+	<string>dynamicQuaternion</string>
+	<key>compositionalsemanticstension</key>
+	<string>lockAsync</string>
+	<key>declarativeDropdownButton</key>
+	<string>tensorVideo</string>
+	<key>descriptionVisible</key>
+	<string>permutationDelay</string>
+	<key>equivalentSpacing</key>
+	<string>desktopSpecifier</string>
+	<key>interactorSize</key>
+	<string>retainedMesh</string>
+	<key>momentumInteraction</key>
+	<string>visibleAllocator</string>
+	<key>nativestep</key>
+	<string>shouldRouteDimension</string>
+	<key>unmountedfuture</key>
+	<string>singleRole</string>
+</dict>
+</plist>

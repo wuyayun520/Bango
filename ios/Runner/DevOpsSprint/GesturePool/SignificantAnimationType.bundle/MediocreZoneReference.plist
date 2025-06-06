@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architecturetag</key>
+	<string>canUnbindCapsule</string>
+	<key>disposeaxis</key>
+	<string>provisionTransparency</string>
+	<key>keySizedBox</key>
+	<string>pushTransformer</string>
+	<key>lostRenderer</key>
+	<string>infoSpacing</string>
+	<key>reducerAppearance</key>
+	<string>scrollableSink</string>
+	<key>shouldPushActivity</key>
+	<string>giftShade</string>
+	<key>sophisticatedspine</key>
+	<string>largeLoader</string>
+	<key>stampstateappearance</key>
+	<string>boxelasticity</string>
+	<key>substantialNavigator</key>
+	<string>shouldCreateGem</string>
+	<key>taxonomyVisibility</key>
+	<string>positionedcluster</string>
+</dict>
+</plist>

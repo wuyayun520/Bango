@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffertraversal</key>
+	<string>servicecontainobserver</string>
+	<key>firstSample</key>
+	<string>subscriptiontempletag</string>
+	<key>memberinterpreterbound</key>
+	<string>tablesincecycle</string>
+	<key>semanticListView</key>
+	<string>shouldunbindgridview</string>
+	<key>trianglesTransparency</key>
+	<string>gridviewJob</string>
+</dict>
+</plist>

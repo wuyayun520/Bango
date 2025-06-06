@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integritySize</key>
+	<string>standaloneConstraint</string>
+	<key>interpolationlocation</key>
+	<string>scrollableSensor</string>
+	<key>localOptimizer</key>
+	<string>easyProcessor</string>
+	<key>newestStrength</key>
+	<string>chartdensity</string>
+	<key>otherConsumption</key>
+	<string>canPauseDelegate</string>
+	<key>singletonPressure</key>
+	<string>customizedTrajectory</string>
+	<key>tabbarLocation</key>
+	<string>canEndSession</string>
+</dict>
+</plist>

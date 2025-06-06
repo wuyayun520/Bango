@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentappearance</key>
+	<string>poolCallback</string>
+	<key>immutableOffset</key>
+	<string>storecount</string>
+	<key>mutableListener</key>
+	<string>mainDetail</string>
+	<key>selectedstateless</key>
+	<string>containerSize</string>
+	<key>shouldEmitMonster</key>
+	<string>sortedTabBar</string>
+	<key>shouldReplaceSwift</key>
+	<string>bufferParameter</string>
+	<key>shouldreplaceplayback</key>
+	<string>descriptiondelivery</string>
+	<key>unsortedProfile</key>
+	<string>imperativeMultiplication</string>
+</dict>
+</plist>

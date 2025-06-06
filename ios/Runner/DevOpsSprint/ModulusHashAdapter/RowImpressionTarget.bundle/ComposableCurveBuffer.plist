@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInteger</key>
+	<string>staticSize</string>
+	<key>granularHero</key>
+	<string>animatedCube</string>
+	<key>mobileversusform</key>
+	<string>accordionAudio</string>
+	<key>semanticwidgetdepth</key>
+	<string>radiustransparency</string>
+	<key>webSensor</key>
+	<string>disclaimerForce</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCompletion</key>
+	<string>disabledMember</string>
+	<key>creatorLeft</key>
+	<string>shouldProcessNib</string>
+	<key>eagertasktail</key>
+	<string>quantizationanchor</string>
+	<key>eventfeedback</key>
+	<string>radioAlignment</string>
+	<key>shouldDecodeScaffold</key>
+	<string>materialvisible</string>
+	<key>shouldParseCycle</key>
+	<string>hierarchicalCosine</string>
+	<key>spriteDepth</key>
+	<string>observeException</string>
+</dict>
+</plist>

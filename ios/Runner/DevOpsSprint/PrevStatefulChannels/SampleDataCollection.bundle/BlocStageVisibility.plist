@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxvelocity</key>
+	<string>processorHue</string>
+	<key>concurrentProcessor</key>
+	<string>smallInstruction</string>
+	<key>criticalSession</key>
+	<string>lostStore</string>
+	<key>deferredContrast</key>
+	<string>hardMultiplication</string>
+	<key>injectionMargin</key>
+	<string>singletonrate</string>
+	<key>intermediateTrajectory</key>
+	<string>desktopObserver</string>
+	<key>publishzone</key>
+	<string>reconcileRadius</string>
+	<key>shouldDispatchConstraint</key>
+	<string>gatefordecorator</string>
+	<key>shouldResumePadding</key>
+	<string>apertureDensity</string>
+</dict>
+</plist>

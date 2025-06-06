@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionspeed</key>
+	<string>smartTransformer</string>
+	<key>criticalRadio</key>
+	<string>canReplaceConvolution</string>
+	<key>deferredUnary</key>
+	<string>canPauseCapacities</string>
+	<key>disabledSegment</key>
+	<string>significantInstruction</string>
+	<key>dismissposition</key>
+	<string>invokeScene</string>
+	<key>dynamicInterpolation</key>
+	<string>reflectResponse</string>
+	<key>gridviewInteraction</key>
+	<string>uniqueRepository</string>
+	<key>invisiblerowresponse</key>
+	<string>characterMode</string>
+	<key>tensorEvent</key>
+	<string>presentLoss</string>
+	<key>widgetfunctionorigin</key>
+	<string>alphaAppearance</string>
+</dict>
+</plist>

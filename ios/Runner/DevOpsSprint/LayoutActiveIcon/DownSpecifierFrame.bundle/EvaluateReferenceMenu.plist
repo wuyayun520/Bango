@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoContrast</key>
+	<string>isarithmetic</string>
+	<key>cellinmediator</key>
+	<string>canTransformStream</string>
+	<key>mobileCustomPaint</key>
+	<string>nextFormat</string>
+	<key>persistentBuilder</key>
+	<string>missedImage</string>
+</dict>
+</plist>

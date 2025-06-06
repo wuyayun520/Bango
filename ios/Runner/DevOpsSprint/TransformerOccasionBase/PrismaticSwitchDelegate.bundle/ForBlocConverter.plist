@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderStyle</key>
+	<string>chapteragainstmediator</string>
+	<key>criticalDescent</key>
+	<string>iconroute</string>
+	<key>intermediateCompletion</key>
+	<string>canShowEntropy</string>
+	<key>parallelCache</key>
+	<string>compositionMemento</string>
+	<key>persistentListener</key>
+	<string>activeCaption</string>
+	<key>pinchableShader</key>
+	<string>customizedinkwelledge</string>
+	<key>segueStyle</key>
+	<string>endBrush</string>
+</dict>
+</plist>

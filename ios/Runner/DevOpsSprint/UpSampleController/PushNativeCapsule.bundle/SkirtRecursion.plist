@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>permissiveChooser</key>
+	<string>textcoord</string>
+	<key>queueCount</key>
+	<string>concreteAnchor</string>
+	<key>shouldAnimateThread</key>
+	<string>skipStoryboard</string>
+	<key>storesinceobserver</key>
+	<string>cardaroundbuffer</string>
+</dict>
+</plist>

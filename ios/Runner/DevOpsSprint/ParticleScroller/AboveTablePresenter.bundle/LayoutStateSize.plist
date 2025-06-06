@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstPadding</key>
+	<string>navigateScroll</string>
+	<key>heapkind</key>
+	<string>shouldUnbindVariant</string>
+	<key>mediumGesture</key>
+	<string>cupertinoReduction</string>
+	<key>nextTolerance</key>
+	<string>pinchableCallback</string>
+	<key>notificationTag</key>
+	<string>autoImage</string>
+	<key>secondStateful</key>
+	<string>pointSize</string>
+</dict>
+</plist>

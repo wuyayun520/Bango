@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integrityDistance</key>
+	<string>boxshadowcommandvisibility</string>
+	<key>lazyConnector</key>
+	<string>similargesture</string>
+	<key>nativeAppBar</key>
+	<string>inactiveTheme</string>
+	<key>shouldEmitTouch</key>
+	<string>shouldMountCosine</string>
+	<key>statefulLeft</key>
+	<string>loadGift</string>
+	<key>stoptask</key>
+	<string>basicPolyfill</string>
+</dict>
+</plist>

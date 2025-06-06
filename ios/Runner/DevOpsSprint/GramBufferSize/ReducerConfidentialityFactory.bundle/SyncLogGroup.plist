@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finderMomentum</key>
+	<string>canSerializeView</string>
+	<key>observeinjection</key>
+	<string>persistSpot</string>
+	<key>retainedBoxShadow</key>
+	<string>shouldPaintInstruction</string>
+</dict>
+</plist>

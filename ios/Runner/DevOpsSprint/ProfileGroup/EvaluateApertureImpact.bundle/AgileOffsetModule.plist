@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeComponent</key>
+	<string>processorPosition</string>
+	<key>expandedKind</key>
+	<string>canValidateSkin</string>
+	<key>firstCapacity</key>
+	<string>oldSorter</string>
+	<key>intermediateEmitter</key>
+	<string>impactedge</string>
+	<key>priorstate</key>
+	<string>textfieldTransparency</string>
+	<key>semanticcurveformat</key>
+	<string>indicatorOrigin</string>
+	<key>shouldskipcanvas</key>
+	<string>keyListener</string>
+	<key>uniformLatency</key>
+	<string>unmountedcube</string>
+</dict>
+</plist>

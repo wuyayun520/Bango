@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultConsumption</key>
+	<string>relationalModel</string>
+	<key>dismissreducer</key>
+	<string>touchAppearance</string>
+	<key>easyBehavior</key>
+	<string>restartConstraint</string>
+	<key>easyRichText</key>
+	<string>elementDirection</string>
+	<key>gridSize</key>
+	<string>graphProcess</string>
+	<key>infoRight</key>
+	<string>displayableAudio</string>
+</dict>
+</plist>

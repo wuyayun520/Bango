@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedState</key>
+	<string>agileStatus</string>
+	<key>bindswitch</key>
+	<string>detectorContrast</string>
+	<key>descriptionwithdecorator</key>
+	<string>joinerCount</string>
+	<key>iterativeanalogy</key>
+	<string>spriteOperation</string>
+	<key>largemissionformat</key>
+	<string>subtleInterface</string>
+	<key>mobileEvent</key>
+	<string>mediaqueryType</string>
+	<key>originalconsumer</key>
+	<string>selectedStamp</string>
+</dict>
+</plist>

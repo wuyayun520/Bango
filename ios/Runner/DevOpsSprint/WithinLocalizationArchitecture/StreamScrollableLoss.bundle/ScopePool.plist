@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateAppearance</key>
+	<string>exitView</string>
+	<key>destroyusecase</key>
+	<string>transpileInteractor</string>
+	<key>functionalModal</key>
+	<string>iterativeElement</string>
+	<key>pauseparticle</key>
+	<string>reusableConsumer</string>
+	<key>permissiveTabView</key>
+	<string>vectorStructure</string>
+	<key>rapidCycle</key>
+	<string>rapidSchema</string>
+	<key>reactiveMultiplication</key>
+	<string>thresholdVelocity</string>
+	<key>shouldCreateWorkflow</key>
+	<string>loadHistogram</string>
+	<key>shouldPresentMaster</key>
+	<string>prevNotification</string>
+</dict>
+</plist>

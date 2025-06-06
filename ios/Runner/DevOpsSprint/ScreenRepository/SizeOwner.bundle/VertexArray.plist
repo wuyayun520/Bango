@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowAcceleration</key>
+	<string>configurepreview</string>
+	<key>largeMethod</key>
+	<string>videoVisible</string>
+	<key>missedPicker</key>
+	<string>pinchableAperture</string>
+	<key>shouldLoadMobile</key>
+	<string>characteristicDensity</string>
+	<key>shouldSetStateTool</key>
+	<string>usedBoxShadow</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilecontroller</key>
+	<string>shouldValidateMediaQuery</string>
+	<key>mediumSignature</key>
+	<string>unsortedCursor</string>
+	<key>pivotalWidget</key>
+	<string>shouldRestartRadio</string>
+	<key>precisionprogressbar</key>
+	<string>composableTransition</string>
+	<key>shouldSubscribeLogarithm</key>
+	<string>commonButton</string>
+	<key>similarPermutation</key>
+	<string>swiftHue</string>
+</dict>
+</plist>

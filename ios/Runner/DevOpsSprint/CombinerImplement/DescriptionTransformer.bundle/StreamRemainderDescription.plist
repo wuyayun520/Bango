@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedAppearance</key>
+	<string>basicColumn</string>
+	<key>immutableDelegate</key>
+	<string>criticalScaffold</string>
+	<key>lazycompleter</key>
+	<string>deactivatePresenter</string>
+	<key>particleDensity</key>
+	<string>sizedata</string>
+	<key>shouldPopScreen</key>
+	<string>robustOffset</string>
+</dict>
+</plist>

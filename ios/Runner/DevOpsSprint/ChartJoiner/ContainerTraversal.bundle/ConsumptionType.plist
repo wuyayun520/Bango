@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopPlayback</key>
+	<string>canMountedPrecision</string>
+	<key>executeinjection</key>
+	<string>draggableMobile</string>
+	<key>immediateGroup</key>
+	<string>layerprovider</string>
+	<key>lossinsidecommand</key>
+	<string>oldInformation</string>
+	<key>mediumRoute</key>
+	<string>shouldRoutePlate</string>
+	<key>multiJoiner</key>
+	<string>selectedExtension</string>
+	<key>normalError</key>
+	<string>accordionmechanism</string>
+	<key>pinchableFilter</key>
+	<string>commonReducer</string>
+	<key>shouldContinueMovement</key>
+	<string>asyncvelocity</string>
+</dict>
+</plist>

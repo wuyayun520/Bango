@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>carddetail</key>
+	<string>entityScope</string>
+	<key>desktopGraphic</key>
+	<string>gestureEnvironment</string>
+	<key>imperativeResource</key>
+	<string>shouldUnmountGradient</string>
+	<key>listenerVelocity</key>
+	<string>undertakemetadata</string>
+	<key>relationalObserver</key>
+	<string>navigateAnchor</string>
+	<key>shouldCancelPainter</key>
+	<string>tappablePageView</string>
+	<key>subpixelchooser</key>
+	<string>evaluateTransformer</string>
+</dict>
+</plist>

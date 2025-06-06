@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>densescheduler</key>
+	<string>mediocreTransition</string>
+	<key>immediateClipper</key>
+	<string>taskacceleration</string>
+	<key>interpolationScale</key>
+	<string>skirtTint</string>
+	<key>lastUsage</key>
+	<string>readGraph</string>
+	<key>shouldFormatOverlay</key>
+	<string>callbackSkewX</string>
+	<key>significantGrid</key>
+	<string>actionTier</string>
+	<key>singleCatalyst</key>
+	<string>singlePublisher</string>
+</dict>
+</plist>

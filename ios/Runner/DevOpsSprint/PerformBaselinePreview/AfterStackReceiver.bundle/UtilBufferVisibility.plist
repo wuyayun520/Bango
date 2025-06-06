@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartinfrastructure</key>
+	<string>listviewForm</string>
+	<key>dynamicEvaluation</key>
+	<string>handleequipment</string>
+	<key>normalSubscription</key>
+	<string>topicLocation</string>
+	<key>primaryCanvas</key>
+	<string>intuitiveCard</string>
+	<key>screenlocation</key>
+	<string>brushposition</string>
+	<key>shouldAnimateOperation</key>
+	<string>localizationshape</string>
+	<key>singleDropdownButton</key>
+	<string>modulusvisible</string>
+	<key>smartGradient</key>
+	<string>subscribeOverlay</string>
+	<key>usecaseSize</key>
+	<string>minStateful</string>
+</dict>
+</plist>

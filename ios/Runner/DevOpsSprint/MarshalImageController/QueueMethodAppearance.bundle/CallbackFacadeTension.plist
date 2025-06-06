@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGram</key>
+	<string>rangeDepth</string>
+	<key>crudeTechnique</key>
+	<string>provisionDistance</string>
+	<key>deferredNavigator</key>
+	<string>clearMetadata</string>
+	<key>fixedUtil</key>
+	<string>checklistFormat</string>
+	<key>interactiveevent</key>
+	<string>skinStructure</string>
+	<key>oldScroll</key>
+	<string>restoreObserver</string>
+	<key>positionedEdge</key>
+	<string>streamPrototype</string>
+	<key>shouldcreatedocument</key>
+	<string>temporaryInjection</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonIsolate</key>
+	<string>shouldKeepResource</string>
+	<key>largeVector</key>
+	<string>canSaveCursor</string>
+	<key>mendname</key>
+	<string>easyIntensity</string>
+	<key>shouldAnimateAnimation</key>
+	<string>hierarchicalHeap</string>
+	<key>shouldAttachAxis</key>
+	<string>aspectName</string>
+	<key>shouldPublishMaster</key>
+	<string>scaffoldalongmemento</string>
+	<key>shouldStopTool</key>
+	<string>allocateError</string>
+	<key>tangentCoord</key>
+	<string>latencyInterval</string>
+	<key>tensorNavigator</key>
+	<string>containertransparency</string>
+</dict>
+</plist>

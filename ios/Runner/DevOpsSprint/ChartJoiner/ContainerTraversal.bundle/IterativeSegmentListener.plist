@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containeragainsttask</key>
+	<string>bufferCycle</string>
+	<key>efficiencykind</key>
+	<string>canSkipController</string>
+	<key>missedtrigger</key>
+	<string>composableCapacities</string>
+	<key>nodePadding</key>
+	<string>sophisticatedAppBar</string>
+	<key>providerHead</key>
+	<string>dimensionasbridge</string>
+	<key>shouldNotifyTouch</key>
+	<string>concatenateModel</string>
+	<key>toolversusvisitor</key>
+	<string>inheritedThreshold</string>
+</dict>
+</plist>

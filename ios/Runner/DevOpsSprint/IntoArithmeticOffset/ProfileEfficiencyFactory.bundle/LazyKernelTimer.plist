@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertBound</key>
+	<string>displayableStrength</string>
+	<key>boxshadowValidation</key>
+	<string>spineStage</string>
+	<key>draggableMatrix</key>
+	<string>dispatchBehavior</string>
+	<key>grayscalesaturation</key>
+	<string>disabledGrayscale</string>
+	<key>plateVisible</key>
+	<string>denseMargin</string>
+	<key>semanticReplica</key>
+	<string>shouldRebuildResource</string>
+</dict>
+</plist>

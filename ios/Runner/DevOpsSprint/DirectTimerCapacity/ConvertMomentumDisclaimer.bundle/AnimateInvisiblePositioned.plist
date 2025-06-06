@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedImpression</key>
+	<string>transposeAlignment</string>
+	<key>normalSemantics</key>
+	<string>durationDelay</string>
+	<key>shouldDetachCanvas</key>
+	<string>adjustLayer</string>
+	<key>shouldProcessWorkflow</key>
+	<string>shouldCancelComposition</string>
+</dict>
+</plist>

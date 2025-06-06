@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorShape</key>
+	<string>canMountedConsumer</string>
+	<key>consultativeOverlay</key>
+	<string>findinteger</string>
+	<key>dedicatedBullet</key>
+	<string>awaitatdecorator</string>
+	<key>graininset</key>
+	<string>significantIntegration</string>
+	<key>mediumActivity</key>
+	<string>onanimationchanged</string>
+	<key>resourcelikeenvironment</key>
+	<string>connectorContrast</string>
+	<key>schedulerDepth</key>
+	<string>roleContext</string>
+	<key>shouldPopTernary</key>
+	<string>granularPlayback</string>
+	<key>splitterduration</key>
+	<string>meshShade</string>
+</dict>
+</plist>

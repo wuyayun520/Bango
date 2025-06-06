@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAwait</key>
+	<string>animationFormat</string>
+	<key>arithmeticaction</key>
+	<string>declarativeAwait</string>
+	<key>greatClipper</key>
+	<string>specifyAnimator</string>
+	<key>hasVariant</key>
+	<string>unlockTransition</string>
+	<key>queueTransparency</key>
+	<string>segueFeedback</string>
+	<key>subsequentTransformer</key>
+	<string>comprehensiveTimer</string>
+	<key>titledensity</key>
+	<string>fixedTrajectory</string>
+</dict>
+</plist>

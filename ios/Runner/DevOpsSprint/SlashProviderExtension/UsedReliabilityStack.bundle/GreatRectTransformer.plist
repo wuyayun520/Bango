@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackShade</key>
+	<string>comprehensivefinder</string>
+	<key>concurrentReceiver</key>
+	<string>schedulerStatus</string>
+	<key>euclideanUtil</key>
+	<string>persistentMatrix</string>
+	<key>futurestructurestatus</key>
+	<string>spriteFrequency</string>
+	<key>histogramOrientation</key>
+	<string>gestureMomentum</string>
+	<key>metadatasubscriber</key>
+	<string>shouldPublishScreen</string>
+	<key>mountedcoordinator</key>
+	<string>restartAperture</string>
+	<key>routersize</key>
+	<string>entityitem</string>
+	<key>secondFilter</key>
+	<string>aspectratioParam</string>
+	<key>shouldUnmountedNotifier</key>
+	<string>plateHue</string>
+</dict>
+</plist>

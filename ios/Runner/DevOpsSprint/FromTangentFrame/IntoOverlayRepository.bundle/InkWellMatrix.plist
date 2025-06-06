@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianComponent</key>
+	<string>timelineTag</string>
+	<key>completiondelegate</key>
+	<string>replaceClipper</string>
+	<key>disabledFrame</key>
+	<string>textureoperationscale</string>
+	<key>drawervisible</key>
+	<string>synchronousKernel</string>
+	<key>hasmodal</key>
+	<string>explicitCallback</string>
+	<key>injectionpatterntint</key>
+	<string>bloccyclepadding</string>
+	<key>shouldsubscribematrix</key>
+	<string>encodeChannel</string>
+	<key>widgetdecoratorinterval</key>
+	<string>mountPriority</string>
+</dict>
+</plist>

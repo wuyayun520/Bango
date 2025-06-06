@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonframeworkpadding</key>
+	<string>opaqueDuration</string>
+	<key>directlyOverlay</key>
+	<string>cardcontroller</string>
+	<key>oldAspect</key>
+	<string>shouldPresentTask</string>
+	<key>repositorywithouttype</key>
+	<string>canFetchPageView</string>
+	<key>requiredTentative</key>
+	<string>currentGroup</string>
+	<key>specifiersize</key>
+	<string>dynamicInteraction</string>
+	<key>standalonemasterspacing</key>
+	<string>fixedframe</string>
+	<key>staticmovementbound</key>
+	<string>similarConstant</string>
+</dict>
+</plist>

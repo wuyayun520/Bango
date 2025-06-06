@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonoffset</key>
+	<string>reliabilityVisible</string>
+	<key>missedStrength</key>
+	<string>synchronousResponder</string>
+	<key>normalBullet</key>
+	<string>awaitIndex</string>
+	<key>rapidOverlay</key>
+	<string>optimizerFlags</string>
+	<key>reusableMethod</key>
+	<string>secondResponse</string>
+	<key>shouldListenSegment</key>
+	<string>normalElement</string>
+	<key>shouldunmountedoperation</key>
+	<string>generateFactory</string>
+	<key>spineKind</key>
+	<string>canAnimateCube</string>
+</dict>
+</plist>

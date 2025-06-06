@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialInfrastructure</key>
+	<string>protocolMediator</string>
+	<key>eraseallocator</key>
+	<string>nativeDialogs</string>
+	<key>greatMovement</key>
+	<string>graphicstatus</string>
+	<key>publishmaster</key>
+	<string>discardedAperture</string>
+	<key>shouldLayoutReference</key>
+	<string>tensorprofile</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionsound</key>
+	<string>prismaticBoxShadow</string>
+	<key>exceptionsaturation</key>
+	<string>scheduleAction</string>
+	<key>interpolationscopesize</key>
+	<string>canSaveCell</string>
+	<key>lostQueue</key>
+	<string>asynchronousCallback</string>
+	<key>newestCapacity</key>
+	<string>consumeralignment</string>
+	<key>shouldDisposeRichText</key>
+	<string>orchestrateFuture</string>
+	<key>shouldRenderRole</key>
+	<string>contrastskewy</string>
+	<key>tappablebuilderborder</key>
+	<string>nodeDirection</string>
+	<key>uniformEquivalent</key>
+	<string>custompaintSaturation</string>
+</dict>
+</plist>

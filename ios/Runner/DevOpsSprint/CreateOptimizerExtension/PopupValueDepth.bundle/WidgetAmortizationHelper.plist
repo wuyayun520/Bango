@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryuntilvalue</key>
+	<string>deflateMenu</string>
+	<key>defaultNavigator</key>
+	<string>loadSlider</string>
+	<key>elasticMapper</key>
+	<string>optimizeZone</string>
+	<key>futureTheme</key>
+	<string>shouldPaintResource</string>
+	<key>immutablePoint</key>
+	<string>listenerInterpreter</string>
+	<key>keepgesturedetector</key>
+	<string>cellmomentum</string>
+	<key>optimizerHue</key>
+	<string>shouldParseHistogram</string>
+	<key>queueSpacing</key>
+	<string>protectedMaterial</string>
+	<key>seamlessSensor</key>
+	<string>shouldTrainMediaQuery</string>
+</dict>
+</plist>

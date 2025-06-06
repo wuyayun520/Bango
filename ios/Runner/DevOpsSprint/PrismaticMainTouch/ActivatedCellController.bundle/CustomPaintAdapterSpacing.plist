@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedCupertino</key>
+	<string>generateError</string>
+	<key>lostLoss</key>
+	<string>prismaticAnalyzer</string>
+	<key>permanentSpot</key>
+	<string>canMountedPoint</string>
+	<key>smartSwift</key>
+	<string>pendingLayout</string>
+</dict>
+</plist>

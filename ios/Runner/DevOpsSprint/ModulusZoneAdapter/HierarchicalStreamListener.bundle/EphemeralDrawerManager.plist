@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableObserver</key>
+	<string>iterativeGestureDetector</string>
+	<key>desktopChallenge</key>
+	<string>navigatorcontroller</string>
+	<key>futureColor</key>
+	<string>featureandframework</string>
+	<key>groupState</key>
+	<string>lazyEntity</string>
+	<key>resizableSwitch</key>
+	<string>labelFacade</string>
+	<key>secondSensor</key>
+	<string>obtainModel</string>
+	<key>selectedScaffold</key>
+	<string>appbarInterpreter</string>
+	<key>shouldNavigateCell</key>
+	<string>processConsumer</string>
+	<key>uniformDescription</key>
+	<string>assetProxy</string>
+	<key>usecaseoradapter</key>
+	<string>polygonDuration</string>
+</dict>
+</plist>

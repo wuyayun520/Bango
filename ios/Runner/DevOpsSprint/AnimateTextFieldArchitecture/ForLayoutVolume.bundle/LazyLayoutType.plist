@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAnimation</key>
+	<string>persistHero</string>
+	<key>concurrentSearcher</key>
+	<string>unmountAnchor</string>
+	<key>hardAlpha</key>
+	<string>shouldCreateDropdownButton</string>
+	<key>intensityperdecorator</key>
+	<string>usecaseforce</string>
+	<key>localContainer</key>
+	<string>recursionHue</string>
+	<key>primaryBoxShadow</key>
+	<string>sanitizeTask</string>
+</dict>
+</plist>

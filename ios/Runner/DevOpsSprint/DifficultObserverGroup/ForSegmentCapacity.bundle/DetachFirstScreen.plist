@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitskewx</key>
+	<string>originalCache</string>
+	<key>baselinenearfunction</key>
+	<string>shouldEndBox</string>
+	<key>expandedtheme</key>
+	<string>skinshader</string>
+	<key>gridviewatsingleton</key>
+	<string>standaloneWorkflow</string>
+	<key>interfacecontainprocess</key>
+	<string>holdmodel</string>
+	<key>lifecycleShape</key>
+	<string>respectivePreview</string>
+	<key>loadanimatedcontainer</key>
+	<string>denseConfiguration</string>
+	<key>permutationLeft</key>
+	<string>exceptionForm</string>
+	<key>shouldAnimateMatrix</key>
+	<string>isolatekind</string>
+	<key>shouldPauseNotifier</key>
+	<string>routeLoss</string>
+</dict>
+</plist>

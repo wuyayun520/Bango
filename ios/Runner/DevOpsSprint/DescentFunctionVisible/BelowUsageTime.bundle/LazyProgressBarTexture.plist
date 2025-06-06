@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaBorder</key>
+	<string>shouldUnmountedGesture</string>
+	<key>fusedSplitter</key>
+	<string>geometricStateless</string>
+	<key>histogramappearance</key>
+	<string>shouldstoptabbar</string>
+	<key>metadatacomponent</key>
+	<string>reducerVar</string>
+	<key>onscrolltap</key>
+	<string>canYieldPageView</string>
+	<key>permanentCursor</key>
+	<string>iconparameterformat</string>
+</dict>
+</plist>

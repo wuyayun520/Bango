@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionResult</key>
+	<string>otherBloc</string>
+	<key>compositionTint</key>
+	<string>asynchronousScroller</string>
+	<key>keyCreator</key>
+	<string>inheritedBullet</string>
+	<key>managerskewy</key>
+	<string>independentTransformer</string>
+	<key>monsterdirection</key>
+	<string>specifyFormat</string>
+	<key>ondelegatechanged</key>
+	<string>multiConfidentiality</string>
+	<key>shouldResumeConstraint</key>
+	<string>usecasephasedirection</string>
+	<key>sorterSaturation</key>
+	<string>canPopPriority</string>
+</dict>
+</plist>

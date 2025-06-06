@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>persistentsignatureshade</key>
+	<string>painterorstage</string>
+	<key>radiocoordinator</key>
+	<string>reduceIntensity</string>
+	<key>resolvestorage</key>
+	<string>startReference</string>
+	<key>scrollOffset</key>
+	<string>ephemeralInteractor</string>
+	<key>sophisticatedRestriction</key>
+	<string>positionedforinterpreter</string>
+	<key>standaloneevaluation</key>
+	<string>enumerateEvent</string>
+</dict>
+</plist>

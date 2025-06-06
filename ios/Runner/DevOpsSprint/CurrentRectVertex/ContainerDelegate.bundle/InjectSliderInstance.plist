@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containermodel</key>
+	<string>durationspeed</string>
+	<key>crudeTask</key>
+	<string>aspectbylayer</string>
+	<key>fixedResponder</key>
+	<string>divideStorage</string>
+	<key>immutableFilter</key>
+	<string>buffername</string>
+	<key>selectedBoxShadow</key>
+	<string>shouldReplaceCollection</string>
+	<key>smallContrast</key>
+	<string>pinchableoffset</string>
+	<key>sortedProtocol</key>
+	<string>sineInterpreter</string>
+</dict>
+</plist>

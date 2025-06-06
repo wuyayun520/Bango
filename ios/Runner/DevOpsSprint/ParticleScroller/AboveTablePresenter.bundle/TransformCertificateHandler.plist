@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeProgressBar</key>
+	<string>notifyRect</string>
+	<key>cyclechooser</key>
+	<string>notifyBoxShadow</string>
+	<key>flexibleMetrics</key>
+	<string>annotateManager</string>
+	<key>functionalQuaternion</key>
+	<string>captureListener</string>
+	<key>rectuntilframework</key>
+	<string>presenterPosition</string>
+	<key>symmetricNotification</key>
+	<string>seamlessLayer</string>
+</dict>
+</plist>

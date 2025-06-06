@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectFormat</key>
+	<string>listenercontainobserver</string>
+	<key>currentSingleton</key>
+	<string>visualizeslider</string>
+	<key>draweraroundlevel</key>
+	<string>shouldStreamMaterial</string>
+	<key>textfieldthroughbuffer</key>
+	<string>shouldPopReduction</string>
+</dict>
+</plist>

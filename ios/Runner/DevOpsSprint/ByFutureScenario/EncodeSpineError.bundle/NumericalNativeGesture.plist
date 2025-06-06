@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectdirection</key>
+	<string>durationviatask</string>
+	<key>borderPadding</key>
+	<string>updateReference</string>
+	<key>exponenttag</key>
+	<string>effectMargin</string>
+	<key>inheritedNavigator</key>
+	<string>ephemeralScalability</string>
+	<key>lazyNotifier</key>
+	<string>intermediateAnimator</string>
+	<key>observetopic</key>
+	<string>shouldPushStamp</string>
+	<key>shoulddetachconstraint</key>
+	<string>futureState</string>
+	<key>specifygroup</key>
+	<string>executeSubscription</string>
+</dict>
+</plist>

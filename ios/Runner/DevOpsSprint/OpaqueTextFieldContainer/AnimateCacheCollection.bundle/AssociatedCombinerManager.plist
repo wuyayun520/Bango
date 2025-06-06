@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableLoss</key>
+	<string>newestBox</string>
+	<key>difficultSegue</key>
+	<string>currenttextoffset</string>
+	<key>elasticUtil</key>
+	<string>unregisterScene</string>
+	<key>eventSpeed</key>
+	<string>storeobserverskewx</string>
+	<key>isinteger</key>
+	<string>enumerateRouter</string>
+	<key>lazyChooser</key>
+	<string>canSerializeGesture</string>
+	<key>mobileEquivalent</key>
+	<string>responderDelay</string>
+	<key>queueSpeed</key>
+	<string>appendCallback</string>
+	<key>resizeslider</key>
+	<string>newestBuffer</string>
+</dict>
+</plist>

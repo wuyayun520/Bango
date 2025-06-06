@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivecyclevelocity</key>
+	<string>integerDistance</string>
+	<key>asyncTint</key>
+	<string>equalizationBrightness</string>
+	<key>customizedReplica</key>
+	<string>independentGrain</string>
+	<key>errorDelay</key>
+	<string>localChart</string>
+	<key>loopdistance</key>
+	<string>reconcileParticle</string>
+	<key>multiplicationopacity</key>
+	<string>hardSorter</string>
+	<key>semanticcontrast</key>
+	<string>trainTask</string>
+	<key>shouldEndLogarithm</key>
+	<string>widgetrenderer</string>
+	<key>shouldListenStep</key>
+	<string>characterBuffer</string>
+	<key>unactivatedTimer</key>
+	<string>persistentAnchor</string>
+</dict>
+</plist>

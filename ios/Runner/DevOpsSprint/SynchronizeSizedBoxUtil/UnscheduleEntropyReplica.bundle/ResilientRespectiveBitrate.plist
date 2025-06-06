@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicInfo</key>
+	<string>fixedAlert</string>
+	<key>ephemeralAscent</key>
+	<string>petCount</string>
+	<key>normaltriangles</key>
+	<string>shouldCacheCharacter</string>
+	<key>optimizercontainparam</key>
+	<string>mediumRouter</string>
+</dict>
+</plist>

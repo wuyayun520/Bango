@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxContrast</key>
+	<string>respondCurve</string>
+	<key>diffableHash</key>
+	<string>freestream</string>
+	<key>intuitiveRemainder</key>
+	<string>divideCoordinator</string>
+	<key>materializerKind</key>
+	<string>scrollablespecifier</string>
+	<key>publishawait</key>
+	<string>inactiveScroller</string>
+	<key>shouldMountInstruction</key>
+	<string>findCompleter</string>
+	<key>shouldStreamSubpixel</key>
+	<string>implementConfiguration</string>
+	<key>shouldUnmountDrawer</key>
+	<string>animatedselector</string>
+	<key>smartMetrics</key>
+	<string>projectMemento</string>
+	<key>storeCoord</key>
+	<string>sanitizeMenu</string>
+</dict>
+</plist>

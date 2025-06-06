@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerPainter</key>
+	<string>combinerVelocity</string>
+	<key>elasticityFlags</key>
+	<string>maptransparency</string>
+	<key>handlemonster</key>
+	<string>permissiveStore</string>
+	<key>inflatescene</key>
+	<string>shouldEmitGrayscale</string>
+	<key>lazyTentative</key>
+	<string>triggerEdge</string>
+	<key>listviewtask</key>
+	<string>intensityObserver</string>
+	<key>lossoffacade</key>
+	<string>mixinInteractor</string>
+	<key>timerVisible</key>
+	<string>spotFlyweight</string>
+</dict>
+</plist>

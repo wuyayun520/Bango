@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseFeedback</key>
+	<string>defaultmusic</string>
+	<key>callbackType</key>
+	<string>undertakeAction</string>
+	<key>channelInterval</key>
+	<string>pushCollection</string>
+	<key>disparatelocalization</key>
+	<string>connectAsync</string>
+	<key>injectionOrientation</key>
+	<string>loadLoss</string>
+	<key>interpolationintegration</key>
+	<string>serializeVariant</string>
+	<key>particleDensity</key>
+	<string>resourceSpacing</string>
+	<key>reactiveExpanded</key>
+	<string>fixedPublisher</string>
+	<key>shouldResumeEquipment</key>
+	<string>equipmentScale</string>
+	<key>shouldShowActivity</key>
+	<string>canCancelLog</string>
+</dict>
+</plist>

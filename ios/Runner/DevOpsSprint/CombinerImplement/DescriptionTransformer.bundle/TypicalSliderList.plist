@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedEquipment</key>
+	<string>localizationAction</string>
+	<key>animatedSlash</key>
+	<string>labelbrightness</string>
+	<key>buttonvalidation</key>
+	<string>wrapSprite</string>
+	<key>disposeinterface</key>
+	<string>mediocreAlignment</string>
+	<key>eagerCertificate</key>
+	<string>connectCosine</string>
+	<key>geometricPosition</key>
+	<string>renameVector</string>
+	<key>invisibleChooser</key>
+	<string>textfieldInteraction</string>
+	<key>recttension</key>
+	<string>semanticsRotation</string>
+</dict>
+</plist>

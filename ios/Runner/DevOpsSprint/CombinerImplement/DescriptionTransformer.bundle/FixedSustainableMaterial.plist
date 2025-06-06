@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorlocation</key>
+	<string>logarithmborder</string>
+	<key>captionTransparency</key>
+	<string>explicitGrayscale</string>
+	<key>diffableEvaluation</key>
+	<string>agilerouteshape</string>
+	<key>explicitconstraintopacity</key>
+	<string>pushScroll</string>
+	<key>timerfinder</key>
+	<string>mutableInkWell</string>
+	<key>vertexvalidation</key>
+	<string>disconnectTask</string>
+</dict>
+</plist>

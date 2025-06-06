@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSine</key>
+	<string>tappableThreshold</string>
+	<key>interactionDirection</key>
+	<string>draggableListener</string>
+	<key>oldSwift</key>
+	<string>optimizeFeature</string>
+	<key>robustReliability</key>
+	<string>rapidRect</string>
+	<key>sineScale</key>
+	<string>touchActivity</string>
+	<key>transitionFlags</key>
+	<string>concurrentInteractor</string>
+</dict>
+</plist>

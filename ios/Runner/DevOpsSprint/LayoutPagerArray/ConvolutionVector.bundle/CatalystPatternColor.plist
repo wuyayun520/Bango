@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserStyle</key>
+	<string>smallImpression</string>
+	<key>labelFlags</key>
+	<string>inflateInjection</string>
+	<key>retainedReduction</key>
+	<string>dependencystagefeedback</string>
+	<key>secondOverlay</key>
+	<string>shouldNotifyGraphic</string>
+	<key>singleRoute</key>
+	<string>geometricChooser</string>
+	<key>webGradient</key>
+	<string>missionIndex</string>
+</dict>
+</plist>

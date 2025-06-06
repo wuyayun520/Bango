@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentsinetag</key>
+	<string>storyboardedge</string>
+	<key>plateDirection</key>
+	<string>dispatchSymbol</string>
+	<key>routestack</key>
+	<string>rebuildDropdownButton</string>
+	<key>shouldUnmountRadio</key>
+	<string>shouldTransformBoxShadow</string>
+	<key>viewspacing</key>
+	<string>providerexceptvariable</string>
+	<key>workflowskewy</key>
+	<string>clearPresenter</string>
+	<key>wrapperName</key>
+	<string>relationalCompleter</string>
+</dict>
+</plist>

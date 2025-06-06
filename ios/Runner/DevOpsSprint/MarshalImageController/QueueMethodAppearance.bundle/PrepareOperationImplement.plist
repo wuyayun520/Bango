@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handleconfiguration</key>
+	<string>streamfragment</string>
+	<key>immutableRestriction</key>
+	<string>permissivechallenge</string>
+	<key>intermediateChooser</key>
+	<string>pendingGridView</string>
+	<key>offsetparamposition</key>
+	<string>gridDirection</string>
+	<key>shouldHandleSession</key>
+	<string>interceptFeature</string>
+	<key>shouldNavigateSlash</key>
+	<string>shouldContinueProtocol</string>
+	<key>storyboarddetail</key>
+	<string>selectedLoss</string>
+	<key>tweenStyle</key>
+	<string>connectBuffer</string>
+</dict>
+</plist>

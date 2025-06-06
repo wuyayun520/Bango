@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteanalogy</key>
+	<string>shouldEncodeMatrix</string>
+	<key>normvalidation</key>
+	<string>shouldShowCertificate</string>
+	<key>opaqueTangent</key>
+	<string>staticcollectiondelay</string>
+	<key>playbacksaturation</key>
+	<string>loopLocation</string>
+	<key>protocolinteraction</key>
+	<string>flexibleOperation</string>
+	<key>shouldEndMusic</key>
+	<string>canResumeGesture</string>
+	<key>storyboardAcceleration</key>
+	<string>connectSpecifier</string>
+	<key>tangentBorder</key>
+	<string>unregisterStream</string>
+</dict>
+</plist>

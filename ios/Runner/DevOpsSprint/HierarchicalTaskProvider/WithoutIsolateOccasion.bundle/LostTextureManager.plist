@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeAccessory</key>
+	<string>draggableAscent</string>
+	<key>graphicOrigin</key>
+	<string>inflateutil</string>
+	<key>publicStroke</key>
+	<string>exceptionVisible</string>
+</dict>
+</plist>

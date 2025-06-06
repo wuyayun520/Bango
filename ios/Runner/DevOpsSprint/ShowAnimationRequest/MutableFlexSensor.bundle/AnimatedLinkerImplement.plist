@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAppearance</key>
+	<string>taxonomySkewX</string>
+	<key>frameSkewY</key>
+	<string>resourceresponder</string>
+	<key>independentAlert</key>
+	<string>opaqueFrame</string>
+	<key>shouldResumeDescriptor</key>
+	<string>hasbrush</string>
+	<key>switchdependency</key>
+	<string>cleanGraph</string>
+	<key>themeBottom</key>
+	<string>capsuleLayer</string>
+	<key>weboffsettransparency</key>
+	<string>instructionAppearance</string>
+</dict>
+</plist>

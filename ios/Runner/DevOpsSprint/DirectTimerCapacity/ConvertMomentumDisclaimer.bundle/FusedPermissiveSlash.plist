@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablecapacity</key>
+	<string>shouldCancelInterpolation</string>
+	<key>impactEdge</key>
+	<string>primarySession</string>
+	<key>materializerBottom</key>
+	<string>selectedSlash</string>
+	<key>polyfillSaturation</key>
+	<string>roleColor</string>
+</dict>
+</plist>

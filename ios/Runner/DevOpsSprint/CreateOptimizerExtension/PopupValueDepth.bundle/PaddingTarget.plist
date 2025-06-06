@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseRate</key>
+	<string>cycleBridge</string>
+	<key>responderDepth</key>
+	<string>instructionLeft</string>
+	<key>shouldRenderExponent</key>
+	<string>optimizeMethod</string>
+	<key>significantgrid</key>
+	<string>accessoryWork</string>
+</dict>
+</plist>

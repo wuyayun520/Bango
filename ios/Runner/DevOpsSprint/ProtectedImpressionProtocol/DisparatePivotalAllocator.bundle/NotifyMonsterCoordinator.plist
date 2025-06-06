@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseTabView</key>
+	<string>releaseError</string>
+	<key>iconparamfeedback</key>
+	<string>handlePresenter</string>
+	<key>multiFormat</key>
+	<string>finishcurve</string>
+	<key>notifierInset</key>
+	<string>statelessGrid</string>
+	<key>shouldDisconnectNotifier</key>
+	<string>skipTangent</string>
+	<key>shouldemitmonster</key>
+	<string>respectiveSound</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousWorkflow</key>
+	<string>transpileListener</string>
+	<key>controllerproxyfeedback</key>
+	<string>signShade</string>
+	<key>criticalImage</key>
+	<string>arithmeticColumn</string>
+	<key>denseAnimatedContainer</key>
+	<string>enumerateGraph</string>
+	<key>positionsorter</key>
+	<string>localConsumption</string>
+	<key>scopeskewy</key>
+	<string>transitionobserverright</string>
+	<key>swiftscene</key>
+	<string>chooserOrientation</string>
+</dict>
+</plist>

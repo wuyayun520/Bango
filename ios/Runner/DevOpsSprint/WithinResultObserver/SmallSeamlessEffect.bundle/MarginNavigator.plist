@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedMultiplication</key>
+	<string>mapresponse</string>
+	<key>requiredTimeline</key>
+	<string>featureRotation</string>
+	<key>requiredcelltop</key>
+	<string>canPublishScale</string>
+	<key>shouldLayoutScaffold</key>
+	<string>compositionOperation</string>
+	<key>symmetricPoint</key>
+	<string>intensityActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationmode</key>
+	<string>cubitamongfacade</string>
+	<key>frameForce</key>
+	<string>captureDuration</string>
+	<key>granularalert</key>
+	<string>activeCombiner</string>
+	<key>hascard</key>
+	<string>canDisconnectGraphic</string>
+	<key>lastSchema</key>
+	<string>shouldMountModal</string>
+	<key>shapeHead</key>
+	<string>pointBehavior</string>
+	<key>shouldDetachStack</key>
+	<string>sizedboxVelocity</string>
+	<key>significantSample</key>
+	<string>shouldEmitNavigator</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronouspolygon</key>
+	<string>connectAlert</string>
+	<key>buildmargin</key>
+	<string>sinkDuration</string>
+	<key>cupertinoRenderer</key>
+	<string>alertVisible</string>
+	<key>gateHue</key>
+	<string>completedShader</string>
+	<key>gridSkewY</key>
+	<string>buttonName</string>
+	<key>hastheme</key>
+	<string>flexibleOptimizer</string>
+	<key>listviewmend</key>
+	<string>equipmentTier</string>
+	<key>newestInteger</key>
+	<string>canDecodeBuilder</string>
+	<key>oncupertinochanged</key>
+	<string>layoutTag</string>
+	<key>shouldUnmountMatrix</key>
+	<string>descriptionRight</string>
+</dict>
+</plist>

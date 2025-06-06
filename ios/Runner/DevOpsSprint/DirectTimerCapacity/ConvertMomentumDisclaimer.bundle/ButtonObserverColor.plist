@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalColumn</key>
+	<string>canBindChecklist</string>
+	<key>inactiveScene</key>
+	<string>respectiveAsset</string>
+	<key>nextBorder</key>
+	<string>createcallback</string>
+	<key>resilientTask</key>
+	<string>saveDescriptor</string>
+	<key>shouldNotifyBaseline</key>
+	<string>permanentDescription</string>
+	<key>shouldPopTabView</key>
+	<string>deferredDelivery</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTransition</key>
+	<string>resizableBoxShadow</string>
+	<key>buttonKind</key>
+	<string>sharedRecursion</string>
+	<key>numericalsorter</key>
+	<string>cursoracceleration</string>
+	<key>retainedCapacity</key>
+	<string>retaineddelegate</string>
+	<key>shouldyieldplate</key>
+	<string>serializeunary</string>
+	<key>soundScale</key>
+	<string>sounddelay</string>
+	<key>titlejobbound</key>
+	<string>webQuaternion</string>
+	<key>workflowbystructure</key>
+	<string>compositionnearvalue</string>
+</dict>
+</plist>

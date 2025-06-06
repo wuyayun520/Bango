@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuletension</key>
+	<string>providerspeed</string>
+	<key>delicateBullet</key>
+	<string>shouldUnbindCard</string>
+	<key>dependencyemitter</key>
+	<string>managerrectangle</string>
+	<key>standalonePageView</key>
+	<string>debugrequest</string>
+	<key>timeOpacity</key>
+	<string>shouldStopGraphic</string>
+</dict>
+</plist>

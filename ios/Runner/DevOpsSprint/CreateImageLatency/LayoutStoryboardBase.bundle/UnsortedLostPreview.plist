@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyResolver</key>
+	<string>customRouter</string>
+	<key>mendOrientation</key>
+	<string>tableResponse</string>
+	<key>routerScale</key>
+	<string>statelessBrush</string>
+	<key>smartMargin</key>
+	<string>dissociateTransition</string>
+</dict>
+</plist>

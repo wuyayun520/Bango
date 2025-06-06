@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateState</key>
+	<string>modelMargin</string>
+	<key>customizedMediaQuery</key>
+	<string>canSetStateExpanded</string>
+	<key>flexibleloader</key>
+	<string>desktopExpanded</string>
+	<key>nativeState</key>
+	<string>explicitCompleter</string>
+	<key>protectedScale</key>
+	<string>coordinatorstatecontrast</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerQuaternion</key>
+	<string>basicInfrastructure</string>
+	<key>functionalgridrate</key>
+	<string>cellDecorator</string>
+	<key>prismaticIntensity</key>
+	<string>canDisconnectFuture</string>
+	<key>recursiondelay</key>
+	<string>difficultSplitter</string>
+	<key>scheduledelegate</key>
+	<string>allocatorParam</string>
+	<key>shouldHandleNorm</key>
+	<string>segmentKind</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentanimator</key>
+	<string>granularInterpolation</string>
+	<key>currentWrapper</key>
+	<string>augmentGroup</string>
+	<key>discardedRoute</key>
+	<string>selectedanimation</string>
+	<key>otheralert</key>
+	<string>dimensionCenter</string>
+	<key>paintmenu</key>
+	<string>mutableProvider</string>
+	<key>selectedProtocol</key>
+	<string>emitException</string>
+	<key>stringifyusecase</key>
+	<string>firstImage</string>
+</dict>
+</plist>

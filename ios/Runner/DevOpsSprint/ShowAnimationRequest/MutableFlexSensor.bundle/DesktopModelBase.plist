@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulefeedback</key>
+	<string>canUnmountFuture</string>
+	<key>cartesianrouter</key>
+	<string>transitionlatency</string>
+	<key>detailOrientation</key>
+	<string>missionOrientation</string>
+	<key>occasionhue</key>
+	<string>canPresentSegment</string>
+	<key>persistentresponsesaturation</key>
+	<string>boxshadowVisible</string>
+	<key>priorMend</key>
+	<string>providerdispatcher</string>
+	<key>subsequentModal</key>
+	<string>dynamicLayer</string>
+	<key>usedCaption</key>
+	<string>analyzerRotation</string>
+	<key>vectorFeedback</key>
+	<string>stateprocessdelay</string>
+</dict>
+</plist>

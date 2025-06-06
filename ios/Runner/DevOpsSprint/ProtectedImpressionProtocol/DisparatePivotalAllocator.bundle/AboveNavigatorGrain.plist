@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedtoolappearance</key>
+	<string>subsequentUseCase</string>
+	<key>beginneranimation</key>
+	<string>futurePressure</string>
+	<key>denseSpecifier</key>
+	<string>mobileDelivery</string>
+	<key>documentloader</key>
+	<string>concurrentGift</string>
+	<key>pivotalPreview</key>
+	<string>loadTable</string>
+	<key>setstatemap</key>
+	<string>pivotalScheduler</string>
+	<key>shouldencodetask</key>
+	<string>amortizationValidation</string>
+</dict>
+</plist>

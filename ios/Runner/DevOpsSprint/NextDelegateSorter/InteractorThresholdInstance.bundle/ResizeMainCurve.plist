@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSpeed</key>
+	<string>geometricCache</string>
+	<key>commonNode</key>
+	<string>publishFlex</string>
+	<key>defaultfuture</key>
+	<string>consumertraversal</string>
+	<key>elasticElasticity</key>
+	<string>threadEdge</string>
+	<key>euclideanEffect</key>
+	<string>singletonwithstrategy</string>
+	<key>flexoutsidebridge</key>
+	<string>dropoutParticle</string>
+	<key>gridstyle</key>
+	<string>typicalReference</string>
+	<key>lastSpot</key>
+	<string>prismaticLocalization</string>
+	<key>observerhead</key>
+	<string>canEncodeSession</string>
+	<key>typicalTextField</key>
+	<string>consumerposition</string>
+</dict>
+</plist>

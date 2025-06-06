@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatesegue</key>
+	<string>captureDescription</string>
+	<key>aperturepolygon</key>
+	<string>crucialEvent</string>
+	<key>arithmeticNavigator</key>
+	<string>euclideanThreshold</string>
+	<key>invisibleOperation</key>
+	<string>checklistSize</string>
+	<key>protectedController</key>
+	<string>diversifiedEvent</string>
+	<key>streamfrequency</key>
+	<string>cartesianPageView</string>
+</dict>
+</plist>

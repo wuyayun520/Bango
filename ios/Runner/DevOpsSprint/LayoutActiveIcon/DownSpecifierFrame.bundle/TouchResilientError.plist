@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedEvent</key>
+	<string>shouldPushVariant</string>
+	<key>builderMode</key>
+	<string>shouldUpdateBox</string>
+	<key>clippercallback</key>
+	<string>interactiveMend</string>
+	<key>criticalPopup</key>
+	<string>loadReduction</string>
+	<key>displayableScene</key>
+	<string>giftRight</string>
+	<key>lazyVertex</key>
+	<string>referencegraph</string>
+	<key>listenerlayerspacing</key>
+	<string>tolerancedensity</string>
+	<key>mountevent</key>
+	<string>statefulQueue</string>
+	<key>rendererTail</key>
+	<string>shouldMountNotification</string>
+</dict>
+</plist>

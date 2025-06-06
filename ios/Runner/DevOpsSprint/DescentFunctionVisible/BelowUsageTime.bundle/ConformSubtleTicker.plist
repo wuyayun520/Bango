@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatemode</key>
+	<string>unaryconfiguration</string>
+	<key>missedEvaluation</key>
+	<string>splitterFormat</string>
+	<key>shouldShowTransition</key>
+	<string>liteObject</string>
+	<key>sizedboxflyweightorigin</key>
+	<string>constructChart</string>
+	<key>subscriberDuration</key>
+	<string>timelineBottom</string>
+</dict>
+</plist>

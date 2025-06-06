@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedPageView</key>
+	<string>reactiveChannels</string>
+	<key>liteOption</key>
+	<string>stringifyEvent</string>
+	<key>missedAnalogy</key>
+	<string>greatAperture</string>
+	<key>resultShade</key>
+	<string>resizeFeature</string>
+	<key>scopeDistance</key>
+	<string>mountTool</string>
+	<key>secondheap</key>
+	<string>allocatorBehavior</string>
+	<key>signSize</key>
+	<string>curveSkewX</string>
+</dict>
+</plist>

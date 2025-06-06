@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblechannelsright</key>
+	<string>persistCursor</string>
+	<key>completionType</key>
+	<string>contractionMemento</string>
+	<key>dedicatedMerger</key>
+	<string>nativeSprite</string>
+	<key>functionalScroller</key>
+	<string>reusableRole</string>
+	<key>monsterFrequency</key>
+	<string>publicChooser</string>
+	<key>tweenType</key>
+	<string>layoutCommand</string>
+	<key>uniqueThreshold</key>
+	<string>mainObject</string>
+</dict>
+</plist>

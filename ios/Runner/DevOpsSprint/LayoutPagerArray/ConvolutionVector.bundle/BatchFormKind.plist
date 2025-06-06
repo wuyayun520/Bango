@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheTop</key>
+	<string>textversusscope</string>
+	<key>dataSkewX</key>
+	<string>cardPhase</string>
+	<key>diffablescreen</key>
+	<string>dropdownbuttonAppearance</string>
+	<key>directlyStateful</key>
+	<string>canConnectPositioned</string>
+	<key>errorstyle</key>
+	<string>shouldAnimateTextField</string>
+	<key>immediateTransformer</key>
+	<string>requiredRow</string>
+	<key>interfaceOpacity</key>
+	<string>deferredThroughput</string>
+	<key>localEvent</key>
+	<string>connectMethod</string>
+	<key>logarithmframe</key>
+	<string>collectionskewx</string>
+	<key>navigationRotation</key>
+	<string>constraintfornumber</string>
+</dict>
+</plist>

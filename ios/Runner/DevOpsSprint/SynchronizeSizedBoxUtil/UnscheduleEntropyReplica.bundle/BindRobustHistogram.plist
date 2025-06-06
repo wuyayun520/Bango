@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopschema</key>
+	<string>directFuture</string>
+	<key>interactortimeline</key>
+	<string>synchronousListView</string>
+	<key>iscustompaint</key>
+	<string>updateDescriptor</string>
+	<key>mobileConnector</key>
+	<string>scrollableBandwidth</string>
+	<key>mobilePager</key>
+	<string>expandedCycle</string>
+	<key>reactivePadding</key>
+	<string>shouldMountedComposition</string>
+	<key>resourceSkewX</key>
+	<string>listenerTag</string>
+	<key>storageLocation</key>
+	<string>mixinDuration</string>
+	<key>usageForce</key>
+	<string>borderAlignment</string>
+</dict>
+</plist>

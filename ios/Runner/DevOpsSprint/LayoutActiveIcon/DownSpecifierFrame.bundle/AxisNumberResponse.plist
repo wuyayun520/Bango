@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeManager</key>
+	<string>zoneContext</string>
+	<key>elasticawait</key>
+	<string>gatetransition</string>
+	<key>inactiveRenderer</key>
+	<string>lifecycleSpeed</string>
+	<key>indicatorcontextinterval</key>
+	<string>shouldFormatTangent</string>
+	<key>introspectresource</key>
+	<string>shouldUnmountSemantics</string>
+	<key>labelstructuredensity</key>
+	<string>ephemeralView</string>
+	<key>sinedelegate</key>
+	<string>modulusPhase</string>
+	<key>subtleBinary</key>
+	<string>convolutionsubscriber</string>
+</dict>
+</plist>

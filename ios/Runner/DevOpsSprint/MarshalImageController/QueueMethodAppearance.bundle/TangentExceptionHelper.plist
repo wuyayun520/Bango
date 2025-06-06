@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfaceOrigin</key>
+	<string>missedIntensity</string>
+	<key>repositorydispatcher</key>
+	<string>volumeStatus</string>
+	<key>staticObserver</key>
+	<string>requiredTransition</string>
+	<key>touchactioninset</key>
+	<string>refactorStream</string>
+</dict>
+</plist>

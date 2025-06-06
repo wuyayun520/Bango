@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorpadding</key>
+	<string>stateValue</string>
+	<key>cartesianBuilder</key>
+	<string>unsortedMission</string>
+	<key>checklistSkewX</key>
+	<string>autoDialogs</string>
+	<key>delegateTheme</key>
+	<string>combinerTransparency</string>
+	<key>delegateusecase</key>
+	<string>shouldRestartSizedBox</string>
+	<key>desktopSession</key>
+	<string>spinAlignment</string>
+	<key>flexibleLayer</key>
+	<string>updatecontainer</string>
+	<key>oldError</key>
+	<string>compositionalEquipment</string>
+	<key>pivotalPolyfill</key>
+	<string>heroOrientation</string>
+	<key>sizeVisibility</key>
+	<string>updateParticle</string>
+</dict>
+</plist>

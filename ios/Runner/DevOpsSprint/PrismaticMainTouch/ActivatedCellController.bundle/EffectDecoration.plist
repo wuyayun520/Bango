@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledalignmentbound</key>
+	<string>agilelistener</string>
+	<key>greatSizedBox</key>
+	<string>canUnbindBaseline</string>
+	<key>paintpoint</key>
+	<string>canRestartColumn</string>
+	<key>shouldParseGestureDetector</key>
+	<string>dialogsDepth</string>
+	<key>standaloneTexture</key>
+	<string>routeplayback</string>
+</dict>
+</plist>

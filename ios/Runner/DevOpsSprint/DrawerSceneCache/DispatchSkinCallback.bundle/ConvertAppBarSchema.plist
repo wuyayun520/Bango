@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttontop</key>
+	<string>greatsearcher</string>
+	<key>durationthreshold</key>
+	<string>loopOpacity</string>
+	<key>granularTime</key>
+	<string>topicOperation</string>
+	<key>gridBottom</key>
+	<string>connectasync</string>
+	<key>metricsDensity</key>
+	<string>serviceparamspeed</string>
+	<key>semanticduration</key>
+	<string>hashPrototype</string>
+	<key>shouldFinishMedia</key>
+	<string>shapeOrigin</string>
+	<key>subtleVector</key>
+	<string>offsetstream</string>
+</dict>
+</plist>

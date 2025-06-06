@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationDepth</key>
+	<string>clipBuffer</string>
+	<key>arithmeticwrapper</key>
+	<string>canKeepTextField</string>
+	<key>defaultsegue</key>
+	<string>isolateShape</string>
+	<key>hyperbolicMethod</key>
+	<string>instructionVariable</string>
+	<key>independentProvider</key>
+	<string>boxshadowPrototype</string>
+	<key>materialVolume</key>
+	<string>shouldResumeNib</string>
+	<key>replaceobserver</key>
+	<string>normalFuture</string>
+	<key>toolHue</key>
+	<string>mergerTop</string>
+</dict>
+</plist>

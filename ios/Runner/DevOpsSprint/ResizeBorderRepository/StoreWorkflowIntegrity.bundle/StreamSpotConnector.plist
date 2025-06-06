@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directBinary</key>
+	<string>ephemeralChapter</string>
+	<key>geometricBinary</key>
+	<string>provideMetadata</string>
+	<key>grayscaleRate</key>
+	<string>shouldSaveFragment</string>
+	<key>gridTransparency</key>
+	<string>discardedentity</string>
+</dict>
+</plist>

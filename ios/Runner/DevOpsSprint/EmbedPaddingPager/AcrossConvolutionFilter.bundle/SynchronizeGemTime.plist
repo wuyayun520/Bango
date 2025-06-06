@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedLifecycle</key>
+	<string>gridDepth</string>
+	<key>customizedCompleter</key>
+	<string>invisibleslider</string>
+	<key>distinctionsize</key>
+	<string>futureCoord</string>
+	<key>equalizationcolor</key>
+	<string>volumeBound</string>
+	<key>mediumPopup</key>
+	<string>canKeepSignature</string>
+	<key>popobserver</key>
+	<string>paddingBridge</string>
+	<key>shouldCancelEquipment</key>
+	<string>webMusic</string>
+	<key>shouldMountedRemainder</key>
+	<string>gesturedetectorFunction</string>
+	<key>shouldpausestep</key>
+	<string>unmountTernary</string>
+	<key>techniqueawait</key>
+	<string>lostText</string>
+</dict>
+</plist>

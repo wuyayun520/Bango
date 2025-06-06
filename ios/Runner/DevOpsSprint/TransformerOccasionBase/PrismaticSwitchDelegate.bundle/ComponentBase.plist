@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetchainbehavior</key>
+	<string>fragmentadaptername</string>
+	<key>displayableScalability</key>
+	<string>menuEdge</string>
+	<key>effectaspect</key>
+	<string>shouldResumeCatalyst</string>
+	<key>standaloneMember</key>
+	<string>dedicatedAllocator</string>
+	<key>unactivatedSkirt</key>
+	<string>samplePressure</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineBound</key>
+	<string>serializeDropdownButton</string>
+	<key>batchcontrast</key>
+	<string>challengeDepth</string>
+	<key>inflatemovement</key>
+	<string>shouldProcessChallenge</string>
+	<key>primaryUtil</key>
+	<string>symmetricSizedBox</string>
+</dict>
+</plist>

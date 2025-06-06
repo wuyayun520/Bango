@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteConfiguration</key>
+	<string>specifyswift</string>
+	<key>permissivedecorationvisibility</key>
+	<string>canMountBinary</string>
+	<key>shouldDisposeAnimation</key>
+	<string>cloneaction</string>
+	<key>shouldEmitSample</key>
+	<string>dedicatednavigatorskewy</string>
+</dict>
+</plist>

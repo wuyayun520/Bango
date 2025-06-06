@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureduration</key>
+	<string>gridAppearance</string>
+	<key>discardedChallenge</key>
+	<string>measureConfiguration</string>
+	<key>painterState</key>
+	<string>vectorizereducer</string>
+	<key>semanticMapper</key>
+	<string>intensitydespitecontext</string>
+	<key>shouldPublishMomentum</key>
+	<string>shouldPresentImage</string>
+	<key>shouldRestartView</key>
+	<string>emitGift</string>
+	<key>shouldUnbindSwift</key>
+	<string>quantizationGroup</string>
+	<key>soundDelay</key>
+	<string>referencethroughput</string>
+</dict>
+</plist>

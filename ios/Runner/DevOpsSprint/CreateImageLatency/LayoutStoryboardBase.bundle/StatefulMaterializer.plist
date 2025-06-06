@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateslider</key>
+	<string>scrollDecorator</string>
+	<key>elasticdurationcenter</key>
+	<string>equipmentscopestate</string>
+	<key>hierarchicalChart</key>
+	<string>writeAsync</string>
+	<key>priorCaption</key>
+	<string>subsequentGrid</string>
+	<key>promiseRate</key>
+	<string>customUseCase</string>
+	<key>scrollableView</key>
+	<string>shouldDisconnectMission</string>
+	<key>shouldRouteAppBar</key>
+	<string>shouldPublishUsage</string>
+	<key>shouldemitcell</key>
+	<string>activeShape</string>
+	<key>tappablereduction</key>
+	<string>alphaPosition</string>
+</dict>
+</plist>

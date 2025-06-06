@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticisolate</key>
+	<string>requiredFeature</string>
+	<key>emitterLeft</key>
+	<string>normalasyncstate</string>
+	<key>oldSpine</key>
+	<string>lazyMend</string>
+	<key>prismaticPromise</key>
+	<string>shouldTransitionDescriptor</string>
+</dict>
+</plist>

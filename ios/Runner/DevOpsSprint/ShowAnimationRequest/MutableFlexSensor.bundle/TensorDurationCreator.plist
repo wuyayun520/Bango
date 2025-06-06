@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSound</key>
+	<string>writeMetadata</string>
+	<key>finishdrawer</key>
+	<string>mainDetector</string>
+	<key>previewscopehue</key>
+	<string>reactiveCosine</string>
+	<key>selectedScroll</key>
+	<string>eventBound</string>
+	<key>shouldConnectConstraint</key>
+	<string>unactivatedComponent</string>
+	<key>singleManager</key>
+	<string>hardprovision</string>
+	<key>unsortedSwitch</key>
+	<string>localDetail</string>
+	<key>zonecenter</key>
+	<string>canStartOperation</string>
+</dict>
+</plist>

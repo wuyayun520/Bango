@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>meshDistance</key>
+	<string>statelessQuaternion</string>
+	<key>nextRow</key>
+	<string>basicprogressbartransparency</string>
+	<key>onicontap</key>
+	<string>extensionEnvironment</string>
+	<key>sharedAnimator</key>
+	<string>layoutGesture</string>
+	<key>shouldSerializeCanvas</key>
+	<string>reductionValue</string>
+	<key>skirtShade</key>
+	<string>immediateShader</string>
+	<key>specifyskinstate</key>
+	<string>associatedElasticity</string>
+	<key>unsortedDescriptor</key>
+	<string>sceneOffset</string>
+</dict>
+</plist>

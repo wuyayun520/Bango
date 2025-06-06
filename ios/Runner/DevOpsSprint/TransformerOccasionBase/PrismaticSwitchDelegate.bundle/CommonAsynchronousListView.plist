@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTheme</key>
+	<string>uniqueSession</string>
+	<key>directequipment</key>
+	<string>explicitCache</string>
+	<key>metadataSkewY</key>
+	<string>shouldRoutePromise</string>
+	<key>onimagechanged</key>
+	<string>basicSensor</string>
+</dict>
+</plist>

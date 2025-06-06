@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedExtension</key>
+	<string>joinershade</string>
+	<key>hassignature</key>
+	<string>reconcileWidget</string>
+	<key>iconDepth</key>
+	<string>histogramFlags</string>
+	<key>segueType</key>
+	<string>canDeserializeStateful</string>
+</dict>
+</plist>

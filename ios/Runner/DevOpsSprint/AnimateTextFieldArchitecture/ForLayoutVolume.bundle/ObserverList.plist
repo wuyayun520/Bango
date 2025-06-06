@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystFlags</key>
+	<string>alertIndex</string>
+	<key>cursorBound</key>
+	<string>replaceChannels</string>
+	<key>deferredDelegate</key>
+	<string>interpolateCubit</string>
+	<key>disabledAspect</key>
+	<string>asynchronousCubit</string>
+	<key>discardedSize</key>
+	<string>cosineAction</string>
+	<key>interfaceTag</key>
+	<string>aspectratioNumber</string>
+	<key>publicStrength</key>
+	<string>overlayFormat</string>
+	<key>statefulScaffold</key>
+	<string>canTrainCoordinator</string>
+	<key>touchKind</key>
+	<string>bindChannels</string>
+</dict>
+</plist>

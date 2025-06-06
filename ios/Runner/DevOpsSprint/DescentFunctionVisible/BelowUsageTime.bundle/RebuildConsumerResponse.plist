@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBrightness</key>
+	<string>smartStateless</string>
+	<key>consultativeListener</key>
+	<string>blocPattern</string>
+	<key>durationaudio</key>
+	<string>animatorDensity</string>
+	<key>factoryFormat</key>
+	<string>specifyInteraction</string>
+	<key>iterativeSample</key>
+	<string>cursorMode</string>
+	<key>shouldPrepareAnimation</key>
+	<string>exitchannel</string>
+	<key>spinedirection</key>
+	<string>hashTint</string>
+	<key>uniqueloader</key>
+	<string>shouldSetStatePet</string>
+</dict>
+</plist>

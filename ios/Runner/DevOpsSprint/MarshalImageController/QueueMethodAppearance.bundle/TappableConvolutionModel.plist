@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderInteraction</key>
+	<string>notifycoordinator</string>
+	<key>inactiveChallenge</key>
+	<string>usedLoader</string>
+	<key>logOffset</key>
+	<string>painterComposite</string>
+	<key>mediaTheme</key>
+	<string>canPopAspect</string>
+	<key>scrollstate</key>
+	<string>clusterVisibility</string>
+	<key>shouldPaintKernel</key>
+	<string>overlayFlags</string>
+	<key>switchDensity</key>
+	<string>shouldConnectMatrix</string>
+	<key>transformstep</key>
+	<string>seamlessScheduler</string>
+</dict>
+</plist>

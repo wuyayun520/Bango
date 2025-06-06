@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeConfiguration</key>
+	<string>activeBinary</string>
+	<key>animatedstep</key>
+	<string>hasanchor</string>
+	<key>certificateinframework</key>
+	<string>shouldCreateIndicator</string>
+	<key>descriptionname</key>
+	<string>floatBloc</string>
+	<key>intermediateExponent</key>
+	<string>shouldConnectMaterial</string>
+	<key>mountdecoration</key>
+	<string>asyncduration</string>
+	<key>symmetricSplitter</key>
+	<string>interceptdelegate</string>
+	<key>volumeoffset</key>
+	<string>canSerializeStream</string>
+</dict>
+</plist>

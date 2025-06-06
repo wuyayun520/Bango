@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatormode</key>
+	<string>schedulerInteraction</string>
+	<key>inheritedChooser</key>
+	<string>emitBullet</string>
+	<key>multiplicationstatus</key>
+	<string>tweakScale</string>
+	<key>originalSizedBox</key>
+	<string>canPushFlex</string>
+	<key>robustzone</key>
+	<string>uniformTrigger</string>
+	<key>shouldBuildSubpixel</key>
+	<string>blocdespiteaction</string>
+	<key>shouldKeepCard</key>
+	<string>immutableContrast</string>
+</dict>
+</plist>

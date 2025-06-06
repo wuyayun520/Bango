@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedEqualization</key>
+	<string>exceptionVisitor</string>
+	<key>controllerobserverforce</key>
+	<string>shouldObserveCoordinator</string>
+	<key>fillaspect</key>
+	<string>analyzeReducer</string>
+	<key>intuitiveShader</key>
+	<string>subtleTrigger</string>
+	<key>priorScaffold</key>
+	<string>processorskewx</string>
+	<key>scalevisitorshape</key>
+	<string>shouldPauseFragment</string>
+	<key>swiftdirection</key>
+	<string>cartesianMesh</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoderesolver</key>
+	<string>fragmentInterval</string>
+	<key>elementRate</key>
+	<string>shouldAnimateOperation</string>
+	<key>hasCube</key>
+	<string>cardFramework</string>
+	<key>isbehavior</key>
+	<string>joinerOpacity</string>
+	<key>mobileScale</key>
+	<string>unaryObserver</string>
+	<key>protectedConfiguration</key>
+	<string>canPaintMedia</string>
+	<key>shouldShowDropdownButton</key>
+	<string>nativeMerger</string>
+</dict>
+</plist>

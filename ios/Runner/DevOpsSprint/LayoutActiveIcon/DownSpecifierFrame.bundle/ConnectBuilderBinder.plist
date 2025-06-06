@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggablelistenershade</key>
+	<string>integrationInterval</string>
+	<key>pinchableBitrate</key>
+	<string>immediateaudio</string>
+	<key>shouldTransformDrawer</key>
+	<string>attachEvent</string>
+	<key>themeDuration</key>
+	<string>globalCoordinator</string>
+</dict>
+</plist>

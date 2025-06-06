@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousChannel</key>
+	<string>scrollCycle</string>
+	<key>concreteTheme</key>
+	<string>shouldDeserializeDialogs</string>
+	<key>diffableDropdownButton</key>
+	<string>ephemeralResolver</string>
+	<key>metricsBottom</key>
+	<string>materialRoute</string>
+	<key>prevPolygon</key>
+	<string>usedSpine</string>
+	<key>progressbaralongoperation</key>
+	<string>canUnmountedDialogs</string>
+	<key>shouldDecodeReference</key>
+	<string>shouldmountresource</string>
+	<key>sinkfunctiondirection</key>
+	<string>switchRate</string>
+</dict>
+</plist>

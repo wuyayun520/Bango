@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeEmitter</key>
+	<string>webSensor</string>
+	<key>directlyLifecycle</key>
+	<string>shouldSetStateDocument</string>
+	<key>gesturestagecount</key>
+	<string>basicWorkflow</string>
+	<key>scaleBehavior</key>
+	<string>mediumNorm</string>
+	<key>scrollablepreview</key>
+	<string>channelsintegration</string>
+	<key>shouldPersistCaption</key>
+	<string>delicateLoader</string>
+	<key>taxonomyFeedback</key>
+	<string>retainedCheckbox</string>
+</dict>
+</plist>

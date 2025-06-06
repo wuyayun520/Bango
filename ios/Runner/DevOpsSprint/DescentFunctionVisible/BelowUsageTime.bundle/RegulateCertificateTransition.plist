@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultWorkflow</key>
+	<string>subtleResource</string>
+	<key>evaluationTint</key>
+	<string>difficultAnimation</string>
+	<key>materialSpine</key>
+	<string>localStrength</string>
+	<key>primaryResilience</key>
+	<string>pageviewoffset</string>
+	<key>resultCenter</key>
+	<string>retainedEvolution</string>
+	<key>spriteTransparency</key>
+	<string>resilientOptimizer</string>
+	<key>unactivatedVariant</key>
+	<string>meshTint</string>
+</dict>
+</plist>

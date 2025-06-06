@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customLocalization</key>
+	<string>requestNumber</string>
+	<key>ignoredProvision</key>
+	<string>restoreResult</string>
+	<key>liteScroller</key>
+	<string>awaitSaturation</string>
+	<key>lossSpeed</key>
+	<string>shouldEndFlex</string>
+	<key>oninterpolationtap</key>
+	<string>materialChallenge</string>
+	<key>parallelFrame</key>
+	<string>canBuildScaffold</string>
+	<key>responseForce</key>
+	<string>dynamicFactory</string>
+	<key>textskewx</key>
+	<string>gateFeedback</string>
+	<key>transitionpermutation</key>
+	<string>errorOrigin</string>
+</dict>
+</plist>

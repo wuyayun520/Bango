@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthDirection</key>
+	<string>oldIcon</string>
+	<key>concreteIcon</key>
+	<string>canShowRoute</string>
+	<key>cupertinoTable</key>
+	<string>gesturedetectorDensity</string>
+	<key>interactorstatus</key>
+	<string>semanticAlert</string>
+	<key>priorNib</key>
+	<string>alphascene</string>
+	<key>shouldKeepSign</key>
+	<string>lostBuffer</string>
+	<key>singleGesture</key>
+	<string>boxshadowChain</string>
+	<key>visibleCharacter</key>
+	<string>activeLinker</string>
+</dict>
+</plist>

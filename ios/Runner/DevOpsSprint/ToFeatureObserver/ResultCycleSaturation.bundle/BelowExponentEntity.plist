@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowBehavior</key>
+	<string>activityTag</string>
+	<key>explicitInteraction</key>
+	<string>canSaveOverlay</string>
+	<key>inactiveEvent</key>
+	<string>uniqueRadius</string>
+	<key>nodeorenvironment</key>
+	<string>advancedMaster</string>
+	<key>opaqueCurve</key>
+	<string>screenPattern</string>
+	<key>presenterskewy</key>
+	<string>advancedBandwidth</string>
+	<key>shouldPopSegue</key>
+	<string>responsePrototype</string>
+	<key>significantresultindex</key>
+	<string>fusedFragment</string>
+	<key>stackfeedback</key>
+	<string>giftPattern</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialgridview</key>
+	<string>embedLayout</string>
+	<key>discardedLayer</key>
+	<string>deprecateConfiguration</string>
+	<key>frameShape</key>
+	<string>usagebesidestrategy</string>
+	<key>fusedTheme</key>
+	<string>shouldNotifyNib</string>
+	<key>geometricOptimizer</key>
+	<string>customizedgradientbottom</string>
+	<key>latencyOffset</key>
+	<string>compositionalcurveskewy</string>
+	<key>selectorRotation</key>
+	<string>shouldResumeInstruction</string>
+	<key>shouldFormatSlash</key>
+	<string>explicitProvision</string>
+	<key>shouldProcessAccessory</key>
+	<string>keepCard</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedcharacteristic</key>
+	<string>deployBloc</string>
+	<key>gramInset</key>
+	<string>standaloneSelector</string>
+	<key>handlerSpacing</key>
+	<string>resilienceOpacity</string>
+	<key>primaryKernel</key>
+	<string>rebuildBox</string>
+	<key>sinkLeft</key>
+	<string>visibledelegate</string>
+	<key>symmetricBorder</key>
+	<string>customizedSkirt</string>
+	<key>widgetnearvariable</key>
+	<string>infrastructurebrightness</string>
+</dict>
+</plist>

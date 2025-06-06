@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBloc</key>
+	<string>quantizerTimer</string>
+	<key>lossamongstate</key>
+	<string>disabledDuration</string>
+	<key>persistentTabView</key>
+	<string>shouldPushGradient</string>
+	<key>shouldUnbindMaster</key>
+	<string>mapperDirection</string>
+</dict>
+</plist>

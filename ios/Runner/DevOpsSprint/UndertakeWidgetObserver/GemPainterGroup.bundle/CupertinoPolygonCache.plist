@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedanimatedcontainercoord</key>
+	<string>shouldsubscribecheckbox</string>
+	<key>associatedBandwidth</key>
+	<string>mountOverlay</string>
+	<key>progressbarOrientation</key>
+	<string>convertError</string>
+	<key>relationalProgressBar</key>
+	<string>vectorChain</string>
+	<key>shouldStopThread</key>
+	<string>smartresolver</string>
+	<key>startvector</key>
+	<string>curveAlignment</string>
+	<key>visibleduration</key>
+	<string>resourceForm</string>
+</dict>
+</plist>

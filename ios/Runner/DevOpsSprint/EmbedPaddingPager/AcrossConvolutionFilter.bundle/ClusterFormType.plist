@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastFormat</key>
+	<string>replaceScroll</string>
+	<key>deliveryInterval</key>
+	<string>listviewdata</string>
+	<key>intermediateCupertino</key>
+	<string>checklistActivity</string>
+	<key>releasegesturedetector</key>
+	<string>extensionOperation</string>
+	<key>substantialmediaquerytail</key>
+	<string>injectionstyle</string>
+	<key>uniqueCustomPaint</key>
+	<string>storageprocessleft</string>
+</dict>
+</plist>

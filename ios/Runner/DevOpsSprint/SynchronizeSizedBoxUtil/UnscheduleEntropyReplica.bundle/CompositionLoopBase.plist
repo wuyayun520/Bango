@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composabletexthue</key>
+	<string>equipmentResponse</string>
+	<key>comprehensiveChart</key>
+	<string>parsegraph</string>
+	<key>invisibleReplica</key>
+	<string>navigationdispatcher</string>
+	<key>managerfunctionright</key>
+	<string>canPaintFragment</string>
+	<key>mobileIsolate</key>
+	<string>yieldzone</string>
+	<key>mutableRadio</key>
+	<string>otherGate</string>
+	<key>shouldDeserializeRichText</key>
+	<string>standaloneCursor</string>
+	<key>trianglesOrigin</key>
+	<string>sensorbrightness</string>
+</dict>
+</plist>

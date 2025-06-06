@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionOpacity</key>
+	<string>hierarchicalOperation</string>
+	<key>geometricWrapper</key>
+	<string>routemargin</string>
+	<key>movementdepth</key>
+	<string>decoupleLocalization</string>
+	<key>substantialloghead</key>
+	<string>lostExpanded</string>
+	<key>timeVelocity</key>
+	<string>shouldHandleAnchor</string>
+	<key>uniqueKernel</key>
+	<string>activateview</string>
+</dict>
+</plist>

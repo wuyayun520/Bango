@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalAnimation</key>
+	<string>beginnerInterpolation</string>
+	<key>groupatchain</key>
+	<string>draggableParticle</string>
+	<key>impressionStyle</key>
+	<string>accessibleTransition</string>
+	<key>numericalCursor</key>
+	<string>constraintFrequency</string>
+	<key>processorSpeed</key>
+	<string>precisionStyle</string>
+	<key>responsiveAnimatedContainer</key>
+	<string>fixedEmitter</string>
+	<key>retainedClipper</key>
+	<string>detachMap</string>
+	<key>shouldmountchallenge</key>
+	<string>calculateRow</string>
+	<key>techniqueInset</key>
+	<string>autoGrain</string>
+	<key>unaryInset</key>
+	<string>lazytexturealignment</string>
+</dict>
+</plist>

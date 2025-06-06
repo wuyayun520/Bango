@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchRight</key>
+	<string>positionnumberscale</string>
+	<key>inheritedUnary</key>
+	<string>disabledTouch</string>
+	<key>reactivenotifierskewx</key>
+	<string>endNotifier</string>
+	<key>scaffoldvisitorborder</key>
+	<string>lazyExpanded</string>
+	<key>segmentStyle</key>
+	<string>protocolaroundphase</string>
+	<key>singletrajectory</key>
+	<string>injectAction</string>
+	<key>standaloneSorter</key>
+	<string>constraintvisibility</string>
+</dict>
+</plist>

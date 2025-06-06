@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerSkewY</key>
+	<string>showInteger</string>
+	<key>displayableScenario</key>
+	<string>composableResult</string>
+	<key>inheritedTheme</key>
+	<string>elementSkewX</string>
+	<key>localScenario</key>
+	<string>factoryInterpreter</string>
+	<key>mainBrush</key>
+	<string>interceptLayout</string>
+	<key>resizableConstraint</key>
+	<string>hardFactory</string>
+	<key>resultposition</key>
+	<string>cartesianAnalyzer</string>
+	<key>shouldunmountedexponent</key>
+	<string>curvespeed</string>
+	<key>significantMend</key>
+	<string>priorbasetag</string>
+</dict>
+</plist>

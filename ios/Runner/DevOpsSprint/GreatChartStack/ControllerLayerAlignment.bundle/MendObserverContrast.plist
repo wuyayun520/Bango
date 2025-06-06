@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialUnary</key>
+	<string>canEmitPlayback</string>
+	<key>itemcount</key>
+	<string>prevInstruction</string>
+	<key>recursionInset</key>
+	<string>canDismissNib</string>
+	<key>slashAcceleration</key>
+	<string>particleSize</string>
+	<key>specifierflyweightresponse</key>
+	<string>positionedChain</string>
+</dict>
+</plist>

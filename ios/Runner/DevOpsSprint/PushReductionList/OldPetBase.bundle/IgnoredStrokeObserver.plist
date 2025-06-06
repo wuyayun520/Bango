@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedCustomPaint</key>
+	<string>shouldfetchoption</string>
+	<key>euclideanContainer</key>
+	<string>transposeInterface</string>
+	<key>fixedAnalyzer</key>
+	<string>freeDependency</string>
+	<key>intermediateInformation</key>
+	<string>immediateTransformer</string>
+	<key>lazyActivity</key>
+	<string>tangentSkewX</string>
+	<key>lazySegue</key>
+	<string>normalElement</string>
+	<key>shouldLoadExtension</key>
+	<string>deflateZone</string>
+	<key>shouldPresentDialogs</key>
+	<string>canStartProvider</string>
+	<key>similarRestriction</key>
+	<string>canListenReference</string>
+</dict>
+</plist>

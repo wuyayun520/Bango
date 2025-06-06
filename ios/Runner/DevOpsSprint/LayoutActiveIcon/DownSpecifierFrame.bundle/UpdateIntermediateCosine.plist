@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableTopic</key>
+	<string>compilesink</string>
+	<key>referenceForce</key>
+	<string>rapidError</string>
+	<key>reusableButton</key>
+	<string>positionPhase</string>
+	<key>storageState</key>
+	<string>progressbarobserverdelay</string>
+	<key>tappableEntity</key>
+	<string>mutableSorter</string>
+	<key>threadInset</key>
+	<string>delicateInterpolation</string>
+	<key>toleranceDepth</key>
+	<string>popReference</string>
+</dict>
+</plist>

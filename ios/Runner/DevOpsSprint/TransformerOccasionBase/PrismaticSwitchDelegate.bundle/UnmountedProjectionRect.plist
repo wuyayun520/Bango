@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchead</key>
+	<string>indicatorTransparency</string>
+	<key>durationDensity</key>
+	<string>coordinatormode</string>
+	<key>explicitSelector</key>
+	<string>associatedProvision</string>
+	<key>frameshapemode</key>
+	<string>sinkNumber</string>
+	<key>geometricPosition</key>
+	<string>elementColor</string>
+	<key>isTask</key>
+	<string>customizedCapacity</string>
+	<key>pinchableLayer</key>
+	<string>canSaveStateful</string>
+	<key>responsename</key>
+	<string>secondScenario</string>
+	<key>robustBloc</key>
+	<string>consumerCycle</string>
+	<key>topicFormat</key>
+	<string>replicateGrain</string>
+</dict>
+</plist>

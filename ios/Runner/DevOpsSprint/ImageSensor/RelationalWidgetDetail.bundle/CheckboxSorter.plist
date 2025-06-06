@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePainter</key>
+	<string>movementMediator</string>
+	<key>catalystHead</key>
+	<string>setupcoordinator</string>
+	<key>featureRotation</key>
+	<string>reusableCard</string>
+	<key>navigatesign</key>
+	<string>handleSegue</string>
+	<key>requestcubit</key>
+	<string>sophisticatedInterface</string>
+	<key>shouldRebuildAxis</key>
+	<string>shouldFormatRemainder</string>
+</dict>
+</plist>

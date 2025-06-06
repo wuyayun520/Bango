@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedOption</key>
+	<string>inkwellVariable</string>
+	<key>characterVisible</key>
+	<string>resultLayer</string>
+	<key>computestate</key>
+	<string>setstatePrecision</string>
+	<key>gestureLeft</key>
+	<string>offsetObserver</string>
+	<key>nextModal</key>
+	<string>singlemethod</string>
+	<key>popupdecoratorright</key>
+	<string>layoutCertificate</string>
+</dict>
+</plist>

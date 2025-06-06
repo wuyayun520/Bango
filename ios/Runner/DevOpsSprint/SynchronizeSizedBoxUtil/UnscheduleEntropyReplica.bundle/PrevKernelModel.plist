@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAlpha</key>
+	<string>brushHead</string>
+	<key>interpolatefuture</key>
+	<string>unbindAspect</string>
+	<key>localPrecision</key>
+	<string>aspectratioVar</string>
+	<key>optionuntilvar</key>
+	<string>inheritedStoryboard</string>
+	<key>reduceroffset</key>
+	<string>synchronousCallback</string>
+	<key>schemaVisibility</key>
+	<string>statelessStructure</string>
+	<key>sharedFormat</key>
+	<string>shouldFetchGate</string>
+	<key>sizedboxpersingleton</key>
+	<string>coordinatorMode</string>
+	<key>taskintensity</key>
+	<string>connectCollection</string>
+</dict>
+</plist>

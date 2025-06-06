@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredChart</key>
+	<string>temporaryResult</string>
+	<key>indicatorincludeadapter</key>
+	<string>parseStore</string>
+	<key>invisibleBuffer</key>
+	<string>concreteappbar</string>
+	<key>nodeState</key>
+	<string>logarithmSingleton</string>
+	<key>shouldUnmountedArithmetic</key>
+	<string>precisionleft</string>
+	<key>similarDetector</key>
+	<string>replicaMode</string>
+</dict>
+</plist>

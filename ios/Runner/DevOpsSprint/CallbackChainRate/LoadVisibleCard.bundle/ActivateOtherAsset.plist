@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultconstraint</key>
+	<string>aspectstructureoffset</string>
+	<key>displayableOverlay</key>
+	<string>columnTail</string>
+	<key>eventFrequency</key>
+	<string>emitConfiguration</string>
+	<key>lazyContainer</key>
+	<string>euclideanTransformer</string>
+	<key>shouldDetachConvolution</key>
+	<string>validateticker</string>
+	<key>shouldShowCube</key>
+	<string>lifecycleBound</string>
+	<key>synchronousTweak</key>
+	<string>canDispatchColumn</string>
+</dict>
+</plist>

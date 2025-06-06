@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectshade</key>
+	<string>primaryProtocol</string>
+	<key>composablechannelscount</key>
+	<string>commonChannels</string>
+	<key>elasticSplitter</key>
+	<string>shouldNavigateRemainder</string>
+	<key>finishaccessory</key>
+	<string>startsubscription</string>
+	<key>shouldconnectplate</key>
+	<string>shouldFormatMission</string>
+</dict>
+</plist>

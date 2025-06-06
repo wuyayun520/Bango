@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedOperation</key>
+	<string>geometricConsumption</string>
+	<key>customizedSlash</key>
+	<string>errorOffset</string>
+	<key>dimensionCenter</key>
+	<string>canValidatePriority</string>
+	<key>hashCenter</key>
+	<string>arithmeticstack</string>
+	<key>imagelayervisibility</key>
+	<string>shouldProcessConsumer</string>
+	<key>newestborder</key>
+	<string>permanentAspect</string>
+	<key>reducerdelay</key>
+	<string>trainchart</string>
+	<key>responsiveChecklist</key>
+	<string>crudeClipper</string>
+	<key>shouldStopCustomPaint</key>
+	<string>canAnimateCoordinator</string>
+	<key>tabbarselector</key>
+	<string>enhanceChapter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratepicker</key>
+	<string>analyzefuture</string>
+	<key>dispatcherState</key>
+	<string>grainwithproxy</string>
+	<key>flexkindfrequency</key>
+	<string>drawChannel</string>
+	<key>itemMargin</key>
+	<string>apertureInteraction</string>
+	<key>shouldParseTextField</key>
+	<string>canReplaceGram</string>
+	<key>strengthHead</key>
+	<string>channelBound</string>
+	<key>volumeOrientation</key>
+	<string>operationBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorLeft</key>
+	<string>canCachePromise</string>
+	<key>chapterContrast</key>
+	<string>canDisconnectOptimizer</string>
+	<key>concreteChooser</key>
+	<string>shouldNavigateSymbol</string>
+	<key>crudeResponder</key>
+	<string>semanticAmortization</string>
+	<key>detailBound</key>
+	<string>formatMaster</string>
+	<key>prismaticError</key>
+	<string>layoutPoint</string>
+	<key>sustainableSwift</key>
+	<string>constructDecoration</string>
+</dict>
+</plist>

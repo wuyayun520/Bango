@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSensor</key>
+	<string>notifierlayerright</string>
+	<key>diffableactionskewy</key>
+	<string>itemDepth</string>
+	<key>flexTag</key>
+	<string>canFetchMap</string>
+	<key>inheritedTexture</key>
+	<string>crudeWrapper</string>
+	<key>parallelMenu</key>
+	<string>diffableNorm</string>
+	<key>relationalClipper</key>
+	<string>unsortedConvolution</string>
+	<key>shouldPushActivity</key>
+	<string>coordinatorMethod</string>
+	<key>textureHue</key>
+	<string>scaffoldstatus</string>
+	<key>unactivatedPromise</key>
+	<string>quitDelegate</string>
+</dict>
+</plist>

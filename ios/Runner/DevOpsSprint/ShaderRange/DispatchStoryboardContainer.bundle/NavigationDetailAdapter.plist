@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedReducer</key>
+	<string>unactivatedService</string>
+	<key>agileDispatcher</key>
+	<string>containerchaininset</string>
+	<key>concurrentexception</key>
+	<string>dependencysincework</string>
+	<key>shouldEndGesture</key>
+	<string>crudeAscent</string>
+	<key>shouldUnmountPlayback</key>
+	<string>declarativepainter</string>
+	<key>tappableShader</key>
+	<string>processortype</string>
+</dict>
+</plist>

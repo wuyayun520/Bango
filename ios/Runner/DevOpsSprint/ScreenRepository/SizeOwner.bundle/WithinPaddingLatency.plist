@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatortierpadding</key>
+	<string>createCaption</string>
+	<key>cursorexceptcomposite</key>
+	<string>synchronousUtil</string>
+	<key>graphbridgefeedback</key>
+	<string>synchronousSprite</string>
+	<key>groupcontextoffset</key>
+	<string>similarAnchor</string>
+	<key>lastPosition</key>
+	<string>dependencybound</string>
+	<key>pagerCenter</key>
+	<string>persistentModel</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarVelocity</key>
+	<string>materialChooser</string>
+	<key>brushandmode</key>
+	<string>singleModal</string>
+	<key>exceptionColor</key>
+	<string>canPrepareChecklist</string>
+	<key>granularBatch</key>
+	<string>continuetransformer</string>
+	<key>numericalTernary</key>
+	<string>segmentmediatortag</string>
+	<key>replacesymbol</key>
+	<string>shouldProcessNotifier</string>
+	<key>titlealignment</key>
+	<string>canShowScale</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTexture</key>
+	<string>robustShader</string>
+	<key>agileHero</key>
+	<string>borderAppearance</string>
+	<key>decorationgrain</key>
+	<string>floatAnimation</string>
+	<key>equalizationLeft</key>
+	<string>numericalcurve</string>
+	<key>mainCreator</key>
+	<string>iconSkewY</string>
+</dict>
+</plist>

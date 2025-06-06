@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryCenter</key>
+	<string>resolvescaffold</string>
+	<key>configurationAcceleration</key>
+	<string>exceptionOperation</string>
+	<key>parallelMusic</key>
+	<string>cupertinocursororientation</string>
+	<key>presenterInterval</key>
+	<string>composableAspect</string>
+	<key>responsestagealignment</key>
+	<string>canHandleAlpha</string>
+	<key>shouldDispatchPositioned</key>
+	<string>oldMission</string>
+	<key>showfuture</key>
+	<string>shouldnotifypriority</string>
+	<key>tangentformode</key>
+	<string>interactorrecursion</string>
+</dict>
+</plist>

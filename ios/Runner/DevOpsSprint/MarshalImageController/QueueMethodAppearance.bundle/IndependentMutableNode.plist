@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationsubscriber</key>
+	<string>smartProcessor</string>
+	<key>disabledStream</key>
+	<string>decoupleconvolution</string>
+	<key>effectMargin</key>
+	<string>captionVisible</string>
+	<key>equipmentinterface</key>
+	<string>requiredKernel</string>
+	<key>hierarchicalTime</key>
+	<string>cartesianLabel</string>
+	<key>uniformheap</key>
+	<string>labelrect</string>
+</dict>
+</plist>

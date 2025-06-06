@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxDistance</key>
+	<string>cancelBuilder</string>
+	<key>desktopChooser</key>
+	<string>popupBridge</string>
+	<key>dropdownbuttonTheme</key>
+	<string>statelessAlignment</string>
+	<key>enabledSubscriber</key>
+	<string>ignoredEvolution</string>
+	<key>isolatedelivery</key>
+	<string>signatureVisitor</string>
+	<key>metadataDepth</key>
+	<string>canRebuildIcon</string>
+	<key>selectorIndex</key>
+	<string>retainedBloc</string>
+	<key>shouldCreateOverlay</key>
+	<string>publicTopic</string>
+	<key>startspecifier</key>
+	<string>deferredArithmetic</string>
+</dict>
+</plist>

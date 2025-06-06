@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeInfo</key>
+	<string>canLayoutButton</string>
+	<key>bindmenu</key>
+	<string>parallelbutton</string>
+	<key>exitstream</key>
+	<string>interactiveThroughput</string>
+	<key>expandedstream</key>
+	<string>shouldObserveProject</string>
+	<key>hardTool</key>
+	<string>staticDetail</string>
+	<key>immutableGesture</key>
+	<string>transformUsage</string>
+	<key>nodeInterval</key>
+	<string>arithmeticHandler</string>
+</dict>
+</plist>

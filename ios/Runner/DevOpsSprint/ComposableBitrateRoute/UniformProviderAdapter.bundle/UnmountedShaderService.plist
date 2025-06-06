@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeConstraint</key>
+	<string>checklistlatency</string>
+	<key>asynchronousEfficiency</key>
+	<string>limitDescription</string>
+	<key>coordinatorschema</key>
+	<string>destroyDescription</string>
+	<key>factoryTail</key>
+	<string>notifyRoute</string>
+	<key>shadermethodflags</key>
+	<string>elementForce</string>
+	<key>shouldHandleButton</key>
+	<string>multiplyCoordinator</string>
+</dict>
+</plist>

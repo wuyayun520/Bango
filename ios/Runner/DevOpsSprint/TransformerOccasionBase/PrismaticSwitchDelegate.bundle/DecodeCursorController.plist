@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationscopeappearance</key>
+	<string>fixedPet</string>
+	<key>impactMomentum</key>
+	<string>canRenderListView</string>
+	<key>matrixStatus</key>
+	<string>sustainableAlpha</string>
+	<key>notifierInterval</key>
+	<string>factoryTransparency</string>
+	<key>notifierconstraint</key>
+	<string>relationalFactory</string>
+	<key>prevAlpha</key>
+	<string>canUnmountedHistogram</string>
+	<key>shouldDispatchOperation</key>
+	<string>shouldFinishNib</string>
+	<key>shouldLayoutNotification</key>
+	<string>shouldpushproject</string>
+</dict>
+</plist>

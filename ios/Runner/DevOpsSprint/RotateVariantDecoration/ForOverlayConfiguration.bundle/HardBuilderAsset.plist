@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientRotation</key>
+	<string>canSerializeListView</string>
+	<key>imagecommandsize</key>
+	<string>renderscroll</string>
+	<key>inactiveChapter</key>
+	<string>subscriberTail</string>
+	<key>robustTopic</key>
+	<string>shouldReplaceChallenge</string>
+	<key>sanitizeresponse</key>
+	<string>stopstore</string>
+	<key>shouldUpdateTechnique</key>
+	<string>canNavigateRole</string>
+	<key>signloop</key>
+	<string>inheritedState</string>
+	<key>synchronousInteger</key>
+	<string>shouldLayoutBloc</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTransformer</key>
+	<string>agileprovision</string>
+	<key>completerinsidestyle</key>
+	<string>bitrateResponse</string>
+	<key>displayableOption</key>
+	<string>resumerepository</string>
+	<key>dynamicrowcount</key>
+	<string>shouldPublishCollection</string>
+	<key>priorSample</key>
+	<string>resourceKind</string>
+	<key>shouldKeepTransition</key>
+	<string>flexibleMerger</string>
+</dict>
+</plist>

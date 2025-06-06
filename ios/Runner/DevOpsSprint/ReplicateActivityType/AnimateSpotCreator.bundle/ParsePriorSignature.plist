@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectactionkind</key>
+	<string>storyboardName</string>
+	<key>materialException</key>
+	<string>mobileTangent</string>
+	<key>pickerStyle</key>
+	<string>appendResponse</string>
+	<key>pinchablePageView</key>
+	<string>onoperationtap</string>
+	<key>semanticimpact</key>
+	<string>canStopTouch</string>
+	<key>shouldProcessSpot</key>
+	<string>sineObserver</string>
+	<key>staticSignature</key>
+	<string>accordionstoragebehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedEvent</key>
+	<string>parallelTouch</string>
+	<key>directlyDrawer</key>
+	<string>captiondepth</string>
+	<key>intuitiveCache</key>
+	<string>compileStorage</string>
+	<key>requiredwidget</key>
+	<string>canLoadSymbol</string>
+	<key>shouldEndCaption</key>
+	<string>significantStroke</string>
+	<key>shouldListenInterpolation</key>
+	<string>shouldSerializeHeap</string>
+	<key>shouldProcessPlayback</key>
+	<string>canRouteLogarithm</string>
+</dict>
+</plist>

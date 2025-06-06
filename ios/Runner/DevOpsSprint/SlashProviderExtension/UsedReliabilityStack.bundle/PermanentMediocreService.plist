@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterStatus</key>
+	<string>limitGroup</string>
+	<key>commonBuilder</key>
+	<string>queuebesidemode</string>
+	<key>configurationEdge</key>
+	<string>canShowCompletion</string>
+	<key>hyperbolicCapacities</key>
+	<string>yieldSemantics</string>
+	<key>loopsubscriber</key>
+	<string>tweenbypattern</string>
+	<key>nativeScene</key>
+	<string>canDetachTable</string>
+</dict>
+</plist>

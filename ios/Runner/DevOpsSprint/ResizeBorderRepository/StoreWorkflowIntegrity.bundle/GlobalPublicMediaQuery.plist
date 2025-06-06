@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDetector</key>
+	<string>errorForm</string>
+	<key>detachcatalyst</key>
+	<string>storagefrequency</string>
+	<key>filterLeft</key>
+	<string>accessiblelayer</string>
+	<key>localPlate</key>
+	<string>disposeNib</string>
+	<key>robustHash</key>
+	<string>hardBullet</string>
+	<key>semanticsAlignment</key>
+	<string>metadatainset</string>
+	<key>shouldAttachProvider</key>
+	<string>cupertinoCoordinator</string>
+	<key>spritenumbertransparency</key>
+	<string>shouldRouteNotifier</string>
+</dict>
+</plist>

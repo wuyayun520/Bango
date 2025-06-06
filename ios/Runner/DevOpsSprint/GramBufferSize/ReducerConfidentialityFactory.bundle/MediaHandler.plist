@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectskewy</key>
+	<string>sizedboxNumber</string>
+	<key>handlerindex</key>
+	<string>prepareSlash</string>
+	<key>hasgesturedetector</key>
+	<string>modalValidation</string>
+	<key>scenarioDepth</key>
+	<string>hasPoint</string>
+	<key>shouldNotifyCheckbox</key>
+	<string>displayableBullet</string>
+	<key>shouldPopCurve</key>
+	<string>disconnectTimer</string>
+	<key>shouldpushcursor</key>
+	<string>encapsulateStream</string>
+	<key>shouldstopcell</key>
+	<string>canDismissGraphic</string>
+	<key>tablePosition</key>
+	<string>trajectoryContrast</string>
+	<key>tensorAnalyzer</key>
+	<string>delicateTopic</string>
+</dict>
+</plist>

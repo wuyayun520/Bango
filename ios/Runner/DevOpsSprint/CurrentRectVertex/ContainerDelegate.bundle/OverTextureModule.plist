@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerstrength</key>
+	<string>optimizeSubscription</string>
+	<key>iterativeScalability</key>
+	<string>smartAsync</string>
+	<key>largeTween</key>
+	<string>canUnmountSpot</string>
+	<key>normalProjection</key>
+	<string>aspectMediator</string>
+	<key>particletrajectory</key>
+	<string>channelPosition</string>
+	<key>presenterContrast</key>
+	<string>geometricMetadata</string>
+	<key>routeworkcolor</key>
+	<string>controllerFunction</string>
+	<key>spotallocator</key>
+	<string>adjustResource</string>
+</dict>
+</plist>

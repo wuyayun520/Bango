@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBandwidth</key>
+	<string>gradientDepth</string>
+	<key>ignoredAscent</key>
+	<string>reductionwithcommand</string>
+	<key>localSample</key>
+	<string>insteadDependency</string>
+	<key>primarySpine</key>
+	<string>consultativeFactory</string>
+	<key>rendererDistance</key>
+	<string>channelForce</string>
+</dict>
+</plist>

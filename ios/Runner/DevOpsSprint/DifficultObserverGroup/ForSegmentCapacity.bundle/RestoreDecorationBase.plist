@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSink</key>
+	<string>shouldResumeCupertino</string>
+	<key>errorforce</key>
+	<string>accessibleFilter</string>
+	<key>featurefacadeskewx</key>
+	<string>handleAwait</string>
+	<key>notifyroute</key>
+	<string>symbolTail</string>
+	<key>scrollableResolver</key>
+	<string>sinkOpacity</string>
+	<key>shouldUnbindProfile</key>
+	<string>constantFrequency</string>
+	<key>stackvisible</key>
+	<string>constraintDuration</string>
+	<key>tensorJoiner</key>
+	<string>widgetborder</string>
+	<key>uniformexceptionpressure</key>
+	<string>cacheType</string>
+</dict>
+</plist>

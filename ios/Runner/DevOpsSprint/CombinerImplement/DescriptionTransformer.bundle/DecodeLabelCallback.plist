@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicatetabbar</key>
+	<string>finishinterface</string>
+	<key>dialogsCenter</key>
+	<string>curvenotation</string>
+	<key>diffableSizedBox</key>
+	<string>fusedlocalizationvisibility</string>
+	<key>persistentDetail</key>
+	<string>subscribeActivity</string>
+	<key>respectiveBaseline</key>
+	<string>findOffset</string>
+	<key>routeexceptobserver</key>
+	<string>canKeepVariant</string>
+	<key>shouldDecodeBox</key>
+	<string>canProcessView</string>
+	<key>shouldInflateBrush</key>
+	<string>compareVector</string>
+	<key>smallFlex</key>
+	<string>connectutil</string>
+</dict>
+</plist>

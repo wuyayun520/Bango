@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsBehavior</key>
+	<string>canCacheScale</string>
+	<key>displayableCursor</key>
+	<string>arithmeticBaseline</string>
+	<key>ephemeralSize</key>
+	<string>draggableResilience</string>
+	<key>localCaption</key>
+	<string>flexibleStorage</string>
+	<key>resourcelocation</key>
+	<string>chapterjobrate</string>
+	<key>shouldFinishSymbol</key>
+	<string>canCacheTernary</string>
+	<key>skinentity</key>
+	<string>synchronousAudio</string>
+</dict>
+</plist>

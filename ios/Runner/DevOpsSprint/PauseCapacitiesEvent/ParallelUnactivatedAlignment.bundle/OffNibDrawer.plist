@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaalongshape</key>
+	<string>rapidStrength</string>
+	<key>bitratemode</key>
+	<string>ignoredHandler</string>
+	<key>discardedBorder</key>
+	<string>presentSegment</string>
+	<key>dropdownbuttonquaternion</key>
+	<string>shouldHandleWorkflow</string>
+	<key>pivotalInteraction</key>
+	<string>permissiveStateful</string>
+	<key>preparehero</key>
+	<string>evaluateRepository</string>
+	<key>shouldSerializePainter</key>
+	<string>multiFormat</string>
+</dict>
+</plist>

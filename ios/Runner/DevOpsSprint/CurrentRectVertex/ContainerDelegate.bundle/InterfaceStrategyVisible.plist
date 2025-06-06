@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectevent</key>
+	<string>attachGraphic</string>
+	<key>axiscommandlocation</key>
+	<string>persistPositioned</string>
+	<key>immediatesample</key>
+	<string>tabviewPadding</string>
+	<key>materialSession</key>
+	<string>canLoadAnimation</string>
+	<key>shadercombiner</key>
+	<string>sampleForce</string>
+	<key>shouldStopCell</key>
+	<string>smartMapper</string>
+	<key>signthanmemento</key>
+	<string>prismaticconstrainttop</string>
+	<key>toolprocessor</key>
+	<string>injectVector</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSwift</key>
+	<string>reusableRestriction</string>
+	<key>channelviastyle</key>
+	<string>oldGate</string>
+	<key>geometricAsync</key>
+	<string>isolateMethod</string>
+	<key>localLifecycle</key>
+	<string>compileFrame</string>
+	<key>nextStateful</key>
+	<string>inactiveSubpixel</string>
+	<key>normalSlider</key>
+	<string>grayscaleInterpreter</string>
+	<key>shouldDeserializeLoss</key>
+	<string>immediateCompletion</string>
+	<key>sortedchooser</key>
+	<string>delegatemend</string>
+</dict>
+</plist>

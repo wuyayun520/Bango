@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTrigger</key>
+	<string>releaseprogressbar</string>
+	<key>hasstream</key>
+	<string>selectedscroll</string>
+	<key>immediateRepository</key>
+	<string>gatekind</string>
+	<key>injectionasvariable</key>
+	<string>showGestureDetector</string>
+	<key>nativeView</key>
+	<string>referenceProcess</string>
+	<key>pivotalSelector</key>
+	<string>protectedVideo</string>
+	<key>publicStream</key>
+	<string>serializeSink</string>
+	<key>shouldKeepMovement</key>
+	<string>occasionTint</string>
+	<key>subpixelSpacing</key>
+	<string>beginnerFeature</string>
+	<key>unmountedchallenge</key>
+	<string>gemBound</string>
+</dict>
+</plist>

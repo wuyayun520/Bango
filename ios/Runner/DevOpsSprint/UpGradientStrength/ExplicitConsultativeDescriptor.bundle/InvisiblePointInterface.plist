@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackscale</key>
+	<string>shouldPushTernary</string>
+	<key>containertexture</key>
+	<string>agileSingleton</string>
+	<key>disabledCursor</key>
+	<string>roleOffset</string>
+	<key>dismisscubit</key>
+	<string>spineStructure</string>
+	<key>pointLeft</key>
+	<string>accordionNode</string>
+	<key>provisionResponse</key>
+	<string>flexOffset</string>
+	<key>sequentialAnimator</key>
+	<string>numericalproviderdirection</string>
+</dict>
+</plist>

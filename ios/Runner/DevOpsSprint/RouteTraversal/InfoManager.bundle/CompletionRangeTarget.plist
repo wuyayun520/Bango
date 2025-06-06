@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateTheme</key>
+	<string>localCustomPaint</string>
+	<key>dedicatedEvent</key>
+	<string>channelskewy</string>
+	<key>escalategraph</key>
+	<string>publicFlex</string>
+	<key>handlerrestriction</key>
+	<string>subscribeBehavior</string>
+	<key>intermediateComposition</key>
+	<string>shouldDisconnectCurve</string>
+	<key>multiPosition</key>
+	<string>canInflateSemantics</string>
+	<key>permanentQueue</key>
+	<string>bitrateCoord</string>
+	<key>radiusBehavior</key>
+	<string>vectorizeResponse</string>
+	<key>reusablepointcolor</key>
+	<string>dispatchPlayback</string>
+</dict>
+</plist>

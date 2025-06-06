@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columncurve</key>
+	<string>elasticityLocation</string>
+	<key>defaultSlash</key>
+	<string>hyperbolicPainter</string>
+	<key>entitylayerbehavior</key>
+	<string>navigateClipper</string>
+	<key>missedPermutation</key>
+	<string>shouldPublishCanvas</string>
+	<key>shouldDispatchAnimatedContainer</key>
+	<string>deferredFactory</string>
+</dict>
+</plist>

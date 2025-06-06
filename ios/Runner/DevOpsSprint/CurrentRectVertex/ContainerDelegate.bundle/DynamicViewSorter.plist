@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelspatternhue</key>
+	<string>streamgrayscale</string>
+	<key>custompaintcontrast</key>
+	<string>mediumReceiver</string>
+	<key>cycleIndex</key>
+	<string>dismissAnimation</string>
+	<key>durationofscope</key>
+	<string>shouldEndSegment</string>
+	<key>hardsegue</key>
+	<string>cellwidget</string>
+	<key>mutableSwift</key>
+	<string>robustSingleton</string>
+	<key>shoulddisposecanvas</key>
+	<string>shouldAnimateTangent</string>
+	<key>timerTint</key>
+	<string>protectedEvaluation</string>
+</dict>
+</plist>

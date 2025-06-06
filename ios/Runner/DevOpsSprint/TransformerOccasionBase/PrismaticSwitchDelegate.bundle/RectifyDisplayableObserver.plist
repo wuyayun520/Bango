@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedImpact</key>
+	<string>shouldDisconnectPageView</string>
+	<key>exponentviaenvironment</key>
+	<string>unmountedbloc</string>
+	<key>gesturedetectortimer</key>
+	<string>canHandleReduction</string>
+	<key>handlerStatus</key>
+	<string>animateButton</string>
+	<key>handlertypefrequency</key>
+	<string>collectionAppearance</string>
+	<key>lazyLayer</key>
+	<string>shouldFormatCurve</string>
+	<key>nativeSwitch</key>
+	<string>alphaType</string>
+	<key>shouldCacheWidget</key>
+	<string>shouldUnmountTransition</string>
+	<key>shouldLoadSkin</key>
+	<string>topicParameter</string>
+</dict>
+</plist>

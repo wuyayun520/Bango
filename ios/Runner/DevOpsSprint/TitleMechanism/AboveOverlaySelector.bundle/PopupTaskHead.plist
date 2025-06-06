@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBottom</key>
+	<string>responsiveConstraint</string>
+	<key>mobileAnalyzer</key>
+	<string>signTheme</string>
+	<key>robustInjection</key>
+	<string>canSubscribeGraphic</string>
+	<key>shouldPauseModal</key>
+	<string>validateDrawer</string>
+	<key>shouldShowGestureDetector</key>
+	<string>activateTimer</string>
+	<key>shouldtraingradient</key>
+	<string>usageFacade</string>
+	<key>textAppearance</key>
+	<string>canStopObserver</string>
+</dict>
+</plist>

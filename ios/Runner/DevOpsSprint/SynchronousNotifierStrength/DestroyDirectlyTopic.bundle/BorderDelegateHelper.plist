@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRenderer</key>
+	<string>rowFunction</string>
+	<key>contrastFeedback</key>
+	<string>mediumAwait</string>
+	<key>customdurationbound</key>
+	<string>canContinueChecklist</string>
+	<key>keyKernel</key>
+	<string>materialAspect</string>
+	<key>popupdepth</key>
+	<string>canPopCapacities</string>
+	<key>themeTint</key>
+	<string>marshalContainer</string>
+</dict>
+</plist>

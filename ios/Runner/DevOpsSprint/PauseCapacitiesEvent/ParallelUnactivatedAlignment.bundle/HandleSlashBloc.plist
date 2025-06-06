@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionDistance</key>
+	<string>listenerTag</string>
+	<key>normalOccasion</key>
+	<string>canDetachCell</string>
+	<key>protocolDistance</key>
+	<string>webProgressBar</string>
+	<key>showdescription</key>
+	<string>hardAwait</string>
+	<key>sinkMode</key>
+	<string>canPublishCompletion</string>
+	<key>sophisticatedWidget</key>
+	<string>persistEffect</string>
+	<key>storageMode</key>
+	<string>canPresentMap</string>
+	<key>visualizepresenter</key>
+	<string>precisionParam</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretedescription</key>
+	<string>singleResponse</string>
+	<key>drawerviatemple</key>
+	<string>pauseRichText</string>
+	<key>elasticityTag</key>
+	<string>presenterprocessindex</string>
+	<key>finishplayback</key>
+	<string>activeloghead</string>
+	<key>intercepttitle</key>
+	<string>inheritedTime</string>
+	<key>shouldBuildStamp</key>
+	<string>agileSchema</string>
+	<key>shouldYieldPositioned</key>
+	<string>singleCapacity</string>
+	<key>sliderEdge</key>
+	<string>showChannels</string>
+	<key>streamalert</key>
+	<string>enabledblocdepth</string>
+</dict>
+</plist>

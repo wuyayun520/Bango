@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncIndex</key>
+	<string>seamlessModal</string>
+	<key>baseresponse</key>
+	<string>finishstream</string>
+	<key>concurrentMechanism</key>
+	<string>pageviewhandler</string>
+	<key>immutablebaseacceleration</key>
+	<string>catalystphaseposition</string>
+	<key>reusableSwitch</key>
+	<string>kernelContrast</string>
+	<key>wrapperRate</key>
+	<string>canContinueReference</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicAllocator</key>
+	<string>filterIndex</string>
+	<key>marginBorder</key>
+	<string>prevIntensity</string>
+	<key>repositoryforshape</key>
+	<string>shouldUpdateGem</string>
+	<key>shouldtraininterpolation</key>
+	<string>publishDimension</string>
+	<key>slashfinder</key>
+	<string>canUpdateThread</string>
+	<key>trianglesAcceleration</key>
+	<string>selectorBrightness</string>
+	<key>workflowaroundstage</key>
+	<string>checkLocalization</string>
+</dict>
+</plist>

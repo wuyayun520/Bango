@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoEfficiency</key>
+	<string>loadDelegate</string>
+	<key>buttonrenderer</key>
+	<string>easyMomentum</string>
+	<key>disabledLabel</key>
+	<string>tabbarVariable</string>
+	<key>eagerFlex</key>
+	<string>compositionalRange</string>
+	<key>mediumSegue</key>
+	<string>detachPreview</string>
+	<key>permanentScreen</key>
+	<string>synchronousResponder</string>
+	<key>shouldtransformcheckbox</key>
+	<string>shouldUnmountTheme</string>
+</dict>
+</plist>

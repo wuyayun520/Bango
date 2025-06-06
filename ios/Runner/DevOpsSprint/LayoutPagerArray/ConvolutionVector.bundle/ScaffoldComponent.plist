@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllercolor</key>
+	<string>selectedsession</string>
+	<key>encapsulateindicator</key>
+	<string>shouldunmounttheme</string>
+	<key>eventInteraction</key>
+	<string>advancedCompletion</string>
+	<key>imagephaseleft</key>
+	<string>axisChain</string>
+	<key>onprofiletap</key>
+	<string>masterLocation</string>
+	<key>pinchablealphacontrast</key>
+	<string>specifiertexture</string>
+	<key>sessionInterval</key>
+	<string>completertypeindex</string>
+	<key>shouldProcessMusic</key>
+	<string>resizeMethod</string>
+	<key>shouldStartCharacter</key>
+	<string>pendingSession</string>
+	<key>transitionconfidentiality</key>
+	<string>quitBloc</string>
+</dict>
+</plist>

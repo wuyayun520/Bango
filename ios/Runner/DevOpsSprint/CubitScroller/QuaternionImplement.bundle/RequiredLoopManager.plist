@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMethod</key>
+	<string>semanticBuffer</string>
+	<key>defaulttouch</key>
+	<string>notificationProxy</string>
+	<key>draggableProjection</key>
+	<string>disabledMaterializer</string>
+	<key>heapbeyondscope</key>
+	<string>elasticNotation</string>
+	<key>materialArithmetic</key>
+	<string>emitController</string>
+	<key>shouldhandlebase</key>
+	<string>adjustTransition</string>
+	<key>tweakorientation</key>
+	<string>richtextrow</string>
+</dict>
+</plist>

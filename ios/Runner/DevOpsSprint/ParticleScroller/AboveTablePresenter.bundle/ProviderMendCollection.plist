@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicLayout</key>
+	<string>brushDepth</string>
+	<key>decorationEdge</key>
+	<string>shouldDispatchGradient</string>
+	<key>restrictionflags</key>
+	<string>sensorComposite</string>
+	<key>shouldProcessGridView</key>
+	<string>defaultBatch</string>
+	<key>traversalvalidation</key>
+	<string>marginforce</string>
+</dict>
+</plist>

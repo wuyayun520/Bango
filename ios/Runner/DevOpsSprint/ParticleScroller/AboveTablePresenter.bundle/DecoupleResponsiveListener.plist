@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletCenter</key>
+	<string>resumeAnimation</string>
+	<key>chapterInteraction</key>
+	<string>entityState</string>
+	<key>exceptionbound</key>
+	<string>semanticInstruction</string>
+	<key>metricsColor</key>
+	<string>descriptionSize</string>
+	<key>multiplicationBorder</key>
+	<string>mutableMerger</string>
+	<key>notifycallback</key>
+	<string>listviewHead</string>
+	<key>retrieveobserver</key>
+	<string>provideConstraint</string>
+	<key>shouldEncodeTouch</key>
+	<string>permissiveAwait</string>
+</dict>
+</plist>

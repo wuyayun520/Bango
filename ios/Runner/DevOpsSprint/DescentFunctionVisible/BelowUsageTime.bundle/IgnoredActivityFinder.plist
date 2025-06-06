@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayabletopic</key>
+	<string>canInflateMovement</string>
+	<key>listenercombiner</key>
+	<string>saveMultiplication</string>
+	<key>liteObserver</key>
+	<string>replaceDuration</string>
+	<key>resizableRadius</key>
+	<string>stringifytheme</string>
+	<key>shouldFormatModal</key>
+	<string>shaderContrast</string>
+	<key>shouldUpdateSkin</key>
+	<string>aspectratioEnvironment</string>
+	<key>staticMaster</key>
+	<string>shouldPersistStateful</string>
+	<key>taskobserver</key>
+	<string>diversifiedCapacity</string>
+	<key>unsortedRestriction</key>
+	<string>imageForm</string>
+</dict>
+</plist>

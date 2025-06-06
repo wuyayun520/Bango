@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addcontroller</key>
+	<string>shouldResumeAxis</string>
+	<key>confidentialityScale</key>
+	<string>replicateDuration</string>
+	<key>defaultappbar</key>
+	<string>flexLocation</string>
+	<key>deferredScheduler</key>
+	<string>otherTrajectory</string>
+	<key>fusedDetector</key>
+	<string>sustainableLoss</string>
+	<key>gradientName</key>
+	<string>evolutionTension</string>
+	<key>secondCache</key>
+	<string>encapsulateAnimation</string>
+	<key>similarLoader</key>
+	<string>invisibleResilience</string>
+</dict>
+</plist>

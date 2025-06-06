@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticanchor</key>
+	<string>serializeBuffer</string>
+	<key>ascentdelay</key>
+	<string>cupertinoCapacity</string>
+	<key>coordinatorname</key>
+	<string>resizeAllocator</string>
+	<key>detailtop</key>
+	<string>tangentVelocity</string>
+	<key>shouldMountDecoration</key>
+	<string>deferredBase</string>
+	<key>shouldSaveButton</key>
+	<string>sharedIcon</string>
+	<key>sinkOpacity</key>
+	<string>clonenib</string>
+	<key>themeDirection</key>
+	<string>canDecodeSkin</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchTension</key>
+	<string>lostRow</string>
+	<key>entityDuration</key>
+	<string>canDeserializeTabBar</string>
+	<key>independentStore</key>
+	<string>substantialStep</string>
+	<key>oldCollection</key>
+	<string>shouldDispatchRadio</string>
+	<key>pinchableRange</key>
+	<string>paralleldescription</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customAction</key>
+	<string>persistEntropy</string>
+	<key>deferredContainer</key>
+	<string>synchronousCompleter</string>
+	<key>ephemeralResult</key>
+	<string>textureOffset</string>
+	<key>fixedEvolution</key>
+	<string>criticalSize</string>
+	<key>modalType</key>
+	<string>cellcallback</string>
+	<key>stampDensity</key>
+	<string>floatDescription</string>
+	<key>standaloneProfile</key>
+	<string>scrollableDialogs</string>
+	<key>storageTransparency</key>
+	<string>canDisposePadding</string>
+	<key>tappableSession</key>
+	<string>unactivatedBorder</string>
+</dict>
+</plist>

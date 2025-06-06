@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasTheme</key>
+	<string>multiplyFuture</string>
+	<key>geometricEffect</key>
+	<string>mountAnimatedContainer</string>
+	<key>nodeCoord</key>
+	<string>storageTransparency</string>
+	<key>resilientContrast</key>
+	<string>blocorvisitor</string>
+	<key>resizableanimation</key>
+	<string>missedTable</string>
+	<key>shouldDispatchView</key>
+	<string>webPolygon</string>
+	<key>shouldMountBloc</key>
+	<string>positionInset</string>
+	<key>shouldReplaceScreen</key>
+	<string>cycleMomentum</string>
+</dict>
+</plist>

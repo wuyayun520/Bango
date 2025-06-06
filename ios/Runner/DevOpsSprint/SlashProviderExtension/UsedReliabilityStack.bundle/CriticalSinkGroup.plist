@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredBuilder</key>
+	<string>createParticle</string>
+	<key>framesorter</key>
+	<string>canTransformPriority</string>
+	<key>nodeVelocity</key>
+	<string>semanticTabView</string>
+	<key>publicBaseline</key>
+	<string>modalbottom</string>
+	<key>scrollableGridView</key>
+	<string>convolutionSystem</string>
+	<key>subscriptionevaluation</key>
+	<string>geometricAnalyzer</string>
+</dict>
+</plist>

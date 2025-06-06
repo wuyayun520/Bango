@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleShader</key>
+	<string>hardFragment</string>
+	<key>defaultmobile</key>
+	<string>notificationCycle</string>
+	<key>intermediateLocalization</key>
+	<string>easyStorage</string>
+	<key>loopcyclevalidation</key>
+	<string>sortedAspect</string>
+	<key>permanentItem</key>
+	<string>firstsegmentacceleration</string>
+	<key>prismaticviewformat</key>
+	<string>locatedescriptor</string>
+	<key>scenarioDensity</key>
+	<string>canDecodeCompletion</string>
+	<key>shouldDisconnectCapacities</key>
+	<string>delicateBase</string>
+	<key>smartTrajectory</key>
+	<string>discardedreliability</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleKernel</key>
+	<string>workflowmargin</string>
+	<key>accordionScroll</key>
+	<string>searchertop</string>
+	<key>customizedRenderer</key>
+	<string>animatedFormat</string>
+	<key>directlyAudio</key>
+	<string>secondScroll</string>
+	<key>imageSaturation</key>
+	<string>backwardRichText</string>
+	<key>losteffectstate</key>
+	<string>brushallocator</string>
+	<key>shouldDeserializeAperture</key>
+	<string>pinchableCollection</string>
+	<key>shouldReplaceUnary</key>
+	<string>canShowMatrix</string>
+	<key>standaloneChart</key>
+	<string>canCancelInterpolation</string>
+</dict>
+</plist>

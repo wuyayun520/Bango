@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatoredge</key>
+	<string>implementTopic</string>
+	<key>constraintrenderer</key>
+	<string>titleStage</string>
+	<key>routernearstage</key>
+	<string>parseTangent</string>
+	<key>secondStore</key>
+	<string>captionTier</string>
+	<key>threadskewy</key>
+	<string>publishFlex</string>
+	<key>uniformAsset</key>
+	<string>priorityPattern</string>
+	<key>usedcallback</key>
+	<string>interfaceType</string>
+</dict>
+</plist>

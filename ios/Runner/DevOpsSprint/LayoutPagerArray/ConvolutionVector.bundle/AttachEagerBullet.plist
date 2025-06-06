@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureDelay</key>
+	<string>shouldReplaceComposition</string>
+	<key>combinerPressure</key>
+	<string>mediumConfiguration</string>
+	<key>customColumn</key>
+	<string>inheritedAwait</string>
+	<key>disposecycle</key>
+	<string>disparateSingleton</string>
+	<key>ignoredDecoration</key>
+	<string>replicateSink</string>
+	<key>pivotalAspect</key>
+	<string>customState</string>
+	<key>retainedShader</key>
+	<string>mediocreCache</string>
+	<key>unactivatedNotation</key>
+	<string>crudeAppBar</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicqueue</key>
+	<string>associatedCheckbox</string>
+	<key>binaryflags</key>
+	<string>consumeChannel</string>
+	<key>commonTheme</key>
+	<string>searcherTag</string>
+	<key>comprehensiveGrain</key>
+	<string>semanticsPosition</string>
+	<key>dedicatedLinker</key>
+	<string>positionformtag</string>
+	<key>desktopCard</key>
+	<string>responseLayer</string>
+	<key>shouldNotifyPriority</key>
+	<string>shouldSetStateProject</string>
+	<key>themesingleton</key>
+	<string>positionedComposite</string>
+</dict>
+</plist>

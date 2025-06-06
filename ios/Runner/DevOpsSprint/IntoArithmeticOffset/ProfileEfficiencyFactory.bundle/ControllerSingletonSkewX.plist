@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPolygon</key>
+	<string>challengeOrientation</string>
+	<key>directlyMedia</key>
+	<string>canUnmountedHero</string>
+	<key>disconnectawait</key>
+	<string>opaqueManager</string>
+	<key>onbasetap</key>
+	<string>requestActivity</string>
+	<key>permissiveImpact</key>
+	<string>shouldEmitPainter</string>
+	<key>resilientResponse</key>
+	<string>curvejoiner</string>
+	<key>shouldDispatchSlider</key>
+	<string>canValidateMovement</string>
+</dict>
+</plist>

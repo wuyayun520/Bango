@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryasbuffer</key>
+	<string>shouldContinueProvider</string>
+	<key>dynamicscaletail</key>
+	<string>heapDirection</string>
+	<key>routerandstate</key>
+	<string>canEndCursor</string>
+	<key>sharedTouch</key>
+	<string>sequentialCompleter</string>
+	<key>shouldMountedCell</key>
+	<string>scrollerDelay</string>
+</dict>
+</plist>

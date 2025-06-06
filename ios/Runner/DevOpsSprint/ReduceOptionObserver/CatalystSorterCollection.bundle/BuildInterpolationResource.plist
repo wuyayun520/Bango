@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsvisible</key>
+	<string>visualizeAsync</string>
+	<key>commonStateless</key>
+	<string>boxLevel</string>
+	<key>protectedComponent</key>
+	<string>unlockcompleter</string>
+	<key>shouldMountStoryboard</key>
+	<string>shouldTrainSample</string>
+	<key>shouldSkipCurve</key>
+	<string>statelessCoordinator</string>
+	<key>toolSkewX</key>
+	<string>canDecodeTextField</string>
+	<key>uniformInfrastructure</key>
+	<string>shouldLayoutLabel</string>
+</dict>
+</plist>

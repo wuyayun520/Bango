@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserdepth</key>
+	<string>compositionaltangentedge</string>
+	<key>customTabView</key>
+	<string>storyboardFrequency</string>
+	<key>delegatewrapper</key>
+	<string>widgetInteraction</string>
+	<key>detectorBound</key>
+	<string>shouldUpdateFlex</string>
+	<key>draggableCompletion</key>
+	<string>localSkirt</string>
+	<key>geometricColor</key>
+	<string>graphicBottom</string>
+	<key>stampinterpretershade</key>
+	<string>processFactory</string>
+</dict>
+</plist>

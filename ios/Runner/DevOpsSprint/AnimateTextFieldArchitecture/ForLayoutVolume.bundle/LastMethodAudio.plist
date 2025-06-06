@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionOptimizer</key>
+	<string>resumeActivity</string>
+	<key>autoManager</key>
+	<string>transpiledecoration</string>
+	<key>iterativeResponder</key>
+	<string>observereducer</string>
+	<key>quaternionAppearance</key>
+	<string>localizationbridgecoord</string>
+	<key>segueshapecenter</key>
+	<string>visitCallback</string>
+</dict>
+</plist>

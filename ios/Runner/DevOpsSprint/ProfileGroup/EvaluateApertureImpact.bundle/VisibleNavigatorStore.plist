@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatesession</key>
+	<string>screenValue</string>
+	<key>compositionalRole</key>
+	<string>scopelocation</string>
+	<key>elasticcontainerrotation</key>
+	<string>intermediatePositioned</string>
+	<key>firstAction</key>
+	<string>losspresenter</string>
+	<key>newestMenu</key>
+	<string>boxshadowwithprototype</string>
+	<key>nextRect</key>
+	<string>shouldShowStateful</string>
+	<key>oldbufferscale</key>
+	<string>synchronousImpression</string>
+	<key>pageviewBorder</key>
+	<string>animationincludekind</string>
+	<key>replicaInterval</key>
+	<string>shouldStopSample</string>
+	<key>variantEdge</key>
+	<string>resultInteraction</string>
+</dict>
+</plist>

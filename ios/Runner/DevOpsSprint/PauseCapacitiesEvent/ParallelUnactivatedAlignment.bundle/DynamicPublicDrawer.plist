@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentsforce</key>
+	<string>criticalAccessory</string>
+	<key>gridpatternbehavior</key>
+	<string>spriteShade</string>
+	<key>pagerVisible</key>
+	<string>requestPresenter</string>
+	<key>shouldTransitionTabView</key>
+	<string>routeDistance</string>
+	<key>specifyNavigator</key>
+	<string>menuscopemargin</string>
+	<key>substantialShader</key>
+	<string>shouldDismissStream</string>
+	<key>subtleCapsule</key>
+	<string>paintTouch</string>
+	<key>transformerContrast</key>
+	<string>pivotalGraphic</string>
+	<key>widgetvelocity</key>
+	<string>equipmentusecase</string>
+</dict>
+</plist>

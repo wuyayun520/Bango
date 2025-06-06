@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLayer</key>
+	<string>lazyColumn</string>
+	<key>delegatescope</key>
+	<string>tabviewColor</string>
+	<key>impactRight</key>
+	<string>geometricMaterial</string>
+	<key>materialComponent</key>
+	<string>histogramIndex</string>
+	<key>scrolltypesaturation</key>
+	<string>commonCollection</string>
+	<key>singletonfilter</key>
+	<string>synchronousBrush</string>
+	<key>spriteMode</key>
+	<string>associatedStroke</string>
+</dict>
+</plist>

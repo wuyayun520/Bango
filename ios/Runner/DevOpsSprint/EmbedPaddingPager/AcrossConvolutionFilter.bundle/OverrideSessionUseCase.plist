@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerResponse</key>
+	<string>latencyacceleration</string>
+	<key>basicPlate</key>
+	<string>previewIndex</string>
+	<key>nextGem</key>
+	<string>sizeInset</string>
+	<key>rectinstage</key>
+	<string>shouldDetachActivity</string>
+	<key>shouldFetchScale</key>
+	<string>localizationMediator</string>
+</dict>
+</plist>

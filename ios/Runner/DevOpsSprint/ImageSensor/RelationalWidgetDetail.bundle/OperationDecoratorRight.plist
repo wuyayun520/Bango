@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedEffect</key>
+	<string>canSubscribeResource</string>
+	<key>metadatalistener</key>
+	<string>tweenDecorator</string>
+	<key>notifyscroll</key>
+	<string>errorDensity</string>
+	<key>prevOverlay</key>
+	<string>mediumAnalyzer</string>
+	<key>responsemomentum</key>
+	<string>encodeTabBar</string>
+	<key>shouldParseTabBar</key>
+	<string>cupertinoException</string>
+	<key>statefultextfieldedge</key>
+	<string>lostpopuptransparency</string>
+</dict>
+</plist>

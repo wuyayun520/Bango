@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeComponent</key>
+	<string>crudeStep</string>
+	<key>offsetSize</key>
+	<string>embedPresenter</string>
+	<key>petbeyondsingleton</key>
+	<string>criticalThroughput</string>
+	<key>shouldPrepareArithmetic</key>
+	<string>layoutdependency</string>
+	<key>shouldPresentStateless</key>
+	<string>materialResponder</string>
+	<key>shouldStreamFlex</key>
+	<string>gesturedetectorDistance</string>
+	<key>titleResponse</key>
+	<string>constraintcenter</string>
+</dict>
+</plist>

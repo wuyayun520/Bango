@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEntity</key>
+	<string>deliveryopacity</string>
+	<key>ephemeralDrawer</key>
+	<string>inactiveHistogram</string>
+	<key>hashOrientation</key>
+	<string>dissociateinteractor</string>
+	<key>multiScroller</key>
+	<string>minCard</string>
+	<key>respectiveMission</key>
+	<string>observePainter</string>
+	<key>statelessAnimation</key>
+	<string>staticVariant</string>
+	<key>tentativeInterval</key>
+	<string>orchestraterichtext</string>
+	<key>triggerDepth</key>
+	<string>bandwidthHead</string>
+</dict>
+</plist>

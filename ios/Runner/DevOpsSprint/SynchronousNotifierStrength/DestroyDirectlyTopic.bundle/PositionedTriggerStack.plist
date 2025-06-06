@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyaction</key>
+	<string>numericalImpact</string>
+	<key>eventmargin</key>
+	<string>permanentMetadata</string>
+	<key>flexibleNavigator</key>
+	<string>pushCollection</string>
+	<key>shouldValidateStateful</key>
+	<string>graphreplica</string>
+	<key>updaterepository</key>
+	<string>deferredassetpadding</string>
+</dict>
+</plist>

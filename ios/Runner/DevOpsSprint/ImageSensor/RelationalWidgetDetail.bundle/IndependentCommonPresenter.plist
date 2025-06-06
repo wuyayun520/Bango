@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyDropdownButton</key>
+	<string>canPopAspect</string>
+	<key>labelsaturation</key>
+	<string>divideFuture</string>
+	<key>newestLinker</key>
+	<string>filterBehavior</string>
+	<key>shouldTransitionGesture</key>
+	<string>shouldPublishMaster</string>
+</dict>
+</plist>

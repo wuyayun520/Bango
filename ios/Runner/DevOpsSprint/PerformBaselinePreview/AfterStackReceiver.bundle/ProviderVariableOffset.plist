@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleVertex</key>
+	<string>clipperPressure</string>
+	<key>consultativeLabel</key>
+	<string>descriptionType</string>
+	<key>granularText</key>
+	<string>advancedHero</string>
+	<key>resizableCustomPaint</key>
+	<string>textcyclebehavior</string>
+	<key>shouldAnimateInstruction</key>
+	<string>semanticsMomentum</string>
+	<key>shouldUnmountNotifier</key>
+	<string>difficultDuration</string>
+</dict>
+</plist>

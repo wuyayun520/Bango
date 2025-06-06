@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componenttype</key>
+	<string>tweenleft</string>
+	<key>directlyTitle</key>
+	<string>synchronousTrajectory</string>
+	<key>euclideanZone</key>
+	<string>capacitiesparameterhue</string>
+	<key>immediateAperture</key>
+	<string>canSkipBullet</string>
+	<key>keyEvent</key>
+	<string>showMomentum</string>
+	<key>shouldBindPrecision</key>
+	<string>resizableMerger</string>
+	<key>shouldShowScaffold</key>
+	<string>removeSize</string>
+	<key>significantSubscription</key>
+	<string>encodelocalization</string>
+	<key>statefulClipper</key>
+	<string>queueindex</string>
+	<key>statelessStroke</key>
+	<string>deferredEffect</string>
+</dict>
+</plist>

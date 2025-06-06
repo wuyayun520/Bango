@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatGrayscale</key>
+	<string>resilientStroke</string>
+	<key>modalactivitycoord</key>
+	<string>playbackFlags</string>
+	<key>popupPadding</key>
+	<string>discardedPager</string>
+	<key>robustSink</key>
+	<string>dynamicHash</string>
+	<key>shouldEncodeRole</key>
+	<string>densePositioned</string>
+	<key>shouldPublishArithmetic</key>
+	<string>maxCheckbox</string>
+	<key>shouldserializeconsumer</key>
+	<string>smallLinker</string>
+	<key>visibleStep</key>
+	<string>shouldSkipNotification</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityPosition</key>
+	<string>converterLeft</string>
+	<key>contrastOpacity</key>
+	<string>splitterDirection</string>
+	<key>cupertinoReliability</key>
+	<string>mediocreImage</string>
+	<key>metadataorientation</key>
+	<string>embedRequest</string>
+	<key>mobileVolume</key>
+	<string>releaseRequest</string>
+	<key>shouldFinishAnchor</key>
+	<string>vectorizeLocalization</string>
+	<key>specifyInteractor</key>
+	<string>canSerializeBoxShadow</string>
+</dict>
+</plist>

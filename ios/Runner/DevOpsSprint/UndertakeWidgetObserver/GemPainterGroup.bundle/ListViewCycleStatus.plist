@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorincludeprototype</key>
+	<string>canRestartMovement</string>
+	<key>hardIcon</key>
+	<string>channelScope</string>
+	<key>mainDescriptor</key>
+	<string>observerMargin</string>
+	<key>menuawaycycle</key>
+	<string>autoobservertransparency</string>
+	<key>robuststreaminset</key>
+	<string>coordinatorSkewY</string>
+	<key>shouldCreateGridView</key>
+	<string>profileTail</string>
+	<key>sophisticatedOptimizer</key>
+	<string>prepareSlider</string>
+	<key>standaloneChart</key>
+	<string>shouldYieldMomentum</string>
+	<key>subtleActivity</key>
+	<string>compositionalSink</string>
+</dict>
+</plist>

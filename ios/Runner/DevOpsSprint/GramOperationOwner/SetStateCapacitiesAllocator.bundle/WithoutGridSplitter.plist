@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialcurve</key>
+	<string>elementVelocity</string>
+	<key>eagerAlert</key>
+	<string>switchParameter</string>
+	<key>hashBound</key>
+	<string>arithmeticSkirt</string>
+	<key>permissiveContainer</key>
+	<string>customParticle</string>
+	<key>resultFlags</key>
+	<string>crucialVariant</string>
+	<key>scaleinfo</key>
+	<string>globalTaxonomy</string>
+	<key>symmetricRecursion</key>
+	<string>resizeRadius</string>
+</dict>
+</plist>

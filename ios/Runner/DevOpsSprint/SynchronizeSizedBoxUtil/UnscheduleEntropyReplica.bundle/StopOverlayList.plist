@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractioneffect</key>
+	<string>interactionOpacity</string>
+	<key>discardedRecursion</key>
+	<string>directtransformerformat</string>
+	<key>primaryRenderer</key>
+	<string>exitTimer</string>
+	<key>sequentialworkflow</key>
+	<string>activeColumn</string>
+	<key>shouldDeserializeCycle</key>
+	<string>bulletObserver</string>
+	<key>shouldEmitRadio</key>
+	<string>blocObserver</string>
+	<key>triggerTint</key>
+	<string>orchestrateEntity</string>
+</dict>
+</plist>

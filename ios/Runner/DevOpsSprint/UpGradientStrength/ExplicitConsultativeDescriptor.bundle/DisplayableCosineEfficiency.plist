@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionPressure</key>
+	<string>logarithmRate</string>
+	<key>consumptionEdge</key>
+	<string>buildermodedepth</string>
+	<key>directAlpha</key>
+	<string>streamExtension</string>
+	<key>discardedTask</key>
+	<string>awaitspeed</string>
+	<key>indicatortask</key>
+	<string>grainwithinterpreter</string>
+	<key>interfaceduringchain</key>
+	<string>memberTask</string>
+	<key>projectionitem</key>
+	<string>shouldRouteAlert</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindnorm</key>
+	<string>typicalSlider</string>
+	<key>colorVisible</key>
+	<string>endShader</string>
+	<key>crudeBitrate</key>
+	<string>stackleft</string>
+	<key>easyThreshold</key>
+	<string>listenlistener</string>
+	<key>enabledBullet</key>
+	<string>requiredBitrate</string>
+	<key>monstersize</key>
+	<string>architectureState</string>
+	<key>notifysingleton</key>
+	<string>optimizerActivity</string>
+	<key>publishmenu</key>
+	<string>obtainFuture</string>
+	<key>shouldhandleslash</key>
+	<string>persistentButton</string>
+	<key>splitterDuration</key>
+	<string>alertmethodleft</string>
+</dict>
+</plist>

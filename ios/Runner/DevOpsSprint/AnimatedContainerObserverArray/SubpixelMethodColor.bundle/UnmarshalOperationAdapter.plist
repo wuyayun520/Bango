@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleStamp</key>
+	<string>persistProvider</string>
+	<key>completerForce</key>
+	<string>discoverView</string>
+	<key>denseAlignment</key>
+	<string>synchronousTheme</string>
+	<key>disclaimerPadding</key>
+	<string>permutationTint</string>
+	<key>geometricContraction</key>
+	<string>configurationdecoratorscale</string>
+	<key>immutableQuaternion</key>
+	<string>routepadding</string>
+	<key>scenarioMode</key>
+	<string>scopeBound</string>
+	<key>shouldDeserializeScaffold</key>
+	<string>borderDensity</string>
+</dict>
+</plist>

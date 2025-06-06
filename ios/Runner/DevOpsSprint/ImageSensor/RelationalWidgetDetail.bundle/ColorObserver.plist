@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAlignment</key>
+	<string>canSerializePainter</string>
+	<key>chapterPosition</key>
+	<string>shouldSerializeGestureDetector</string>
+	<key>cupertinosorter</key>
+	<string>eagerSprite</string>
+	<key>embedtable</key>
+	<string>discardedView</string>
+	<key>reactiveContainer</key>
+	<string>screenTransparency</string>
+	<key>resourceVisible</key>
+	<string>canProcessPlate</string>
+	<key>singleSine</key>
+	<string>momentumShade</string>
+	<key>unactivatedmultiplicationvalidation</key>
+	<string>significantTriangles</string>
+</dict>
+</plist>

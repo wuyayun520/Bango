@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationvaluemargin</key>
+	<string>setstatepopup</string>
+	<key>easyLayout</key>
+	<string>polyfillDelay</string>
+	<key>exponentevaluation</key>
+	<string>detachRadius</string>
+	<key>pivotalSpine</key>
+	<string>allocatorScope</string>
+	<key>shouldSkipAppBar</key>
+	<string>scheduleBloc</string>
+</dict>
+</plist>

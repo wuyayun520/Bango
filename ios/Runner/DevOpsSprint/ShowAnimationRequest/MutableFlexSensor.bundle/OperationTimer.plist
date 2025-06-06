@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorpadding</key>
+	<string>searchRepository</string>
+	<key>greatSingleton</key>
+	<string>shouldValidateAnimation</string>
+	<key>initializefuture</key>
+	<string>connectRoute</string>
+	<key>permissiveTexture</key>
+	<string>descriptorShape</string>
+	<key>protectedNib</key>
+	<string>startPrecision</string>
+	<key>resultName</key>
+	<string>statefulCompletion</string>
+	<key>specifyKernel</key>
+	<string>canSubscribeNorm</string>
+	<key>subtleIntensity</key>
+	<string>specifyRemediation</string>
+	<key>unactivatedConfiguration</key>
+	<string>activatedRestriction</string>
+</dict>
+</plist>

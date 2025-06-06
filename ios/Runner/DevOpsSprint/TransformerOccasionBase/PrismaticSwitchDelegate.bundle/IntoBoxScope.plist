@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticProfile</key>
+	<string>clipperOperation</string>
+	<key>binaryRotation</key>
+	<string>logBuffer</string>
+	<key>hierarchicalPainter</key>
+	<string>normversusvar</string>
+	<key>lossinsidecomposite</key>
+	<string>accessoryvarindex</string>
+	<key>precisionSkewX</key>
+	<string>createnavigator</string>
+	<key>similartransition</key>
+	<string>mediocrestate</string>
+	<key>statelessLeft</key>
+	<string>canProcessSegment</string>
+	<key>staticBuilder</key>
+	<string>animateIndicator</string>
+	<key>storescroller</key>
+	<string>protocolvelocity</string>
+	<key>uniformSegue</key>
+	<string>mergerStyle</string>
+</dict>
+</plist>

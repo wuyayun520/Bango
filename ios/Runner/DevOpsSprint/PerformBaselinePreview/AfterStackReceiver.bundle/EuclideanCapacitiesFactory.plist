@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMap</key>
+	<string>associatedMapper</string>
+	<key>autoSlider</key>
+	<string>retainLoop</string>
+	<key>cycleVelocity</key>
+	<string>interfaceFrequency</string>
+	<key>documentawait</key>
+	<string>rapidMenu</string>
+	<key>lostCertificate</key>
+	<string>independentStream</string>
+	<key>numericalAspect</key>
+	<string>dispatchzone</string>
+	<key>pivotalTolerance</key>
+	<string>effectfunctionskewy</string>
+	<key>shouldPresentPainter</key>
+	<string>connectCube</string>
+</dict>
+</plist>

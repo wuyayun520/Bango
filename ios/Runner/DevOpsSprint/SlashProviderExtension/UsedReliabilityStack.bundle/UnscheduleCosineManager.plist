@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaLocation</key>
+	<string>skipSkirt</string>
+	<key>cartesianEquivalent</key>
+	<string>modulusBottom</string>
+	<key>displayableCapacities</key>
+	<string>compositionalRectangle</string>
+	<key>globalLayout</key>
+	<string>eventrange</string>
+	<key>lostTangent</key>
+	<string>directusage</string>
+	<key>overlayofcommand</key>
+	<string>integrityTension</string>
+	<key>prevScenario</key>
+	<string>exponentevolution</string>
+	<key>shouldLayoutInterpolation</key>
+	<string>smartPreview</string>
+	<key>shouldStreamCapsule</key>
+	<string>denseDescriptor</string>
+</dict>
+</plist>

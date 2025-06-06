@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSubpixel</key>
+	<string>combinerState</string>
+	<key>bufferinterval</key>
+	<string>nextData</string>
+	<key>customDistinction</key>
+	<string>kernelDirection</string>
+	<key>intuitiveBoxShadow</key>
+	<string>shouldTrainDelegate</string>
+	<key>playbackFormat</key>
+	<string>removeroute</string>
+	<key>referencepolygon</key>
+	<string>amortizationPadding</string>
+</dict>
+</plist>

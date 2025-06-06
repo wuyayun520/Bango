@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activateconfiguration</key>
+	<string>referencePlatform</string>
+	<key>cartesianError</key>
+	<string>euclideanColor</string>
+	<key>dynamicUnary</key>
+	<string>checklistdelay</string>
+	<key>instructionvelocity</key>
+	<string>immutableManager</string>
+	<key>interpolationpermutation</key>
+	<string>transpileTween</string>
+	<key>lastdropdownbutton</key>
+	<string>lastWorkflow</string>
+	<key>seamlessinteractor</key>
+	<string>lastZone</string>
+	<key>usageLocation</key>
+	<string>localProcessor</string>
+	<key>usecaseTint</key>
+	<string>canSubscribeSemantics</string>
+</dict>
+</plist>

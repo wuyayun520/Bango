@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTheme</key>
+	<string>menuParam</string>
+	<key>exceptionTransparency</key>
+	<string>gradientdirection</string>
+	<key>flexiblenavigatoroffset</key>
+	<string>webCertificate</string>
+	<key>pinchableCupertino</key>
+	<string>mitigateResource</string>
+	<key>staticImpression</key>
+	<string>eventVariable</string>
+	<key>symmetricAwait</key>
+	<string>lazybuilder</string>
+</dict>
+</plist>

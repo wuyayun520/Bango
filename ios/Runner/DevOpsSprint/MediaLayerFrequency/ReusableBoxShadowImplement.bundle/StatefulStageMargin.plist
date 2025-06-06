@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationscroller</key>
+	<string>permissiveMetadata</string>
+	<key>flexibleSpot</key>
+	<string>pivotalPopup</string>
+	<key>ignoredOption</key>
+	<string>similarConfiguration</string>
+	<key>ignoredRecursion</key>
+	<string>binderTheme</string>
+	<key>iterativeContrast</key>
+	<string>rotateDependency</string>
+	<key>opaqueInteractor</key>
+	<string>parallelpromise</string>
+	<key>shouldAttachModulus</key>
+	<string>optionrecursion</string>
+	<key>shouldSkipPromise</key>
+	<string>directSize</string>
+	<key>triggerVelocity</key>
+	<string>canDispatchConsumer</string>
+</dict>
+</plist>

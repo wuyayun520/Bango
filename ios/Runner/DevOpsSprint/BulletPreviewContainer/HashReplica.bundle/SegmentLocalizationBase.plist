@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluategesture</key>
+	<string>giftmetadata</string>
+	<key>handlerfunctionhead</key>
+	<string>formatoffset</string>
+	<key>hierarchicalConverter</key>
+	<string>diversifiedCubit</string>
+	<key>integrationspeed</key>
+	<string>interfacevisibility</string>
+	<key>layoutprocessor</key>
+	<string>retainedAction</string>
+	<key>responsemodel</key>
+	<string>granularPopup</string>
+	<key>tappableGem</key>
+	<string>hasMission</string>
+	<key>vertexStyle</key>
+	<string>shouldFetchNavigation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSemantics</key>
+	<string>notifierstatus</string>
+	<key>crucialplate</key>
+	<string>shouldDismissAccessory</string>
+	<key>custompaintOpacity</key>
+	<string>canPersistTable</string>
+	<key>inactivePadding</key>
+	<string>hierarchicalOptimizer</string>
+	<key>mapintegration</key>
+	<string>curveatdecorator</string>
+	<key>modelPosition</key>
+	<string>storyboardPadding</string>
+	<key>queueShade</key>
+	<string>cancelSkirt</string>
+	<key>serviceopacity</key>
+	<string>resizableRect</string>
+	<key>shouldRenderSignature</key>
+	<string>saveTouch</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerformat</key>
+	<string>minNotification</string>
+	<key>disabledSpot</key>
+	<string>decodeActivity</string>
+	<key>responseSkewY</key>
+	<string>upgradeResponse</string>
+	<key>sharedHandler</key>
+	<string>canTrainReference</string>
+	<key>shouldDisposeAlpha</key>
+	<string>granularRequest</string>
+	<key>shouldSerializeModal</key>
+	<string>otherMaterial</string>
+	<key>smartTraversal</key>
+	<string>batchTop</string>
+</dict>
+</plist>

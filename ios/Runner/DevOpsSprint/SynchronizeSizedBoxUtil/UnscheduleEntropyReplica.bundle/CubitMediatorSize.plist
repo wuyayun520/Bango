@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserScale</key>
+	<string>responsivePreview</string>
+	<key>consumptionName</key>
+	<string>radiusname</string>
+	<key>disconnectstream</key>
+	<string>dialogsDecorator</string>
+	<key>enabledDependency</key>
+	<string>canDetachTabBar</string>
+	<key>filloption</key>
+	<string>shouldEndCache</string>
+	<key>giftborder</key>
+	<string>storyboardSkewY</string>
+	<key>onaspectratiotap</key>
+	<string>animateLayer</string>
+	<key>radiusschema</key>
+	<string>setstateIndicator</string>
+</dict>
+</plist>

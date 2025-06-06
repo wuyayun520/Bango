@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterRight</key>
+	<string>secondFragment</string>
+	<key>localCheckbox</key>
+	<string>routechaintag</string>
+	<key>nativeModal</key>
+	<string>coordinatorbottom</string>
+	<key>resizablevariant</key>
+	<string>canUpdateProvider</string>
+	<key>savedependency</key>
+	<string>trainTable</string>
+	<key>shouldFetchView</key>
+	<string>distinctionFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalIntegrity</key>
+	<string>independentPainter</string>
+	<key>imagetheme</key>
+	<string>persistentAnimator</string>
+	<key>localCombiner</key>
+	<string>interactiveborder</string>
+	<key>presentercontextcolor</key>
+	<string>canYieldRadio</string>
+	<key>unsortedLogarithm</key>
+	<string>shouldRebuildRoute</string>
+</dict>
+</plist>

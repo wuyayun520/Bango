@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedVolume</key>
+	<string>maxPlate</string>
+	<key>effectpicker</key>
+	<string>custompaintFramework</string>
+	<key>gridHead</key>
+	<string>invisibleError</string>
+	<key>managernotation</key>
+	<string>columnoffset</string>
+	<key>mediumSingleton</key>
+	<string>fixedMaster</string>
+	<key>publicCurve</key>
+	<string>analyzerSkewX</string>
+	<key>saverole</key>
+	<string>equalizationValidation</string>
+	<key>shouldNotifyTool</key>
+	<string>histogramLayer</string>
+	<key>significantAnalyzer</key>
+	<string>compositionalAlignment</string>
+</dict>
+</plist>

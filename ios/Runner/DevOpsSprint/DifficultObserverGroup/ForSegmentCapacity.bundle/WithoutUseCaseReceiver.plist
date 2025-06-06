@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerinterpreterskewy</key>
+	<string>vectorKind</string>
+	<key>filterCount</key>
+	<string>shouldUpdateWorkflow</string>
+	<key>grainthreshold</key>
+	<string>updateCompleter</string>
+	<key>scrollableReceiver</key>
+	<string>resulthead</string>
+	<key>shouldEmitStateful</key>
+	<string>typicalSingleton</string>
+	<key>shouldReplaceBox</key>
+	<string>projectionStatus</string>
+	<key>sinkForce</key>
+	<string>isrole</string>
+</dict>
+</plist>

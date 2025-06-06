@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAnalogy</key>
+	<string>elementResponse</string>
+	<key>denseAlignment</key>
+	<string>canCreateScaffold</string>
+	<key>descriptionTop</key>
+	<string>showUseCase</string>
+	<key>desktopStoryboard</key>
+	<string>nativecapsule</string>
+</dict>
+</plist>

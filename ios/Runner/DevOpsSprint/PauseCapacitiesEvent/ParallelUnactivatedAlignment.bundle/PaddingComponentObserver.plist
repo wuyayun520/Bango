@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGridView</key>
+	<string>canDisconnectGem</string>
+	<key>diffableGrayscale</key>
+	<string>shouldUnmountedBatch</string>
+	<key>infoTint</key>
+	<string>uniqueOverlay</string>
+	<key>permissiveInformation</key>
+	<string>priorClipper</string>
+</dict>
+</plist>

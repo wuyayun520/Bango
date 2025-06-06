@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactivegrid</key>
+	<string>reducerwithpattern</string>
+	<key>layerobserverindex</key>
+	<string>canEncodeStream</string>
+	<key>routeservice</key>
+	<string>finishButton</string>
+	<key>shouldPopCustomPaint</key>
+	<string>storageChain</string>
+</dict>
+</plist>

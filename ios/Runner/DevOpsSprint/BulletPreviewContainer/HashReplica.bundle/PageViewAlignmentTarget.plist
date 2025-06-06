@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitTail</key>
+	<string>shouldlayoutchallenge</string>
+	<key>draggableinjectionorigin</key>
+	<string>scenarioEdge</string>
+	<key>immediatePublisher</key>
+	<string>decodeScaffold</string>
+	<key>loopVisible</key>
+	<string>defaultcube</string>
+	<key>parallelPicker</key>
+	<string>heroOrigin</string>
+	<key>rectstrategymode</key>
+	<string>inactiveModule</string>
+	<key>shouldPublishMultiplication</key>
+	<string>optimizeasset</string>
+	<key>uniformMultiplication</key>
+	<string>shouldInflateGraphic</string>
+</dict>
+</plist>

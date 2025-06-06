@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicOption</key>
+	<string>notifierBuffer</string>
+	<key>publiclabelspeed</key>
+	<string>basicContrast</string>
+	<key>routenavigator</key>
+	<string>drawerFacade</string>
+	<key>shouldEndCustomPaint</key>
+	<string>effectBrightness</string>
+	<key>sliderandwork</key>
+	<string>aspectInset</string>
+</dict>
+</plist>

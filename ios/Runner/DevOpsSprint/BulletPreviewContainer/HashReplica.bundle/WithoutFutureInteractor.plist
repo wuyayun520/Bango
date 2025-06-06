@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectservice</key>
+	<string>pinchablePositioned</string>
+	<key>buttontop</key>
+	<string>crucialActivity</string>
+	<key>expandedhead</key>
+	<string>instantiateAsset</string>
+	<key>firstdecorationinterval</key>
+	<string>euclideanModal</string>
+	<key>hierarchicalEqualization</key>
+	<string>topicMomentum</string>
+	<key>modalName</key>
+	<string>declarativeTabBar</string>
+	<key>persistentInterpolation</key>
+	<string>binaryFrequency</string>
+	<key>resilientExtension</key>
+	<string>displayableTrajectory</string>
+	<key>shouldNotifyContraction</key>
+	<string>textureSystem</string>
+</dict>
+</plist>

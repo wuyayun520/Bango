@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyBuilder</key>
+	<string>buttondescription</string>
+	<key>drawdelegate</key>
+	<string>staticColumn</string>
+	<key>globalScroller</key>
+	<string>functionalResilience</string>
+	<key>heapDistance</key>
+	<string>mobilemodulusskewx</string>
+	<key>largeRadio</key>
+	<string>eraseUseCase</string>
+	<key>mediocreRadio</key>
+	<string>materialCatalyst</string>
+	<key>permanentLayer</key>
+	<string>cosineContext</string>
+	<key>shouldReplaceSensor</key>
+	<string>selecteddocument</string>
+	<key>visibleInterpolation</key>
+	<string>endText</string>
+</dict>
+</plist>

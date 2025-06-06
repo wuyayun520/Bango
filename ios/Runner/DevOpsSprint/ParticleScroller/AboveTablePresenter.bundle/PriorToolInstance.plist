@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardCatalyst</key>
+	<string>detailHue</string>
+	<key>delicateBaseline</key>
+	<string>drawertop</string>
+	<key>delicateTween</key>
+	<string>beginnerMaterial</string>
+	<key>iconradius</key>
+	<string>buttonState</string>
+	<key>resolvegesture</key>
+	<string>concatenateAwait</string>
+	<key>reusableComponent</key>
+	<string>containerAdapter</string>
+	<key>shouldEmitNavigation</key>
+	<string>cubeDepth</string>
+	<key>toleranceRight</key>
+	<string>behaviorDensity</string>
+</dict>
+</plist>

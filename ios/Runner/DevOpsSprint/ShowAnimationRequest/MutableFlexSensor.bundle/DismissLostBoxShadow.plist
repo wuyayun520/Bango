@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatormend</key>
+	<string>easyMenu</string>
+	<key>basicPageView</key>
+	<string>showbloc</string>
+	<key>chartColor</key>
+	<string>hardContainer</string>
+	<key>effectelasticity</key>
+	<string>shearBuilder</string>
+	<key>parallelintensity</key>
+	<string>radioimpression</string>
+	<key>shouldPopSlider</key>
+	<string>defaultBehavior</string>
+</dict>
+</plist>

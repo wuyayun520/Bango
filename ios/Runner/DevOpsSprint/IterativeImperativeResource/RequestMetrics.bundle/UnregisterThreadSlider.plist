@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilerichtextopacity</key>
+	<string>synchronousPolyfill</string>
+	<key>canvasTag</key>
+	<string>discardedComponent</string>
+	<key>concreteSplitter</key>
+	<string>nativeFragments</string>
+	<key>handlerhue</key>
+	<string>canNotifyOption</string>
+	<key>prismaticWrapper</key>
+	<string>imperativeScheduler</string>
+	<key>scopeAppearance</key>
+	<string>eagerNode</string>
+	<key>semanticpopup</key>
+	<string>detachbullet</string>
+	<key>standalonecurvetype</key>
+	<string>beginnerOffset</string>
+	<key>staticbloc</key>
+	<string>retainedProject</string>
+	<key>timerinaction</key>
+	<string>screeninjection</string>
+</dict>
+</plist>

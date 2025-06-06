@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentcontainertail</key>
+	<string>processTouch</string>
+	<key>hierarchicalClipper</key>
+	<string>shouldsetstateborder</string>
+	<key>imperativeAudio</key>
+	<string>remainderOffset</string>
+	<key>independentElement</key>
+	<string>unbindBitrate</string>
+	<key>shouldRestartAspect</key>
+	<string>lossEnvironment</string>
+	<key>singletonResponse</key>
+	<string>paddingDecorator</string>
+	<key>tableVisible</key>
+	<string>dissociateRepository</string>
+</dict>
+</plist>

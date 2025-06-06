@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePosition</key>
+	<string>schemaStatus</string>
+	<key>consumerstatus</key>
+	<string>draweradapterleft</string>
+	<key>imperativeStream</key>
+	<string>dynamicTextField</string>
+	<key>inheritedGradient</key>
+	<string>metadatatag</string>
+	<key>nextPageView</key>
+	<string>tensorSensor</string>
+	<key>notifierPressure</key>
+	<string>sinefeedback</string>
+	<key>numericaldata</key>
+	<string>remainderNumber</string>
+	<key>selectedrow</key>
+	<string>shouldCreateText</string>
+	<key>shouldDeserializeTextField</key>
+	<string>onmasterchanged</string>
+	<key>significantProjection</key>
+	<string>denseBase</string>
+</dict>
+</plist>

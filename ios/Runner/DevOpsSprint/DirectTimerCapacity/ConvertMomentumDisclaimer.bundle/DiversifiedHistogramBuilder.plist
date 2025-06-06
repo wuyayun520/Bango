@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAspectRatio</key>
+	<string>allocatororigin</string>
+	<key>debugcurve</key>
+	<string>shouldRouteAlpha</string>
+	<key>layerTint</key>
+	<string>mutableLoop</string>
+	<key>prioritymethod</key>
+	<string>completedTechnique</string>
+	<key>scrollawaylevel</key>
+	<string>constantRate</string>
+	<key>taxonomyTransparency</key>
+	<string>globalrichtext</string>
+</dict>
+</plist>

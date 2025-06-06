@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardCount</key>
+	<string>impactIndex</string>
+	<key>denseMerger</key>
+	<string>clearslider</string>
+	<key>logFeedback</key>
+	<string>shouldHandleBase</string>
+	<key>multiplicationVisibility</key>
+	<string>pauseCube</string>
+	<key>navigationprovider</key>
+	<string>shouldDismissSemantics</string>
+	<key>observeevent</key>
+	<string>saveAperture</string>
+	<key>shouldCreateOperation</key>
+	<string>tappableConsumption</string>
+	<key>stringifyresponse</key>
+	<string>parallelPublisher</string>
+</dict>
+</plist>

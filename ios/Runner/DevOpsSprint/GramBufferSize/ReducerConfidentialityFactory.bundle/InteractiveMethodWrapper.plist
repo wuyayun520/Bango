@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSound</key>
+	<string>deferredScale</string>
+	<key>basicCanvas</key>
+	<string>adaptiveInteraction</string>
+	<key>consumptionTag</key>
+	<string>projectionopacity</string>
+	<key>controllerspeed</key>
+	<string>desktopCurve</string>
+	<key>detectorTail</key>
+	<string>canValidateGrayscale</string>
+	<key>effectVisible</key>
+	<string>accordionReducer</string>
+	<key>eventspacing</key>
+	<string>cupertinoBound</string>
+	<key>oldaspect</key>
+	<string>buttonLocation</string>
+	<key>shouldDeserializeBorder</key>
+	<string>canCancelGradient</string>
+	<key>shouldFinishRow</key>
+	<string>symmetricAccessory</string>
+</dict>
+</plist>

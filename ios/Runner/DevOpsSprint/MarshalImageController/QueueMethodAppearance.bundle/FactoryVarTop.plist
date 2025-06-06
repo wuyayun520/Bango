@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controlleremitter</key>
+	<string>bundleWidget</string>
+	<key>customAction</key>
+	<string>referenceBehavior</string>
+	<key>displayableCapacity</key>
+	<string>remainderDepth</string>
+	<key>geometricMember</key>
+	<string>otherGraph</string>
+	<key>lazyGraphic</key>
+	<string>disparateMapper</string>
+	<key>shouldStreamSign</key>
+	<string>typicalSensor</string>
+</dict>
+</plist>

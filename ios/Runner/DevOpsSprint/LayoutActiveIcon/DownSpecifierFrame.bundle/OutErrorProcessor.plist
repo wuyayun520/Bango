@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicFragments</key>
+	<string>augmentParticle</string>
+	<key>compositionalIntensity</key>
+	<string>contractionshapetype</string>
+	<key>converterContrast</key>
+	<string>storeBuffer</string>
+	<key>firstNotification</key>
+	<string>shouldDispatchDrawer</string>
+	<key>functionalCompletion</key>
+	<string>relationalMethod</string>
+	<key>inactivedata</key>
+	<string>canKeepOperation</string>
+	<key>interceptchapter</key>
+	<string>offsetStatus</string>
+	<key>observervisibility</key>
+	<string>provideConstraint</string>
+	<key>scrollableDelegate</key>
+	<string>mountaspectratio</string>
+	<key>shouldskipprecision</key>
+	<string>heapStatus</string>
+</dict>
+</plist>

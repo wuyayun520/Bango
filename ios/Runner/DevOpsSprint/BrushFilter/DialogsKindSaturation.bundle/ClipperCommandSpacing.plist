@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatefeedback</key>
+	<string>gestureTail</string>
+	<key>futurepublisher</key>
+	<string>shouldContinueModulus</string>
+	<key>listviewrotation</key>
+	<string>persistRadio</string>
+	<key>materialEvolution</key>
+	<string>parseAxis</string>
+	<key>scrollabledecorationbehavior</key>
+	<string>shouldUpdateBaseline</string>
+	<key>shouldStopSample</key>
+	<string>inkwellAction</string>
+	<key>specifierdespitebridge</key>
+	<string>shouldYieldCupertino</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGesture</key>
+	<string>unlockSingleton</string>
+	<key>autoSize</key>
+	<string>linkercenter</string>
+	<key>coordinatorSaturation</key>
+	<string>executeCompleter</string>
+	<key>diffablebandwidth</key>
+	<string>relationalChooser</string>
+	<key>localMethod</key>
+	<string>usedPainter</string>
+	<key>mobileColor</key>
+	<string>shouldPopComposition</string>
+	<key>sharedSlash</key>
+	<string>volumeTheme</string>
+	<key>shouldDismissWorkflow</key>
+	<string>canPublishOption</string>
+	<key>singlerect</key>
+	<string>pauseIcon</string>
+	<key>unsortedAperture</key>
+	<string>intuitiveParticle</string>
+</dict>
+</plist>

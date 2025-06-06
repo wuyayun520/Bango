@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerValidation</key>
+	<string>evolutionDistance</string>
+	<key>documentType</key>
+	<string>shouldPushBox</string>
+	<key>inkwellflags</key>
+	<string>multiMomentum</string>
+	<key>nibFeedback</key>
+	<string>activeProject</string>
+	<key>projectionthroughflyweight</key>
+	<string>checkboxTension</string>
+	<key>requiredPlayback</key>
+	<string>taskTop</string>
+	<key>statefulEffect</key>
+	<string>moveSlider</string>
+	<key>viewwithstate</key>
+	<string>trajectoryRate</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStyle</key>
+	<string>resetRect</string>
+	<key>inactivescenario</key>
+	<string>updateCheckbox</string>
+	<key>interactiveAlpha</key>
+	<string>renderProject</string>
+	<key>materialAscent</key>
+	<string>substantialSelector</string>
+	<key>mutablePet</key>
+	<string>rapidPager</string>
+	<key>processorStyle</key>
+	<string>anchorcenter</string>
+	<key>queueFrequency</key>
+	<string>equalizationDepth</string>
+	<key>shouldtrainremainder</key>
+	<string>canRenderCertificate</string>
+	<key>validatebuilder</key>
+	<string>canDisposePageView</string>
+	<key>workflowresponse</key>
+	<string>easyProjection</string>
+</dict>
+</plist>

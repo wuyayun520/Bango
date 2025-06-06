@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardRole</key>
+	<string>callbackEnvironment</string>
+	<key>behaviorForce</key>
+	<string>resilientCursor</string>
+	<key>connectorInteraction</key>
+	<string>materialUsage</string>
+	<key>deferredPosition</key>
+	<string>resilientCombiner</string>
+	<key>shouldHandleMargin</key>
+	<string>rectifyTask</string>
+</dict>
+</plist>

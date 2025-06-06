@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonHandler</key>
+	<string>encodePainter</string>
+	<key>effectMomentum</key>
+	<string>shouldRenderLoss</string>
+	<key>executeerror</key>
+	<string>encodeAnimation</string>
+	<key>rectvalidation</key>
+	<string>uniformmatrix</string>
+	<key>subsequentgradient</key>
+	<string>exceptionstatus</string>
+</dict>
+</plist>

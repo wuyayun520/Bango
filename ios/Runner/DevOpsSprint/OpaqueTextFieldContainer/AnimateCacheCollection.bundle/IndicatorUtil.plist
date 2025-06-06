@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredindicator</key>
+	<string>textureTemple</string>
+	<key>isentropy</key>
+	<string>crudeChapter</string>
+	<key>joinerBehavior</key>
+	<string>overrideController</string>
+	<key>newestMission</key>
+	<string>shouldNavigateCapsule</string>
+	<key>resilientLog</key>
+	<string>slidertop</string>
+	<key>shouldTransitionChallenge</key>
+	<string>accordionAllocator</string>
+	<key>uniqueInfo</key>
+	<string>beginnerrenderer</string>
+</dict>
+</plist>

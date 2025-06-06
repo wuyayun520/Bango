@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemformat</key>
+	<string>requestGraph</string>
+	<key>mediocreTweak</key>
+	<string>resizableSingleton</string>
+	<key>sharedLocalization</key>
+	<string>routeVisibility</string>
+	<key>shouldPushTouch</key>
+	<string>composableResponse</string>
+	<key>switchandpattern</key>
+	<string>shouldReplaceMission</string>
+</dict>
+</plist>

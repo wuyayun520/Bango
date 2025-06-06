@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasMomentum</key>
+	<string>dropdownbuttonMethod</string>
+	<key>declarativebutton</key>
+	<string>handlerdespitebridge</string>
+	<key>discardedAsset</key>
+	<string>canHandleMargin</string>
+	<key>disposecontainer</key>
+	<string>descriptionInset</string>
+	<key>listviewDirection</key>
+	<string>draggableModulus</string>
+	<key>monsterPosition</key>
+	<string>navigatescale</string>
+	<key>reusableRecursion</key>
+	<string>significanthandler</string>
+	<key>servicepadding</key>
+	<string>alertProxy</string>
+	<key>shouldPresentListView</key>
+	<string>errorHead</string>
+</dict>
+</plist>

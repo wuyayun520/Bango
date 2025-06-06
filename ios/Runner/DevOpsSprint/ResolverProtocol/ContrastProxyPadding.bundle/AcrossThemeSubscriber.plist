@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyRecursion</key>
+	<string>layoutCheckbox</string>
+	<key>firstrestriction</key>
+	<string>specifierFramework</string>
+	<key>matrixskewy</key>
+	<string>tappableCubit</string>
+	<key>navigatorstageleft</key>
+	<string>introspectText</string>
+	<key>publicInteractor</key>
+	<string>configurationconsumption</string>
+	<key>shouldObserveDescriptor</key>
+	<string>accessibleAnimatedContainer</string>
+	<key>shouldpreparespot</key>
+	<string>tablemapper</string>
+	<key>staticObserver</key>
+	<string>consumerFunction</string>
+</dict>
+</plist>

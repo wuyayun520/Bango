@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedstorage</key>
+	<string>finishCoordinator</string>
+	<key>basicTraversal</key>
+	<string>tablealongmediator</string>
+	<key>fusedChart</key>
+	<string>allocatorInset</string>
+	<key>interactiveaccessory</key>
+	<string>annotatecompleter</string>
+	<key>rapidScheduler</key>
+	<string>emitterVelocity</string>
+	<key>secondPlayback</key>
+	<string>gesturedetectorVariable</string>
+	<key>tappableScroller</key>
+	<string>otherThroughput</string>
+</dict>
+</plist>

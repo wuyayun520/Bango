@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoDescriptor</key>
+	<string>evaluationCount</string>
+	<key>combinerInteraction</key>
+	<string>scrollableConnector</string>
+	<key>commonRectangle</key>
+	<string>secondMenu</string>
+	<key>dependencyduration</key>
+	<string>transitionMomentum</string>
+	<key>desktopTentative</key>
+	<string>navigateFlex</string>
+	<key>mediumMap</key>
+	<string>analyzeCubit</string>
+	<key>mobileConsumption</key>
+	<string>smallSpecifier</string>
+	<key>profilescene</key>
+	<string>reconcileGraph</string>
+	<key>requiredListener</key>
+	<string>shouldHandleMovement</string>
+</dict>
+</plist>

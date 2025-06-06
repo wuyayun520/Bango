@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSkin</key>
+	<string>operationtweak</string>
+	<key>commonFormat</key>
+	<string>cellDepth</string>
+	<key>iterativeIcon</key>
+	<string>tickerVisible</string>
+	<key>missedDecoration</key>
+	<string>canCreateMomentum</string>
+	<key>semanticsrequest</key>
+	<string>synchronouscharacter</string>
+	<key>smallchart</key>
+	<string>delegatedescription</string>
+</dict>
+</plist>

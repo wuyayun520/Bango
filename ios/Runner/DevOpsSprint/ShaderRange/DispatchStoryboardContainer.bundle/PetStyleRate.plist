@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasscroll</key>
+	<string>volumeSkewX</string>
+	<key>intuitiveConvolution</key>
+	<string>curverotation</string>
+	<key>liteTrajectory</key>
+	<string>materialSorter</string>
+	<key>referenceStyle</key>
+	<string>sortedBandwidth</string>
+	<key>shouldTransitionPriority</key>
+	<string>histogramDelay</string>
+	<key>shouldUnmountScreen</key>
+	<string>normalDetector</string>
+	<key>volumeDepth</key>
+	<string>arithmeticPattern</string>
+</dict>
+</plist>

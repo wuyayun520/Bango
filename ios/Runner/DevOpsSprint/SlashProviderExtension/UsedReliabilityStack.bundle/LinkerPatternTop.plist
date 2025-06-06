@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedBitrate</key>
+	<string>processorOffset</string>
+	<key>directlytabbar</key>
+	<string>storyboardPosition</string>
+	<key>shouldLoadLoss</key>
+	<string>shouldTransitionCursor</string>
+	<key>sophisticatedDisclaimer</key>
+	<string>clusterState</string>
+	<key>stateKind</key>
+	<string>ascentFormat</string>
+</dict>
+</plist>

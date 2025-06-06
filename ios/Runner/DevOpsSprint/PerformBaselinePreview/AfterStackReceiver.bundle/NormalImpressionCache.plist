@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMediaQuery</key>
+	<string>pauseTransition</string>
+	<key>basicModal</key>
+	<string>metadataoperationspacing</string>
+	<key>disconnectstep</key>
+	<string>reusableSubscriber</string>
+	<key>managerDelay</key>
+	<string>canDismissInkWell</string>
+	<key>processorPosition</key>
+	<string>insteadResource</string>
+	<key>sceneSize</key>
+	<string>durationbyenvironment</string>
+	<key>specifylifecycle</key>
+	<string>dynamicCheckbox</string>
+	<key>spotBottom</key>
+	<string>profileGrid</string>
+	<key>swiftDensity</key>
+	<string>bindInkWell</string>
+</dict>
+</plist>

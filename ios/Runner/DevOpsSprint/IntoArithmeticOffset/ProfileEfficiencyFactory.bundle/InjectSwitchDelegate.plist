@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultPriority</key>
+	<string>advancedIntegration</string>
+	<key>equivalentFormat</key>
+	<string>flexibleBinary</string>
+	<key>filterspeed</key>
+	<string>completionFlags</string>
+	<key>interactiveOccasion</key>
+	<string>symmetricThread</string>
+	<key>methodSkewY</key>
+	<string>unmountReference</string>
+	<key>statefulPublisher</key>
+	<string>shouldcancelappbar</string>
+	<key>taxonomypadding</key>
+	<string>tappableCosine</string>
+	<key>unbindmargin</key>
+	<string>shouldValidateScreen</string>
+	<key>webThroughput</key>
+	<string>embedLabel</string>
+</dict>
+</plist>

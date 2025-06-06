@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttontime</key>
+	<string>canValidateListView</string>
+	<key>firstSizedBox</key>
+	<string>canNotifyCompletion</string>
+	<key>interactiveCosine</key>
+	<string>sliderFlags</string>
+	<key>precisionBehavior</key>
+	<string>concurrentPrecision</string>
+	<key>protectedInjection</key>
+	<string>keyDistinction</string>
+	<key>scrollAcceleration</key>
+	<string>substantialMend</string>
+	<key>scrollEdge</key>
+	<string>buildSegue</string>
+	<key>shouldShowAxis</key>
+	<string>shouldPresentPrecision</string>
+	<key>skirtalignment</key>
+	<string>shouldPublishCosine</string>
+</dict>
+</plist>

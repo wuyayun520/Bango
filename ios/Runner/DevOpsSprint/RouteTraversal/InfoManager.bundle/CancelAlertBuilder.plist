@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoequalization</key>
+	<string>workflowCount</string>
+	<key>customMission</key>
+	<string>fusedLoader</string>
+	<key>explicitGrid</key>
+	<string>sanitizemediaquery</string>
+	<key>shouldValidateIcon</key>
+	<string>immutableGraph</string>
+</dict>
+</plist>

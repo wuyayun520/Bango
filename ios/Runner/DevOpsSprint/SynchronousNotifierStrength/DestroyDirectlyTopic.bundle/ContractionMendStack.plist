@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileEmitter</key>
+	<string>referenceLayer</string>
+	<key>delegateEdge</key>
+	<string>smartPromise</string>
+	<key>imperativeConsumption</key>
+	<string>unscheduleFuture</string>
+	<key>mainbrush</key>
+	<string>exitButton</string>
+	<key>reactiveConstraint</key>
+	<string>prepareSemantics</string>
+	<key>resizableobserver</key>
+	<string>nativeTime</string>
+	<key>semanticsTheme</key>
+	<string>canCancelAspectRatio</string>
+	<key>singletoninsideform</key>
+	<string>distinctionOrientation</string>
+	<key>subsequentDelegate</key>
+	<string>disabledCursor</string>
+</dict>
+</plist>

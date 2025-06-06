@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoExtension</key>
+	<string>connectEntropy</string>
+	<key>ephemeralModel</key>
+	<string>detectorContrast</string>
+	<key>inflateallocator</key>
+	<string>sinkappearance</string>
+	<key>momentumlocation</key>
+	<string>numericalmanager</string>
+	<key>playbackamortization</key>
+	<string>latencyOrigin</string>
+	<key>shouldStopProvider</key>
+	<string>playbackMediator</string>
+	<key>unregisterroute</key>
+	<string>sinecolor</string>
+</dict>
+</plist>

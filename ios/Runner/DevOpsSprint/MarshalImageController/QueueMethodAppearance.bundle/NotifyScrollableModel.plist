@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicIntensity</key>
+	<string>inheritedScale</string>
+	<key>prevThroughput</key>
+	<string>canPauseTouch</string>
+	<key>processdescriptor</key>
+	<string>utilstyle</string>
+</dict>
+</plist>

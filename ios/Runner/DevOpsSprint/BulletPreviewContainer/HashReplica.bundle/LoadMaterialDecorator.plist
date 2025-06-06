@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserInset</key>
+	<string>geometricanimator</string>
+	<key>gramOrientation</key>
+	<string>petProxy</string>
+	<key>immediateCompleter</key>
+	<string>methodStructure</string>
+	<key>responseVelocity</key>
+	<string>explicitListener</string>
+	<key>scaffoldtempleinteraction</key>
+	<string>baselineborder</string>
+	<key>schedulemedia</key>
+	<string>directlyButton</string>
+	<key>shouldConnectCheckbox</key>
+	<string>paddingBuffer</string>
+	<key>shouldLoadStack</key>
+	<string>curveOffset</string>
+	<key>typicalEvaluation</key>
+	<string>reductionFunction</string>
+</dict>
+</plist>

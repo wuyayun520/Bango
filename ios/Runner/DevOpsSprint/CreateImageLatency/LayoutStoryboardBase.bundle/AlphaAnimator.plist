@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyformat</key>
+	<string>nextCube</string>
+	<key>dividesink</key>
+	<string>unmarshalchannel</string>
+	<key>shouldDetachCell</key>
+	<string>disabledUnary</string>
+	<key>singleRenderer</key>
+	<string>plateOrientation</string>
+	<key>unsortedMetadata</key>
+	<string>techniqueInterval</string>
+</dict>
+</plist>

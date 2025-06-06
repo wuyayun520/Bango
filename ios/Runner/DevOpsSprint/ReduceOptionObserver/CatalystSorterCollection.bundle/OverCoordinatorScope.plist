@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferSkewY</key>
+	<string>hierarchicalLoop</string>
+	<key>fragmentDelay</key>
+	<string>vectorSize</string>
+	<key>protectedCapacity</key>
+	<string>transitionHead</string>
+	<key>shouldHandleThread</key>
+	<string>mountedHistogram</string>
+	<key>sortedEquivalent</key>
+	<string>compositionalPrecision</string>
+</dict>
+</plist>

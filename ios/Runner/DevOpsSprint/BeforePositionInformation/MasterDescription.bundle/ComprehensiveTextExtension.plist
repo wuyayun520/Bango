@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachecontextstyle</key>
+	<string>difficultEvent</string>
+	<key>gateDuration</key>
+	<string>subscribeMap</string>
+	<key>isbloc</key>
+	<string>canDisconnectCheckbox</string>
+	<key>nodemediatortint</key>
+	<string>canDismissInterpolation</string>
+	<key>publicVolume</key>
+	<string>significantAnalogy</string>
+	<key>routeShape</key>
+	<string>loadNotification</string>
+	<key>shouldRenderInstruction</key>
+	<string>significantMission</string>
+	<key>typicalTweak</key>
+	<string>persistentChart</string>
+</dict>
+</plist>

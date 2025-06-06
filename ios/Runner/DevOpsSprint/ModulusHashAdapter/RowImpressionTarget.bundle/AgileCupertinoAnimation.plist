@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarShade</key>
+	<string>shouldCacheDialogs</string>
+	<key>appendchart</key>
+	<string>requestpresenter</string>
+	<key>singleInfo</key>
+	<string>localizationinset</string>
+	<key>specifyExpanded</key>
+	<string>mutableborderdelay</string>
+	<key>visibleplaybacktail</key>
+	<string>dynamicCubit</string>
+</dict>
+</plist>

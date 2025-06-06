@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousSubscription</key>
+	<string>aperturekind</string>
+	<key>compositionalRouter</key>
+	<string>clipperCenter</string>
+	<key>draweracceleration</key>
+	<string>releaseEntity</string>
+	<key>formatintensity</key>
+	<string>shouldrenderpainter</string>
+	<key>invisibleParticle</key>
+	<string>litechooser</string>
+	<key>rapidcoordinatorspacing</key>
+	<string>cellMomentum</string>
+	<key>reflectobserver</key>
+	<string>canPersistNorm</string>
+	<key>shouldPushGestureDetector</key>
+	<string>sanitizeZone</string>
+	<key>shouldSaveRemainder</key>
+	<string>loaderBottom</string>
+	<key>sustainablePlate</key>
+	<string>tabviewParameter</string>
+</dict>
+</plist>

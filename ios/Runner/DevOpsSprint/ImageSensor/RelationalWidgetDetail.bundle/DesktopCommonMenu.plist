@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonError</key>
+	<string>compositiontexture</string>
+	<key>confidentialityInteraction</key>
+	<string>disconnectState</string>
+	<key>flexibleDimension</key>
+	<string>shouldParseTouch</string>
+	<key>provisionForce</key>
+	<string>interactorTransparency</string>
+	<key>tabviewfacadetail</key>
+	<string>mutableFragment</string>
+	<key>visibleTable</key>
+	<string>deferredMenu</string>
+</dict>
+</plist>

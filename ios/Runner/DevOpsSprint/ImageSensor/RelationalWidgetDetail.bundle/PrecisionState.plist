@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalGroup</key>
+	<string>globalTabBar</string>
+	<key>concreteTentative</key>
+	<string>radiusForm</string>
+	<key>constraintkindleft</key>
+	<string>titleValidation</string>
+	<key>defaultInteger</key>
+	<string>losssprite</string>
+	<key>inkwellCenter</key>
+	<string>shouldHandleStateful</string>
+	<key>nextAspect</key>
+	<string>apertureTag</string>
+	<key>shouldEmitRow</key>
+	<string>boxshadowfrompattern</string>
+	<key>shouldHandleFuture</key>
+	<string>keyMetrics</string>
+</dict>
+</plist>

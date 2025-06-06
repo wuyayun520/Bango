@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directClipper</key>
+	<string>shouldListenTangent</string>
+	<key>geometricOptimizer</key>
+	<string>baselineObserver</string>
+	<key>shouldPushAnimation</key>
+	<string>disconnectCard</string>
+	<key>usedEvent</key>
+	<string>polyfilledge</string>
+</dict>
+</plist>

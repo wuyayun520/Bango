@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMomentum</key>
+	<string>scaffoldDelay</string>
+	<key>disabledSlider</key>
+	<string>providerenvironmentposition</string>
+	<key>drawerorigin</key>
+	<string>publicSemantics</string>
+	<key>enabledSwitch</key>
+	<string>singletondecoratorappearance</string>
+	<key>hardConfiguration</key>
+	<string>shouldEmitMaterial</string>
+	<key>immediateUseCase</key>
+	<string>arithmeticPainter</string>
+	<key>loaderFrequency</key>
+	<string>sharedGate</string>
+	<key>nativeInteraction</key>
+	<string>crucialAnimatedContainer</string>
+	<key>seamlessSwift</key>
+	<string>positionedbeyondstage</string>
+	<key>visibleJoiner</key>
+	<string>reconcileMethod</string>
+</dict>
+</plist>

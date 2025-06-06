@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatelayer</key>
+	<string>fixedAlignment</string>
+	<key>annotateconfiguration</key>
+	<string>diffableReducer</string>
+	<key>detectorAlignment</key>
+	<string>addResponse</string>
+	<key>impressionAcceleration</key>
+	<string>seamlessresilience</string>
+	<key>materialData</key>
+	<string>shouldPrepareMaterial</string>
+	<key>priorLayout</key>
+	<string>subscribeHero</string>
+	<key>shouldProcessReference</key>
+	<string>mediocreGram</string>
+	<key>similarTechnique</key>
+	<string>appendBuffer</string>
+	<key>taskaroundtask</key>
+	<string>themeTier</string>
+	<key>thresholdSaturation</key>
+	<string>lazyelement</string>
+</dict>
+</plist>

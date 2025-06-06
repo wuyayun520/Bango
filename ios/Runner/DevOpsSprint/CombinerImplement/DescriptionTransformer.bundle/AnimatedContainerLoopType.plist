@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildresponse</key>
+	<string>pagerSkewX</string>
+	<key>disabledaspect</key>
+	<string>labelSpeed</string>
+	<key>euclideanawaitfeedback</key>
+	<string>respondasset</string>
+	<key>granularReliability</key>
+	<string>formatscale</string>
+	<key>handlerDensity</key>
+	<string>crudeMaterializer</string>
+	<key>shouldnavigatecontroller</key>
+	<string>handlerCenter</string>
+	<key>transitionevaluation</key>
+	<string>shouldDisconnectRole</string>
+</dict>
+</plist>

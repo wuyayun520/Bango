@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationborder</key>
+	<string>lossPrototype</string>
+	<key>keyRow</key>
+	<string>presentBrush</string>
+	<key>linkerorientation</key>
+	<string>cursorlayer</string>
+	<key>offsetresponder</key>
+	<string>unactivatedComposition</string>
+	<key>ondropdownbuttontap</key>
+	<string>shouldendtabbar</string>
+	<key>shouldSerializeNotifier</key>
+	<string>usedTimeline</string>
+	<key>smallLatency</key>
+	<string>requiredRemainder</string>
+</dict>
+</plist>

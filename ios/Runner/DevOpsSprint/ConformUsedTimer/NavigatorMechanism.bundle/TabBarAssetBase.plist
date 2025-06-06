@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>positionedperchain</key>
+	<string>attachBaseline</string>
+	<key>prevKernel</key>
+	<string>subscriptionorientation</string>
+	<key>rapidButton</key>
+	<string>shouldAttachAspect</string>
+	<key>shouldfetchbaseline</key>
+	<string>formatCard</string>
+</dict>
+</plist>

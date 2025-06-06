@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>rapidProtocol</key>
+	<string>fusedbuttonleft</string>
+	<key>shouldFormatTable</key>
+	<string>invisibleEvolution</string>
+	<key>shouldPublishVariant</key>
+	<string>routeconfiguration</string>
+	<key>singletonoflayer</key>
+	<string>stackPadding</string>
+</dict>
+</plist>

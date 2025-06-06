@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionStore</key>
+	<string>pushCustomPaint</string>
+	<key>backwardsearcher</key>
+	<string>custompaintFunction</string>
+	<key>collectionrate</key>
+	<string>cursoradapterforce</string>
+	<key>criticalRange</key>
+	<string>regulateListener</string>
+	<key>greatColor</key>
+	<string>positionName</string>
+	<key>shouldDismissPageView</key>
+	<string>shouldNavigateGift</string>
+	<key>uniformoffset</key>
+	<string>markContainer</string>
+	<key>unsortedRemainder</key>
+	<string>limitInteractor</string>
+</dict>
+</plist>

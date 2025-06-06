@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedScroll</key>
+	<string>publicImage</string>
+	<key>assettag</key>
+	<string>easyText</string>
+	<key>declarativeExpanded</key>
+	<string>observeComposition</string>
+	<key>resilientDescriptor</key>
+	<string>elasticityName</string>
+	<key>respectiveMultiplication</key>
+	<string>euclideanMusic</string>
+	<key>shouldContinueCapsule</key>
+	<string>inflaterow</string>
+	<key>stopinterpolation</key>
+	<string>resultTheme</string>
+</dict>
+</plist>

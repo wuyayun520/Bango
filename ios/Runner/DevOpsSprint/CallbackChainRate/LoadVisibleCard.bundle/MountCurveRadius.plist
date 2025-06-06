@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeSign</key>
+	<string>canObservePlate</string>
+	<key>interpolatemanager</key>
+	<string>inflateConvolution</string>
+	<key>listenerInterval</key>
+	<string>canProcessGestureDetector</string>
+	<key>robusteffect</key>
+	<string>shouldObserveGate</string>
+	<key>shouldContinueGate</key>
+	<string>consultativetentative</string>
+	<key>shouldParseRichText</key>
+	<string>shouldDispatchArithmetic</string>
+	<key>shouldPresentSizedBox</key>
+	<string>servicelocation</string>
+</dict>
+</plist>

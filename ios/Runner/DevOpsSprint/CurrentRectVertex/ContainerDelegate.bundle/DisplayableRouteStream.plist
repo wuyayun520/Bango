@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalEmitter</key>
+	<string>anchorTheme</string>
+	<key>heapVisible</key>
+	<string>usedindicatormargin</string>
+	<key>hyperbolicRichText</key>
+	<string>updateAsset</string>
+	<key>respondobserver</key>
+	<string>alertfrequency</string>
+	<key>shouldTrainUnary</key>
+	<string>associatedEqualization</string>
+	<key>streamlikelevel</key>
+	<string>replaceService</string>
+</dict>
+</plist>

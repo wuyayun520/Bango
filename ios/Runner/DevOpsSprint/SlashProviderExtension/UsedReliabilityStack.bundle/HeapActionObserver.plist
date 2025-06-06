@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interpolateentity</key>
+	<string>sortedNib</string>
+	<key>quantizationborder</key>
+	<string>extensioncapacity</string>
+	<key>resizemission</key>
+	<string>buttonBuffer</string>
+	<key>shouldPaintTheme</key>
+	<string>statefulScope</string>
+	<key>symmetricDetail</key>
+	<string>defaultanimation</string>
+</dict>
+</plist>

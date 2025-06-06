@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeModal</key>
+	<string>animateInstruction</string>
+	<key>adjustpresenter</key>
+	<string>hierarchicalPresenter</string>
+	<key>comprehensiveResult</key>
+	<string>canRenderCursor</string>
+	<key>mobilescenario</key>
+	<string>commonInfo</string>
+	<key>prevStack</key>
+	<string>awaitDensity</string>
+	<key>shouldKeepLogarithm</key>
+	<string>syncAwait</string>
+	<key>spotinsideflyweight</key>
+	<string>uniformItem</string>
+</dict>
+</plist>

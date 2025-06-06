@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurenotification</key>
+	<string>shouldPauseInstruction</string>
+	<key>largeShader</key>
+	<string>eventOpacity</string>
+	<key>liteentity</key>
+	<string>continuegram</string>
+	<key>modalatflyweight</key>
+	<string>canAttachTool</string>
+	<key>positionconstant</key>
+	<string>uniformMapper</string>
+	<key>resizableDimension</key>
+	<string>rectifyTopic</string>
+	<key>typicalDetail</key>
+	<string>clipperValidation</string>
+	<key>utilBrightness</key>
+	<string>displayableAspectRatio</string>
+	<key>yieldpreview</key>
+	<string>singleEmitter</string>
+</dict>
+</plist>

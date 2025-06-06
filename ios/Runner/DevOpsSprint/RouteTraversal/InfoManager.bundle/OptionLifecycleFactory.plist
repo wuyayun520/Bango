@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveScroller</key>
+	<string>widgetcolor</string>
+	<key>controllerspeed</key>
+	<string>publicJoiner</string>
+	<key>coordinatororientation</key>
+	<string>navigatorLocation</string>
+	<key>declarativeChallenge</key>
+	<string>shouldCancelCell</string>
+	<key>shouldcachebatch</key>
+	<string>visitBuilder</string>
+	<key>sorterFrequency</key>
+	<string>provisionPadding</string>
+	<key>specifymetadatacenter</key>
+	<string>inflateExpanded</string>
+	<key>tentativename</key>
+	<string>rapidUtil</string>
+	<key>visibleRenderer</key>
+	<string>notifierStatus</string>
+</dict>
+</plist>

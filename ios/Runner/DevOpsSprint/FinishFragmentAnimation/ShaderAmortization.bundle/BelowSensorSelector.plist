@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateremediation</key>
+	<string>fixedDecoration</string>
+	<key>listenpriority</key>
+	<string>isolateskewy</string>
+	<key>publicloss</key>
+	<string>objectName</string>
+	<key>shouldCreateBitrate</key>
+	<string>synchronousSpot</string>
+	<key>shouldListenGrayscale</key>
+	<string>shouldRouteEntropy</string>
+	<key>unsortedSymbol</key>
+	<string>isolateJob</string>
+</dict>
+</plist>

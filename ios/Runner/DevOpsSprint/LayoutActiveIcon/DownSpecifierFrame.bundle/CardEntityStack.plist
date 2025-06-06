@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCapsule</key>
+	<string>providerFrequency</string>
+	<key>directGesture</key>
+	<string>cellagainstparameter</string>
+	<key>greatData</key>
+	<string>equipmentLevel</string>
+	<key>greatThroughput</key>
+	<string>makelistview</string>
+</dict>
+</plist>

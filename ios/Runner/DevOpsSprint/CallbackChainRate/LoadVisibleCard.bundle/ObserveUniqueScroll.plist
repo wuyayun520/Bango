@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistdistance</key>
+	<string>autoMonster</string>
+	<key>cosineEdge</key>
+	<string>agileBandwidth</string>
+	<key>gemvelocity</key>
+	<string>interactionstatus</string>
+	<key>layercolor</key>
+	<string>diversifiedMap</string>
+	<key>nextInteraction</key>
+	<string>requestTag</string>
+	<key>workflowcommandposition</key>
+	<string>canPresentCatalyst</string>
+</dict>
+</plist>

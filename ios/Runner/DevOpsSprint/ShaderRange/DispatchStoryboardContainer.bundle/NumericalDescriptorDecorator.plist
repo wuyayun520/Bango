@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelKind</key>
+	<string>statefulGridView</string>
+	<key>lazyLogarithm</key>
+	<string>optimizeTransformer</string>
+	<key>polygonFormat</key>
+	<string>popupDepth</string>
+	<key>publicLayer</key>
+	<string>appendStore</string>
+	<key>shouldCreateStateful</key>
+	<string>shouldNotifyView</string>
+	<key>shouldSaveStateless</key>
+	<string>tensorAllocator</string>
+	<key>sinkframeworkkind</key>
+	<string>shouldContinueSample</string>
+	<key>spritelevelvelocity</key>
+	<string>fixedSpine</string>
+	<key>staticException</key>
+	<string>shouldContinueSession</string>
+</dict>
+</plist>

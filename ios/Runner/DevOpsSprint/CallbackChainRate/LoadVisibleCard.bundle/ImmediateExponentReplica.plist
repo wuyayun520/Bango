@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCubit</key>
+	<string>sinkspeed</string>
+	<key>interpolatecard</key>
+	<string>concurrentdimension</string>
+	<key>labelTail</key>
+	<string>restartNotification</string>
+	<key>methodPadding</key>
+	<string>cacheVar</string>
+	<key>temporarycombiner</key>
+	<string>expandedkind</string>
+</dict>
+</plist>

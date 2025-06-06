@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityOffset</key>
+	<string>baselineDepth</string>
+	<key>gestureMomentum</key>
+	<string>connectcatalyst</string>
+	<key>largeRange</key>
+	<string>eagerScale</string>
+	<key>localtrajectory</key>
+	<string>parseSpot</string>
+	<key>notifiercubit</key>
+	<string>statelessprojectskewy</string>
+	<key>providerrecursion</key>
+	<string>crudeShader</string>
+	<key>resetevent</key>
+	<string>tensorSkirt</string>
+</dict>
+</plist>

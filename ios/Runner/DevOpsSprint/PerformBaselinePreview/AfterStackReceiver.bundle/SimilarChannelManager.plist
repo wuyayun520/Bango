@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultMedia</key>
+	<string>canHandleAxis</string>
+	<key>layoutprofile</key>
+	<string>sequentialLatency</string>
+	<key>notifierdepth</key>
+	<string>endAnimatedContainer</string>
+	<key>otherChannels</key>
+	<string>canAnimateDropdownButton</string>
+	<key>publicTool</key>
+	<string>reactiveGraph</string>
+	<key>reductionsound</key>
+	<string>relationalCustomPaint</string>
+	<key>tensorInterpolation</key>
+	<string>metadatadistinction</string>
+	<key>usedLoop</key>
+	<string>finishEntropy</string>
+	<key>visibleTopic</key>
+	<string>unlockNode</string>
+</dict>
+</plist>

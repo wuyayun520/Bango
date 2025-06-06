@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetOpacity</key>
+	<string>threadappearance</string>
+	<key>cupertinoResponse</key>
+	<string>lifecycleAppearance</string>
+	<key>hasScale</key>
+	<string>adaptivecapacitiesskewx</string>
+	<key>ignoredDisclaimer</key>
+	<string>reactiveGridView</string>
+	<key>mechanismLeft</key>
+	<string>ephemeralCharacter</string>
+	<key>requestcoordinator</key>
+	<string>awaitNumber</string>
+	<key>ternaryCount</key>
+	<string>popBox</string>
+	<key>touchFeedback</key>
+	<string>mainScalability</string>
+	<key>unsortedloader</key>
+	<string>compositionRate</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorMomentum</key>
+	<string>statelessQuaternion</string>
+	<key>callbackresponse</key>
+	<string>statefulFrame</string>
+	<key>enabledRequest</key>
+	<string>navigateFrame</string>
+	<key>layoutduration</key>
+	<string>disconnectcompleter</string>
+	<key>scaffoldAppearance</key>
+	<string>checkboxStrategy</string>
+	<key>shouldcreatebehavior</key>
+	<string>consultativeContainer</string>
+	<key>unactivatedContrast</key>
+	<string>smartSizedBox</string>
+</dict>
+</plist>

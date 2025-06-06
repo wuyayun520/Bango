@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderTransparency</key>
+	<string>visibleBase</string>
+	<key>capacityPressure</key>
+	<string>associatedMetrics</string>
+	<key>controlleraspect</key>
+	<string>providerpermutation</string>
+	<key>fragmentsState</key>
+	<string>reducerContrast</string>
+	<key>grainInset</key>
+	<string>computeRequest</string>
+	<key>nativeTicker</key>
+	<string>desktopScreen</string>
+	<key>parallelCycle</key>
+	<string>clusterOpacity</string>
+	<key>scaffoldValidation</key>
+	<string>unmountCycle</string>
+	<key>shouldNavigateRow</key>
+	<string>notifyboxshadow</string>
+</dict>
+</plist>

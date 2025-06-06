@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterlayerinset</key>
+	<string>difficultMission</string>
+	<key>dedicatedAnchor</key>
+	<string>staticNotifier</string>
+	<key>durationCount</key>
+	<string>initializestateful</string>
+	<key>easyDrawer</key>
+	<string>respectiveAppBar</string>
+	<key>graphicfromcontext</key>
+	<string>associatedSound</string>
+	<key>integrationFeedback</key>
+	<string>pushAlignment</string>
+	<key>reusableconfidentiality</key>
+	<string>partitionEvent</string>
+	<key>standaloneTimeline</key>
+	<string>eventAlignment</string>
+</dict>
+</plist>

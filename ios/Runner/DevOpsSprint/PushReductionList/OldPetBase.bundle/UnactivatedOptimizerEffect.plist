@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalTangent</key>
+	<string>symmetricLocalization</string>
+	<key>dynamicNorm</key>
+	<string>updateCustomPaint</string>
+	<key>integerName</key>
+	<string>operationappearance</string>
+	<key>interactiveRemediation</key>
+	<string>canCreateDropdownButton</string>
+	<key>permissiveMechanism</key>
+	<string>shouldMountedDelegate</string>
+	<key>recursionSkewY</key>
+	<string>delegateRepository</string>
+</dict>
+</plist>

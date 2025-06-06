@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCaption</key>
+	<string>canConnectCache</string>
+	<key>associatedShader</key>
+	<string>canNavigateReference</string>
+	<key>buttonincomposite</key>
+	<string>selectedmaterial</string>
+	<key>concurrentConsumer</key>
+	<string>syncScene</string>
+	<key>constraintnearmemento</key>
+	<string>projectionconsumption</string>
+	<key>currentQueue</key>
+	<string>canYieldMission</string>
+	<key>shouldPauseNorm</key>
+	<string>filterTint</string>
+	<key>shouldResumeReduction</key>
+	<string>shouldDetachSpecifier</string>
+	<key>staticStorage</key>
+	<string>isAperture</string>
+</dict>
+</plist>

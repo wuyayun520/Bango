@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTrajectory</key>
+	<string>draggablesizeinterval</string>
+	<key>decorationlifecycle</key>
+	<string>dispatchbinary</string>
+	<key>responsiveusecase</key>
+	<string>restartStream</string>
+	<key>shouldCreateCurve</key>
+	<string>shouldRouteStep</string>
+	<key>shouldKeepChecklist</key>
+	<string>reductionCount</string>
+</dict>
+</plist>

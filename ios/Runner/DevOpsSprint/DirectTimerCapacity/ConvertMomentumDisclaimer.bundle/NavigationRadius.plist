@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorindex</key>
+	<string>interactorTag</string>
+	<key>enabledButton</key>
+	<string>smartInstruction</string>
+	<key>nibBorder</key>
+	<string>rectorigin</string>
+	<key>normalcontraction</key>
+	<string>normalGrid</string>
+	<key>scrollableMargin</key>
+	<string>documentMomentum</string>
+	<key>subtleDelivery</key>
+	<string>easyReplica</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorframe</key>
+	<string>disconnectAction</string>
+	<key>dynamicalphahue</key>
+	<string>vectorPadding</string>
+	<key>gridviewcontrast</key>
+	<string>gridviewInteraction</string>
+	<key>invisibleSubscriber</key>
+	<string>opaqueIntensity</string>
+	<key>presenttext</key>
+	<string>symmetricFlex</string>
+	<key>remainderInset</key>
+	<string>brushIndex</string>
+	<key>resilientSemantics</key>
+	<string>streamExpanded</string>
+	<key>responseorientation</key>
+	<string>canFormatInteger</string>
+	<key>shouldShowGraphic</key>
+	<string>interfaceTop</string>
+</dict>
+</plist>

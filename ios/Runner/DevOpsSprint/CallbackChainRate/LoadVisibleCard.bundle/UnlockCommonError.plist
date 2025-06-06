@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityorientation</key>
+	<string>deferredCell</string>
+	<key>autoPager</key>
+	<string>objectFlags</string>
+	<key>boxshadowDelay</key>
+	<string>pagerOffset</string>
+	<key>cartesianFeature</key>
+	<string>canPublishMonster</string>
+	<key>cubitkinddirection</key>
+	<string>injectProvider</string>
+	<key>customframe</key>
+	<string>responseInteraction</string>
+	<key>dedicatedResponse</key>
+	<string>generateGrid</string>
+	<key>hardSorter</key>
+	<string>shouldlistenrole</string>
+	<key>prevNavigation</key>
+	<string>oldStream</string>
+	<key>previewTint</key>
+	<string>shouldSetStateCustomPaint</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapasync</key>
+	<string>canUnmountScreen</string>
+	<key>nativeoffsetvelocity</key>
+	<string>pendingSlider</string>
+	<key>opaqueComposition</key>
+	<string>shearFeature</string>
+	<key>shouldProcessDialogs</key>
+	<string>tablePadding</string>
+	<key>shouldSubscribeSegment</key>
+	<string>asynchronousImpact</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMesh</key>
+	<string>modulusscale</string>
+	<key>hasmediaquery</key>
+	<string>currentlossfeedback</string>
+	<key>lossAcceleration</key>
+	<string>mainLifecycle</string>
+	<key>obtainbuffer</key>
+	<string>orchestrateResource</string>
+	<key>requestdecoratorbottom</key>
+	<string>crucialBinary</string>
+	<key>robustCapsule</key>
+	<string>shaderParameter</string>
+	<key>robustRoute</key>
+	<string>canContinueCompletion</string>
+	<key>shouldconnectchallenge</key>
+	<string>canSkipConvolution</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonConnector</key>
+	<string>greatExtension</string>
+	<key>heroSkewY</key>
+	<string>sequentialstroke</string>
+	<key>newestChallenge</key>
+	<string>endCursor</string>
+	<key>normalpreviewvalidation</key>
+	<string>nextAudio</string>
+	<key>sizedboxdisclaimer</key>
+	<string>pivotalStrength</string>
+	<key>spotmargin</key>
+	<string>agileIsolate</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDuration</key>
+	<string>canDeserializeDelegate</string>
+	<key>activeAxis</key>
+	<string>listenMember</string>
+	<key>activitywithbridge</key>
+	<string>prevProfile</string>
+	<key>decouplestep</key>
+	<string>registerZone</string>
+	<key>lazyAlignment</key>
+	<string>canRebuildHistogram</string>
+	<key>mergerFeedback</key>
+	<string>concreteTable</string>
+	<key>prismaticSearcher</key>
+	<string>formatModulus</string>
+	<key>profileprocesstransparency</key>
+	<string>shouldSaveChecklist</string>
+	<key>shouldEmitChannels</key>
+	<string>mountGesture</string>
+</dict>
+</plist>

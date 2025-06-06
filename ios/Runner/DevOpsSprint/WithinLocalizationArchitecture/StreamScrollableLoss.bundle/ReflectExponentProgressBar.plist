@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateNotifier</key>
+	<string>loopScale</string>
+	<key>lastTrigger</key>
+	<string>independentThreshold</string>
+	<key>priorDialogs</key>
+	<string>eagerDrawer</string>
+	<key>visibleMargin</key>
+	<string>dividecurve</string>
+</dict>
+</plist>

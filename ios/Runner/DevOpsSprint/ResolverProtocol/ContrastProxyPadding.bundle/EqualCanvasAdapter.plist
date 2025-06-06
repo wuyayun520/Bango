@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assettheme</key>
+	<string>serializePainter</string>
+	<key>columnRotation</key>
+	<string>bufferleft</string>
+	<key>elasticMenu</key>
+	<string>singleResponse</string>
+	<key>gridviewdistance</key>
+	<string>shouldUpdateSkin</string>
+	<key>interactiveOperation</key>
+	<string>canPopNotification</string>
+	<key>notifierTransparency</key>
+	<string>transitiondespitescope</string>
+	<key>observerSkewX</key>
+	<string>protectedLayer</string>
+	<key>shouldYieldConvolution</key>
+	<string>rowcommandacceleration</string>
+</dict>
+</plist>

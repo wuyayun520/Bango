@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultNotification</key>
+	<string>permanentRequest</string>
+	<key>functionaldelegateinteraction</key>
+	<string>threadProxy</string>
+	<key>heapfrequency</key>
+	<string>discoverTransformer</string>
+	<key>labelrenderer</key>
+	<string>synchronousContrast</string>
+	<key>permanentClipper</key>
+	<string>otherRepository</string>
+	<key>specifyGraph</key>
+	<string>checkStream</string>
+	<key>storedespiteproxy</key>
+	<string>unmountGift</string>
+</dict>
+</plist>

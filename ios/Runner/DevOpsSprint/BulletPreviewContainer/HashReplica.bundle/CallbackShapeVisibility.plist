@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>impressionDirection</key>
+	<string>storagebeyondmode</string>
+	<key>independentanimationstyle</key>
+	<string>immutableLocalization</string>
+	<key>litedecoration</key>
+	<string>shouldSaveInteger</string>
+	<key>missionInset</key>
+	<string>colorhead</string>
+	<key>sustainableMapper</key>
+	<string>exceptionuntilmediator</string>
+	<key>transitionmodetheme</key>
+	<string>featureSkewX</string>
+</dict>
+</plist>

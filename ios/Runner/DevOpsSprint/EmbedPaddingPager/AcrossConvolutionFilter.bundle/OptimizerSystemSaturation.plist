@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderRotation</key>
+	<string>canMountChallenge</string>
+	<key>catalystVisibility</key>
+	<string>recursionDelay</string>
+	<key>fetchawait</key>
+	<string>mediocreProgressBar</string>
+	<key>normalProfile</key>
+	<string>yieldPoint</string>
+	<key>shouldDispatchNib</key>
+	<string>canHandlePet</string>
+	<key>singletonTheme</key>
+	<string>selectedTabBar</string>
+</dict>
+</plist>

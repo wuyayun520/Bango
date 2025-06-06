@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionFragments</key>
+	<string>smallkernelkind</string>
+	<key>containerDistance</key>
+	<string>pinchableGrid</string>
+	<key>delicateInterpolation</key>
+	<string>flexibleDescent</string>
+	<key>lazyCharacteristic</key>
+	<string>secondBandwidth</string>
+	<key>searcheralignment</key>
+	<string>soundOffset</string>
+	<key>shouldDispatchRemainder</key>
+	<string>nextStream</string>
+	<key>shouldtraincompletion</key>
+	<string>specifierJob</string>
+	<key>similarCapacity</key>
+	<string>crudeDescriptor</string>
+	<key>spotForce</key>
+	<string>canConnectInstruction</string>
+	<key>usedStatus</key>
+	<string>mainpreview</string>
+</dict>
+</plist>

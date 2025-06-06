@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyCount</key>
+	<string>intuitiveAxis</string>
+	<key>layerBrightness</key>
+	<string>directTolerance</string>
+	<key>scaffoldSpeed</key>
+	<string>enabledTicker</string>
+	<key>textfieldtheme</key>
+	<string>adaptiveChannel</string>
+</dict>
+</plist>

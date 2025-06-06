@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeProvision</key>
+	<string>enabledException</string>
+	<key>numericalVector</key>
+	<string>activeInteraction</string>
+	<key>persistentdialogs</key>
+	<string>nibParameter</string>
+	<key>selectedbrush</key>
+	<string>tabviewimpression</string>
+	<key>shouldRestartGram</key>
+	<string>minKernel</string>
+	<key>shouldShowBrush</key>
+	<string>canSaveSpot</string>
+	<key>shouldpersistmodulus</key>
+	<string>channelviacomposite</string>
+	<key>shouldstartstateless</key>
+	<string>accessibleTextField</string>
+	<key>sortedCallback</key>
+	<string>directBandwidth</string>
+	<key>uniformSplitter</key>
+	<string>canTransformCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observerspacing</key>
+	<string>arithmeticPadding</string>
+	<key>opaqueMaterial</key>
+	<string>arithmeticInset</string>
+	<key>precisionTop</key>
+	<string>canLayoutRadio</string>
+	<key>prismaticConsumer</key>
+	<string>singletonDepth</string>
+	<key>reflectloop</key>
+	<string>typicalPrecision</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchmodetheme</key>
+	<string>greatRectangle</string>
+	<key>cupertinoProvision</key>
+	<string>shouldProcessChallenge</string>
+	<key>detachoffset</key>
+	<string>selectorBorder</string>
+	<key>newestSkin</key>
+	<string>mobilecount</string>
+	<key>remainderDensity</key>
+	<string>interactiveSymbol</string>
+	<key>sharedPosition</key>
+	<string>ephemeralAspectRatio</string>
+</dict>
+</plist>

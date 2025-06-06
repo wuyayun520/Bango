@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionInjection</key>
+	<string>shouldKeepView</string>
+	<key>converterCenter</key>
+	<string>shouldDetachRichText</string>
+	<key>delicateequivalent</key>
+	<string>globalpadding</string>
+	<key>discardedMethod</key>
+	<string>sliderFlags</string>
+	<key>fusedCallback</key>
+	<string>unmarshalTexture</string>
+	<key>globalScheduler</key>
+	<string>sequentialListener</string>
+	<key>reactiveNotification</key>
+	<string>cartesianTheme</string>
+	<key>reflectdrawer</key>
+	<string>canEndStoryboard</string>
+	<key>subscribecosine</key>
+	<string>shouldEncodeSymbol</string>
+	<key>tensorChart</key>
+	<string>showText</string>
+</dict>
+</plist>

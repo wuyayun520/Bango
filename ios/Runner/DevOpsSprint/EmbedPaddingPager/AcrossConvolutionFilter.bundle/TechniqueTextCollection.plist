@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerNotifier</key>
+	<string>standaloneInterface</string>
+	<key>crucialConstraint</key>
+	<string>shouldListenCustomPaint</string>
+	<key>integerOffset</key>
+	<string>discardedPolyfill</string>
+	<key>shouldFetchTask</key>
+	<string>unsortedExponent</string>
+	<key>skinmanager</key>
+	<string>imperativePoint</string>
+</dict>
+</plist>

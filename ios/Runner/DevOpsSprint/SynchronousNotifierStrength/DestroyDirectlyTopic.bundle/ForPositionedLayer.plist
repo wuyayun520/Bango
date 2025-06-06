@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentShade</key>
+	<string>loaderTransparency</string>
+	<key>materialworkflow</key>
+	<string>keyGroup</string>
+	<key>protocolHue</key>
+	<string>adaptiverect</string>
+	<key>replicaOpacity</key>
+	<string>routerPressure</string>
+	<key>resourcetrajectory</key>
+	<string>lazyGridView</string>
+	<key>screenCenter</key>
+	<string>mountFragment</string>
+	<key>staticPolyfill</key>
+	<string>contrastLocation</string>
+	<key>visibleradiosize</key>
+	<string>mediumPoint</string>
+</dict>
+</plist>

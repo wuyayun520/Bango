@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryDistance</key>
+	<string>layoutInterval</string>
+	<key>interactiveWidget</key>
+	<string>extendProvider</string>
+	<key>playbackvector</key>
+	<string>constraintresponse</string>
+	<key>shouldTransformCanvas</key>
+	<string>futurePressure</string>
+	<key>similarBaseline</key>
+	<string>responsiveCharacter</string>
+	<key>spinetriangles</key>
+	<string>validateComposition</string>
+</dict>
+</plist>

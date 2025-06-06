@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleratevector</key>
+	<string>robustCharacter</string>
+	<key>beginnerTicker</key>
+	<string>canProcessTable</string>
+	<key>bufferpadding</key>
+	<string>factoryForce</string>
+	<key>ephemeralCreator</key>
+	<string>listenDuration</string>
+	<key>fusedDialogs</key>
+	<string>shouldRebuildContainer</string>
+	<key>groupplatformstatus</key>
+	<string>shouldbuildslash</string>
+	<key>intermediatepromiseskewy</key>
+	<string>providertolerance</string>
+	<key>nativeNotation</key>
+	<string>paddingOrigin</string>
+</dict>
+</plist>

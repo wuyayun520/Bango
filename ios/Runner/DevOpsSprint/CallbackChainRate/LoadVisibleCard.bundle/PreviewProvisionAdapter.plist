@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffervalueskewx</key>
+	<string>batchVar</string>
+	<key>concreteHistogram</key>
+	<string>customElasticity</string>
+	<key>crudeThroughput</key>
+	<string>similarBinary</string>
+	<key>diffableBuilder</key>
+	<string>equalMenu</string>
+	<key>informationstate</key>
+	<string>iterativeMomentum</string>
+	<key>intuitiveRow</key>
+	<string>granulardelegatetype</string>
+	<key>iterativeMenu</key>
+	<string>progressbarkindvisible</string>
+	<key>permissiveExpanded</key>
+	<string>evolutionColor</string>
+	<key>persistentStamp</key>
+	<string>shouldCancelSegment</string>
+</dict>
+</plist>

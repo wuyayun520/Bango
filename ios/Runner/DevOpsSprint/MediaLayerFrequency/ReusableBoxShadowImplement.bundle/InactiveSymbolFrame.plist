@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildernumbervisible</key>
+	<string>selectedWorkflow</string>
+	<key>chooserBottom</key>
+	<string>materialparameterfeedback</string>
+	<key>directlyStore</key>
+	<string>signaturejoboffset</string>
+	<key>inactiveBullet</key>
+	<string>intuitiveloop</string>
+	<key>numericalLabel</key>
+	<string>missionActivity</string>
+	<key>parallelPopup</key>
+	<string>requiredTrigger</string>
+	<key>singleInformation</key>
+	<string>shouldsavecomposition</string>
+	<key>singletondistance</key>
+	<string>embraceStorage</string>
+	<key>unsortedContraction</key>
+	<string>mediumMission</string>
+	<key>videoFeedback</key>
+	<string>comprehensivewidget</string>
+</dict>
+</plist>

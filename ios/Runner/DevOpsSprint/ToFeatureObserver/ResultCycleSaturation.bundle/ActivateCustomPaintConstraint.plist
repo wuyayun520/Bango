@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEvaluation</key>
+	<string>histogramDensity</string>
+	<key>commonTouch</key>
+	<string>baseSkewY</string>
+	<key>modelResponse</key>
+	<string>autoInjection</string>
+	<key>mountedroute</key>
+	<string>isDropdownButton</string>
+	<key>rectifydecoration</key>
+	<string>similarobserver</string>
+	<key>scrollSpacing</key>
+	<string>viewawait</string>
+</dict>
+</plist>

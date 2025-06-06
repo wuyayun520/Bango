@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactivecertificate</key>
+	<string>shouldEmitTransition</string>
+	<key>modelaudio</key>
+	<string>statemode</string>
+	<key>screenacceleration</key>
+	<string>mapAcceleration</string>
+	<key>semanticExtension</key>
+	<string>paintScroll</string>
+	<key>shouldDisposeSubpixel</key>
+	<string>seamlessStore</string>
+	<key>skirtBottom</key>
+	<string>logarithmMethod</string>
+	<key>transitionbytier</key>
+	<string>materializeStorage</string>
+</dict>
+</plist>

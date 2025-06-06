@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directAnchor</key>
+	<string>concreteBaseline</string>
+	<key>invisiblelayout</key>
+	<string>shouldBindMedia</string>
+	<key>mechanismmargin</key>
+	<string>invisibleTouch</string>
+	<key>shouldFinishSession</key>
+	<string>builderBorder</string>
+	<key>shouldInflateContraction</key>
+	<string>displayableOverlay</string>
+	<key>sustainablequeue</key>
+	<string>keepSemantics</string>
+</dict>
+</plist>

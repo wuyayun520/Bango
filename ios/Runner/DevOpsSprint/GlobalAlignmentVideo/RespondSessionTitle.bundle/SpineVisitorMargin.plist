@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoEntity</key>
+	<string>intuitiveBrush</string>
+	<key>customizedCache</key>
+	<string>detailStyle</string>
+	<key>mediaqueryvalidation</key>
+	<string>dispatchSemantics</string>
+	<key>popupnumbercenter</key>
+	<string>inheritedWorkflow</string>
+	<key>shouldCancelSymbol</key>
+	<string>shouldCacheVariant</string>
+	<key>unactivatedReference</key>
+	<string>rendererMomentum</string>
+</dict>
+</plist>

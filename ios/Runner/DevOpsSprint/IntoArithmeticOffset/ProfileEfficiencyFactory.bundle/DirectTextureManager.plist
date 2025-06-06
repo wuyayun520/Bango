@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitymodule</key>
+	<string>ephemeralCheckbox</string>
+	<key>firstRenderer</key>
+	<string>numericalCallback</string>
+	<key>instructionResponse</key>
+	<string>resilientProcessor</string>
+	<key>interpolatetext</key>
+	<string>accelerateBuilder</string>
+	<key>pinchableExtension</key>
+	<string>sortedCharacter</string>
+	<key>shouldPaintComposition</key>
+	<string>observermaterial</string>
+</dict>
+</plist>

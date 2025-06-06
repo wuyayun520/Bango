@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantBehavior</key>
+	<string>rapidData</string>
+	<key>consultativeActivity</key>
+	<string>lazyLoop</string>
+	<key>disparategrayscalevisibility</key>
+	<string>canInflateOverlay</string>
+	<key>globalEffect</key>
+	<string>stepVisibility</string>
+	<key>localPolyfill</key>
+	<string>aspectratiovalidation</string>
+	<key>loopInterval</key>
+	<string>parallelStream</string>
+	<key>rowforcomposite</key>
+	<string>canDetachInteger</string>
+</dict>
+</plist>

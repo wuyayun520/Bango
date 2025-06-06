@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSwitch</key>
+	<string>canCreateExtension</string>
+	<key>comprehensiveMap</key>
+	<string>shouldEndAccessory</string>
+	<key>denseInteractor</key>
+	<string>canFetchCaption</string>
+	<key>mobileAscent</key>
+	<string>shouldReplaceSwift</string>
+	<key>statefuldespitebridge</key>
+	<string>converterSkewY</string>
+</dict>
+</plist>

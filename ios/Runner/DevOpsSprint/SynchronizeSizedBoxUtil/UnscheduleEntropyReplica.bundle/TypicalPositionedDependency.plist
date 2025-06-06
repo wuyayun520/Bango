@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedusecase</key>
+	<string>inheritedScene</string>
+	<key>fixedBandwidth</key>
+	<string>introspectMetadata</string>
+	<key>fusedCupertino</key>
+	<string>titleStage</string>
+	<key>imperativeTimer</key>
+	<string>hierarchicalInfo</string>
+	<key>iterativeCache</key>
+	<string>triggerDepth</string>
+	<key>radiusName</key>
+	<string>cacheNavigation</string>
+	<key>shouldRouteSubpixel</key>
+	<string>canAttachPriority</string>
+	<key>shouldShowGraphic</key>
+	<string>visibleQuaternion</string>
+</dict>
+</plist>

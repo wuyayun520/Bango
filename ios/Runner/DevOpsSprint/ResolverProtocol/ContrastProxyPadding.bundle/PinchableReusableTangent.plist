@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleTag</key>
+	<string>standaloneCharacteristic</string>
+	<key>concretePresenter</key>
+	<string>selectorDuration</string>
+	<key>discardedRange</key>
+	<string>customComponent</string>
+	<key>newestMusic</key>
+	<string>shouldEncodePlayback</string>
+	<key>shouldMountedProjection</key>
+	<string>mediumLoop</string>
+	<key>shouldSaveChannels</key>
+	<string>commonexponent</string>
+	<key>shouldStopAnchor</key>
+	<string>desktopCertificate</string>
+	<key>skipstack</key>
+	<string>tappableRestriction</string>
+	<key>subsequentDelegate</key>
+	<string>mutableCapacity</string>
+</dict>
+</plist>

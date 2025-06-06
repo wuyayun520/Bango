@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseLeft</key>
+	<string>upgradeNode</string>
+	<key>commonAllocator</key>
+	<string>usageduringinterpreter</string>
+	<key>efficiencyFrequency</key>
+	<string>activeChannels</string>
+	<key>futureworkdensity</key>
+	<string>persistentAsset</string>
+	<key>presentframe</key>
+	<string>concurrentTriangles</string>
+	<key>respectivedurationscale</key>
+	<string>vectorizeRow</string>
+	<key>subtleplatecolor</key>
+	<string>timeVisibility</string>
+</dict>
+</plist>

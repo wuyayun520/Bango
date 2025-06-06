@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAspectRatio</key>
+	<string>fragmentsState</string>
+	<key>crudeManager</key>
+	<string>retainedImpression</string>
+	<key>dedicatedPreview</key>
+	<string>receiveDescription</string>
+	<key>localAnalogy</key>
+	<string>rectifyChannel</string>
+	<key>priorResponder</key>
+	<string>webSensor</string>
+</dict>
+</plist>

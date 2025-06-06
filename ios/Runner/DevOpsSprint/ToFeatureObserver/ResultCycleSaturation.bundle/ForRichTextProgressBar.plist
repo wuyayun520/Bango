@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionwithkind</key>
+	<string>unactivatedCursor</string>
+	<key>completerpicker</key>
+	<string>documentSpacing</string>
+	<key>dismissnavigator</key>
+	<string>visibleLoop</string>
+	<key>gramDistance</key>
+	<string>grayscaletail</string>
+	<key>layerorframework</key>
+	<string>canPaintOperation</string>
+	<key>parallelStamp</key>
+	<string>unsortedinteractor</string>
+	<key>shouldDetachSkirt</key>
+	<string>navigateTheme</string>
+	<key>shouldPersistMaster</key>
+	<string>dismissCubit</string>
+	<key>spineResponse</key>
+	<string>explicitNotifier</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordioncosine</key>
+	<string>sortedFilter</string>
+	<key>bandwidthleft</key>
+	<string>cancelcontroller</string>
+	<key>basicEvaluation</key>
+	<string>equipmentpopup</string>
+	<key>flexibledocument</key>
+	<string>exponentProcess</string>
+	<key>particleMargin</key>
+	<string>resultHead</string>
+	<key>polygonValidation</key>
+	<string>shouldvalidatetable</string>
+	<key>reusableInfrastructure</key>
+	<string>interactiveDelegate</string>
+	<key>shouldReplaceCustomPaint</key>
+	<string>beginnerState</string>
+	<key>synchronousModal</key>
+	<string>permanentInfo</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedChallenge</key>
+	<string>canUpdateDescriptor</string>
+	<key>aspectPressure</key>
+	<string>canPersistContainer</string>
+	<key>interactivestamp</key>
+	<string>canRebuildMovement</string>
+	<key>pivotalTernary</key>
+	<string>similarThroughput</string>
+	<key>projectioncontextdistance</key>
+	<string>mediumskintension</string>
+	<key>sceneformat</key>
+	<string>featureDirection</string>
+	<key>secondAsset</key>
+	<string>uniformsubscriptiontag</string>
+	<key>widgetjobsaturation</key>
+	<string>tabbarLeft</string>
+</dict>
+</plist>

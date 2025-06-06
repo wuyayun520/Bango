@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedcolumnresponse</key>
+	<string>augmentCubit</string>
+	<key>geometricText</key>
+	<string>sinkOrigin</string>
+	<key>injectionprocessor</key>
+	<string>shouldContinueCursor</string>
+	<key>injectradius</key>
+	<string>operationSingleton</string>
+	<key>scrollableState</key>
+	<string>scrollerInterval</string>
+	<key>seamlessConfiguration</key>
+	<string>deferredworkflowspacing</string>
+	<key>shouldDispatchCanvas</key>
+	<string>firstReliability</string>
+	<key>singleTopic</key>
+	<string>parseSegment</string>
+</dict>
+</plist>

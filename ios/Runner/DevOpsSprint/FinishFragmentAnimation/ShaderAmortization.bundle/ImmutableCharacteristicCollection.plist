@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinecosine</key>
+	<string>canConnectAnimation</string>
+	<key>controllerFormat</key>
+	<string>canRenderBrush</string>
+	<key>cubeEdge</key>
+	<string>clipGraph</string>
+	<key>curveinjob</key>
+	<string>rangeState</string>
+	<key>custompaintBrightness</key>
+	<string>crucialframeinset</string>
+	<key>skinlevelindex</key>
+	<string>decorationfacadeinterval</string>
+	<key>subscriptioninterpretercoord</key>
+	<string>permissiveInterpolation</string>
+</dict>
+</plist>

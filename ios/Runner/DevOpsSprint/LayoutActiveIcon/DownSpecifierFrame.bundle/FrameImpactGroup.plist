@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveService</key>
+	<string>bitrateRotation</string>
+	<key>disparateMetrics</key>
+	<string>singleWorkflow</string>
+	<key>momentumSize</key>
+	<string>typicalAlignment</string>
+	<key>permutationCoord</key>
+	<string>tappableColumn</string>
+	<key>pivotalmodel</key>
+	<string>standaloneConfiguration</string>
+	<key>reducerdensity</key>
+	<string>subtleChannels</string>
+	<key>scalabilityBorder</key>
+	<string>canUpdateTable</string>
+	<key>uniqueCaption</key>
+	<string>compositionalBoxShadow</string>
+</dict>
+</plist>

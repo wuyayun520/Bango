@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedThreshold</key>
+	<string>flexibleBox</string>
+	<key>elementmode</key>
+	<string>gatestructuresize</string>
+	<key>functionalSprite</key>
+	<string>canSubscribeBorder</string>
+	<key>lossTail</key>
+	<string>pushentity</string>
+	<key>meshDistance</key>
+	<string>cupertinoProxy</string>
+	<key>nibcomponent</key>
+	<string>mobilewithoutsystem</string>
+	<key>reconcilegradient</key>
+	<string>asynchronousworkflow</string>
+	<key>savebullet</key>
+	<string>interactiveMaterializer</string>
+	<key>shouldDecodeEffect</key>
+	<string>constructIntensity</string>
+	<key>sliderreceiver</key>
+	<string>createCollection</string>
+</dict>
+</plist>

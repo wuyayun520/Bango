@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileScheduler</key>
+	<string>nativeEquivalent</string>
+	<key>chooseropacity</key>
+	<string>tweakborder</string>
+	<key>difficultCheckbox</key>
+	<string>respondLabel</string>
+	<key>explicitModulus</key>
+	<string>overrideResource</string>
+	<key>fillentity</key>
+	<string>timerScale</string>
+	<key>graphPressure</key>
+	<string>reactiveLabel</string>
+	<key>missedPicker</key>
+	<string>lazyLog</string>
+	<key>quaternionvisible</key>
+	<string>beginnerSemantics</string>
+	<key>shouldLayoutTextField</key>
+	<string>materialtransformerorigin</string>
+	<key>smartElasticity</key>
+	<string>hardSlider</string>
+</dict>
+</plist>

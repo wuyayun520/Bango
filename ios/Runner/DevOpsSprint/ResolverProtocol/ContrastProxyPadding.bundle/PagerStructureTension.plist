@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitState</key>
+	<string>differentiateVector</string>
+	<key>notifierShape</key>
+	<string>subscribeNib</string>
+	<key>reactivezonetop</key>
+	<string>onlistviewchanged</string>
+	<key>subtlecelltension</key>
+	<string>refactorRow</string>
+	<key>videoVisible</key>
+	<string>shouldDispatchEffect</string>
+</dict>
+</plist>

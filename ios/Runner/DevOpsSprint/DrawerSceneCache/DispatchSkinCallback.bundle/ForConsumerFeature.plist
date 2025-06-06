@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturedistance</key>
+	<string>prepareConvolution</string>
+	<key>asyncthroughcommand</key>
+	<string>gemInset</string>
+	<key>imperativeCompleter</key>
+	<string>compileResource</string>
+	<key>imperativecontraction</key>
+	<string>protectedAppBar</string>
+	<key>mutableCanvas</key>
+	<string>resizableTolerance</string>
+	<key>opaquePromise</key>
+	<string>refreshService</string>
+	<key>shapevelocity</key>
+	<string>filterTension</string>
+	<key>shouldFetchInteger</key>
+	<string>shouldBindAspectRatio</string>
+	<key>symbolstate</key>
+	<string>shouldPaintRemainder</string>
+</dict>
+</plist>

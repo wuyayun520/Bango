@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationpolygon</key>
+	<string>futureDistance</string>
+	<key>completerborder</key>
+	<string>extendFrame</string>
+	<key>containeradapterleft</key>
+	<string>animationTask</string>
+	<key>customizedConvolution</key>
+	<string>visibleElasticity</string>
+	<key>granularUseCase</key>
+	<string>hierarchicalCell</string>
+	<key>opaqueException</key>
+	<string>readAction</string>
+	<key>stampfrequency</key>
+	<string>setstatefeature</string>
+</dict>
+</plist>

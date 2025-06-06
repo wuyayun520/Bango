@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeLocalization</key>
+	<string>granularPositioned</string>
+	<key>relationalchannels</key>
+	<string>enabledbinaryskewy</string>
+</dict>
+</plist>

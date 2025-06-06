@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphathreshold</key>
+	<string>asynchronousRemediation</string>
+	<key>flextrigger</key>
+	<string>anchorDistance</string>
+	<key>operationInset</key>
+	<string>remediationBottom</string>
+	<key>operationdelay</key>
+	<string>shouldNavigateComposition</string>
+</dict>
+</plist>

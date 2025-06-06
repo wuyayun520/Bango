@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTheme</key>
+	<string>animatedcontainerparamtype</string>
+	<key>arithmeticVertex</key>
+	<string>directlyStateless</string>
+	<key>checkboxbrightness</key>
+	<string>ternarydensity</string>
+	<key>consultativecapsulecolor</key>
+	<string>attachasset</string>
+	<key>descriptionValidation</key>
+	<string>dynamicZone</string>
+	<key>requiredSkin</key>
+	<string>criticalSpot</string>
+	<key>servicecenter</key>
+	<string>globalReliability</string>
+	<key>shouldDetachCanvas</key>
+	<string>requiredParticle</string>
+	<key>staticConsumption</key>
+	<string>denseIntensity</string>
+</dict>
+</plist>

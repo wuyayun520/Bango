@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeJoiner</key>
+	<string>persistentTimeline</string>
+	<key>functionalSession</key>
+	<string>cacheSpacing</string>
+	<key>globalmission</key>
+	<string>mediaqueryWork</string>
+	<key>intuitiveScaffold</key>
+	<string>generateAsset</string>
+	<key>shouldMountedText</key>
+	<string>semanticsduration</string>
+</dict>
+</plist>

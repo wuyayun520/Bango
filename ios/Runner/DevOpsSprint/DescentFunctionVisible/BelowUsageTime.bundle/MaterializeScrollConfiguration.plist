@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitysize</key>
+	<string>hardGesture</string>
+	<key>cacheInterval</key>
+	<string>uniformEmitter</string>
+	<key>globaltopic</key>
+	<string>gemcolor</string>
+	<key>hardVariant</key>
+	<string>consultativeAlpha</string>
+	<key>hierarchicalStateless</key>
+	<string>directStream</string>
+	<key>localizationinsideadapter</key>
+	<string>reactiveWorkflow</string>
+	<key>originalMesh</key>
+	<string>asynchronousSelector</string>
+	<key>sequentialcatalyst</key>
+	<string>multiplicationalongjob</string>
+	<key>shouldattachicon</key>
+	<string>ignoredSegue</string>
+	<key>subpixelBottom</key>
+	<string>resetaperture</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerfrequency</key>
+	<string>canValidateStateful</string>
+	<key>constructfeature</key>
+	<string>compositionalClipper</string>
+	<key>dedicatedFragments</key>
+	<string>hardSplitter</string>
+	<key>firstAppBar</key>
+	<string>currentBorder</string>
+	<key>ignoredRoute</key>
+	<string>substantialConfidentiality</string>
+	<key>markconfiguration</key>
+	<string>efficiencyTop</string>
+	<key>mediumAlignment</key>
+	<string>injectionProcess</string>
+	<key>primaryPermutation</key>
+	<string>remainderStage</string>
+	<key>resourceshapehue</key>
+	<string>serializeInterface</string>
+	<key>subtlePosition</key>
+	<string>permissiveDecoration</string>
+</dict>
+</plist>

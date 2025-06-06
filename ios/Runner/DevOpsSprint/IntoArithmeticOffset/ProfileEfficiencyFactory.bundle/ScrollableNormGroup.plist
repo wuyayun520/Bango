@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isChannels</key>
+	<string>managerTop</string>
+	<key>pushdialogs</key>
+	<string>discardedchart</string>
+	<key>rapidmomentum</key>
+	<string>cubeSaturation</string>
+	<key>shouldConnectLogarithm</key>
+	<string>transitionContext</string>
+	<key>shouldSaveMovement</key>
+	<string>notifyCaption</string>
+	<key>subsequentCanvas</key>
+	<string>bindSession</string>
+	<key>tensorCursor</key>
+	<string>shouldDetachLog</string>
+	<key>uniformNotifier</key>
+	<string>canValidateBinary</string>
+</dict>
+</plist>

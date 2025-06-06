@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentfrequency</key>
+	<string>queueoperationtransparency</string>
+	<key>grayscalepressure</key>
+	<string>shouldshowgram</string>
+	<key>immutableMedia</key>
+	<string>shouldContinueMargin</string>
+	<key>shouldInflateFlex</key>
+	<string>rapidScale</string>
+	<key>shouldpauseslash</key>
+	<string>widgetpatternsaturation</string>
+</dict>
+</plist>

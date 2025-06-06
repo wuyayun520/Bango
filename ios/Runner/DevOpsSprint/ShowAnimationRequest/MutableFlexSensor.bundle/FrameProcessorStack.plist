@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilestampdelay</key>
+	<string>ignoredOverlay</string>
+	<key>diffableconsumer</key>
+	<string>canProcessBox</string>
+	<key>multiNorm</key>
+	<string>bundleLabel</string>
+	<key>primaryrepository</key>
+	<string>composableProfile</string>
+	<key>resulttexture</key>
+	<string>consultativeHash</string>
+</dict>
+</plist>

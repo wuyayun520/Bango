@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyRemainder</key>
+	<string>responderskewx</string>
+	<key>enabledstate</key>
+	<string>exceptionMode</string>
+	<key>interceptmap</key>
+	<string>relationalResolver</string>
+	<key>navigatorTint</key>
+	<string>navigatorProxy</string>
+	<key>parallelCombiner</key>
+	<string>trianglesBorder</string>
+	<key>typicalGroup</key>
+	<string>discardedColor</string>
+	<key>uniqueBatch</key>
+	<string>radioconfiguration</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleOffset</key>
+	<string>keepsprite</string>
+	<key>collectionBottom</key>
+	<string>canFetchProtocol</string>
+	<key>createtransformer</key>
+	<string>signatureHue</string>
+	<key>deferredtweencenter</key>
+	<string>cachefacadetransparency</string>
+	<key>displayableSkirt</key>
+	<string>symbolPattern</string>
+	<key>durationscalability</key>
+	<string>canAnimateGrayscale</string>
+	<key>greatOffset</key>
+	<string>utilcompositeacceleration</string>
+	<key>imperativeLogarithm</key>
+	<string>rectthanwork</string>
+	<key>plateDuration</key>
+	<string>showSensor</string>
+	<key>radiophasebrightness</key>
+	<string>shouldYieldContraction</string>
+</dict>
+</plist>

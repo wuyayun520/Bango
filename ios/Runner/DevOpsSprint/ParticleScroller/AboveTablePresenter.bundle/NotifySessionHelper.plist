@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInteger</key>
+	<string>assetspacing</string>
+	<key>cubitDirection</key>
+	<string>columnMode</string>
+	<key>customLabel</key>
+	<string>visitindicator</string>
+	<key>gesturedetectorcolor</key>
+	<string>shouldFetchInteger</string>
+	<key>informationTransparency</key>
+	<string>canParseAlpha</string>
+	<key>modalDepth</key>
+	<string>shouldNavigateComposition</string>
+	<key>parsegradient</key>
+	<string>currentChecklist</string>
+	<key>shouldAttachMaterial</key>
+	<string>stringifytabbar</string>
+	<key>titletail</key>
+	<string>resumeStack</string>
+</dict>
+</plist>

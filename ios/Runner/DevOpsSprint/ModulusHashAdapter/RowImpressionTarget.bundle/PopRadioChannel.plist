@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSymbol</key>
+	<string>resizableZone</string>
+	<key>asynctweak</key>
+	<string>elasticBitrate</string>
+	<key>cupertinoedge</key>
+	<string>nativeEmitter</string>
+	<key>desktopFrame</key>
+	<string>deserializescroll</string>
+	<key>labelcommandscale</key>
+	<string>accordionInfrastructure</string>
+	<key>scenewithoutcontext</key>
+	<string>commonScene</string>
+	<key>shouldBindProjection</key>
+	<string>newestBaseline</string>
+	<key>shouldFetchProtocol</key>
+	<string>isolatebesidefunction</string>
+	<key>tooltheme</key>
+	<string>tabviewInterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushOrientation</key>
+	<string>deserializecompleter</string>
+	<key>fixedCosine</key>
+	<string>resourceDuration</string>
+	<key>hardConverter</key>
+	<string>movementTheme</string>
+	<key>independentPublisher</key>
+	<string>pauseEffect</string>
+	<key>subpixelOrientation</key>
+	<string>usageOrientation</string>
+</dict>
+</plist>

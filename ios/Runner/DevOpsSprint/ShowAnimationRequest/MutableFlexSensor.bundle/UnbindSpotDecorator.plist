@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedEvaluation</key>
+	<string>actionskewy</string>
+	<key>progressbarStyle</key>
+	<string>shouldValidateTernary</string>
+	<key>resizableAppBar</key>
+	<string>desktopBloc</string>
+	<key>responderBehavior</key>
+	<string>topiclifecycle</string>
+	<key>sessionBrightness</key>
+	<string>histogramValidation</string>
+	<key>shouldrouteanimation</key>
+	<string>customUseCase</string>
+	<key>unmountprecision</key>
+	<string>shouldtrainmaterial</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateShade</key>
+	<string>checklistvisibility</string>
+	<key>commonLayer</key>
+	<string>entityorientation</string>
+	<key>hasconstraint</key>
+	<string>remediationsaturation</string>
+	<key>keeproute</key>
+	<string>canUnbindBehavior</string>
+	<key>popbaseline</key>
+	<string>transformCompletion</string>
+	<key>shouldPauseAxis</key>
+	<string>sophisticatedSymbol</string>
+	<key>shouldUnmountedSign</key>
+	<string>observeIcon</string>
+</dict>
+</plist>

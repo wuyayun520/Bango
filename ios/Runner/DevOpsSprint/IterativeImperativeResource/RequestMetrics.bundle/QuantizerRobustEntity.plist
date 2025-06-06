@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicConnector</key>
+	<string>greatSingleton</string>
+	<key>mediaqueryshade</key>
+	<string>shouldDecodeAspect</string>
+	<key>resizableGraph</key>
+	<string>intuitivedecorationstatus</string>
+	<key>semanticssingletonrotation</key>
+	<string>shouldRenderBaseline</string>
+	<key>sharedSubscription</key>
+	<string>shouldNotifyPrecision</string>
+	<key>shouldDisconnectMomentum</key>
+	<string>immediateStack</string>
+	<key>specifyOffset</key>
+	<string>listenConvolution</string>
+</dict>
+</plist>

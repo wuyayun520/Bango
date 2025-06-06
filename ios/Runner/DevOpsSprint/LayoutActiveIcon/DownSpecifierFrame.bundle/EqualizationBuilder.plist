@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteNavigator</key>
+	<string>popRoute</string>
+	<key>displayableDispatcher</key>
+	<string>radiusAppearance</string>
+	<key>onoptimizertap</key>
+	<string>pendingDimension</string>
+	<key>videoRate</key>
+	<string>canObserveBorder</string>
+</dict>
+</plist>

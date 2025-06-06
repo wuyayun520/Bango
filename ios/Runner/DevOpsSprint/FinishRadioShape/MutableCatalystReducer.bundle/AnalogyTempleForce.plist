@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartshapeindex</key>
+	<string>scalabilityCenter</string>
+	<key>fusedLabel</key>
+	<string>overlayPrototype</string>
+	<key>gradientFlags</key>
+	<string>smallColor</string>
+	<key>labelValidation</key>
+	<string>richtextvisible</string>
+	<key>lazyPrecision</key>
+	<string>oldTransformer</string>
+	<key>mediocreCard</key>
+	<string>drawConfiguration</string>
+	<key>traversalsize</key>
+	<string>statefulCosine</string>
+</dict>
+</plist>

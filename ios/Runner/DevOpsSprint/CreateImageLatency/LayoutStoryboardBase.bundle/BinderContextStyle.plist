@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStatus</key>
+	<string>sequentialResolver</string>
+	<key>materializeinjection</key>
+	<string>graphValidation</string>
+	<key>persistentProgressBar</key>
+	<string>cacheGesture</string>
+	<key>prevlabel</key>
+	<string>quantizerFuture</string>
+	<key>reactiveMend</key>
+	<string>propagateMethod</string>
+	<key>shouldLayoutDelegate</key>
+	<string>blocSpeed</string>
+	<key>storeBrightness</key>
+	<string>annotatetask</string>
+	<key>subtleLocalization</key>
+	<string>accessibleChannel</string>
+	<key>uniqueCurve</key>
+	<string>themeProcess</string>
+</dict>
+</plist>

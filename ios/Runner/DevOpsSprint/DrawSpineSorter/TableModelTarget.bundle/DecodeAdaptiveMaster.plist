@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRemainder</key>
+	<string>mountTable</string>
+	<key>deserializetext</key>
+	<string>canTrainTable</string>
+	<key>flexibleNode</key>
+	<string>canNotifyStoryboard</string>
+	<key>gestureSkewY</key>
+	<string>stateFacade</string>
+	<key>protectedShader</key>
+	<string>hasConstraint</string>
+	<key>providesink</key>
+	<string>pivotalCurve</string>
+	<key>shouldContinueShader</key>
+	<string>entropyCommand</string>
+	<key>shouldDismissEquipment</key>
+	<string>concurrentLayout</string>
+	<key>shouldPrepareScaffold</key>
+	<string>unscheduleWidget</string>
+</dict>
+</plist>

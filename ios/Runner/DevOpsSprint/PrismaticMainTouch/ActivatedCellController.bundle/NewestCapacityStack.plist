@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSpine</key>
+	<string>animatedGraph</string>
+	<key>commonBandwidth</key>
+	<string>disconnectState</string>
+	<key>firstPermutation</key>
+	<string>listenCard</string>
+	<key>normalCurve</key>
+	<string>vectorizeTransformer</string>
+	<key>numericalSine</key>
+	<string>crudeColumn</string>
+	<key>shouldrebuildactivity</key>
+	<string>shouldNotifyCertificate</string>
+	<key>statelessMaster</key>
+	<string>concreteFactory</string>
+	<key>taskAcceleration</key>
+	<string>accessoryState</string>
+</dict>
+</plist>

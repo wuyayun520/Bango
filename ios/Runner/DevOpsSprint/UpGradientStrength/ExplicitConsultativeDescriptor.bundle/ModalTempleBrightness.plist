@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inflatecollection</key>
+	<string>consultativeBinder</string>
+	<key>isSpot</key>
+	<string>looptail</string>
+	<key>pinchableCupertino</key>
+	<string>allocatorScope</string>
+	<key>seamlessSession</key>
+	<string>reduceChapter</string>
+	<key>shouldDisposeTabView</key>
+	<string>canUnbindCheckbox</string>
+	<key>shouldShowSpine</key>
+	<string>rectifyCoordinator</string>
+	<key>shouldTransformRole</key>
+	<string>shouldDispatchUsage</string>
+	<key>signlocation</key>
+	<string>permanentAxis</string>
+	<key>uniformRemainder</key>
+	<string>augmentState</string>
+</dict>
+</plist>

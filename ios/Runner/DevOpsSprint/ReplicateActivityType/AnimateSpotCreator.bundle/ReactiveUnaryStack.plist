@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricDependency</key>
+	<string>routerForm</string>
+	<key>lazyStateless</key>
+	<string>graphPrototype</string>
+	<key>sequentialView</key>
+	<string>usedSign</string>
+	<key>singleRange</key>
+	<string>tangentTheme</string>
+	<key>strokeCenter</key>
+	<string>mapforminset</string>
+</dict>
+</plist>

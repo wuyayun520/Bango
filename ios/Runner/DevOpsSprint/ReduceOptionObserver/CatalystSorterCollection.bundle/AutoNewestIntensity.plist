@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentOffset</key>
+	<string>topicBound</string>
+	<key>elasticEqualization</key>
+	<string>synchronousResolver</string>
+	<key>fragmentsEdge</key>
+	<string>pushDuration</string>
+	<key>independenttopicdistance</key>
+	<string>platethroughfacade</string>
+	<key>routehandler</key>
+	<string>hardreliability</string>
+	<key>shouldDetachGesture</key>
+	<string>streamGradient</string>
+	<key>slashFeedback</key>
+	<string>smallRecursion</string>
+</dict>
+</plist>

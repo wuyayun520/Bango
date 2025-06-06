@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetscopeoffset</key>
+	<string>subpixellevelspacing</string>
+	<key>currentConfiguration</key>
+	<string>staticEvaluation</string>
+	<key>discardedDescriptor</key>
+	<string>draggableRichText</string>
+	<key>imagedistance</key>
+	<string>rapidLoop</string>
+	<key>precisionSpeed</key>
+	<string>continuetouch</string>
+	<key>shouldSerializeGesture</key>
+	<string>nodemethodshade</string>
+	<key>techniquequaternion</key>
+	<string>typicalFragments</string>
+</dict>
+</plist>

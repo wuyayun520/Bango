@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviordepth</key>
+	<string>webModel</string>
+	<key>channelindex</key>
+	<string>advancedSpecifier</string>
+	<key>isSine</key>
+	<string>equipmentFeedback</string>
+	<key>rapidAlpha</key>
+	<string>shouldTransformFragment</string>
+	<key>rapidSegment</key>
+	<string>uniformStrength</string>
+</dict>
+</plist>

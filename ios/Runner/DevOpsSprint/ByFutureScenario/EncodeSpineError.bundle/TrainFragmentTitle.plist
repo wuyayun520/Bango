@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorIndex</key>
+	<string>disposeOperation</string>
+	<key>heroBehavior</key>
+	<string>significantRichText</string>
+	<key>infrastructureVisibility</key>
+	<string>progressbarbydecorator</string>
+	<key>musicPressure</key>
+	<string>nativePriority</string>
+</dict>
+</plist>

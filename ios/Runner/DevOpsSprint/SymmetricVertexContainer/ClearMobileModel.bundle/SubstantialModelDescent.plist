@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyPicker</key>
+	<string>unmountedNotification</string>
+	<key>gridRate</key>
+	<string>diffableTraversal</string>
+	<key>largeBatch</key>
+	<string>displayableChooser</string>
+	<key>newestDetector</key>
+	<string>textChain</string>
+	<key>prismaticResponder</key>
+	<string>gridvertex</string>
+	<key>shouldBuildContraction</key>
+	<string>canBindRadio</string>
+	<key>significantMend</key>
+	<string>canParseSession</string>
+	<key>statelessResilience</key>
+	<string>indicatorstageinteraction</string>
+	<key>tickerSaturation</key>
+	<string>shouldDismissGem</string>
+	<key>uniformActivity</key>
+	<string>canYieldUnary</string>
+</dict>
+</plist>

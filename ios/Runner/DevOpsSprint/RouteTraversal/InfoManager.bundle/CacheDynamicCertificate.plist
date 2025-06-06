@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedContrast</key>
+	<string>coordinatorincludeaction</string>
+	<key>lazyScroll</key>
+	<string>singleAnimation</string>
+	<key>materialChannel</key>
+	<string>accessibleSegue</string>
+	<key>meshLocation</key>
+	<string>densesubscription</string>
+	<key>permanentcaption</key>
+	<string>newestException</string>
+	<key>shouldFormatScroll</key>
+	<string>parallelFragment</string>
+	<key>shouldTransformMediaQuery</key>
+	<string>shouldReplaceVariant</string>
+	<key>spineHead</key>
+	<string>promiseSkewX</string>
+	<key>streamTransparency</key>
+	<string>temporarySizedBox</string>
+	<key>topicformat</key>
+	<string>secondDisclaimer</string>
+</dict>
+</plist>

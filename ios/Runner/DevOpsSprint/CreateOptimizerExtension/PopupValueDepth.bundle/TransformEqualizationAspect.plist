@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capturebutton</key>
+	<string>replicaOrientation</string>
+	<key>concurrentTabBar</key>
+	<string>shouldPrepareResource</string>
+	<key>gemPosition</key>
+	<string>exitFuture</string>
+	<key>nativeKernel</key>
+	<string>opaqueLifecycle</string>
+	<key>prevborder</key>
+	<string>disabledDetail</string>
+	<key>profiledescent</key>
+	<string>callbackvariabledensity</string>
+	<key>zoneDistance</key>
+	<string>mutableBrush</string>
+</dict>
+</plist>

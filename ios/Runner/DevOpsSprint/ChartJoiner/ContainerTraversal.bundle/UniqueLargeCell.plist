@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>debugmusic</key>
+	<string>insteadLayer</string>
+	<key>dialogsContrast</key>
+	<string>pageviewJob</string>
+	<key>explicitWidget</key>
+	<string>searchProgressBar</string>
+	<key>futurewithcomposite</key>
+	<string>unscheduledialogs</string>
+	<key>shouldnavigatebase</key>
+	<string>crudeDispatcher</string>
+	<key>specifyconstrainttype</key>
+	<string>rectofvalue</string>
+	<key>tweenjoiner</key>
+	<string>sophisticatedTernary</string>
+	<key>uniformTextField</key>
+	<string>quitRect</string>
+</dict>
+</plist>

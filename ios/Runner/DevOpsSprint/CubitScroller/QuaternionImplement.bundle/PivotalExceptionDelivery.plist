@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedComponent</key>
+	<string>crucialConfiguration</string>
+	<key>cachevisibility</key>
+	<string>independentInfo</string>
+	<key>eagerAlpha</key>
+	<string>shouldRouteLog</string>
+	<key>invisibleSkin</key>
+	<string>tentativeCoord</string>
+	<key>retainedchart</key>
+	<string>efficiencyskewy</string>
+	<key>shouldFinishClipper</key>
+	<string>independentallocator</string>
+	<key>shouldRouteExpanded</key>
+	<string>directlyListener</string>
+	<key>smallMonster</key>
+	<string>shouldencodeduration</string>
+	<key>spritestylecolor</key>
+	<string>seamlessLatency</string>
+	<key>toleranceindex</key>
+	<string>missedRole</string>
+</dict>
+</plist>

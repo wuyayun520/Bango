@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopCustomPaint</key>
+	<string>occasionTint</string>
+	<key>gesturebyactivity</key>
+	<string>anchorTransparency</string>
+	<key>globaltickercenter</key>
+	<string>coordinatorthroughpattern</string>
+	<key>notifierdispatcher</key>
+	<string>currentVertex</string>
+	<key>shouldCreateConstraint</key>
+	<string>nextColumn</string>
+	<key>shouldProcessProvider</key>
+	<string>shouldDeserializeScale</string>
+	<key>subtleThroughput</key>
+	<string>logAppearance</string>
+	<key>taxonomyacceleration</key>
+	<string>protectedEqualization</string>
+</dict>
+</plist>

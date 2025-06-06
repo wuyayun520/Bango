@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keyRect</key>
+	<string>handleCompleter</string>
+	<key>originalhandler</key>
+	<string>animateStateless</string>
+	<key>publicdependency</key>
+	<string>invisibleChallenge</string>
+	<key>rowtop</key>
+	<string>originalZone</string>
+	<key>shouldReplaceInstruction</key>
+	<string>measuregem</string>
+	<key>shouldrebuildpositioned</key>
+	<string>compositionalCosine</string>
+	<key>subtlethroughput</key>
+	<string>freeTransition</string>
+	<key>temporaryInteger</key>
+	<string>priorPolyfill</string>
+</dict>
+</plist>

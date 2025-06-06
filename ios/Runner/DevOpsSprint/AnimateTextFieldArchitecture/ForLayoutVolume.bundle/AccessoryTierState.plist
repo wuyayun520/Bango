@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthacceleration</key>
+	<string>variantkind</string>
+	<key>capacitiesBorder</key>
+	<string>ephemeralcapsule</string>
+	<key>cursorTheme</key>
+	<string>enabledtrigger</string>
+	<key>dataStyle</key>
+	<string>bindtexture</string>
+	<key>discoverprofile</key>
+	<string>greatMaterializer</string>
+	<key>mutableradiusinteraction</key>
+	<string>analyzechallenge</string>
+	<key>relationalTolerance</key>
+	<string>selectorKind</string>
+	<key>shouldRestartArithmetic</key>
+	<string>unmountEntropy</string>
+	<key>stepatstage</key>
+	<string>hascheckbox</string>
+</dict>
+</plist>

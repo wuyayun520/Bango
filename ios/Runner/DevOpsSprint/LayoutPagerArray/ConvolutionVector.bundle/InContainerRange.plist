@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleoutsidevalue</key>
+	<string>consumeError</string>
+	<key>interactiveCompleter</key>
+	<string>exceptionSize</string>
+	<key>masterOffset</key>
+	<string>mainScroller</string>
+	<key>musictime</key>
+	<string>disparateElement</string>
+	<key>permutationBehavior</key>
+	<string>mutableContraction</string>
+	<key>semanticInterpolation</key>
+	<string>progressbarPressure</string>
+	<key>switchhandler</key>
+	<string>subtlePopup</string>
+	<key>temporaryscenedensity</key>
+	<string>rotateManager</string>
+	<key>widgetframeworkmargin</key>
+	<string>updateMember</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultlabel</key>
+	<string>evaluateLocalization</string>
+	<key>materialBatch</key>
+	<string>traversalLeft</string>
+	<key>measuregroup</key>
+	<string>iterativeCharacter</string>
+	<key>semanticProvision</key>
+	<string>tensorcapsuletype</string>
+	<key>shouldConnectStack</key>
+	<string>yieldCupertino</string>
+	<key>shouldDisposeMaterial</key>
+	<string>largeBoxShadow</string>
+	<key>specifyOccasion</key>
+	<string>tickerBound</string>
+	<key>specifyRange</key>
+	<string>shouldLoadAspect</string>
+	<key>staticScroller</key>
+	<string>layoutworktail</string>
+</dict>
+</plist>

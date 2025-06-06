@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitycenter</key>
+	<string>catalystComposite</string>
+	<key>pointinfrastructure</key>
+	<string>compositionalmaterializer</string>
+	<key>primaryTexture</key>
+	<string>defaultequipment</string>
+	<key>routerTransparency</key>
+	<string>prismaticCustomPaint</string>
+</dict>
+</plist>

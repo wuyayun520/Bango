@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNorm</key>
+	<string>interactiveResilience</string>
+	<key>crudeBinder</key>
+	<string>canStopWorkflow</string>
+	<key>respectiveJoiner</key>
+	<string>canEncodePositioned</string>
+	<key>serializeradius</key>
+	<string>iconBrightness</string>
+</dict>
+</plist>

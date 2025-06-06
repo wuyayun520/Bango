@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicContraction</key>
+	<string>storeAdapter</string>
+	<key>declarativeTraversal</key>
+	<string>compiletabview</string>
+	<key>localResolver</key>
+	<string>arithmeticVolume</string>
+	<key>roleslider</key>
+	<string>canRebuildChallenge</string>
+	<key>sequentialBullet</key>
+	<string>explicitStatus</string>
+	<key>sinkEdge</key>
+	<string>largeAllocator</string>
+</dict>
+</plist>

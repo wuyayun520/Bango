@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveloopedge</key>
+	<string>shouldHandleSegue</string>
+	<key>errortaxonomy</key>
+	<string>implementCoordinator</string>
+	<key>inactiveAnalyzer</key>
+	<string>streamMediator</string>
+	<key>materializecard</key>
+	<string>transitionScreen</string>
+	<key>navigatecube</key>
+	<string>shouldSubscribeCaption</string>
+	<key>opaqueItem</key>
+	<string>nextanimatedcontainer</string>
+	<key>primaryMusic</key>
+	<string>buttonDistance</string>
+	<key>secondController</key>
+	<string>stackCommand</string>
+	<key>uniqueSwift</key>
+	<string>disclaimerHead</string>
+</dict>
+</plist>

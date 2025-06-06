@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedService</key>
+	<string>stopStep</string>
+	<key>dispatchercolor</key>
+	<string>errorOpacity</string>
+	<key>dynamicConstraint</key>
+	<string>lastOptimizer</string>
+	<key>inheritedBase</key>
+	<string>endCheckbox</string>
+	<key>refreshtask</key>
+	<string>createReference</string>
+	<key>significantComponent</key>
+	<string>configurationMethod</string>
+	<key>spineDelay</key>
+	<string>lastConnector</string>
+</dict>
+</plist>

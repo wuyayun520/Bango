@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMethod</key>
+	<string>uniqueResponder</string>
+	<key>lockservice</key>
+	<string>streamRotation</string>
+	<key>modulusDensity</key>
+	<string>releaseIntensity</string>
+	<key>permissiveLayer</key>
+	<string>storagebeyondadapter</string>
+	<key>reactiveAscent</key>
+	<string>switchSpacing</string>
+	<key>shouldFormatCapacities</key>
+	<string>completionLeft</string>
+	<key>shouldSerializeBuilder</key>
+	<string>videoFormat</string>
+	<key>shouldroutecosine</key>
+	<string>variantcallback</string>
+</dict>
+</plist>

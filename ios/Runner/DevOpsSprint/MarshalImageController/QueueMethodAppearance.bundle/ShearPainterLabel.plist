@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedmodalrate</key>
+	<string>constraintcyclemomentum</string>
+	<key>eagerColumn</key>
+	<string>directRange</string>
+	<key>gramTail</key>
+	<string>themedescription</string>
+	<key>independentBitrate</key>
+	<string>subsequentSkin</string>
+	<key>objectScale</key>
+	<string>integrationScale</string>
+	<key>shouldListenLabel</key>
+	<string>unmarshalRequest</string>
+	<key>shouldMountMobile</key>
+	<string>shouldFormatAnchor</string>
+</dict>
+</plist>

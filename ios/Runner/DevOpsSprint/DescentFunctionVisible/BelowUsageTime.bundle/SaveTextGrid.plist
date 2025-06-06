@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAppearance</key>
+	<string>referenceMargin</string>
+	<key>currentPromise</key>
+	<string>backwardcheckbox</string>
+	<key>futurePressure</key>
+	<string>uniqueFragments</string>
+	<key>hardPolygon</key>
+	<string>aspecttheme</string>
+	<key>offsetbesidesystem</key>
+	<string>ascentInteraction</string>
+	<key>priorityconfiguration</key>
+	<string>lostRadio</string>
+	<key>routepriority</key>
+	<string>seamlessTriangles</string>
+	<key>shouldYieldMargin</key>
+	<string>iconPhase</string>
+	<key>storebound</key>
+	<string>subsequentProcessor</string>
+</dict>
+</plist>

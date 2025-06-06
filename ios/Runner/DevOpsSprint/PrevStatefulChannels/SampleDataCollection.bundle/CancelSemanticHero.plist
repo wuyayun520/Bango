@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerVisible</key>
+	<string>containerworkhue</string>
+	<key>enabledSlash</key>
+	<string>symmetricAspect</string>
+	<key>explicitImpact</key>
+	<string>shouldUpdateSegment</string>
+	<key>mainSubscription</key>
+	<string>canStopCoordinator</string>
+	<key>shouldPresentMultiplication</key>
+	<string>declarativeGram</string>
+</dict>
+</plist>

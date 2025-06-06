@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarandstructure</key>
+	<string>promisePressure</string>
+	<key>isolateResponse</key>
+	<string>euclideanQueue</string>
+	<key>mutablebufferkind</key>
+	<string>taskBridge</string>
+	<key>navigationAlignment</key>
+	<string>challengebuffer</string>
+	<key>sequentialObject</key>
+	<string>callbackEnvironment</string>
+	<key>shouldShowPageView</key>
+	<string>shouldStreamSegue</string>
+	<key>shouldYieldCertificate</key>
+	<string>projectionmode</string>
+</dict>
+</plist>

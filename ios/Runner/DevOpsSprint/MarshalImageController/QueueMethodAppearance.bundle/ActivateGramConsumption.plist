@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedExpanded</key>
+	<string>layoutEnvironment</string>
+	<key>dedicatedvectorshade</key>
+	<string>sessioninteraction</string>
+	<key>dynamicGestureDetector</key>
+	<string>shouldAttachMonster</string>
+	<key>hasstateless</key>
+	<string>cacheAppearance</string>
+	<key>popupvariableposition</key>
+	<string>convolutionDensity</string>
+	<key>resilientService</key>
+	<string>emitEvent</string>
+	<key>shapeforce</key>
+	<string>updateSubscription</string>
+</dict>
+</plist>

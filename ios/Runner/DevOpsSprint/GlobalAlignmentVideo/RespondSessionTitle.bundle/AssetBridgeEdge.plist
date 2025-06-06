@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedgesturemode</key>
+	<string>subscribeRadio</string>
+	<key>buttonpatternrate</key>
+	<string>factoryProxy</string>
+	<key>compositionalData</key>
+	<string>fusedRenderer</string>
+	<key>comprehensivetrajectory</key>
+	<string>challengebridgetop</string>
+	<key>descentTail</key>
+	<string>lazyGroup</string>
+	<key>mendForce</key>
+	<string>functionalProcessor</string>
+	<key>pinchableAspectRatio</key>
+	<string>shouldTransitionActivity</string>
+	<key>receivecupertino</key>
+	<string>sliderdistance</string>
+	<key>tabbarDepth</key>
+	<string>factoryActivity</string>
+	<key>tensorVolume</key>
+	<string>shouldSetStateCapacities</string>
+</dict>
+</plist>

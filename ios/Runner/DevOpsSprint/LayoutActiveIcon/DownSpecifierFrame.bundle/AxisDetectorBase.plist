@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachcontainer</key>
+	<string>canSerializeEquipment</string>
+	<key>directlyArithmetic</key>
+	<string>dataOpacity</string>
+	<key>gestureslider</key>
+	<string>prevBandwidth</string>
+	<key>lazyTangent</key>
+	<string>diffableslashedge</string>
+	<key>lossframe</key>
+	<string>projectionObserver</string>
+	<key>projectionBound</key>
+	<string>litesize</string>
+	<key>shouldhandletransition</key>
+	<string>nextdelegatebrightness</string>
+	<key>widgetInset</key>
+	<string>rectChain</string>
+</dict>
+</plist>

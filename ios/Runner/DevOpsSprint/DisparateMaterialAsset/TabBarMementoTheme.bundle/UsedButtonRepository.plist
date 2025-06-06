@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleasyncfrequency</key>
+	<string>rectifyLayout</string>
+	<key>eagertitleborder</key>
+	<string>canInflateButton</string>
+	<key>impactOrigin</key>
+	<string>alphaCenter</string>
+	<key>intuitivemenu</key>
+	<string>canValidateDecoration</string>
+	<key>missionshade</key>
+	<string>replaceRepository</string>
+	<key>tentativeTint</key>
+	<string>observeListView</string>
+</dict>
+</plist>

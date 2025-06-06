@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveIsolate</key>
+	<string>metricsbehavior</string>
+	<key>deliverystatus</key>
+	<string>canUnmountMaster</string>
+	<key>fixedCallback</key>
+	<string>previewBehavior</string>
+	<key>invisibleLocalization</key>
+	<string>permissiveDescent</string>
+	<key>referencerow</key>
+	<string>canConnectTangent</string>
+	<key>shouldSerializeTouch</key>
+	<string>rowCoord</string>
+	<key>tensorStroke</key>
+	<string>canBindBloc</string>
+</dict>
+</plist>

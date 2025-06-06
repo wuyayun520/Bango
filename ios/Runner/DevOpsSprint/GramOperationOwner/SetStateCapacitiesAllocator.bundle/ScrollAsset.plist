@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directTouch</key>
+	<string>adaptiveLoss</string>
+	<key>iconVisible</key>
+	<string>pivotalTask</string>
+	<key>primaryAnalyzer</key>
+	<string>usageContrast</string>
+	<key>resolverEdge</key>
+	<string>dedicatedCupertino</string>
+	<key>responseTheme</key>
+	<string>canValidateWorkflow</string>
+	<key>retainednavigationtension</key>
+	<string>compileCompleter</string>
+	<key>semanticChart</key>
+	<string>continueSizedBox</string>
+</dict>
+</plist>

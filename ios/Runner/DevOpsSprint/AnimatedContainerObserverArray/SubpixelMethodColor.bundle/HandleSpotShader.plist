@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDisclaimer</key>
+	<string>smartRenderer</string>
+	<key>anchordependency</key>
+	<string>animateDependency</string>
+	<key>associatedImage</key>
+	<string>factoryCycle</string>
+	<key>deferredTransformer</key>
+	<string>animateParticle</string>
+	<key>evaluationPadding</key>
+	<string>hierarchicalPrecision</string>
+	<key>geometricWorkflow</key>
+	<string>resilientAlignment</string>
+	<key>hierarchicalPopup</key>
+	<string>gridRight</string>
+	<key>inactiveModulus</key>
+	<string>decodeDuration</string>
+	<key>shouldBuildDecoration</key>
+	<string>regulateSingleton</string>
+	<key>thresholdName</key>
+	<string>flexibleMaterial</string>
+</dict>
+</plist>

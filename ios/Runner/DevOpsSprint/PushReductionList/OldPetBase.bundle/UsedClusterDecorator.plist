@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredrow</key>
+	<string>channelBridge</string>
+	<key>inactiveImage</key>
+	<string>rapidNavigator</string>
+	<key>inactiveNavigator</key>
+	<string>concatenateBloc</string>
+	<key>newestBullet</key>
+	<string>unarymode</string>
+	<key>reusableSignature</key>
+	<string>canEmitMaterial</string>
+	<key>shouldPauseCapsule</key>
+	<string>enabledRequest</string>
+	<key>statelesszone</key>
+	<string>publisherTail</string>
+	<key>unsortedCapsule</key>
+	<string>replicateTimer</string>
+</dict>
+</plist>

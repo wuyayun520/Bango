@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAmortization</key>
+	<string>respondBuffer</string>
+	<key>globalAnimator</key>
+	<string>filterRight</string>
+	<key>gridwithmemento</key>
+	<string>flexibleSensor</string>
+	<key>providerduration</key>
+	<string>missionscene</string>
+	<key>provisionInteraction</key>
+	<string>dropoutResolver</string>
+	<key>relationalplateformat</key>
+	<string>measureawait</string>
+	<key>shaderinterpreterpressure</key>
+	<string>shapeColor</string>
+	<key>significantSizedBox</key>
+	<string>trajectoryResponse</string>
+	<key>spriteEdge</key>
+	<string>zoneLeft</string>
+</dict>
+</plist>

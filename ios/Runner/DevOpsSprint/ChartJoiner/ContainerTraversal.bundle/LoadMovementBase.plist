@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinevisibility</key>
+	<string>pagerForce</string>
+	<key>captionMomentum</key>
+	<string>regulateDuration</string>
+	<key>cartesianPainter</key>
+	<string>basicSlider</string>
+	<key>ignoredConnector</key>
+	<string>progressbarbuffervelocity</string>
+	<key>serviceBorder</key>
+	<string>shouldkeeppageview</string>
+	<key>shouldRestartTransition</key>
+	<string>descentDensity</string>
+	<key>shouldloadicon</key>
+	<string>frameMomentum</string>
+</dict>
+</plist>

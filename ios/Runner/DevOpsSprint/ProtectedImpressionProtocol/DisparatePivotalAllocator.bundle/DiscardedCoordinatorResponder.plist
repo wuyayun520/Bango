@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorType</key>
+	<string>popchapter</string>
+	<key>diffableFragment</key>
+	<string>mixinBuffer</string>
+	<key>missedPet</key>
+	<string>loadSpot</string>
+	<key>operationtopic</key>
+	<string>annotateFuture</string>
+	<key>pivotalCycle</key>
+	<string>accordionborder</string>
+	<key>shouldMountNotifier</key>
+	<string>shouldFormatCursor</string>
+	<key>shouldpopbatch</key>
+	<string>detachMenu</string>
+	<key>specifyGraphic</key>
+	<string>usedRequest</string>
+</dict>
+</plist>

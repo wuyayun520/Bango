@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxDepth</key>
+	<string>inheritedWorkflow</string>
+	<key>isolateprototypevisibility</key>
+	<string>prevView</string>
+	<key>plateTail</key>
+	<string>evaluateinteractor</string>
+	<key>quaternionContrast</key>
+	<string>indicatorInterpreter</string>
+	<key>scaleEdge</key>
+	<string>queueDirection</string>
+</dict>
+</plist>

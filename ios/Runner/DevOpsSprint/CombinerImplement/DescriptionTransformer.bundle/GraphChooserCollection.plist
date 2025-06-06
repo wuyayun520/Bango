@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iconInset</key>
+	<string>resizableDescription</string>
+	<key>imperativeTransition</key>
+	<string>uniqueactivity</string>
+	<key>intuitiveNavigation</key>
+	<string>aspectOrigin</string>
+	<key>shouldSetStateButton</key>
+	<string>rapidGift</string>
+	<key>statelessMetadata</key>
+	<string>displayableReliability</string>
+</dict>
+</plist>

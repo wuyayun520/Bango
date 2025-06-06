@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserOrigin</key>
+	<string>numericalDialogs</string>
+	<key>concreteInstruction</key>
+	<string>canCancelBitrate</string>
+	<key>mobileVariant</key>
+	<string>hardslider</string>
+	<key>nextFeature</key>
+	<string>beginnerAllocator</string>
+	<key>relationalDecoration</key>
+	<string>encapsulateStore</string>
+	<key>staticChecklist</key>
+	<string>schemaOrientation</string>
+	<key>symmetricCaption</key>
+	<string>shouldSubscribeStateful</string>
+	<key>synchronousSkirt</key>
+	<string>attachnavigation</string>
+</dict>
+</plist>

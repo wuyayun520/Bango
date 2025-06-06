@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibletopicopacity</key>
+	<string>canCreatePriority</string>
+	<key>completerInterval</key>
+	<string>prevStoryboard</string>
+	<key>cubeLocation</key>
+	<string>smartNode</string>
+	<key>keyGate</key>
+	<string>canBuildCard</string>
+	<key>layerkind</key>
+	<string>objectalignment</string>
+	<key>routetransparency</key>
+	<string>canConnectBoxShadow</string>
+	<key>shouldCreateScroll</key>
+	<string>spotDirection</string>
+	<key>typicalAlignment</key>
+	<string>unregisterListener</string>
+</dict>
+</plist>

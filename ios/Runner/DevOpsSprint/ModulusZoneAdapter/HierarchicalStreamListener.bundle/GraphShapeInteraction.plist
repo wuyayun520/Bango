@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediatePlayback</key>
+	<string>parallelMember</string>
+	<key>immutablebordercoord</key>
+	<string>canDismissPriority</string>
+	<key>shouldInflateMedia</key>
+	<string>publicMargin</string>
+	<key>shouldTrainInstruction</key>
+	<string>paintCapsule</string>
+	<key>smallBloc</key>
+	<string>endSample</string>
+	<key>trajectorybehavior</key>
+	<string>originalButton</string>
+	<key>unactivatedsensormode</key>
+	<string>commonMember</string>
+</dict>
+</plist>

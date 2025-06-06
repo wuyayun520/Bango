@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAccessory</key>
+	<string>dependencynumberfeedback</string>
+	<key>cartesianNotifier</key>
+	<string>shouldPresentProtocol</string>
+	<key>gridviewOffset</key>
+	<string>usedItem</string>
+	<key>inactiveScalability</key>
+	<string>oldGraph</string>
+	<key>mobileEntropy</key>
+	<string>drawUtil</string>
+	<key>nativeListener</key>
+	<string>spotHue</string>
+	<key>prismaticLayer</key>
+	<string>buttontrajectory</string>
+	<key>shouldBindCollection</key>
+	<string>videoKind</string>
+</dict>
+</plist>

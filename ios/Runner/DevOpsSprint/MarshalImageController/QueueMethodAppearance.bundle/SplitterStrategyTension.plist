@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureedge</key>
+	<string>discoverInteractor</string>
+	<key>checkboxColor</key>
+	<string>maininstruction</string>
+	<key>imperativeChecklist</key>
+	<string>canEncodeAlert</string>
+	<key>resizableSingleton</key>
+	<string>activatedKernel</string>
+	<key>tensorReference</key>
+	<string>shouldSetStatePrecision</string>
+</dict>
+</plist>

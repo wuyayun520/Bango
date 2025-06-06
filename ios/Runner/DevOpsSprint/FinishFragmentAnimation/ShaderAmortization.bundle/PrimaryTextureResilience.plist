@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianCard</key>
+	<string>zoneFramework</string>
+	<key>chartResponse</key>
+	<string>canRebuildProject</string>
+	<key>colorCenter</key>
+	<string>loopOrientation</string>
+	<key>descentMargin</key>
+	<string>cubitFeedback</string>
+	<key>evaluationorigin</key>
+	<string>canKeepDescriptor</string>
+	<key>generateskirt</key>
+	<string>rotatecallback</string>
+	<key>resetbaseline</key>
+	<string>cacheskewy</string>
+	<key>respectiveSensor</key>
+	<string>storeForm</string>
+	<key>shouldPopMultiplication</key>
+	<string>selectedtabview</string>
+	<key>subscriptionsensor</key>
+	<string>materialLabel</string>
+</dict>
+</plist>

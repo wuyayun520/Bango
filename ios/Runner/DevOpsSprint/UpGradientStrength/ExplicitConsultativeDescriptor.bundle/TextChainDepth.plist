@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastProgressBar</key>
+	<string>selectedBehavior</string>
+	<key>lostSlider</key>
+	<string>subsequentProvision</string>
+	<key>mediatension</key>
+	<string>inactiveFragment</string>
+	<key>observerstatus</key>
+	<string>processlabel</string>
+	<key>protocolservice</key>
+	<string>instantiateCubit</string>
+	<key>scaleresponse</key>
+	<string>statelessLocalization</string>
+	<key>shouldTrainBaseline</key>
+	<string>screenparameterleft</string>
+	<key>sortedTraversal</key>
+	<string>reusablenibname</string>
+	<key>temporaryResponder</key>
+	<string>matrixColor</string>
+</dict>
+</plist>

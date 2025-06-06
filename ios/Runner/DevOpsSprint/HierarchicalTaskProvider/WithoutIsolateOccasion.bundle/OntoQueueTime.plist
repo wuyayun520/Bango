@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseTable</key>
+	<string>sessionVariable</string>
+	<key>diffableButton</key>
+	<string>loadBoxShadow</string>
+	<key>independentNavigation</key>
+	<string>animatedTabView</string>
+	<key>primaryButton</key>
+	<string>skinProcess</string>
+	<key>shouldUpdateNotifier</key>
+	<string>customizedCell</string>
+</dict>
+</plist>

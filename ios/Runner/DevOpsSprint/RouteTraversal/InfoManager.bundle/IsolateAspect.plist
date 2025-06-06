@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetAcceleration</key>
+	<string>poolFeature</string>
+	<key>prismaticConnector</key>
+	<string>descriptionmode</string>
+	<key>shouldSaveModulus</key>
+	<string>equalizationTop</string>
+	<key>standaloneLatency</key>
+	<string>defaultProfile</string>
+	<key>themeappearance</key>
+	<string>shouldKeepContraction</string>
+	<key>unaryPosition</key>
+	<string>stopLog</string>
+	<key>usedMovement</key>
+	<string>constraintLocation</string>
+</dict>
+</plist>

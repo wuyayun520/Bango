@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectsink</key>
+	<string>shouldendcontainer</string>
+	<key>assetvisible</key>
+	<string>itemfrequency</string>
+	<key>checklisttype</key>
+	<string>protectedswiftbottom</string>
+	<key>declarativeBaseline</key>
+	<string>storagevisitorspacing</string>
+	<key>largeTime</key>
+	<string>logChain</string>
+	<key>responseappearance</key>
+	<string>renameFeature</string>
+	<key>shouldDecodeMap</key>
+	<string>canEncodeButton</string>
+	<key>shouldResumeUsage</key>
+	<string>fixedAspect</string>
+	<key>shouldStopLog</key>
+	<string>showDocument</string>
+</dict>
+</plist>

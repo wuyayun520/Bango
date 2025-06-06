@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicPlayback</key>
+	<string>canPushSegment</string>
+	<key>listenermomentum</key>
+	<string>canLayoutTabView</string>
+	<key>mapTension</key>
+	<string>rectstylepressure</string>
+	<key>monstertrajectory</key>
+	<string>ignoredHandler</string>
+	<key>notificationTransparency</key>
+	<string>canLoadThread</string>
+	<key>subpixelSaturation</key>
+	<string>keyPrecision</string>
+</dict>
+</plist>

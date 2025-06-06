@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertForce</key>
+	<string>canConnectPositioned</string>
+	<key>globalAlert</key>
+	<string>seguebylayer</string>
+	<key>grainvelocity</key>
+	<string>permissiveLoss</string>
+	<key>gridviewResponse</key>
+	<string>immutablespecifierleft</string>
+	<key>hashLeft</key>
+	<string>shouldparsemodal</string>
+	<key>permanentMobile</key>
+	<string>conformLabel</string>
+	<key>secondAllocator</key>
+	<string>painterror</string>
+	<key>shouldBindGift</key>
+	<string>indicatorStyle</string>
+	<key>specifyPoint</key>
+	<string>canDispatchCache</string>
+	<key>storyboardVisibility</key>
+	<string>sliderDepth</string>
+</dict>
+</plist>

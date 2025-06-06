@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableTentative</key>
+	<string>paintModulus</string>
+	<key>menuTag</key>
+	<string>shouldReplaceOptimizer</string>
+	<key>parallelTaxonomy</key>
+	<string>searchDuration</string>
+	<key>symmetricProvider</key>
+	<string>saveInterpolation</string>
+	<key>visiblebitrate</key>
+	<string>canReplaceLog</string>
+</dict>
+</plist>

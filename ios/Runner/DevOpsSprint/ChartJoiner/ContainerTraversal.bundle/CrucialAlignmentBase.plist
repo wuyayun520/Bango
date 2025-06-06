@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedLabel</key>
+	<string>benchmarkInteractor</string>
+	<key>metricsinteraction</key>
+	<string>pinchableBloc</string>
+	<key>presenteroutsideenvironment</key>
+	<string>signValue</string>
+	<key>semanticVideo</key>
+	<string>shouldFormatPlate</string>
+	<key>shouldDisconnectPriority</key>
+	<string>shaderbuilder</string>
+	<key>shoulddeserializestamp</key>
+	<string>intuitiveTraversal</string>
+	<key>standaloneOverlay</key>
+	<string>painterfrequency</string>
+	<key>statefulSubscription</key>
+	<string>canShowUnary</string>
+	<key>uniformView</key>
+	<string>futureDecorator</string>
+</dict>
+</plist>

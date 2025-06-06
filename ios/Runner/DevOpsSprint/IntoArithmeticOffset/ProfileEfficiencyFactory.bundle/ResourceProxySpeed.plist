@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesFormat</key>
+	<string>menuorigin</string>
+	<key>delicateMedia</key>
+	<string>latencyFeedback</string>
+	<key>localIcon</key>
+	<string>embedAsync</string>
+	<key>mendmode</key>
+	<string>tickerconsumption</string>
+	<key>onstatelesschanged</key>
+	<string>segueSystem</string>
+	<key>positionedRight</key>
+	<string>steptaskforce</string>
+	<key>prismaticSkin</key>
+	<string>notifyCharacter</string>
+	<key>replicatedialogs</key>
+	<string>threadOperation</string>
+	<key>shouldBuildTransition</key>
+	<string>activatedGroup</string>
+</dict>
+</plist>

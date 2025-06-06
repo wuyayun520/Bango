@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleVideo</key>
+	<string>instantiateNavigator</string>
+	<key>alphaselector</key>
+	<string>shouldSerializeNavigator</string>
+	<key>draggablevolume</key>
+	<string>shaderspeed</string>
+	<key>firstanimationflags</key>
+	<string>buildRow</string>
+	<key>firstvolume</key>
+	<string>notifySine</string>
+	<key>giftDepth</key>
+	<string>minDelegate</string>
+	<key>shouldPrepareDropdownButton</key>
+	<string>memberprocessstyle</string>
+	<key>shouldrestartconvolution</key>
+	<string>functionalEntity</string>
+	<key>singleSwift</key>
+	<string>concreteUtil</string>
+</dict>
+</plist>

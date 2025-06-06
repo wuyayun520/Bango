@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicOrientation</key>
+	<string>indicatorbrightness</string>
+	<key>descriptionInterval</key>
+	<string>groupValidation</string>
+	<key>enabledEqualization</key>
+	<string>shouldMountedCard</string>
+	<key>numericalInterface</key>
+	<string>autoGift</string>
+	<key>originalPresenter</key>
+	<string>bundleRoute</string>
+	<key>permissiveGem</key>
+	<string>associatetangent</string>
+	<key>shouldDeserializeRichText</key>
+	<string>sinkflags</string>
+	<key>shouldhandlebaseline</key>
+	<string>requiredHero</string>
+	<key>sophisticatedChecklist</key>
+	<string>prevcompletervisibility</string>
+</dict>
+</plist>

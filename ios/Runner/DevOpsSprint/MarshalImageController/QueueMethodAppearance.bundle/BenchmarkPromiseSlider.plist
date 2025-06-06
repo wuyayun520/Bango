@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deactivaterow</key>
+	<string>listviewCenter</string>
+	<key>inheritedInfo</key>
+	<string>inkwellinpattern</string>
+	<key>injectionuntilplatform</key>
+	<string>canRebuildScroll</string>
+	<key>shouldPaintConvolution</key>
+	<string>controllermethodfrequency</string>
+	<key>signsearcher</key>
+	<string>stateVariable</string>
+</dict>
+</plist>

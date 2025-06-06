@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentProcessor</key>
+	<string>deactivateDescription</string>
+	<key>instantiatedependency</key>
+	<string>agileHandler</string>
+	<key>materialAnchor</key>
+	<string>replacePrecision</string>
+	<key>secondTweak</key>
+	<string>cursorVisible</string>
+</dict>
+</plist>

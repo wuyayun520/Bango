@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderLocation</key>
+	<string>polygonSaturation</string>
+	<key>dispatchsample</key>
+	<string>profileIntensity</string>
+	<key>intermediateResource</key>
+	<string>publishtransformer</string>
+	<key>retainedOperation</key>
+	<string>saveVariant</string>
+	<key>semanticAxis</key>
+	<string>requiredFactory</string>
+	<key>shouldPushActivity</key>
+	<string>adaptiveFinder</string>
+	<key>shouldrestartbuilder</key>
+	<string>shouldDecodeKernel</string>
+</dict>
+</plist>

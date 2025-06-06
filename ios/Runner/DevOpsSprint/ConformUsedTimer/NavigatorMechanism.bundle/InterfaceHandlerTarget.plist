@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSegue</key>
+	<string>shouldResumeProfile</string>
+	<key>backwardRecursion</key>
+	<string>capacitiesSystem</string>
+	<key>densetabviewinset</key>
+	<string>shouldMountDrawer</string>
+	<key>directPageView</key>
+	<string>fragmentsTint</string>
+	<key>opaqueAsync</key>
+	<string>remainderVisibility</string>
+	<key>persistentRouter</key>
+	<string>diffableNavigation</string>
+	<key>positioncommandfeedback</key>
+	<string>inheritedTransformer</string>
+	<key>prismaticDuration</key>
+	<string>specifierFramework</string>
+	<key>shouldAnimateOptimizer</key>
+	<string>compareChapter</string>
+</dict>
+</plist>

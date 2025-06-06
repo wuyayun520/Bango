@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedoption</key>
+	<string>hasremainder</string>
+	<key>declarativeIsolate</key>
+	<string>arithmeticDescent</string>
+	<key>divideusecase</key>
+	<string>singletoncenter</string>
+	<key>flexibleMaterializer</key>
+	<string>elasticBitrate</string>
+	<key>reactiveConstant</key>
+	<string>buildController</string>
+</dict>
+</plist>

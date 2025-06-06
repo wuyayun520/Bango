@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopSign</key>
+	<string>primaryChannel</string>
+	<key>granularArithmetic</key>
+	<string>shouldPrepareExpanded</string>
+	<key>largeOperation</key>
+	<string>shouldTransformScroll</string>
+	<key>nodeoutsidemode</key>
+	<string>consumerSystem</string>
+	<key>remainderofprototype</key>
+	<string>decodeSubpixel</string>
+	<key>remediationMargin</key>
+	<string>sessionAcceleration</string>
+	<key>slashHue</key>
+	<string>otherPolyfill</string>
+	<key>storagedirection</key>
+	<string>canEndStep</string>
+</dict>
+</plist>

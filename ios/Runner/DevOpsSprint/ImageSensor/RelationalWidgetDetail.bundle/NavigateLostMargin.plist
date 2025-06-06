@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerpatterncenter</key>
+	<string>shouldLoadCheckbox</string>
+	<key>delicateSensor</key>
+	<string>setstateMargin</string>
+	<key>immediateProtocol</key>
+	<string>overlayTint</string>
+	<key>interfaceleft</key>
+	<string>batchincludevalue</string>
+	<key>persistbullet</key>
+	<string>disconnectRequest</string>
+	<key>promisePressure</key>
+	<string>viewSaturation</string>
+	<key>restrictionPosition</key>
+	<string>normalTransition</string>
+	<key>shouldProcessOptimizer</key>
+	<string>reducerinteraction</string>
+	<key>significantDropdownButton</key>
+	<string>canUnbindDescriptor</string>
+	<key>uniquepromise</key>
+	<string>slashStructure</string>
+</dict>
+</plist>

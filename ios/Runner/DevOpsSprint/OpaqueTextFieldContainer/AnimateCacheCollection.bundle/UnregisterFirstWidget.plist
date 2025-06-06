@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiConnector</key>
+	<string>basicCustomPaint</string>
+	<key>scrollableDuration</key>
+	<string>processSegue</string>
+	<key>shouldReplaceStep</key>
+	<string>musicFunction</string>
+	<key>specifyButton</key>
+	<string>imperativeCatalyst</string>
+</dict>
+</plist>

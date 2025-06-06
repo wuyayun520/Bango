@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>framesubscriber</key>
+	<string>registerSink</string>
+	<key>nativeDisclaimer</key>
+	<string>shouldUpdateAlpha</string>
+	<key>pinchableoptimizerpressure</key>
+	<string>activatedRole</string>
+	<key>prepareresolver</key>
+	<string>pageviewDuration</string>
+	<key>scaleOffset</key>
+	<string>dedicatedIntensity</string>
+	<key>sharedCaption</key>
+	<string>readModel</string>
+	<key>sinkTail</key>
+	<string>baselineParameter</string>
+	<key>spriteinterpreterbottom</key>
+	<string>immutableCharacteristic</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalScroller</key>
+	<string>smartBehavior</string>
+	<key>independentPrecision</key>
+	<string>parseSlash</string>
+	<key>modelTransparency</key>
+	<string>agileProject</string>
+	<key>originalUtil</key>
+	<string>autoResolver</string>
+	<key>positionedBottom</key>
+	<string>descentSize</string>
+	<key>shouldCreateShader</key>
+	<string>smartNavigator</string>
+	<key>shouldSubscribeStateful</key>
+	<string>plateStructure</string>
+	<key>tabbarFormat</key>
+	<string>activatedSpecifier</string>
+	<key>visibleVector</key>
+	<string>shouldTrainFlex</string>
+</dict>
+</plist>

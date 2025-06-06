@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardVisibility</key>
+	<string>extensionchooser</string>
+	<key>checklistResponse</key>
+	<string>upgradelabel</string>
+	<key>fillcell</key>
+	<string>labellayerformat</string>
+	<key>functionalAlpha</key>
+	<string>relationalswitchscale</string>
+	<key>mutablebuilder</key>
+	<string>enabledAspect</string>
+	<key>pivotalManager</key>
+	<string>interactiveInteraction</string>
+	<key>scaffoldTheme</key>
+	<string>mediumDetector</string>
+	<key>setstatecoordinator</key>
+	<string>shouldPrepareChecklist</string>
+	<key>signatureFlags</key>
+	<string>primaryBinary</string>
+</dict>
+</plist>

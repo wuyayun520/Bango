@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSpine</key>
+	<string>finderFeedback</string>
+	<key>channelAlignment</key>
+	<string>canParseSizedBox</string>
+	<key>crucialMapper</key>
+	<string>serializeSizedBox</string>
+	<key>directPreview</key>
+	<string>shouldreplacesession</string>
+	<key>ephemeralBinder</key>
+	<string>accelerateEvent</string>
+	<key>immediateGradient</key>
+	<string>aggregategraph</string>
+	<key>shouldDecodeSample</key>
+	<string>deactivateRoute</string>
+	<key>shouldPaintEquipment</key>
+	<string>pinchableHero</string>
+	<key>viewKind</key>
+	<string>intuitiveSymbol</string>
+</dict>
+</plist>

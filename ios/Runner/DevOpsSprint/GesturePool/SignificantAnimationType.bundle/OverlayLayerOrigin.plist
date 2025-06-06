@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoMission</key>
+	<string>missedAccessory</string>
+	<key>difficultanimationskewx</key>
+	<string>behaviorTier</string>
+	<key>liteTaxonomy</key>
+	<string>selectedRole</string>
+	<key>menuscalability</key>
+	<string>nativeLinker</string>
+	<key>radioPosition</key>
+	<string>storeGrain</string>
+	<key>shouldObserveThread</key>
+	<string>canRouteGesture</string>
+	<key>shouldsetstatecertificate</key>
+	<string>fetchPadding</string>
+	<key>unaryDuration</key>
+	<string>denseBinary</string>
+	<key>webAnimatedContainer</key>
+	<string>globalListener</string>
+</dict>
+</plist>

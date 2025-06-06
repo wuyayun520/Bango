@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProvision</key>
+	<string>attachGate</string>
+	<key>controllerdespitescope</key>
+	<string>shouldPaintSpot</string>
+	<key>displayablelabelspeed</key>
+	<string>unarySkewX</string>
+	<key>fragmentsVisible</key>
+	<string>semanticsResponse</string>
+	<key>localAscent</key>
+	<string>dissociateController</string>
+	<key>paralleldelegatevelocity</key>
+	<string>dedicatedPageView</string>
+	<key>quaternionacceleration</key>
+	<string>liteDimension</string>
+	<key>shouldProcessTransition</key>
+	<string>primaryRequest</string>
+	<key>shouldsetstateflex</key>
+	<string>firstGrayscale</string>
+</dict>
+</plist>

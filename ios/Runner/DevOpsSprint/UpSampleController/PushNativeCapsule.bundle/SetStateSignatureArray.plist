@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAscent</key>
+	<string>directlyCombiner</string>
+	<key>canvasAcceleration</key>
+	<string>rendererEdge</string>
+	<key>declarativeRadio</key>
+	<string>kernelCoord</string>
+	<key>indicatorMargin</key>
+	<string>textfieldcombiner</string>
+	<key>opaqueSingleton</key>
+	<string>inflatemodal</string>
+	<key>segueloop</key>
+	<string>tweenActivity</string>
+	<key>significantLoop</key>
+	<string>wrapperspeed</string>
+</dict>
+</plist>

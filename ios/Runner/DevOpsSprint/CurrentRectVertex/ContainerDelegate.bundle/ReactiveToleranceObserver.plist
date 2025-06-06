@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonOperation</key>
+	<string>futureDelay</string>
+	<key>documentShape</key>
+	<string>publicSubpixel</string>
+	<key>managerinactivity</key>
+	<string>routeVar</string>
+	<key>oldAppBar</key>
+	<string>resilientTimeline</string>
+	<key>shouldTransitionSample</key>
+	<string>discardedtriangles</string>
+	<key>symmetricsorter</key>
+	<string>nativeIcon</string>
+</dict>
+</plist>

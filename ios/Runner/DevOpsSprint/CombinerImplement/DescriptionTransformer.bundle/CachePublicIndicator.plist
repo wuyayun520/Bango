@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channeltheme</key>
+	<string>shouldKeepBullet</string>
+	<key>denseProcessor</key>
+	<string>largeResult</string>
+	<key>disparateAnimation</key>
+	<string>decodeConstraint</string>
+	<key>intuitiveSchema</key>
+	<string>monsterAction</string>
+	<key>seamlessHistogram</key>
+	<string>alignmentInteraction</string>
+	<key>shouldHandlePlayback</key>
+	<string>canPresentGem</string>
+	<key>shouldRenderStep</key>
+	<string>canFetchGram</string>
+	<key>shouldStartGradient</key>
+	<string>canYieldPrecision</string>
+</dict>
+</plist>

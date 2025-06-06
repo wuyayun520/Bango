@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralexpandedtag</key>
+	<string>shouldTrainLabel</string>
+	<key>granularbasebound</key>
+	<string>emitcomposition</string>
+	<key>newestAspect</key>
+	<string>canUnmountBorder</string>
+	<key>repositoryShade</key>
+	<string>offsetGroup</string>
+	<key>schemaShade</key>
+	<string>canCancelCell</string>
+	<key>scopeinteraction</key>
+	<string>nibCoord</string>
+	<key>shouldSubscribeAlert</key>
+	<string>radiusColor</string>
+	<key>shouldTrainGridView</key>
+	<string>arithmeticDispatcher</string>
+</dict>
+</plist>

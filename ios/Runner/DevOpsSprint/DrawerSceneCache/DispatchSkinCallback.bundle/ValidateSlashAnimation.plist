@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardGem</key>
+	<string>canTrainStoryboard</string>
+	<key>difficultGraphic</key>
+	<string>futureSpeed</string>
+	<key>fragmentLocation</key>
+	<string>synchronousNib</string>
+	<key>injectionalongparameter</key>
+	<string>objectTag</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterAppearance</key>
+	<string>mitigateScene</string>
+	<key>criticalSingleton</key>
+	<string>canFormatCupertino</string>
+	<key>declarativeStoryboard</key>
+	<string>flexibleModel</string>
+	<key>resourcescopevelocity</key>
+	<string>eagervectorvisibility</string>
+</dict>
+</plist>

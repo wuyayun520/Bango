@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mendTension</key>
+	<string>giftShape</string>
+	<key>multiplicationBorder</key>
+	<string>inheritedAsync</string>
+	<key>numericalMesh</key>
+	<string>smallbuttondirection</string>
+	<key>pivotalCheckbox</key>
+	<string>divideTask</string>
+	<key>textfieldSize</key>
+	<string>shouldEmitRow</string>
+</dict>
+</plist>

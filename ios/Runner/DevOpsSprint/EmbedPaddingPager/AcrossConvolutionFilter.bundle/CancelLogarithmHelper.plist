@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindercolor</key>
+	<string>showPoint</string>
+	<key>borderproxyposition</key>
+	<string>handleWidget</string>
+	<key>compositionalMesh</key>
+	<string>touchMetadata</string>
+	<key>cupertinoAudio</key>
+	<string>handlehandler</string>
+	<key>intensityDirection</key>
+	<string>overrideCallback</string>
+	<key>optionTag</key>
+	<string>pageviewSize</string>
+	<key>sharedResponder</key>
+	<string>visiblestorage</string>
+	<key>stepcoord</key>
+	<string>normalSegue</string>
+	<key>taxonomyOrigin</key>
+	<string>protocolprocessskewy</string>
+	<key>widgetpercontext</key>
+	<string>usageCount</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDistinction</key>
+	<string>appbarCommand</string>
+	<key>chartMode</key>
+	<string>startContraction</string>
+	<key>desktopTweak</key>
+	<string>shouldResumeMaterial</string>
+	<key>expandedFrequency</key>
+	<string>asyncSystem</string>
+	<key>titleVelocity</key>
+	<string>vectorrate</string>
+	<key>transitionconstraint</key>
+	<string>equalizationDecorator</string>
+	<key>unsortedFragment</key>
+	<string>makeBloc</string>
+	<key>updaterepository</key>
+	<string>shouldloadcurve</string>
+	<key>usedSegment</key>
+	<string>monsterservice</string>
+	<key>visibleInterpolation</key>
+	<string>disparateEqualization</string>
+</dict>
+</plist>

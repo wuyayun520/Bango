@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalLayout</key>
+	<string>cartesianInterpolation</string>
+	<key>injectionawayprototype</key>
+	<string>interactorScale</string>
+	<key>largeslash</key>
+	<string>tablePressure</string>
+	<key>materialFinder</key>
+	<string>heroSkewX</string>
+	<key>observertheme</key>
+	<string>statefulAlert</string>
+	<key>otherException</key>
+	<string>distinctionLeft</string>
+	<key>repositoryBound</key>
+	<string>activatedecoration</string>
+	<key>shouldSetStateMargin</key>
+	<string>permissiveBehavior</string>
+	<key>switchFrequency</key>
+	<string>interactiveCompleter</string>
+</dict>
+</plist>

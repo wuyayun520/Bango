@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBox</key>
+	<string>canReplaceScale</string>
+	<key>disparateAscent</key>
+	<string>decorationCycle</string>
+	<key>eagerInstruction</key>
+	<string>notifyCell</string>
+	<key>sharedLayout</key>
+	<string>setupCubit</string>
+	<key>shouldObserveGestureDetector</key>
+	<string>hyperbolicpreview</string>
+	<key>slashinsidetype</key>
+	<string>tappableReplica</string>
+	<key>specifyTransformer</key>
+	<string>shouldMountedNotification</string>
+</dict>
+</plist>

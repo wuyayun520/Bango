@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTouch</key>
+	<string>canPaintUsage</string>
+	<key>desktopconsumerspeed</key>
+	<string>cellAlignment</string>
+	<key>interactivelocalization</key>
+	<string>accordionrequest</string>
+	<key>normalDescription</key>
+	<string>dropoutAsync</string>
+	<key>undertakenode</key>
+	<string>canDisconnectSpecifier</string>
+</dict>
+</plist>

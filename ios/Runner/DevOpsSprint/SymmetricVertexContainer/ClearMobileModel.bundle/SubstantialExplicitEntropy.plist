@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityshapetype</key>
+	<string>bufferObserver</string>
+	<key>augmentmovement</key>
+	<string>scalebuilder</string>
+	<key>comprehensivedescription</key>
+	<string>semanticRadio</string>
+	<key>hierarchicalHero</key>
+	<string>resultWork</string>
+	<key>lazyLatency</key>
+	<string>shouldStreamBorder</string>
+	<key>persistentFlex</key>
+	<string>routeTint</string>
+	<key>shouldCreateTabBar</key>
+	<string>playException</string>
+	<key>shouldLoadAccessory</key>
+	<string>yieldDimension</string>
+	<key>shouldTrainSlider</key>
+	<string>statusIndex</string>
+</dict>
+</plist>

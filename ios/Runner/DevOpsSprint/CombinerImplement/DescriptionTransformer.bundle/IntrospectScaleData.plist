@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedbehaviororigin</key>
+	<string>schemaType</string>
+	<key>characteristicStatus</key>
+	<string>metadataloader</string>
+	<key>mainListener</key>
+	<string>continueEquipment</string>
+	<key>quantizergraphic</key>
+	<string>skirtVar</string>
+	<key>rectprocessbottom</key>
+	<string>largefragments</string>
+	<key>shouldConnectBorder</key>
+	<string>permissiveSprite</string>
+	<key>variantLocation</key>
+	<string>wrapPresenter</string>
+</dict>
+</plist>

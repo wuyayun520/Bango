@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalBatch</key>
+	<string>cloneHandler</string>
+	<key>hasbinary</key>
+	<string>synchronousRecursion</string>
+	<key>oldSubpixel</key>
+	<string>emitbase</string>
+	<key>profileSpacing</key>
+	<string>crudemetadata</string>
+	<key>retainedSelector</key>
+	<string>shouldLayoutAnimatedContainer</string>
+	<key>shouldAnimateMember</key>
+	<string>standaloneCallback</string>
+</dict>
+</plist>

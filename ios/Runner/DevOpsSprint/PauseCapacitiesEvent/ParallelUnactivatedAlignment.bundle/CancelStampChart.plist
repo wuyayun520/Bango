@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledRect</key>
+	<string>canEndInkWell</string>
+	<key>lostMargin</key>
+	<string>cancelTouch</string>
+	<key>releaselocalization</key>
+	<string>gramStructure</string>
+	<key>temporaryVolume</key>
+	<string>denseMerger</string>
+	<key>videobottom</key>
+	<string>canSaveNib</string>
+</dict>
+</plist>

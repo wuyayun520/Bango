@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionduringprocess</key>
+	<string>mediaorientation</string>
+	<key>granularHeap</key>
+	<string>encapsulateView</string>
+	<key>informationstate</key>
+	<string>canRestartScreen</string>
+	<key>responsivetangent</key>
+	<string>richtextmechanism</string>
+	<key>unactivatedtopic</key>
+	<string>canRouteBuilder</string>
+</dict>
+</plist>

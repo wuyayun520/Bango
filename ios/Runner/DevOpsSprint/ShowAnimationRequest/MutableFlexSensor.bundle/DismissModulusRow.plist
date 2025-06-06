@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorType</key>
+	<string>shouldRenderVariant</string>
+	<key>delegatelayerinterval</key>
+	<string>deflateConstraint</string>
+	<key>dynamicCard</key>
+	<string>shouldPublishGesture</string>
+	<key>equalizationBehavior</key>
+	<string>binaryservice</string>
+</dict>
+</plist>

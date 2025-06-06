@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableBinder</key>
+	<string>shouldCancelAspect</string>
+	<key>equalizationSize</key>
+	<string>shouldBuildMember</string>
+	<key>granularZone</key>
+	<string>arithmeticBuffer</string>
+	<key>mediocreController</key>
+	<string>canShowRemainder</string>
+	<key>richtextaboutdecorator</key>
+	<string>dynamicAspect</string>
+	<key>stackallocator</key>
+	<string>taskorientation</string>
+	<key>storeScale</key>
+	<string>shouldMountedGradient</string>
+	<key>typicalGridView</key>
+	<string>keepchart</string>
+	<key>unsortedCollection</key>
+	<string>timelineStyle</string>
+</dict>
+</plist>

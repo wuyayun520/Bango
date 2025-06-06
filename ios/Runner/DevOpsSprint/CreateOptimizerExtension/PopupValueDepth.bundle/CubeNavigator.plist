@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityuntilstrategy</key>
+	<string>controllersaturation</string>
+	<key>customDependency</key>
+	<string>gradientCommand</string>
+	<key>gridLocation</key>
+	<string>exitCoordinator</string>
+	<key>mainScenario</key>
+	<string>shouldSerializeProfile</string>
+	<key>statelessindicatorstyle</key>
+	<string>displayObserver</string>
+</dict>
+</plist>

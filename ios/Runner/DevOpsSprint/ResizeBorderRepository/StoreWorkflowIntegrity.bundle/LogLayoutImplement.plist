@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLoader</key>
+	<string>dismissEquipment</string>
+	<key>accordionChannel</key>
+	<string>concreteCurve</string>
+	<key>activatedSample</key>
+	<string>setstateBaseline</string>
+	<key>cacheOrigin</key>
+	<string>resolveAllocator</string>
+	<key>draggablesink</key>
+	<string>canHandleScreen</string>
+	<key>interactiveindicatorright</key>
+	<string>liteDescription</string>
+	<key>shouldSaveExpanded</key>
+	<string>displayableFeature</string>
+	<key>similarBase</key>
+	<string>publicPresenter</string>
+</dict>
+</plist>

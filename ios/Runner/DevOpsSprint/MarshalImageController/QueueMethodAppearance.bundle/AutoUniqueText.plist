@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveresource</key>
+	<string>fusedReplica</string>
+	<key>publicBaseline</key>
+	<string>discardedIndicator</string>
+	<key>respectiveexceptionrate</key>
+	<string>refactorbaseline</string>
+	<key>responsecontainshape</key>
+	<string>nibDuration</string>
+	<key>shouldPaintMaterial</key>
+	<string>canPresentMomentum</string>
+	<key>tweakMode</key>
+	<string>gesturedetectorJob</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAspectRatio</key>
+	<string>sortedSpecifier</string>
+	<key>convolutionOrigin</key>
+	<string>canYieldNavigation</string>
+	<key>difficultAlert</key>
+	<string>missedRichText</string>
+	<key>eagerUseCase</key>
+	<string>provisionRight</string>
+	<key>ephemeralInteraction</key>
+	<string>animatesubscription</string>
+	<key>painterbufferoffset</key>
+	<string>ephemeralPresenter</string>
+	<key>webTrajectory</key>
+	<string>captionMethod</string>
+</dict>
+</plist>

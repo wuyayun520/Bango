@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSwitch</key>
+	<string>descriptionSystem</string>
+	<key>accordionAlignment</key>
+	<string>rapidElasticity</string>
+	<key>precisionVisible</key>
+	<string>blocTier</string>
+	<key>reliabilityTint</key>
+	<string>resilientConsumption</string>
+</dict>
+</plist>

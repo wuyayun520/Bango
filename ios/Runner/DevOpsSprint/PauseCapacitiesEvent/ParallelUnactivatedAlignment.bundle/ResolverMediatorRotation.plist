@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMission</key>
+	<string>notifierResponse</string>
+	<key>detectorSkewY</key>
+	<string>roleLayer</string>
+	<key>dynamicBatch</key>
+	<string>tensorFeature</string>
+	<key>hardChannels</key>
+	<string>rectangleAlignment</string>
+	<key>losttabviewtag</key>
+	<string>cardValidation</string>
+	<key>mountedaction</key>
+	<string>sliderpicker</string>
+	<key>pointAppearance</key>
+	<string>arithmeticChallenge</string>
+</dict>
+</plist>

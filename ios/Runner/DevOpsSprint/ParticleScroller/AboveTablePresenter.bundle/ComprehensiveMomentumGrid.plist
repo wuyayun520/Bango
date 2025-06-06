@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteHero</key>
+	<string>specifyGridView</string>
+	<key>easyIndicator</key>
+	<string>queueInteraction</string>
+	<key>immutableLoss</key>
+	<string>awaitFlags</string>
+	<key>navigatoroutsidemediator</key>
+	<string>observerProcess</string>
+	<key>permissiveAnimator</key>
+	<string>hardLatency</string>
+	<key>shouldUnmountPainter</key>
+	<string>collectioncontainmode</string>
+	<key>sophisticatedConfiguration</key>
+	<string>widgetandcontext</string>
+	<key>ternaryleft</key>
+	<string>unactivatedcoordinatororientation</string>
+</dict>
+</plist>

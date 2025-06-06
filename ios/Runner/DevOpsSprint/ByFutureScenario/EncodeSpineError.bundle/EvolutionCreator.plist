@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardEntropy</key>
+	<string>keyService</string>
+	<key>connectorContrast</key>
+	<string>canKeepModal</string>
+	<key>directAlpha</key>
+	<string>topicLevel</string>
+	<key>dynamicStatus</key>
+	<string>offsetshape</string>
+	<key>expandedAppearance</key>
+	<string>columntop</string>
+	<key>localizationscale</key>
+	<string>evolutioncolor</string>
+	<key>lossInteraction</key>
+	<string>normalSymbol</string>
+	<key>statefulbesidecommand</key>
+	<string>parallelVolume</string>
+</dict>
+</plist>

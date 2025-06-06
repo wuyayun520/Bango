@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPresenter</key>
+	<string>deserializeStore</string>
+	<key>composableResilience</key>
+	<string>smartEvent</string>
+	<key>inkwellBrightness</key>
+	<string>differentiateDelegate</string>
+	<key>permissiveScaffold</key>
+	<string>difficultAnalyzer</string>
+	<key>relationaltextdensity</key>
+	<string>inactiveStrength</string>
+	<key>signaturelikejob</key>
+	<string>shouldValidateAnimation</string>
+</dict>
+</plist>

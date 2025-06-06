@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationKind</key>
+	<string>missedRect</string>
+	<key>fixedradius</key>
+	<string>shouldReplaceChallenge</string>
+	<key>gatevelocity</key>
+	<string>currentImpression</string>
+	<key>gridviewStatus</key>
+	<string>scaleColor</string>
+	<key>iconchaindensity</key>
+	<string>aspectspeed</string>
+	<key>shouldCreatePoint</key>
+	<string>scalelikesingleton</string>
+	<key>shouldTrainEntropy</key>
+	<string>navigateCursor</string>
+	<key>shouldbinddescriptor</key>
+	<string>shouldPersistCapsule</string>
+	<key>tensorRestriction</key>
+	<string>searcherState</string>
+</dict>
+</plist>

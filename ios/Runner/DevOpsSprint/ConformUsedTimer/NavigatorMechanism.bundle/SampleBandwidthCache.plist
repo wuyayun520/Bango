@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopWidget</key>
+	<string>throughputRate</string>
+	<key>ephemeralPosition</key>
+	<string>equalizationStrategy</string>
+	<key>exponentStatus</key>
+	<string>euclideanStatus</string>
+	<key>nextBrush</key>
+	<string>customizedStep</string>
+</dict>
+</plist>

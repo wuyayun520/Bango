@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedScale</key>
+	<string>columnTemple</string>
+	<key>behaviortime</key>
+	<string>canDisposeEffect</string>
+	<key>capacityShape</key>
+	<string>shouldStreamHeap</string>
+	<key>deserializepromise</key>
+	<string>declarativeRadius</string>
+	<key>intuitiveLoss</key>
+	<string>gridviewColor</string>
+	<key>shouldTransitionSpine</key>
+	<string>bindGesture</string>
+</dict>
+</plist>

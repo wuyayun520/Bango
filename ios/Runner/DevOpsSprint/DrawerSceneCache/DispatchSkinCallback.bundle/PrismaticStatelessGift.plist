@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioFrequency</key>
+	<string>projectFlyweight</string>
+	<key>basicMetadata</key>
+	<string>localTransition</string>
+	<key>crucialFlex</key>
+	<string>pendingStream</string>
+	<key>defaultstateless</key>
+	<string>crucialJoiner</string>
+	<key>shouldDismissMember</key>
+	<string>layoutalignment</string>
+	<key>shouldEncodeAperture</key>
+	<string>opaqueRect</string>
+	<key>tentativeshape</key>
+	<string>chapterSpacing</string>
+	<key>ternaryRotation</key>
+	<string>baselineDensity</string>
+	<key>webCreator</key>
+	<string>onsymbolchanged</string>
+</dict>
+</plist>

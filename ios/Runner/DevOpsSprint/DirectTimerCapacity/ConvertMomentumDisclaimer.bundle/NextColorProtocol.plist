@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directPainter</key>
+	<string>kernelrequest</string>
+	<key>immutableScene</key>
+	<string>crudeMetrics</string>
+	<key>taskflyweightstyle</key>
+	<string>replaceCompleter</string>
+	<key>unactivatedItem</key>
+	<string>combineStorage</string>
+	<key>unsortedScale</key>
+	<string>effectLayer</string>
+</dict>
+</plist>

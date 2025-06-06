@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyInstruction</key>
+	<string>arithmeticConsumption</string>
+	<key>extendnavigator</key>
+	<string>concreteStack</string>
+	<key>frameKind</key>
+	<string>instantiateService</string>
+	<key>hardLayout</key>
+	<string>resilientLayout</string>
+	<key>mobilePicker</key>
+	<string>firstView</string>
+	<key>newestBinary</key>
+	<string>canTrainTheme</string>
+	<key>shouldDeserializeAlert</key>
+	<string>activatedSearcher</string>
+	<key>shouldFinishMusic</key>
+	<string>symmetricGestureDetector</string>
+	<key>shouldHandleReduction</key>
+	<string>tensorPriority</string>
+	<key>temporaryWidget</key>
+	<string>hierarchicalInstruction</string>
+</dict>
+</plist>

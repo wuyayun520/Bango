@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inkwellDelay</key>
+	<string>brushVisibility</string>
+	<key>mainMechanism</key>
+	<string>largeCapacities</string>
+	<key>pickerRate</key>
+	<string>trainmethod</string>
+	<key>selectedChecklist</key>
+	<string>statefulRouter</string>
+	<key>shouldListenGradient</key>
+	<string>cursorDecorator</string>
+	<key>shouldobservegem</key>
+	<string>tappableSpecifier</string>
+</dict>
+</plist>

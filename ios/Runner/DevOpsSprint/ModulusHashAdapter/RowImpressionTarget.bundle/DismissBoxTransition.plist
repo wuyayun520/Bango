@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurelabel</key>
+	<string>baseLeft</string>
+	<key>interpolatebehavior</key>
+	<string>constraintResponse</string>
+	<key>samplehue</key>
+	<string>associatedAspect</string>
+	<key>shouldLayoutMedia</key>
+	<string>dissociateController</string>
+	<key>shouldlayoutsensor</key>
+	<string>aspectratioskewx</string>
+	<key>subsequentChannel</key>
+	<string>notationMargin</string>
+</dict>
+</plist>

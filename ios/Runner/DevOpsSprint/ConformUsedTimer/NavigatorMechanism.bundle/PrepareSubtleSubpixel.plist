@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileImpact</key>
+	<string>skirtComposite</string>
+	<key>behaviordirection</key>
+	<string>otheralpha</string>
+	<key>brushindex</key>
+	<string>savesegue</string>
+	<key>extendlayer</key>
+	<string>statelessIsolate</string>
+	<key>gesturedetectorstructurestate</key>
+	<string>lastBullet</string>
+	<key>invisibleEquipment</key>
+	<string>resilientasynctag</string>
+	<key>lazyplate</key>
+	<string>immediateChapter</string>
+	<key>shouldAttachConvolution</key>
+	<string>initializeRouter</string>
+	<key>shouldLayoutHistogram</key>
+	<string>opaqueRect</string>
+</dict>
+</plist>

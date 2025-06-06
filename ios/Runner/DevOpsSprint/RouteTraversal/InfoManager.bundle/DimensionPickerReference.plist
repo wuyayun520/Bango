@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeProvider</key>
+	<string>canCancelBuilder</string>
+	<key>animatedVolume</key>
+	<string>smalloverlayduration</string>
+	<key>appbarfrequency</key>
+	<string>buttonBottom</string>
+	<key>customColor</key>
+	<string>specifycontainertype</string>
+	<key>defaultmedia</key>
+	<string>canReplaceTool</string>
+	<key>equalizationMode</key>
+	<string>adaptiveStatus</string>
+	<key>equivalentindex</key>
+	<string>tabviewreducer</string>
+	<key>newestCreator</key>
+	<string>serializebehavior</string>
+	<key>shouldSerializeProjection</key>
+	<string>euclideanStorage</string>
+</dict>
+</plist>

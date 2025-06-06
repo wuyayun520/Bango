@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetmomentum</key>
+	<string>cellParameter</string>
+	<key>deferredGrain</key>
+	<string>shouldPrepareModulus</string>
+	<key>resilientPager</key>
+	<string>quantizerTransformer</string>
+	<key>shouldPauseReduction</key>
+	<string>baselinezone</string>
+	<key>tickerhue</key>
+	<string>ignoredComponent</string>
+</dict>
+</plist>

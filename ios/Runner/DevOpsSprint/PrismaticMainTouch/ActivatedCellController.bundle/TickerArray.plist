@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorTheme</key>
+	<string>canResumeBatch</string>
+	<key>fixedNavigation</key>
+	<string>primaryPolygon</string>
+	<key>hasSensor</key>
+	<string>resizableContainer</string>
+	<key>layoutpershape</key>
+	<string>shouldPushArithmetic</string>
+	<key>rectifyposition</key>
+	<string>marginBridge</string>
+	<key>similarDecoration</key>
+	<string>newestTweak</string>
+	<key>stampMomentum</key>
+	<string>canRouteNotification</string>
+</dict>
+</plist>

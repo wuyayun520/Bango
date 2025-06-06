@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adddialogs</key>
+	<string>maxPainter</string>
+	<key>appbarSkewX</key>
+	<string>fetchInterpolation</string>
+	<key>lostAnchor</key>
+	<string>transpileAwait</string>
+	<key>retainedBullet</key>
+	<string>composableRemainder</string>
+	<key>scrollableReceiver</key>
+	<string>shouldSerializeArithmetic</string>
+	<key>shouldRebuildFuture</key>
+	<string>subtleDuration</string>
+</dict>
+</plist>

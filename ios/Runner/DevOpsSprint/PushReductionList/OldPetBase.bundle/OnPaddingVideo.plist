@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoStoryboard</key>
+	<string>loopbesidecycle</string>
+	<key>ignoredInjection</key>
+	<string>uniqueRouter</string>
+	<key>independentQueue</key>
+	<string>shouldDispatchResource</string>
+	<key>movequeue</key>
+	<string>multiplyCallback</string>
+	<key>streamlinesegue</key>
+	<string>skipAnchor</string>
+	<key>subtleStoryboard</key>
+	<string>sensorPattern</string>
+	<key>symmetricTrigger</key>
+	<string>aperturerecursion</string>
+</dict>
+</plist>

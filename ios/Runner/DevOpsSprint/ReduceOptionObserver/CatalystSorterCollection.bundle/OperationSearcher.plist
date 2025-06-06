@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesiancube</key>
+	<string>priorityanimation</string>
+	<key>fixedconfigurationtype</key>
+	<string>quantizerloss</string>
+	<key>hyperbolicpresenter</key>
+	<string>unactivatedCycle</string>
+	<key>largeConfidentiality</key>
+	<string>singletontime</string>
+	<key>notationCoord</key>
+	<string>shouldReplacePrecision</string>
+	<key>numericalservice</key>
+	<string>mountSine</string>
+	<key>reusablestreamborder</key>
+	<string>movementInterval</string>
+	<key>routerOpacity</key>
+	<string>unbindShader</string>
+	<key>rowbylevel</key>
+	<string>displayablesliderformat</string>
+	<key>sequentialInkWell</key>
+	<string>containerOrientation</string>
+</dict>
+</plist>

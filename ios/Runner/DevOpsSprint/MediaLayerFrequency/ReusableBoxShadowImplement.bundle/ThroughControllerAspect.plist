@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushPadding</key>
+	<string>canKeepSkin</string>
+	<key>certificateValidation</key>
+	<string>entropysize</string>
+	<key>primaryController</key>
+	<string>unmountGestureDetector</string>
+	<key>shouldMountTask</key>
+	<string>canTransitionModulus</string>
+	<key>subtleThroughput</key>
+	<string>shouldDispatchCatalyst</string>
+</dict>
+</plist>

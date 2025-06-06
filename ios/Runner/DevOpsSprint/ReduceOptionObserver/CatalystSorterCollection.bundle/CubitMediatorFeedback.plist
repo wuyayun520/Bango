@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorTag</key>
+	<string>taxonomyVisibility</string>
+	<key>canvasValidation</key>
+	<string>cleanDependency</string>
+	<key>easyEquipment</key>
+	<string>multiResponder</string>
+	<key>findclipper</key>
+	<string>canSkipVariant</string>
+	<key>functionalThread</key>
+	<string>tappableInfrastructure</string>
+	<key>listenerflags</key>
+	<string>canPersistActivity</string>
+	<key>originalBloc</key>
+	<string>canEmitDrawer</string>
+	<key>parallelPublisher</key>
+	<string>mobileFunction</string>
+	<key>stampSkewY</key>
+	<string>descentFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachinteractor</key>
+	<string>directMetrics</string>
+	<key>handlerVisible</key>
+	<string>canReplaceTool</string>
+	<key>hardUseCase</key>
+	<string>ephemeralOption</string>
+	<key>pageviewMode</key>
+	<string>unlockChart</string>
+	<key>sizeforenvironment</key>
+	<string>similarPolyfill</string>
+</dict>
+</plist>

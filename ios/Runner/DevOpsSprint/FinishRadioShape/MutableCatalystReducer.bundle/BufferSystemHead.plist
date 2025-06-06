@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateDescriptor</key>
+	<string>sequentialRemediation</string>
+	<key>mapMargin</key>
+	<string>specifypriorityalignment</string>
+	<key>projectionDuration</key>
+	<string>mobilewrapper</string>
+	<key>shouldObserveListView</key>
+	<string>cacheCanvas</string>
+	<key>shouldResumeKernel</key>
+	<string>activatedSpecifier</string>
+	<key>shouldTransitionSpine</key>
+	<string>checklistBuffer</string>
+	<key>shouldnavigatebrush</key>
+	<string>allocateTask</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePopup</key>
+	<string>yieldFuture</string>
+	<key>advancedConnector</key>
+	<string>canRestartStateful</string>
+	<key>animatedNavigator</key>
+	<string>disparateProject</string>
+	<key>deactivateexception</key>
+	<string>operationPosition</string>
+	<key>invisibleMediaQuery</key>
+	<string>permanentButton</string>
+	<key>offsetvaluespacing</key>
+	<string>imperativeStore</string>
+	<key>shouldKeepPlate</key>
+	<string>mutablePromise</string>
+</dict>
+</plist>

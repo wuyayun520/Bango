@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeQuaternion</key>
+	<string>gridviewResponse</string>
+	<key>attachaspect</key>
+	<string>addTexture</string>
+	<key>elasticPrecision</key>
+	<string>sizecommandscale</string>
+	<key>grayscaleInteraction</key>
+	<string>decodeStoryboard</string>
+	<key>iterativeGem</key>
+	<string>clippresenter</string>
+	<key>observetexture</key>
+	<string>transformDependency</string>
+	<key>symmetrictouch</key>
+	<string>shouldContinueIndicator</string>
+	<key>tickerName</key>
+	<string>routeOption</string>
+</dict>
+</plist>

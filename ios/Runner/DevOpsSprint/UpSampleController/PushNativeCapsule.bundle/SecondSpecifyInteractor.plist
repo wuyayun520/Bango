@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledBaseline</key>
+	<string>imperativeprotocolinset</string>
+	<key>loopofmode</key>
+	<string>seguecolor</string>
+	<key>originalPolyfill</key>
+	<string>enabledAlert</string>
+	<key>permissiveCosine</key>
+	<string>visibleLinker</string>
+	<key>shouldDetachSubpixel</key>
+	<string>respectiveSignature</string>
+</dict>
+</plist>

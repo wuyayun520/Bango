@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalScale</key>
+	<string>hyperbolicDetail</string>
+	<key>graphicanimation</key>
+	<string>resumeCache</string>
+	<key>reusableTask</key>
+	<string>pointLevel</string>
+	<key>schemaResponse</key>
+	<string>reconcileOffset</string>
+	<key>subscriptionSaturation</key>
+	<string>firstContainer</string>
+	<key>webInteraction</key>
+	<string>receiverTheme</string>
+</dict>
+</plist>

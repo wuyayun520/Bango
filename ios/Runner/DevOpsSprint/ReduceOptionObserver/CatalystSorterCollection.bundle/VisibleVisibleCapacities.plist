@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDimension</key>
+	<string>richtextformat</string>
+	<key>animationexceptwork</key>
+	<string>requiredTaxonomy</string>
+	<key>instantiateresponse</key>
+	<string>tabviewPadding</string>
+	<key>invoketopic</key>
+	<string>canRenderMusic</string>
+	<key>materialDelivery</key>
+	<string>significantChapter</string>
+	<key>pointHead</key>
+	<string>canTransitionCycle</string>
+	<key>shouldNotifyPoint</key>
+	<string>shouldValidateGrayscale</string>
+	<key>shouldStartPrecision</key>
+	<string>globalCompleter</string>
+	<key>stackShade</key>
+	<string>euclideanPicker</string>
+</dict>
+</plist>

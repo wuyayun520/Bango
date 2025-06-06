@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMaterial</key>
+	<string>consumptionPressure</string>
+	<key>metricsAcceleration</key>
+	<string>graphicDistance</string>
+	<key>observerviatype</key>
+	<string>shouldAnimateScaffold</string>
+	<key>screenhead</key>
+	<string>coordinatorstate</string>
+	<key>shouldPopClipper</key>
+	<string>unsortedSignature</string>
+	<key>tensorIcon</key>
+	<string>otherCurve</string>
+</dict>
+</plist>

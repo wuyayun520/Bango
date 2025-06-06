@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateexceptfunction</key>
+	<string>canTrainMission</string>
+	<key>independentCoordinator</key>
+	<string>accordionTimer</string>
+	<key>normalRemainder</key>
+	<string>agileLifecycle</string>
+	<key>precisionthanform</key>
+	<string>buttondetail</string>
+	<key>serializeslash</key>
+	<string>updateGem</string>
+	<key>shouldDispatchDrawer</key>
+	<string>priorInteraction</string>
+	<key>touchsprite</key>
+	<string>pauseTabBar</string>
+	<key>utilasfacade</key>
+	<string>shouldDeserializeImage</string>
+</dict>
+</plist>

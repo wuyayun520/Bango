@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarSkewY</key>
+	<string>cardDelay</string>
+	<key>efficiencyRight</key>
+	<string>resizableObserver</string>
+	<key>inheritedNavigation</key>
+	<string>canPrepareCapsule</string>
+	<key>lazyCapacities</key>
+	<string>sortedMesh</string>
+	<key>priorityconverter</key>
+	<string>sizeBridge</string>
+	<key>rapidConnector</key>
+	<string>mountcoordinator</string>
+	<key>viewMomentum</key>
+	<string>protectedLifecycle</string>
+</dict>
+</plist>

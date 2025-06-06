@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletname</key>
+	<string>deserializeInterface</string>
+	<key>effectkindcontrast</key>
+	<string>grayscaleRotation</string>
+	<key>mapperDistance</key>
+	<string>resetAwait</string>
+	<key>mediumcard</key>
+	<string>richtextBottom</string>
+	<key>sampleBound</key>
+	<string>resilientBatch</string>
+	<key>standaloneLoop</key>
+	<string>accordionCell</string>
+</dict>
+</plist>

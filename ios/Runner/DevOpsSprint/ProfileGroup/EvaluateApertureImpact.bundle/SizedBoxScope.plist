@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperFrequency</key>
+	<string>shouldUnmountVariant</string>
+	<key>decorationdespitestrategy</key>
+	<string>validateSlash</string>
+	<key>draggableAnimator</key>
+	<string>discardedCell</string>
+	<key>endmargin</key>
+	<string>resultrenderer</string>
+	<key>inheritedCard</key>
+	<string>enabledEntropy</string>
+	<key>processactivity</key>
+	<string>quantizerLabel</string>
+	<key>queueFormat</key>
+	<string>canEncodeSession</string>
+	<key>statusskewy</key>
+	<string>canStreamSwitch</string>
+</dict>
+</plist>

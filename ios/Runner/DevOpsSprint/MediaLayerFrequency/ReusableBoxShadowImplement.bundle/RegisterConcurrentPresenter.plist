@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSession</key>
+	<string>sizedboxMethod</string>
+	<key>mobileDependency</key>
+	<string>canStopSpot</string>
+	<key>mobileRole</key>
+	<string>otherAmortization</string>
+	<key>persistentDependency</key>
+	<string>unactivatedPager</string>
+	<key>webReference</key>
+	<string>specifyProvision</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentduration</key>
+	<string>shouldDismissMission</string>
+	<key>flexibleResilience</key>
+	<string>rowintegration</string>
+	<key>intuitiveFactory</key>
+	<string>activateSlider</string>
+	<key>isolateoutsidecomposite</key>
+	<string>hierarchicalRichText</string>
+	<key>notationShade</key>
+	<string>ignoredtopic</string>
+	<key>relationalHeap</key>
+	<string>movementBehavior</string>
+	<key>shouldPauseTangent</key>
+	<string>listenerResponse</string>
+</dict>
+</plist>

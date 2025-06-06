@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerFrequency</key>
+	<string>connectSize</string>
+	<key>explicitAnchor</key>
+	<string>positionnearform</string>
+	<key>fixedNotation</key>
+	<string>createGate</string>
+	<key>ignoredprojectionhue</key>
+	<string>syncFrame</string>
+	<key>priorEvaluation</key>
+	<string>durationhandler</string>
+	<key>receiverinset</key>
+	<string>shouldnotifyobserver</string>
+	<key>shouldUnbindPositioned</key>
+	<string>loadStateful</string>
+	<key>wrapperborder</key>
+	<string>iterativeGesture</string>
+</dict>
+</plist>

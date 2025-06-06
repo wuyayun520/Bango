@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellscopeflags</key>
+	<string>shouldpreparemap</string>
+	<key>diversifiedPageView</key>
+	<string>semanticOperation</string>
+	<key>imperativeController</key>
+	<string>intermediateAnimation</string>
+	<key>intuitiveMediaQuery</key>
+	<string>protectedPageView</string>
+	<key>lazyGram</key>
+	<string>sortedSubscriber</string>
+	<key>priorityDensity</key>
+	<string>requestcontraction</string>
+</dict>
+</plist>

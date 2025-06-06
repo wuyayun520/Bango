@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderduration</key>
+	<string>canShowStateless</string>
+	<key>chapteralignment</key>
+	<string>lazyAudio</string>
+	<key>ephemeralOperation</key>
+	<string>criticalChannel</string>
+	<key>pinchableMaterializer</key>
+	<string>diversifiedStack</string>
+	<key>presentparticle</key>
+	<string>respectivestorage</string>
+	<key>signthanadapter</key>
+	<string>activeProject</string>
+	<key>strokeinset</key>
+	<string>labelFunction</string>
+</dict>
+</plist>

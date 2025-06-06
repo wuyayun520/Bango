@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedboxshadowstatus</key>
+	<string>mutableProvider</string>
+	<key>freecurve</key>
+	<string>listenerAlignment</string>
+	<key>gateName</key>
+	<string>compileCubit</string>
+	<key>mediumFinder</key>
+	<string>normalRectangle</string>
+	<key>musicbutton</key>
+	<string>prismaticNotification</string>
+	<key>prevSign</key>
+	<string>defaultscaffold</string>
+	<key>rectvolume</key>
+	<string>canFinishInkWell</string>
+	<key>volumeContrast</key>
+	<string>desktopCubit</string>
+	<key>volumeHue</key>
+	<string>scenerotation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionSize</key>
+	<string>diversifiedBloc</string>
+	<key>defaultdrawer</key>
+	<string>mountshader</string>
+	<key>gateFrequency</key>
+	<string>gemRotation</string>
+	<key>particlestatus</key>
+	<string>respectiveOperation</string>
+	<key>persistvector</key>
+	<string>listenalpha</string>
+	<key>revisitmap</key>
+	<string>visibleMerger</string>
+	<key>shouldStreamGem</key>
+	<string>directlyReliability</string>
+	<key>smallPrecision</key>
+	<string>groupinsidescope</string>
+</dict>
+</plist>

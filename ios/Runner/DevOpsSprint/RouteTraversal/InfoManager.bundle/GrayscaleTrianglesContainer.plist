@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalbufferedge</key>
+	<string>interpolationresolver</string>
+	<key>shouldContinuePadding</key>
+	<string>observeIndicator</string>
+	<key>shouldobservedropdownbutton</key>
+	<string>attachEquipment</string>
+	<key>sortedSymbol</key>
+	<string>opaqueUtil</string>
+	<key>subpixelOrientation</key>
+	<string>canPublishCursor</string>
+	<key>tappablepager</key>
+	<string>reusableRole</string>
+	<key>tolerancetop</key>
+	<string>canEmitGradient</string>
+</dict>
+</plist>

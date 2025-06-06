@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAlignment</key>
+	<string>drawerTransparency</string>
+	<key>awaitLeft</key>
+	<string>resilienceVelocity</string>
+	<key>chartForce</key>
+	<string>compileFuture</string>
+	<key>cupertinoChecklist</key>
+	<string>pinchablePopup</string>
+	<key>sliderSaturation</key>
+	<string>findworkflow</string>
+	<key>tappableStorage</key>
+	<string>originalDescriptor</string>
+</dict>
+</plist>

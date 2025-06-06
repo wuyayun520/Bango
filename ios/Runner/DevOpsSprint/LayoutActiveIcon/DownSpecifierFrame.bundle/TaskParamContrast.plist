@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationrotation</key>
+	<string>shouldUnmountConsumer</string>
+	<key>connectorStyle</key>
+	<string>concurrentTheme</string>
+	<key>intuitivestorageleft</key>
+	<string>inkwellType</string>
+	<key>mediainvar</key>
+	<string>shouldFetchCard</string>
+	<key>reusableTicker</key>
+	<string>inheritedbehaviororientation</string>
+	<key>splitteredge</key>
+	<string>uniformRadio</string>
+	<key>streamplatformdistance</key>
+	<string>vectorShade</string>
+	<key>unmountedanimation</key>
+	<string>shouldKeepWidget</string>
+</dict>
+</plist>

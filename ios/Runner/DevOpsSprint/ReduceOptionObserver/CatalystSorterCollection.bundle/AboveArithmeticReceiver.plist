@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotatetimer</key>
+	<string>subscriptionFunction</string>
+	<key>chapterstyle</key>
+	<string>volumeCoord</string>
+	<key>concurrentAnimator</key>
+	<string>removecallback</string>
+	<key>integrityCoord</key>
+	<string>throughputDirection</string>
+	<key>marginDuration</key>
+	<string>interactorLeft</string>
+	<key>restrictionHead</key>
+	<string>cancelstack</string>
+	<key>reusableScaffold</key>
+	<string>multiplyOffset</string>
+	<key>shouldDetachExtension</key>
+	<string>canRouteEffect</string>
+	<key>uniformloopcontrast</key>
+	<string>materialTrajectory</string>
+</dict>
+</plist>

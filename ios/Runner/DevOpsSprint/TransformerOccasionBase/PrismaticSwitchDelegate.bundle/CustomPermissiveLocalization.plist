@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>reductionAppearance</key>
+	<string>uniqueInteractor</string>
+	<key>shouldCacheNotification</key>
+	<string>synchronousThroughput</string>
+	<key>shouldInflateMusic</key>
+	<string>priorityLevel</string>
+	<key>shouldMountedAspectRatio</key>
+	<string>prismaticSink</string>
+	<key>shouldTransitionIndicator</key>
+	<string>shouldMountGem</string>
+	<key>smartAppBar</key>
+	<string>attachMaterial</string>
+</dict>
+</plist>

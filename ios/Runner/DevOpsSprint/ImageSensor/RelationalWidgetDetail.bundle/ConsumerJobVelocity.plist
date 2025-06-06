@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsDensity</key>
+	<string>popupTint</string>
+	<key>featureFrequency</key>
+	<string>directGradient</string>
+	<key>injectioncoord</key>
+	<string>iterativeanimatedcontainer</string>
+	<key>keyReduction</key>
+	<string>resourcequeue</string>
+	<key>progressbarduration</key>
+	<string>constructCoordinator</string>
+	<key>reliabilityShade</key>
+	<string>canCreateController</string>
+	<key>shouldUpdateGridView</key>
+	<string>parseOffset</string>
+	<key>tappableInfrastructure</key>
+	<string>notificationContext</string>
+	<key>threadtaskscale</key>
+	<string>operationspeed</string>
+</dict>
+</plist>

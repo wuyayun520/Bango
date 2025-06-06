@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>notationOrigin</key>
+	<string>shouldCreateLogarithm</string>
+	<key>rapidTransition</key>
+	<string>sanitizeOffset</string>
+	<key>shouldCancelSignature</key>
+	<string>shouldListenUsage</string>
+	<key>singleResource</key>
+	<string>canRestartCupertino</string>
+	<key>strokePressure</key>
+	<string>flexStatus</string>
+</dict>
+</plist>

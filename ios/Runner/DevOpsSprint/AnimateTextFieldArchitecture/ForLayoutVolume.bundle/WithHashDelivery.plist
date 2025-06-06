@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basesize</key>
+	<string>decodeStream</string>
+	<key>filterRate</key>
+	<string>boxfrequency</string>
+	<key>prevSegue</key>
+	<string>dedicatedProvider</string>
+	<key>secondRect</key>
+	<string>conformAsync</string>
+	<key>singletondelay</key>
+	<string>cacheObserver</string>
+	<key>textBorder</key>
+	<string>maintangent</string>
+	<key>themeCount</key>
+	<string>polyfillBorder</string>
+	<key>yieldaspectratio</key>
+	<string>sliderOpacity</string>
+</dict>
+</plist>

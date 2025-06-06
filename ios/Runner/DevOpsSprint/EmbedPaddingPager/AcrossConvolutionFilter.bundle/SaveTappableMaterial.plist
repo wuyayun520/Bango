@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllertaskacceleration</key>
+	<string>streamlinePresenter</string>
+	<key>dialogsorigin</key>
+	<string>vectorAdapter</string>
+	<key>effectCenter</key>
+	<string>disabledProjection</string>
+	<key>elasticcard</key>
+	<string>prismaticHero</string>
+	<key>finderinteraction</key>
+	<string>themeColor</string>
+	<key>multiColumn</key>
+	<string>errorTransparency</string>
+	<key>reliabilityflags</key>
+	<string>eagerResilience</string>
+	<key>shouldCreateMedia</key>
+	<string>shouldPushListView</string>
+</dict>
+</plist>

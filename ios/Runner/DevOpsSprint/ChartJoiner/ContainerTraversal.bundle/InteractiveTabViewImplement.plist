@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAllocator</key>
+	<string>builderscopetag</string>
+	<key>listviewDistance</key>
+	<string>currentmusic</string>
+	<key>listviewbottom</key>
+	<string>normalPosition</string>
+	<key>radioSaturation</key>
+	<string>buildBorder</string>
+	<key>shouldTransformSegue</key>
+	<string>desktopData</string>
+	<key>shouldmountlabel</key>
+	<string>completedCupertino</string>
+	<key>threadTension</key>
+	<string>concatenateResource</string>
+</dict>
+</plist>

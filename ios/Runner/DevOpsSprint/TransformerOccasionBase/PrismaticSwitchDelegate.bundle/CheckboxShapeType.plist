@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationscopedirection</key>
+	<string>allocateLayer</string>
+	<key>directlyresultflags</key>
+	<string>scaleEdge</string>
+	<key>inheritedTabBar</key>
+	<string>sliderincludesystem</string>
+	<key>loaderPadding</key>
+	<string>saveCatalyst</string>
+	<key>resourceprototypeflags</key>
+	<string>aggregateGraph</string>
+	<key>responsiveLoop</key>
+	<string>delicateDescent</string>
+	<key>shouldStopButton</key>
+	<string>freeQueue</string>
+	<key>shouldYieldUnary</key>
+	<string>tabviewTransparency</string>
+	<key>spineSaturation</key>
+	<string>shouldKeepAlpha</string>
+	<key>subscriptionForce</key>
+	<string>shouldresumepet</string>
+</dict>
+</plist>

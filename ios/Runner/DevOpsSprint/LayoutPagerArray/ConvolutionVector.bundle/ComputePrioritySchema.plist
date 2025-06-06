@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalBoxShadow</key>
+	<string>backwardSize</string>
+	<key>compositionalWorkflow</key>
+	<string>seamlesscupertinoresponse</string>
+	<key>denseAnimator</key>
+	<string>shouldSetStateSizedBox</string>
+	<key>publicRestriction</key>
+	<string>criticalIndicator</string>
+	<key>replicaEdge</key>
+	<string>sharedMaterial</string>
+	<key>shouldHandleConstraint</key>
+	<string>canFormatCheckbox</string>
+	<key>shouldListenGate</key>
+	<string>groupShape</string>
+	<key>shouldMountedSegment</key>
+	<string>deliveryFeedback</string>
+	<key>shouldProcessShader</key>
+	<string>referenceBound</string>
+	<key>shouldRestartAccessory</key>
+	<string>grainShape</string>
+</dict>
+</plist>

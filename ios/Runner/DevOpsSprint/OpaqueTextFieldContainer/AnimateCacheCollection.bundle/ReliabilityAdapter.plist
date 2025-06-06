@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPainter</key>
+	<string>strengthSaturation</string>
+	<key>publicSine</key>
+	<string>shouldDecodeProvider</string>
+	<key>replicaShape</key>
+	<string>popAnimation</string>
+	<key>shouldPrepareRichText</key>
+	<string>shouldPaintAppBar</string>
+	<key>statelessSensor</key>
+	<string>buildpadding</string>
+	<key>workflowlocation</key>
+	<string>threadFunction</string>
+</dict>
+</plist>

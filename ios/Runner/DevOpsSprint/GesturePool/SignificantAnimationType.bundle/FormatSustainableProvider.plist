@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorAppearance</key>
+	<string>skinKind</string>
+	<key>defaultCaption</key>
+	<string>toolParameter</string>
+	<key>delegatestate</key>
+	<string>semanticTrigger</string>
+	<key>offsetcontroller</key>
+	<string>immediaterequest</string>
+	<key>pushticker</key>
+	<string>elasticWorkflow</string>
+</dict>
+</plist>

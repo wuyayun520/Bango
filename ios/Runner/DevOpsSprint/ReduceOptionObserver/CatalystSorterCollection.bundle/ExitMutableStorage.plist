@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronoussignature</key>
+	<string>mobileLifecycle</string>
+	<key>comprehensiveGraphic</key>
+	<string>conformPopup</string>
+	<key>immutableThroughput</key>
+	<string>spotProxy</string>
+	<key>shouldCacheClipper</key>
+	<string>diversifiedCapsule</string>
+	<key>shouldDecodeStep</key>
+	<string>setstateDrawer</string>
+	<key>shouldDisposeThread</key>
+	<string>unaryappearance</string>
+</dict>
+</plist>

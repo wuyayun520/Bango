@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredCosine</key>
+	<string>overrideLayout</string>
+	<key>missedGrid</key>
+	<string>shouldHandleTabView</string>
+	<key>relationalHero</key>
+	<string>escalateLayer</string>
+	<key>scrollableDimension</key>
+	<string>statefulName</string>
+	<key>slashDuration</key>
+	<string>semanticAnalyzer</string>
+</dict>
+</plist>

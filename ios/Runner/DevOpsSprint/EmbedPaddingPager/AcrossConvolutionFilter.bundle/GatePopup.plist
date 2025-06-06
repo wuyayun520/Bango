@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistMode</key>
+	<string>rapidAudio</string>
+	<key>declarativeVertex</key>
+	<string>offsetFrame</string>
+	<key>renameaction</key>
+	<string>profilepublisher</string>
+	<key>seamlessComposition</key>
+	<string>activeMaterial</string>
+	<key>shouldCacheMomentum</key>
+	<string>canFetchBaseline</string>
+</dict>
+</plist>

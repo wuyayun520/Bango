@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableElasticity</key>
+	<string>synchronizeCubit</string>
+	<key>indicatorShape</key>
+	<string>canEncodeCaption</string>
+	<key>indicatorobserver</key>
+	<string>playbackSingleton</string>
+	<key>joinerForce</key>
+	<string>conformFactory</string>
+	<key>localcontainer</key>
+	<string>fillscaffold</string>
+	<key>protectedRequest</key>
+	<string>currentPopup</string>
+	<key>shouldMountOptimizer</key>
+	<string>descriptorCommand</string>
+	<key>skinRotation</key>
+	<string>evaluateChart</string>
+</dict>
+</plist>

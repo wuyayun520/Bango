@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directGesture</key>
+	<string>tappableVideo</string>
+	<key>durationaction</key>
+	<string>shouldrendergesture</string>
+	<key>elasticservicehue</key>
+	<string>localizationForce</string>
+	<key>exceptionHead</key>
+	<string>rolenode</string>
+	<key>oldCapacities</key>
+	<string>providerframeworkshade</string>
+	<key>requiredDescent</key>
+	<string>taxonomyDelay</string>
+	<key>robustSegue</key>
+	<string>difficultZone</string>
+	<key>unbindcustompaint</key>
+	<string>mediaqueryOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensiontraversal</key>
+	<string>stepDepth</string>
+	<key>ephemeralCaption</key>
+	<string>markAsync</string>
+	<key>mediocreTouch</key>
+	<string>gesturedetectorvisibility</string>
+	<key>projectLeft</key>
+	<string>previewEnvironment</string>
+	<key>reducerInset</key>
+	<string>mediumdimension</string>
+</dict>
+</plist>

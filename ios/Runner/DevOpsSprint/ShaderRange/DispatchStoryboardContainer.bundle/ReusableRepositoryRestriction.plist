@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMomentum</key>
+	<string>diffableTolerance</string>
+	<key>directlyOption</key>
+	<string>chooserLeft</string>
+	<key>resilienceinteraction</key>
+	<string>grayscalearoundtemple</string>
+	<key>shouldPushButton</key>
+	<string>mountListView</string>
+	<key>unactivatedAppBar</key>
+	<string>resolveraroundstage</string>
+</dict>
+</plist>

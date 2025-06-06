@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxcapacity</key>
+	<string>exponentTension</string>
+	<key>hierarchicalScenario</key>
+	<string>timelineVisible</string>
+	<key>sampleContrast</key>
+	<string>localizationState</string>
+	<key>shouldSubscribeEquipment</key>
+	<string>synchronousNode</string>
+	<key>shouldTransformBorder</key>
+	<string>firstTouch</string>
+	<key>shouldYieldGesture</key>
+	<string>intuitiveActivity</string>
+	<key>significantSink</key>
+	<string>playbackorientation</string>
+	<key>taxonomyPadding</key>
+	<string>shouldListenBehavior</string>
+</dict>
+</plist>

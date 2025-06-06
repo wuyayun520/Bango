@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentFilter</key>
+	<string>shoulddismissaccessory</string>
+	<key>criticalhandler</key>
+	<string>shouldMountedPromise</string>
+	<key>kernelinteractor</key>
+	<string>binaryflyweightstate</string>
+	<key>nativeSizedBox</key>
+	<string>seamlessAction</string>
+	<key>unactivatedInteger</key>
+	<string>decorationconstant</string>
+</dict>
+</plist>

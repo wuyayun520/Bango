@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffercoord</key>
+	<string>backwardDocument</string>
+	<key>pinchableScreen</key>
+	<string>hyperbolicBullet</string>
+	<key>prioritytraversal</key>
+	<string>cleanAsset</string>
+</dict>
+</plist>

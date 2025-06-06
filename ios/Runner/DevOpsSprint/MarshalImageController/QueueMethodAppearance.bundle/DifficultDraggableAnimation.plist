@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedVariant</key>
+	<string>keyGroup</string>
+	<key>compositionalButton</key>
+	<string>canUnbindMission</string>
+	<key>criticalBuffer</key>
+	<string>globalCycle</string>
+	<key>displayableCapacities</key>
+	<string>inheritedDisclaimer</string>
+	<key>permissivebandwidth</key>
+	<string>instructionPattern</string>
+	<key>permissivegridviewresponse</key>
+	<string>hierarchicalPreview</string>
+	<key>prismaticNorm</key>
+	<string>fusedListener</string>
+	<key>shouldFetchPlayback</key>
+	<string>concreteInteger</string>
+	<key>smartCustomPaint</key>
+	<string>accordionScroll</string>
+</dict>
+</plist>

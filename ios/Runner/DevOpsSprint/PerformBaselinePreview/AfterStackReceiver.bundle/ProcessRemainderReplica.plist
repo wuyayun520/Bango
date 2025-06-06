@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeDropdownButton</key>
+	<string>similarSpot</string>
+	<key>haslistview</key>
+	<string>encodeAspectRatio</string>
+	<key>prismaticalert</key>
+	<string>checkMetadata</string>
+	<key>respectiveProgressBar</key>
+	<string>dispatchMusic</string>
+	<key>shouldPrepareMediaQuery</key>
+	<string>resilienceVisibility</string>
+	<key>staticPriority</key>
+	<string>inheritedDetector</string>
+	<key>subscriptionreliability</key>
+	<string>reactiveConstraint</string>
+</dict>
+</plist>

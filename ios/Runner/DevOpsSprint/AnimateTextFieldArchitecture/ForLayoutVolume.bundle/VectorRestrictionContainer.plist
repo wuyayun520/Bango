@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileLatency</key>
+	<string>shouldEmitRemainder</string>
+	<key>desktopConfidentiality</key>
+	<string>boxRotation</string>
+	<key>diffableTransformer</key>
+	<string>disabledDependency</string>
+	<key>logCount</key>
+	<string>gramVisitor</string>
+	<key>materialMovement</key>
+	<string>tappableTask</string>
+	<key>resilientsegue</key>
+	<string>drawLabel</string>
+	<key>seamlessEntropy</key>
+	<string>unsortedButton</string>
+	<key>shouldPopMonster</key>
+	<string>techniqueLocation</string>
+	<key>significantContainer</key>
+	<string>mediocreBuffer</string>
+</dict>
+</plist>

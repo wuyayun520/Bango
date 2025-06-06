@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildlistener</key>
+	<string>customizedStateful</string>
+	<key>challengeTop</key>
+	<string>spotrange</string>
+	<key>composableAccessory</key>
+	<string>tangentInterval</string>
+	<key>eventmodule</key>
+	<string>mediumDocument</string>
+	<key>herotaskspacing</key>
+	<string>latencyVisible</string>
+	<key>parallelCollection</key>
+	<string>activatedEvent</string>
+	<key>shouldDisposeRole</key>
+	<string>wrapReducer</string>
+	<key>sliderTransparency</key>
+	<string>desktopImage</string>
+	<key>uniformbutton</key>
+	<string>boxshadowSingleton</string>
+</dict>
+</plist>

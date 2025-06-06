@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedSelector</key>
+	<string>shouldEncodeDecoration</string>
+	<key>eagerSchema</key>
+	<string>smartSingleton</string>
+	<key>integrationName</key>
+	<string>loopSaturation</string>
+	<key>progressbarthanenvironment</key>
+	<string>canEndOption</string>
+	<key>sustainableNotifier</key>
+	<string>composablemerger</string>
+	<key>vectorizedelegate</key>
+	<string>numericalAspectRatio</string>
+</dict>
+</plist>

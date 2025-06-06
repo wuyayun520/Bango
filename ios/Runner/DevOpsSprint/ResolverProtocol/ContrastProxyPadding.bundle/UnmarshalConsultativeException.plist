@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCheckbox</key>
+	<string>latencyStyle</string>
+	<key>dynamicmetrics</key>
+	<string>optimizerright</string>
+	<key>interactiveAperture</key>
+	<string>canCacheBullet</string>
+	<key>labelbeyondvalue</key>
+	<string>axisBound</string>
+	<key>prevController</key>
+	<string>materialGram</string>
+	<key>responseState</key>
+	<string>evolutionTransparency</string>
+	<key>shoulddecodescroll</key>
+	<string>shouldemitlistview</string>
+	<key>tabbarshapestate</key>
+	<string>overrideDescription</string>
+	<key>temporaryOffset</key>
+	<string>displayableScene</string>
+</dict>
+</plist>

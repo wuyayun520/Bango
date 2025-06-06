@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalcurveflags</key>
+	<string>canEmitBullet</string>
+	<key>currentOverlay</key>
+	<string>integrationforce</string>
+	<key>inheritedManager</key>
+	<string>materialMode</string>
+	<key>invisibleVariant</key>
+	<string>canInflateBatch</string>
+	<key>opaqueEffect</key>
+	<string>canDetachSignature</string>
+	<key>operationMomentum</key>
+	<string>interfacestrategyborder</string>
+	<key>shouldRebuildPadding</key>
+	<string>dropdownbuttonVisibility</string>
+	<key>sliderzone</key>
+	<string>upgradeProvider</string>
+	<key>usedzonemode</key>
+	<string>instructioncontrast</string>
+</dict>
+</plist>

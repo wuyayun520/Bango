@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthRight</key>
+	<string>pushtangent</string>
+	<key>exceptionVisibility</key>
+	<string>draggableFilter</string>
+	<key>intermediateChart</key>
+	<string>optimizerSkewX</string>
+	<key>mainReliability</key>
+	<string>shouldanimateentropy</string>
+	<key>observerthreshold</key>
+	<string>writerect</string>
+	<key>shouldPersistSwitch</key>
+	<string>rectBorder</string>
+	<key>sorterIndex</key>
+	<string>localcallback</string>
+</dict>
+</plist>

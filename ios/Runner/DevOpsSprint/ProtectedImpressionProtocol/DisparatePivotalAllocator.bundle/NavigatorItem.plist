@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architecturescale</key>
+	<string>defaultTechnique</string>
+	<key>axisFeedback</key>
+	<string>utilMargin</string>
+	<key>directResult</key>
+	<string>factoryparametercolor</string>
+	<key>modulusscene</key>
+	<string>referenceshade</string>
+	<key>resourcecontrast</key>
+	<string>lasttangentfrequency</string>
+	<key>shouldUnmountedRemainder</key>
+	<string>routePlayback</string>
+</dict>
+</plist>

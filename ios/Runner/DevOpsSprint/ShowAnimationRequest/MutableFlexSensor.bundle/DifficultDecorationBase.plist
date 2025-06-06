@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousBaseline</key>
+	<string>characterSpacing</string>
+	<key>enabledMovement</key>
+	<string>skirtBound</string>
+	<key>eventcolor</key>
+	<string>connectHandler</string>
+	<key>interceptmodal</key>
+	<string>freeNode</string>
+	<key>maptexture</key>
+	<string>subpixelForm</string>
+	<key>presentercontainvisitor</key>
+	<string>shouldCacheConsumer</string>
+	<key>samplefacadeappearance</key>
+	<string>subpixelflyweighthead</string>
+	<key>shouldSetStatePriority</key>
+	<string>tickerOperation</string>
+	<key>synchronousHandler</key>
+	<string>smartview</string>
+</dict>
+</plist>

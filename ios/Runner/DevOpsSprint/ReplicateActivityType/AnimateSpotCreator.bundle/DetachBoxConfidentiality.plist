@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonHeap</key>
+	<string>vectorizeAsync</string>
+	<key>directlyheroacceleration</key>
+	<string>publishkernel</string>
+	<key>optimizerRight</key>
+	<string>polyfillMomentum</string>
+	<key>particlepolygon</key>
+	<string>dedicatedConverter</string>
+	<key>seamlessScaffold</key>
+	<string>cacheProcess</string>
+</dict>
+</plist>

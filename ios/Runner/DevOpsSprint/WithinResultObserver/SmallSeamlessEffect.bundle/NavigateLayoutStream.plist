@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicGroup</key>
+	<string>navigatorOffset</string>
+	<key>freetopic</key>
+	<string>shouldanimatesubpixel</string>
+	<key>histogramposition</key>
+	<string>reactiveUseCase</string>
+	<key>lastascent</key>
+	<string>consumerstylealignment</string>
+	<key>mediocreTopic</key>
+	<string>canDisposeOperation</string>
+</dict>
+</plist>

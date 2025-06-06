@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledMember</key>
+	<string>concreteState</string>
+	<key>opaqueRemediation</key>
+	<string>eagercallback</string>
+	<key>performusecase</key>
+	<string>shouldFormatBorder</string>
+	<key>radioreducer</key>
+	<string>logStructure</string>
+	<key>seamlessAnimator</key>
+	<string>accordionState</string>
+	<key>shouldshowplayback</key>
+	<string>shouldDeserializeCanvas</string>
+	<key>singleRenderer</key>
+	<string>entropyJob</string>
+</dict>
+</plist>

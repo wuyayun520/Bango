@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousJoiner</key>
+	<string>promiseBuffer</string>
+	<key>denseElement</key>
+	<string>delicateTimeline</string>
+	<key>evaluationDepth</key>
+	<string>diversifiedSingleton</string>
+	<key>expandedScale</key>
+	<string>canStartDocument</string>
+	<key>hasprovider</key>
+	<string>largeBatch</string>
+	<key>secondMaterializer</key>
+	<string>finishLog</string>
+	<key>shouldSubscribeView</key>
+	<string>graphTag</string>
+</dict>
+</plist>

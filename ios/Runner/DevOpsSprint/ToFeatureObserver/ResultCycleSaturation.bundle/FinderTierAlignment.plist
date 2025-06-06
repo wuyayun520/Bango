@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kernelagainstbridge</key>
+	<string>custompaintColor</string>
+	<key>observerdepth</key>
+	<string>selectedconstraint</string>
+	<key>selectedlabel</key>
+	<string>synchronousCurve</string>
+	<key>sizeframeworkacceleration</key>
+	<string>priorInkWell</string>
+	<key>sortedStateful</key>
+	<string>fusedAppBar</string>
+	<key>transitionamongform</key>
+	<string>discardedNotifier</string>
+</dict>
+</plist>

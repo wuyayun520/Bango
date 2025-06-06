@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCapacities</key>
+	<string>shouldNotifyDialogs</string>
+	<key>entityvisibility</key>
+	<string>gestureStrategy</string>
+	<key>gateoperationduration</key>
+	<string>methodActivity</string>
+	<key>iconresult</key>
+	<string>diffableMovement</string>
+	<key>interfaceDuration</key>
+	<string>fragmentMargin</string>
+	<key>precisioncurve</key>
+	<string>directlyTrigger</string>
+	<key>previewelasticity</key>
+	<string>draggableCupertino</string>
+	<key>sanitizeusecase</key>
+	<string>nodeScale</string>
+	<key>uniformBoxShadow</key>
+	<string>listenScaffold</string>
+</dict>
+</plist>

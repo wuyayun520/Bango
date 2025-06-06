@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableSemantics</key>
+	<string>shouldDisconnectOption</string>
+	<key>infrastructureforce</key>
+	<string>canPaintStateful</string>
+	<key>invisibleresource</key>
+	<string>coordinatorresponse</string>
+	<key>relationalDescription</key>
+	<string>storeHue</string>
+	<key>similarStack</key>
+	<string>textfieldPadding</string>
+	<key>usedLog</key>
+	<string>pauseTransition</string>
+	<key>usedPlayback</key>
+	<string>convertcursor</string>
+</dict>
+</plist>

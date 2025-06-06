@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardorigin</key>
+	<string>originalnotifierspacing</string>
+	<key>cupertinoIntegration</key>
+	<string>managertime</string>
+	<key>disabledElasticity</key>
+	<string>heapSpacing</string>
+	<key>invisibleBrush</key>
+	<string>priorityRate</string>
+	<key>invokeaccessory</key>
+	<string>receiveObserver</string>
+	<key>routeBrightness</key>
+	<string>responsiveRouter</string>
+	<key>selectedgate</key>
+	<string>stringifyCallback</string>
+	<key>substantialScope</key>
+	<string>multiChannels</string>
+</dict>
+</plist>

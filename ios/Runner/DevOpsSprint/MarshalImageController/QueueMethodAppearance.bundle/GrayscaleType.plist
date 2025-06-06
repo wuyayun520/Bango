@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorpadding</key>
+	<string>colorvisibility</string>
+	<key>isscale</key>
+	<string>workflowSkewY</string>
+	<key>observecompleter</key>
+	<string>sliderhead</string>
+	<key>positioneddespitetask</key>
+	<string>screentask</string>
+	<key>processmusic</key>
+	<string>durationaboutvalue</string>
+	<key>shouldPopNorm</key>
+	<string>monsterfacadehue</string>
+	<key>shouldRouteAnimatedContainer</key>
+	<string>coordinatoreffect</string>
+	<key>shoulddecodetabview</key>
+	<string>canFormatCoordinator</string>
+</dict>
+</plist>

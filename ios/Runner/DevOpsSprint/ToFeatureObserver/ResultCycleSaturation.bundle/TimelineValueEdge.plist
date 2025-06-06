@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalOverlay</key>
+	<string>granularDialogs</string>
+	<key>deferredCollection</key>
+	<string>discardedRequest</string>
+	<key>inheritedstroke</key>
+	<string>lockPreview</string>
+	<key>labelDelay</key>
+	<string>cacheMember</string>
+	<key>memberPadding</key>
+	<string>invisibleTaxonomy</string>
+	<key>offsetValidation</key>
+	<string>resilientTentative</string>
+	<key>shouldUnbindView</key>
+	<string>isvariant</string>
+	<key>storagedistance</key>
+	<string>dispatchAppBar</string>
+	<key>textfeedback</key>
+	<string>autocontroller</string>
+	<key>tooladapterdirection</key>
+	<string>cupertinoGraphic</string>
+</dict>
+</plist>

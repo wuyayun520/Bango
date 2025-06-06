@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPressure</key>
+	<string>handleSpot</string>
+	<key>coordinatortweak</key>
+	<string>dynamicOption</string>
+	<key>eagerSink</key>
+	<string>canNavigateMaterial</string>
+	<key>pointthandecorator</key>
+	<string>inkwellvaluefeedback</string>
+	<key>sequentialController</key>
+	<string>canObserveTable</string>
+	<key>setstatetool</key>
+	<string>chapterOrientation</string>
+	<key>shouldLayoutBrush</key>
+	<string>asynchronousEmitter</string>
+	<key>specifySegue</key>
+	<string>shouldpresentcaption</string>
+</dict>
+</plist>

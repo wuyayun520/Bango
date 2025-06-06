@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticVelocity</key>
+	<string>shouldDetachUsage</string>
+	<key>criticalReplica</key>
+	<string>robustConfidentiality</string>
+	<key>curvedelay</key>
+	<string>difficultsize</string>
+	<key>elasticAnalyzer</key>
+	<string>canDisconnectPromise</string>
+	<key>euclideanSplitter</key>
+	<string>boxshadowoflevel</string>
+	<key>opaqueBinary</key>
+	<string>shouldBindWorkflow</string>
+	<key>shouldPrepareProfile</key>
+	<string>shouldDisconnectGradient</string>
+</dict>
+</plist>

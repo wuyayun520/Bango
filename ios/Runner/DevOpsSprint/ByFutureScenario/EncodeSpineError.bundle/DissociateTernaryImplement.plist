@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeEquivalent</key>
+	<string>presenterPosition</string>
+	<key>lastModulus</key>
+	<string>playView</string>
+	<key>mobileDispatcher</key>
+	<string>canSubscribeMaterial</string>
+	<key>nativeGridView</key>
+	<string>declarativeChannel</string>
+	<key>sharedTabView</key>
+	<string>unbindResource</string>
+	<key>shouldRouteButton</key>
+	<string>storageFramework</string>
+	<key>unsortedAsset</key>
+	<string>resolverkind</string>
+</dict>
+</plist>

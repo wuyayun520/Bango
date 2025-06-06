@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchBound</key>
+	<string>shouldFinishMap</string>
+	<key>iterativeascent</key>
+	<string>shouldSubscribeNorm</string>
+	<key>localizationmode</key>
+	<string>intermediateElasticity</string>
+	<key>mapframe</key>
+	<string>methodVisible</string>
+	<key>operationBehavior</key>
+	<string>adaptivePromise</string>
+	<key>shouldSubscribeContraction</key>
+	<string>layoutCosine</string>
+	<key>synchronoussizedboxdepth</key>
+	<string>sceneawaytype</string>
+	<key>vectorDelay</key>
+	<string>visualizeUseCase</string>
+</dict>
+</plist>

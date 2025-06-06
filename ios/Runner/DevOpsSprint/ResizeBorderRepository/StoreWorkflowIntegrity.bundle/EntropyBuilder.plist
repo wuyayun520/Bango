@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperTail</key>
+	<string>responseAlignment</string>
+	<key>draggableTransformer</key>
+	<string>ephemeralGrain</string>
+	<key>logDensity</key>
+	<string>resilientsegment</string>
+	<key>protectedDecoration</key>
+	<string>sceneactionmode</string>
+	<key>reactiveAllocator</key>
+	<string>shouldLoadVariant</string>
+	<key>threadrect</key>
+	<string>symmetricChecklist</string>
+</dict>
+</plist>

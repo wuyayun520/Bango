@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserStyle</key>
+	<string>dimensionOrigin</string>
+	<key>criticalReducer</key>
+	<string>formatValidation</string>
+	<key>elasticTransformer</key>
+	<string>layoutTabView</string>
+	<key>flexibleBandwidth</key>
+	<string>regulateMetadata</string>
+	<key>graphstatus</key>
+	<string>rebuildChannels</string>
+	<key>methodInset</key>
+	<string>scrollerScale</string>
+	<key>otherConstant</key>
+	<string>scrollVar</string>
+</dict>
+</plist>

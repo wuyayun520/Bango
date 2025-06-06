@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousOverlay</key>
+	<string>materializeInteractor</string>
+	<key>captiondetector</key>
+	<string>routerParameter</string>
+	<key>comprehensiveCompletion</key>
+	<string>newestMechanism</string>
+	<key>debugresource</key>
+	<string>resolvefeature</string>
+	<key>materialValidation</key>
+	<string>canAttachWidget</string>
+	<key>polyfillSpacing</key>
+	<string>introspectProvider</string>
+	<key>shouldNotifySlider</key>
+	<string>boxawait</string>
+	<key>shouldPushSpot</key>
+	<string>batchPressure</string>
+	<key>timetop</key>
+	<string>cancelCustomPaint</string>
+	<key>toolasset</key>
+	<string>backwardconsumercenter</string>
+</dict>
+</plist>

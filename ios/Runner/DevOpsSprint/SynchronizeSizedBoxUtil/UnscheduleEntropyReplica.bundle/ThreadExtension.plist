@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinepresenter</key>
+	<string>nodeduration</string>
+	<key>concurrentposition</key>
+	<string>shouldAnimateSymbol</string>
+	<key>containerperfacade</key>
+	<string>shouldKeepShader</string>
+	<key>crucialDependency</key>
+	<string>retrievecanvas</string>
+	<key>disparateGraphic</key>
+	<string>retainedrect</string>
+	<key>missedRoute</key>
+	<string>canDisposePoint</string>
+	<key>shouldPauseClipper</key>
+	<string>storageshade</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorycenter</key>
+	<string>blocTension</string>
+	<key>buildvector</key>
+	<string>largeImpact</string>
+	<key>consultativeRange</key>
+	<string>opaqueConstraint</string>
+	<key>optimizerRotation</key>
+	<string>subscriptionHead</string>
+	<key>shouldDismissTangent</key>
+	<string>indicatordispatcher</string>
+	<key>signForce</key>
+	<string>shouldEndScreen</string>
+</dict>
+</plist>

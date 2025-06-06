@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatelabel</key>
+	<string>metadatapatternfeedback</string>
+	<key>crudeConsumption</key>
+	<string>localizationFeedback</string>
+	<key>elasticProvision</key>
+	<string>smartHandler</string>
+	<key>globalTool</key>
+	<string>enumerateButton</string>
+	<key>persistentElasticity</key>
+	<string>euclideanSound</string>
+	<key>shouldDisposeDocument</key>
+	<string>cursorJob</string>
+	<key>spriteSpacing</key>
+	<string>subsequentMetadata</string>
+	<key>subtleLayer</key>
+	<string>fixedTouch</string>
+	<key>subtleThread</key>
+	<string>protectedRemediation</string>
+</dict>
+</plist>

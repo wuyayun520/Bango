@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationAppearance</key>
+	<string>canInflateNotifier</string>
+	<key>formatBottom</key>
+	<string>staticrectbrightness</string>
+	<key>logshader</key>
+	<string>delegateframe</string>
+	<key>rowbeyondoperation</key>
+	<string>tappableTask</string>
+	<key>statefultimer</key>
+	<string>griddensity</string>
+	<key>staticOption</key>
+	<string>canPaintGem</string>
+</dict>
+</plist>

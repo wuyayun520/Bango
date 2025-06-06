@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateTheme</key>
+	<string>datatag</string>
+	<key>intermediateVolume</key>
+	<string>canCancelModal</string>
+	<key>shouldMountedSign</key>
+	<string>memberLevel</string>
+	<key>sizeagainstproxy</key>
+	<string>multiplicationCount</string>
+	<key>specifydurationcontrast</key>
+	<string>statelessFacade</string>
+	<key>streambehavior</key>
+	<string>viewemitter</string>
+	<key>visibleBandwidth</key>
+	<string>channelsVar</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationFormat</key>
+	<string>sophisticatedSign</string>
+	<key>ephemeralMaster</key>
+	<string>persistDimension</string>
+	<key>ignoredMetadata</key>
+	<string>singleScene</string>
+	<key>responsivePolyfill</key>
+	<string>shouldBindGesture</string>
+	<key>shouldTransitionTransition</key>
+	<string>largemodule</string>
+</dict>
+</plist>

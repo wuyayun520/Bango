@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicEquivalent</key>
+	<string>dedicatedCard</string>
+	<key>hardeventposition</key>
+	<string>threadSaturation</string>
+	<key>layoutviaactivity</key>
+	<string>canUpdateSign</string>
+	<key>objectVisibility</key>
+	<string>numericalgraphicindex</string>
+	<key>pickerbottom</key>
+	<string>callbackSize</string>
+	<key>popanimation</key>
+	<string>interpolationskewx</string>
+	<key>rangeValidation</key>
+	<string>difficultGesture</string>
+	<key>shouldPushDelegate</key>
+	<string>borderRotation</string>
+	<key>sizedboxOrigin</key>
+	<string>activateObserver</string>
+</dict>
+</plist>

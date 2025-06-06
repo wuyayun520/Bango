@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeReceiver</key>
+	<string>renderChecklist</string>
+	<key>disabledMaster</key>
+	<string>prismaticRestriction</string>
+	<key>flexiblePolygon</key>
+	<string>shouldCacheAnchor</string>
+	<key>interfaceHead</key>
+	<string>elasticDelivery</string>
+	<key>marginshapedensity</key>
+	<string>shearCubit</string>
+	<key>materialConstant</key>
+	<string>movementtypealignment</string>
+	<key>routeSpeed</key>
+	<string>accessibleState</string>
+	<key>shouldfinishcupertino</key>
+	<string>canAnimateBatch</string>
+</dict>
+</plist>

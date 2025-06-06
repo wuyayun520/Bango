@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectStyle</key>
+	<string>restartTask</string>
+	<key>consultativeUnary</key>
+	<string>emitExtension</string>
+	<key>firstReceiver</key>
+	<string>descentBrightness</string>
+	<key>partitioncell</key>
+	<string>gramShape</string>
+	<key>resilientNib</key>
+	<string>loadBitrate</string>
+	<key>semanticActivity</key>
+	<string>scrollspacing</string>
+	<key>ternaryelement</key>
+	<string>sequentialModule</string>
+	<key>touchcompleter</key>
+	<string>evolutionBound</string>
+	<key>transitionsession</key>
+	<string>elasticBuilder</string>
+</dict>
+</plist>

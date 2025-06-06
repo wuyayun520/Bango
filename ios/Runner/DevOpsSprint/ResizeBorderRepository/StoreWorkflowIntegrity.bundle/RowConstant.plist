@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeUsage</key>
+	<string>retainResource</string>
+	<key>binderName</key>
+	<string>largeRow</string>
+	<key>checklistSaturation</key>
+	<string>giftLeft</string>
+	<key>diffableDisclaimer</key>
+	<string>formatRichText</string>
+	<key>onseguetap</key>
+	<string>canBuildEquipment</string>
+	<key>resizableError</key>
+	<string>characterstore</string>
+	<key>trianglesForce</key>
+	<string>resilientBatch</string>
+</dict>
+</plist>

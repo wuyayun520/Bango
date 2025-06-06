@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerAppearance</key>
+	<string>adaptiveError</string>
+	<key>connectdrawer</key>
+	<string>reusableWorkflow</string>
+	<key>groupcoord</key>
+	<string>shouldValidateWorkflow</string>
+	<key>hasSubpixel</key>
+	<string>independentBatch</string>
+	<key>radiusvisible</key>
+	<string>compositionalconnector</string>
+	<key>semanticStack</key>
+	<string>wrapBuffer</string>
+	<key>shouldPublishStoryboard</key>
+	<string>roleState</string>
+</dict>
+</plist>

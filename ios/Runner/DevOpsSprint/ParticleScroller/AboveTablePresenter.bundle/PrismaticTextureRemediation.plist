@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatetransformer</key>
+	<string>tappableDetail</string>
+	<key>decoupleposition</key>
+	<string>primaryEvolution</string>
+	<key>normDuration</key>
+	<string>shouldParseSubpixel</string>
+	<key>prismaticMobile</key>
+	<string>pushmanager</string>
+	<key>renameresult</key>
+	<string>clearTexture</string>
+	<key>requiredJoiner</key>
+	<string>preparetransformer</string>
+</dict>
+</plist>

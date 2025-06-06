@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectintensity</key>
+	<string>shouldFormatBorder</string>
+	<key>connectreducer</key>
+	<string>canNavigateConsumer</string>
+	<key>elementBottom</key>
+	<string>offsetInteractor</string>
+	<key>prevChapter</key>
+	<string>canDecodeSegue</string>
+	<key>progressbardespitetask</key>
+	<string>lazyFeature</string>
+	<key>projectDensity</key>
+	<string>shouldStopSubpixel</string>
+	<key>shouldDisconnectProvider</key>
+	<string>canContinueCanvas</string>
+	<key>shouldListenNavigation</key>
+	<string>bordervisibility</string>
+	<key>shouldUnbindMomentum</key>
+	<string>invisibleInformation</string>
+</dict>
+</plist>

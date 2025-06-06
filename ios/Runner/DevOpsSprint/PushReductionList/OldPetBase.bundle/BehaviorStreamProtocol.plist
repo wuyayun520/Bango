@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>renameresolver</key>
+	<string>draggableGridView</string>
+	<key>shouldReplaceTransition</key>
+	<string>hyperbolicTitle</string>
+	<key>shouldUnbindExtension</key>
+	<string>requestCurve</string>
+	<key>stateHue</key>
+	<string>tweakBorder</string>
+</dict>
+</plist>

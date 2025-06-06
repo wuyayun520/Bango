@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionsaturation</key>
+	<string>originalInterface</string>
+	<key>futureInterval</key>
+	<string>priorLayer</string>
+	<key>navigatoraboutjob</key>
+	<string>tickerskewx</string>
+	<key>opaquegrain</key>
+	<string>navigatorTint</string>
+	<key>secondRequest</key>
+	<string>decodeUseCase</string>
+	<key>shouldHandleBuilder</key>
+	<string>activatedScroll</string>
+	<key>standalonemethod</key>
+	<string>shouldHandleAnchor</string>
+	<key>staticService</key>
+	<string>significantNavigator</string>
+</dict>
+</plist>

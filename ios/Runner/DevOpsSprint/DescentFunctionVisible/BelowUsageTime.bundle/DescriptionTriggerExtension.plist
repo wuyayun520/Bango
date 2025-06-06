@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSelector</key>
+	<string>ignoredJoiner</string>
+	<key>detachevent</key>
+	<string>shouldprocesstext</string>
+	<key>granularConnector</key>
+	<string>publicOffset</string>
+	<key>intermediateVideo</key>
+	<string>introspectPresenter</string>
+	<key>numericalElement</key>
+	<string>fusedNavigation</string>
+	<key>respectiveInteger</key>
+	<string>unactivatedSwitch</string>
+	<key>reusableLayout</key>
+	<string>hardAnalogy</string>
+	<key>scaffoldRotation</key>
+	<string>oldCoordinator</string>
+	<key>shouldEndCertificate</key>
+	<string>delegateMethod</string>
+	<key>typicalSegue</key>
+	<string>shouldPublishDecoration</string>
+</dict>
+</plist>

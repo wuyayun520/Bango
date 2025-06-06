@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableSingleton</key>
+	<string>fixedMenu</string>
+	<key>disclaimerColor</key>
+	<string>exceptionDistance</string>
+	<key>immutableProvision</key>
+	<string>transposeCurve</string>
+	<key>offsetInterval</key>
+	<string>pushcache</string>
+	<key>prevAccessory</key>
+	<string>standaloneCapacity</string>
+	<key>replacetransition</key>
+	<string>connectorSkewY</string>
+	<key>spineFrequency</key>
+	<string>crudeIntensity</string>
+	<key>standaloneModule</key>
+	<string>transformController</string>
+	<key>widgetslider</key>
+	<string>pushInterface</string>
+</dict>
+</plist>

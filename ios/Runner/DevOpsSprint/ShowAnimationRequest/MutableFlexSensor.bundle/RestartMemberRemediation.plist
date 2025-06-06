@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletrepository</key>
+	<string>advancedDisclaimer</string>
+	<key>latencyName</key>
+	<string>precisionProcess</string>
+	<key>prismaticRectangle</key>
+	<string>descentPadding</string>
+	<key>scrollprocessmargin</key>
+	<string>yieldCache</string>
+	<key>shouldUpdateMedia</key>
+	<string>baselineStructure</string>
+	<key>tappableDuration</key>
+	<string>requestbufferpressure</string>
+</dict>
+</plist>

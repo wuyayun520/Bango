@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTask</key>
+	<string>mountSpot</string>
+	<key>draggableResponse</key>
+	<string>canShowMultiplication</string>
+	<key>dropdownbuttonlayermomentum</key>
+	<string>characteristicResponse</string>
+	<key>hardElasticity</key>
+	<string>agileLinker</string>
+	<key>mediumspritebehavior</key>
+	<string>spritedespiteadapter</string>
+	<key>mutableMapper</key>
+	<string>semanticModule</string>
+	<key>processorIndex</key>
+	<string>immutableSizedBox</string>
+	<key>singleObject</key>
+	<string>shouldShowFlex</string>
+	<key>streamentity</key>
+	<string>similarShader</string>
+</dict>
+</plist>

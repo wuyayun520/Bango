@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBatch</key>
+	<string>transitionUsage</string>
+	<key>endcontainer</key>
+	<string>shouldNotifyArithmetic</string>
+	<key>functionalservicemode</key>
+	<string>multiplicationsingleton</string>
+	<key>granularOptimizer</key>
+	<string>functionalDisclaimer</string>
+	<key>immutableProfile</key>
+	<string>initializeInteractor</string>
+	<key>seamlessScenario</key>
+	<string>modulusFlyweight</string>
+	<key>shouldYieldTheme</key>
+	<string>normforkind</string>
+	<key>tweenInteraction</key>
+	<string>disabledError</string>
+</dict>
+</plist>

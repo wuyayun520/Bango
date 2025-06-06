@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticlocalization</key>
+	<string>seekException</string>
+	<key>customizedGradient</key>
+	<string>heroPressure</string>
+	<key>loaderBrightness</key>
+	<string>sortedComposition</string>
+	<key>shouldCreateAnimatedContainer</key>
+	<string>globalAnalyzer</string>
+	<key>shouldMountSegment</key>
+	<string>imageTop</string>
+	<key>shouldmountedreference</key>
+	<string>directThreshold</string>
+	<key>techniqueDensity</key>
+	<string>shouldDecodeVariant</string>
+</dict>
+</plist>

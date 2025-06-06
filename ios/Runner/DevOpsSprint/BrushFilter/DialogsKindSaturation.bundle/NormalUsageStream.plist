@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSubpixel</key>
+	<string>agileshape</string>
+	<key>delicateProgressBar</key>
+	<string>invisibleRadius</string>
+	<key>lastText</key>
+	<string>canPresentSpot</string>
+	<key>mobileInterface</key>
+	<string>listenInstruction</string>
+	<key>observerSize</key>
+	<string>deactivateModel</string>
+	<key>replicaSpacing</key>
+	<string>dialogsviaprototype</string>
+</dict>
+</plist>

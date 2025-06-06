@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalChannels</key>
+	<string>presentTechnique</string>
+	<key>protectedPriority</key>
+	<string>shouldpushthread</string>
+	<key>shouldSubscribePlayback</key>
+	<string>transitionAlignment</string>
+	<key>visibleBuilder</key>
+	<string>semanticFinder</string>
+</dict>
+</plist>

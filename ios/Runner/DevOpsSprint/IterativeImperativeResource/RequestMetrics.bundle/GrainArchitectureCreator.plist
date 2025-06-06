@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>framestageshade</key>
+	<string>webCombiner</string>
+	<key>hardEvolution</key>
+	<string>toolopacity</string>
+	<key>sequentialTime</key>
+	<string>timelinerotation</string>
+	<key>shouldDismissCard</key>
+	<string>tweakOffset</string>
+	<key>symmetricdisclaimer</key>
+	<string>memberCoord</string>
+</dict>
+</plist>

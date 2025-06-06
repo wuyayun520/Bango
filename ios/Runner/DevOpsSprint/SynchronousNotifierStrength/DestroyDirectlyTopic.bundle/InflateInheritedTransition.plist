@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanChooser</key>
+	<string>shearAlignment</string>
+	<key>rapidRepository</key>
+	<string>canAttachNib</string>
+	<key>retainedSpine</key>
+	<string>shouldUnmountCertificate</string>
+	<key>shoulddeserializeprofile</key>
+	<string>concatenateDelegate</string>
+	<key>statefulbuildertop</key>
+	<string>desktopCycle</string>
+	<key>subpixelawayphase</key>
+	<string>storelatency</string>
+	<key>sustainableindicatordensity</key>
+	<string>equivalentshape</string>
+	<key>usedStorage</key>
+	<string>pinchableStack</string>
+</dict>
+</plist>

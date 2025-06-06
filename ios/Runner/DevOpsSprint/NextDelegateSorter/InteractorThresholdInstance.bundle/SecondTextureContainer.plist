@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>filterStyle</key>
+	<string>keyAnimation</string>
+	<key>inheritedDescriptor</key>
+	<string>fusedInfo</string>
+	<key>litecompleter</key>
+	<string>canResumeDescriptor</string>
+	<key>newestcupertino</key>
+	<string>multiSearcher</string>
+	<key>shouldPresentInkWell</key>
+	<string>resizeSingleton</string>
+	<key>shouldUnmountedCheckbox</key>
+	<string>cartesianColumn</string>
+	<key>webAlert</key>
+	<string>canDisconnectLoss</string>
+</dict>
+</plist>

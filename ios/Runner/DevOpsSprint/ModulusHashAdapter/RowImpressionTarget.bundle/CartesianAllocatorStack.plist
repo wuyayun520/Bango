@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackMargin</key>
+	<string>endBinary</string>
+	<key>criticalBox</key>
+	<string>appendRect</string>
+	<key>emitcapacities</key>
+	<string>usageRight</string>
+	<key>layervaluetype</key>
+	<string>entropytransparency</string>
+	<key>sequentialMethod</key>
+	<string>scalabilityInteraction</string>
+	<key>shouldFormatEffect</key>
+	<string>resolverJob</string>
+</dict>
+</plist>

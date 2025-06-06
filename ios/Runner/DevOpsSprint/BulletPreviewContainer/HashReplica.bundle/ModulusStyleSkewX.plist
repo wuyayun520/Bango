@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardConsumer</key>
+	<string>analogyColor</string>
+	<key>contractionduringphase</key>
+	<string>activatedRole</string>
+	<key>gesturedetectorvisibility</key>
+	<string>sizeStage</string>
+	<key>moduledelay</key>
+	<string>skipResource</string>
+	<key>prismaticListener</key>
+	<string>shouldlayoutgraphic</string>
+	<key>reactivecapsulerate</key>
+	<string>statelessBound</string>
+	<key>robustcube</key>
+	<string>scrollableBatch</string>
+	<key>shouldnotifynavigator</key>
+	<string>nativeInjection</string>
+	<key>stampDelay</key>
+	<string>visibleCheckbox</string>
+</dict>
+</plist>

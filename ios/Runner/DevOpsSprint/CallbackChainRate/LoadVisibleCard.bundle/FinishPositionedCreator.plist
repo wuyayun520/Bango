@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCanvas</key>
+	<string>crucialCursor</string>
+	<key>concurrentSprite</key>
+	<string>basicAlpha</string>
+	<key>discardedRow</key>
+	<string>dedicatedShader</string>
+	<key>diversifiedCurve</key>
+	<string>canMountOption</string>
+	<key>nextsampleskewx</key>
+	<string>protocolfactory</string>
+	<key>offsetforobserver</key>
+	<string>storageLeft</string>
+	<key>shouldDetachWorkflow</key>
+	<string>detectorCount</string>
+</dict>
+</plist>

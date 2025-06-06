@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramValidation</key>
+	<string>entityforminteraction</string>
+	<key>integerStatus</key>
+	<string>resilienceBehavior</string>
+	<key>layerBorder</key>
+	<string>sineAlignment</string>
+	<key>oldScaffold</key>
+	<string>decorationPlatform</string>
+	<key>shouldConnectSpine</key>
+	<string>customizedWidget</string>
+	<key>shouldListenExpanded</key>
+	<string>equipmentinlevel</string>
+	<key>shouldNotifyScroll</key>
+	<string>shouldFinishAspect</string>
+	<key>storyboardflyweighthead</key>
+	<string>graphicForm</string>
+</dict>
+</plist>

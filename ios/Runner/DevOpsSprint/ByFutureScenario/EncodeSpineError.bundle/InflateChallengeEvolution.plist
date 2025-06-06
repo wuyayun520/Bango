@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronouspopup</key>
+	<string>semanticResult</string>
+	<key>compositionalOperation</key>
+	<string>radiusreducer</string>
+	<key>concurrentchapter</key>
+	<string>singleVariant</string>
+	<key>elasticityAppearance</key>
+	<string>canDeserializeConsumer</string>
+	<key>immediateMerger</key>
+	<string>canInflateLabel</string>
+	<key>resilientStack</key>
+	<string>shouldInflateCache</string>
+	<key>secondDependency</key>
+	<string>canRestartStateless</string>
+	<key>shouldContinueNorm</key>
+	<string>normalIcon</string>
+	<key>shouldRouteMonster</key>
+	<string>endLayout</string>
+</dict>
+</plist>

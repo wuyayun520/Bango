@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAsync</key>
+	<string>canStartTable</string>
+	<key>chartdelay</key>
+	<string>bandwidthMomentum</string>
+	<key>gesturemode</key>
+	<string>accordionSegue</string>
+	<key>latencylocation</key>
+	<string>diversifiedMobile</string>
+	<key>shouldBuildObserver</key>
+	<string>skinScale</string>
+	<key>sortedSprite</key>
+	<string>elasticconstraint</string>
+</dict>
+</plist>

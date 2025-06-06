@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRestriction</key>
+	<string>polygonposition</string>
+	<key>granularChannel</key>
+	<string>cellTask</string>
+	<key>immutableBoxShadow</key>
+	<string>permanentThroughput</string>
+	<key>intermediateRadius</key>
+	<string>labelStage</string>
+	<key>paddingtrigger</key>
+	<string>concurrentTicker</string>
+	<key>pivotalExponent</key>
+	<string>canPersistSpot</string>
+	<key>robustEvolution</key>
+	<string>loadConstraint</string>
+	<key>shouldDismissGate</key>
+	<string>shouldSerializeGift</string>
+	<key>tangentalignment</key>
+	<string>gateMethod</string>
+	<key>typicalPageView</key>
+	<string>contractionEnvironment</string>
+</dict>
+</plist>

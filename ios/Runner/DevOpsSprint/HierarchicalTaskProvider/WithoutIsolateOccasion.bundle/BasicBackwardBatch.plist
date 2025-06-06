@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iconstatus</key>
+	<string>shouldLayoutController</string>
+	<key>moduleLeft</key>
+	<string>rapidBullet</string>
+	<key>responsiveCompletion</key>
+	<string>conformCompleter</string>
+	<key>sharedDuration</key>
+	<string>immutableAction</string>
+	<key>shouldcancelunary</key>
+	<string>tensorPoint</string>
+</dict>
+</plist>

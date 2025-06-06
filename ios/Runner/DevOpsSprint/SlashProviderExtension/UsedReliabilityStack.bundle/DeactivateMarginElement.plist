@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionduration</key>
+	<string>featureOrientation</string>
+	<key>discardedcoordinatorposition</key>
+	<string>cellContext</string>
+	<key>lossLeft</key>
+	<string>canEmitMargin</string>
+	<key>mainNorm</key>
+	<string>elasticResolver</string>
+	<key>reliabilityDistance</key>
+	<string>notationsize</string>
+	<key>routerbufferskewx</key>
+	<string>shouldUnmountedPositioned</string>
+</dict>
+</plist>

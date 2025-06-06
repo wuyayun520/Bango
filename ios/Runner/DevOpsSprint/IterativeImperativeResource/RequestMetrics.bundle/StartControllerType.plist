@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationPosition</key>
+	<string>shouldUnbindBloc</string>
+	<key>crucialSign</key>
+	<string>notifierContext</string>
+	<key>shoulddismissalpha</key>
+	<string>overlayFacade</string>
+	<key>usedPresenter</key>
+	<string>stopCube</string>
+</dict>
+</plist>

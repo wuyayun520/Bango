@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelbottom</key>
+	<string>scalabilityvisibility</string>
+	<key>disconnectprecision</key>
+	<string>resizeMetadata</string>
+	<key>invisibleTable</key>
+	<string>sortedProvider</string>
+	<key>routeopacity</key>
+	<string>publicStamp</string>
+	<key>tabbarFrequency</key>
+	<string>liteLoader</string>
+	<key>transitionacceleration</key>
+	<string>erasepriority</string>
+	<key>volumeStatus</key>
+	<string>shouldUnbindTabBar</string>
+</dict>
+</plist>

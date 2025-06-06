@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorlinker</key>
+	<string>singleHash</string>
+	<key>comprehensiveOffset</key>
+	<string>customAppBar</string>
+	<key>directlyCompletion</key>
+	<string>cubePosition</string>
+	<key>filtertheme</key>
+	<string>obtainservice</string>
+	<key>formattangent</key>
+	<string>shouldPopColumn</string>
+	<key>framelistener</key>
+	<string>deploySingleton</string>
+	<key>mediocreFormat</key>
+	<string>activatedTask</string>
+	<key>tappablePresenter</key>
+	<string>shouldParseView</string>
+	<key>toleranceBorder</key>
+	<string>rowVisitor</string>
+</dict>
+</plist>

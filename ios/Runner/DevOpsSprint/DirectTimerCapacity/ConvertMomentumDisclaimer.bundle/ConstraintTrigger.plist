@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMethod</key>
+	<string>mediumChannel</string>
+	<key>conformarithmetic</key>
+	<string>opaqueScroll</string>
+	<key>cubitDuration</key>
+	<string>factoryMediator</string>
+	<key>granularDuration</key>
+	<string>usageVar</string>
+	<key>granularSingleton</key>
+	<string>flexMethod</string>
+	<key>shouldNotifyDocument</key>
+	<string>seamlessRenderer</string>
+	<key>shouldStreamDropdownButton</key>
+	<string>referenceparameterspeed</string>
+	<key>substantialMetadata</key>
+	<string>reactiveEntity</string>
+</dict>
+</plist>

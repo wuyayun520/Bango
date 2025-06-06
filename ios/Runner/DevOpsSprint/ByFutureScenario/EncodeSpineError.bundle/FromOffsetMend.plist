@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSpecifier</key>
+	<string>rendererBound</string>
+	<key>denseVariant</key>
+	<string>mediumCanvas</string>
+	<key>discardedObject</key>
+	<string>scheduleCurve</string>
+	<key>heapcontainmemento</key>
+	<string>independentTechnique</string>
+	<key>hyperbolicMethod</key>
+	<string>advancedExponent</string>
+	<key>isconsumer</key>
+	<string>commonGradient</string>
+	<key>shouldstreambatch</key>
+	<string>showLocalization</string>
+	<key>touchShade</key>
+	<string>canStartProfile</string>
+</dict>
+</plist>

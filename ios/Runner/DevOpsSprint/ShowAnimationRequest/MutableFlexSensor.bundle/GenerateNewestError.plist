@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoThroughput</key>
+	<string>coordinatorTransparency</string>
+	<key>ignoredGift</key>
+	<string>shouldSetStateAppBar</string>
+	<key>imperativeNotifier</key>
+	<string>floatGraph</string>
+	<key>multiplicationskewy</key>
+	<string>shapeFormat</string>
+	<key>parseresolver</key>
+	<string>transpileCubit</string>
+	<key>smallObserver</key>
+	<string>binderSize</string>
+	<key>temporaryNotifier</key>
+	<string>paintertransparency</string>
+	<key>widgetexceptstrategy</key>
+	<string>adaptiveDocument</string>
+</dict>
+</plist>

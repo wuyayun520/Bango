@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvecapacity</key>
+	<string>canReplaceReduction</string>
+	<key>immediateTimer</key>
+	<string>endTransition</string>
+	<key>interactorColor</key>
+	<string>shouldRebuildGestureDetector</string>
+	<key>keyRange</key>
+	<string>invokeManager</string>
+	<key>resetheap</key>
+	<string>normForce</string>
+	<key>shouldsetstatepadding</key>
+	<string>quitTween</string>
+	<key>undertakeremainder</key>
+	<string>ignoredAnalogy</string>
+</dict>
+</plist>

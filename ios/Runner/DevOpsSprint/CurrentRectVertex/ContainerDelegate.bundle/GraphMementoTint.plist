@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>floatmap</key>
+	<string>intuitiveInteraction</string>
+	<key>pushpageview</key>
+	<string>restorePresenter</string>
+	<key>subtleChart</key>
+	<string>iterativeDecoration</string>
+	<key>temporaryScroller</key>
+	<string>dropdownbuttonMode</string>
+	<key>transformerfrequency</key>
+	<string>canDecodeTouch</string>
+</dict>
+</plist>

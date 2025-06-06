@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitOrigin</key>
+	<string>sensorSingleton</string>
+	<key>delegatefrominterpreter</key>
+	<string>shouldPopCatalyst</string>
+	<key>preparecubit</key>
+	<string>criticalCycle</string>
+	<key>sequentialTopic</key>
+	<string>featureMediator</string>
+	<key>stateinsidecomposite</key>
+	<string>canStopSlider</string>
+	<key>textfieldValidation</key>
+	<string>shouldPauseProjection</string>
+</dict>
+</plist>

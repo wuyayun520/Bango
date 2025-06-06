@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticRepository</key>
+	<string>hierarchicalSubpixel</string>
+	<key>euclideanIsolate</key>
+	<string>indicatorTemple</string>
+	<key>ignoredTaxonomy</key>
+	<string>integrationShape</string>
+	<key>imperativeAllocator</key>
+	<string>renderSession</string>
+	<key>intuitiveRemediation</key>
+	<string>shouldPushSlider</string>
+	<key>seamlessoperation</key>
+	<string>advancedHistogram</string>
+	<key>shouldValidateProfile</key>
+	<string>pushTabBar</string>
+	<key>smallCapacities</key>
+	<string>mutableCallback</string>
+</dict>
+</plist>

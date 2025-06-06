@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexName</key>
+	<string>uniqueData</string>
+	<key>onboxshadowtap</key>
+	<string>cartesianListener</string>
+	<key>resolvecolumn</key>
+	<string>releaseNavigator</string>
+	<key>shouldEmitInterpolation</key>
+	<string>orchestrateTopic</string>
+	<key>storecontainlevel</key>
+	<string>responseVariable</string>
+	<key>usedScreen</key>
+	<string>intensityHead</string>
+</dict>
+</plist>

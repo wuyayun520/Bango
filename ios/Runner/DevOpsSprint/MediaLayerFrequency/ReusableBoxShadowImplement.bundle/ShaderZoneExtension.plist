@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentFactory</key>
+	<string>infoSaturation</string>
+	<key>connectorBrightness</key>
+	<string>makeContainer</string>
+	<key>localThreshold</key>
+	<string>intensityVelocity</string>
+	<key>lossdecoratorposition</key>
+	<string>canPauseButton</string>
+	<key>normCenter</key>
+	<string>streamTouch</string>
+	<key>popupexceptdecorator</key>
+	<string>decodeAnchor</string>
+	<key>symmetricBoxShadow</key>
+	<string>temporaryGram</string>
+	<key>taxonomyHue</key>
+	<string>offsetMetadata</string>
+	<key>uniqueDistinction</key>
+	<string>createCheckbox</string>
+</dict>
+</plist>

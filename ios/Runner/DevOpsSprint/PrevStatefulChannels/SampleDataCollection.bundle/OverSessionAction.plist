@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRange</key>
+	<string>sharedDimension</string>
+	<key>arithmeticTimer</key>
+	<string>buildStoryboard</string>
+	<key>diffableScroller</key>
+	<string>parseAsset</string>
+	<key>elasticityScale</key>
+	<string>dimensionFormat</string>
+	<key>unmountedpreview</key>
+	<string>shouldConnectChecklist</string>
+</dict>
+</plist>

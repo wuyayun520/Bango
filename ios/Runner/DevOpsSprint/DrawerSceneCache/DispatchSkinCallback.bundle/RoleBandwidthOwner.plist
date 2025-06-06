@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>normalResilience</key>
+	<string>integerMargin</string>
+	<key>publicCompleter</key>
+	<string>shouldFetchAccessory</string>
+	<key>receivestate</key>
+	<string>builddialogs</string>
+	<key>responsetransparency</key>
+	<string>dismissWorkflow</string>
+	<key>scrollableprecisionrate</key>
+	<string>eventoffset</string>
+	<key>scrollerCount</key>
+	<string>mobileresolverspacing</string>
+	<key>secondMultiplication</key>
+	<string>activatedappbarpadding</string>
+	<key>shouldYieldStep</key>
+	<string>precisionPhase</string>
+	<key>smallMend</key>
+	<string>holdCallback</string>
+</dict>
+</plist>

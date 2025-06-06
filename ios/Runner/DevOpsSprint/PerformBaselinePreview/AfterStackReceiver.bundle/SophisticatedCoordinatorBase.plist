@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblecallback</key>
+	<string>otherEvent</string>
+	<key>accordionThread</key>
+	<string>canDisconnectLog</string>
+	<key>animationcompleter</key>
+	<string>intermediatematrixcontrast</string>
+	<key>ephemeralcompleter</key>
+	<string>otherWidget</string>
+	<key>taskContrast</key>
+	<string>unbindsink</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleService</key>
+	<string>canRenderStateless</string>
+	<key>desktopdrawer</key>
+	<string>concreteReceiver</string>
+	<key>dropdownbuttonType</key>
+	<string>deferredColumn</string>
+	<key>explicitPriority</key>
+	<string>shouldDetachTheme</string>
+	<key>managerTension</key>
+	<string>appendAction</string>
+	<key>originalHandler</key>
+	<string>markManager</string>
+	<key>webDialogs</key>
+	<string>coordinatorColor</string>
+</dict>
+</plist>

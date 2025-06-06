@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>distinctionDensity</key>
+	<string>canStopInstruction</string>
+	<key>fusedText</key>
+	<string>numericalError</string>
+	<key>interactiveBandwidth</key>
+	<string>finishaspectratio</string>
+	<key>localContraction</key>
+	<string>intuitiveNotation</string>
+	<key>polyfillOpacity</key>
+	<string>eagerScroll</string>
+	<key>positionvisibility</key>
+	<string>specifierType</string>
+</dict>
+</plist>

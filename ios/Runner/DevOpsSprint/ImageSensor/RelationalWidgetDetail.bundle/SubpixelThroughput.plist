@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>reactiveDistinction</key>
+	<string>normalresource</string>
+	<key>shouldEmitBloc</key>
+	<string>injectDescription</string>
+	<key>signaturePressure</key>
+	<string>permissivetool</string>
+	<key>unbindgridview</key>
+	<string>listviewSkewX</string>
+</dict>
+</plist>

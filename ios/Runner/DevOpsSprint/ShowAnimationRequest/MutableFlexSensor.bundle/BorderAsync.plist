@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeModal</key>
+	<string>dispatchDrawer</string>
+	<key>popupSpacing</key>
+	<string>respondResource</string>
+	<key>singleStore</key>
+	<string>materialSample</string>
+	<key>sizedboxFrequency</key>
+	<string>ternaryTransparency</string>
+	<key>transitionType</key>
+	<string>refreshTopic</string>
+</dict>
+</plist>

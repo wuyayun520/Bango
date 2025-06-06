@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionacceleration</key>
+	<string>multiNotification</string>
+	<key>limittabview</key>
+	<string>bulletMethod</string>
+	<key>screenFlags</key>
+	<string>gemanimation</string>
+	<key>staticUsage</key>
+	<string>slashRight</string>
+	<key>subsequentWidget</key>
+	<string>unactivatedCycle</string>
+</dict>
+</plist>

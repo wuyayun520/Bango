@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleBehavior</key>
+	<string>ephemeralAccessory</string>
+	<key>prismaticSubscriber</key>
+	<string>materialNavigation</string>
+	<key>requiredGridView</key>
+	<string>shouldPersistDropdownButton</string>
+	<key>segmentsinceprocess</key>
+	<string>referenceTop</string>
+	<key>shouldFormatConsumer</key>
+	<string>refreshBuilder</string>
+	<key>shouldObserveDecoration</key>
+	<string>statefulComposite</string>
+	<key>usecasethanpattern</key>
+	<string>canDecodeCertificate</string>
+</dict>
+</plist>

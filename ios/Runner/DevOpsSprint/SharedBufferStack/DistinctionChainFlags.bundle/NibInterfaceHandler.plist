@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorycount</key>
+	<string>tappabledurationtype</string>
+	<key>immutableObserver</key>
+	<string>rendererinterval</string>
+	<key>instructionsystemsize</key>
+	<string>materialBrightness</string>
+	<key>mainShader</key>
+	<string>chapterTask</string>
+	<key>painterDensity</key>
+	<string>minStream</string>
+	<key>screenTransparency</key>
+	<string>canDispatchExponent</string>
+	<key>shouldNavigateGem</key>
+	<string>shouldCreateController</string>
+	<key>shouldconnectoption</key>
+	<string>functionalLayer</string>
+	<key>tabviewOpacity</key>
+	<string>durationandstyle</string>
+</dict>
+</plist>

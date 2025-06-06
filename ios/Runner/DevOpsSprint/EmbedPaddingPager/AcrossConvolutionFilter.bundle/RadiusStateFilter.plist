@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasbuffersaturation</key>
+	<string>shouldpresentmaterial</string>
+	<key>checkroute</key>
+	<string>savesingleton</string>
+	<key>draggableRoute</key>
+	<string>expandedComposite</string>
+	<key>priorCube</key>
+	<string>decorationNumber</string>
+	<key>sinkVisibility</key>
+	<string>scaffoldAction</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationDepth</key>
+	<string>boxshadowjoiner</string>
+	<key>decorationscale</key>
+	<string>firstCache</string>
+	<key>lifecycleState</key>
+	<string>keyRect</string>
+	<key>missedresult</key>
+	<string>secondcapacitiestint</string>
+	<key>permissivePageView</key>
+	<string>beginnerBuilder</string>
+	<key>positiondepth</key>
+	<string>paintSlider</string>
+	<key>replicateprogressbar</key>
+	<string>shapeScale</string>
+	<key>shouldDisposeFuture</key>
+	<string>activityPhase</string>
+</dict>
+</plist>

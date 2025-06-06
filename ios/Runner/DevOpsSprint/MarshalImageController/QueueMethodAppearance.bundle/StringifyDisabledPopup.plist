@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMetrics</key>
+	<string>stampVisibility</string>
+	<key>comprehensiveInkWell</key>
+	<string>temporarysubscriptionborder</string>
+	<key>defaultCapsule</key>
+	<string>statelessDependency</string>
+	<key>desktopExtension</key>
+	<string>histogramagainstprototype</string>
+	<key>joinerEdge</key>
+	<string>largePositioned</string>
+	<key>nativeSubscriber</key>
+	<string>bindTransition</string>
+	<key>restoreentropy</key>
+	<string>persistentObserver</string>
+	<key>shouldUpdateBoxShadow</key>
+	<string>reactiveSkirt</string>
+	<key>typicalasync</key>
+	<string>baselinevisibility</string>
+</dict>
+</plist>

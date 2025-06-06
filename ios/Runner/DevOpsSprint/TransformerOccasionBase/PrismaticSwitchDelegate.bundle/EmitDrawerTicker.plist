@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustmetadata</key>
+	<string>shouldContinueRow</string>
+	<key>customMethod</key>
+	<string>decodeConfiguration</string>
+	<key>permissiveChapter</key>
+	<string>originalStatus</string>
+	<key>prismaticIntensity</key>
+	<string>shouldConnectUnary</string>
+	<key>shouldDispatchHeap</key>
+	<string>standaloneSkin</string>
+</dict>
+</plist>

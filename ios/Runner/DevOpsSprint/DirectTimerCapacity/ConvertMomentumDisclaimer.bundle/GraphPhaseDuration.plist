@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateconfidentiality</key>
+	<string>mediaAlignment</string>
+	<key>independentSensor</key>
+	<string>fusedMethod</string>
+	<key>methodMargin</key>
+	<string>permanentEvaluation</string>
+	<key>publicGraph</key>
+	<string>tablehead</string>
+	<key>reactiveAlert</key>
+	<string>rangeDelay</string>
+</dict>
+</plist>

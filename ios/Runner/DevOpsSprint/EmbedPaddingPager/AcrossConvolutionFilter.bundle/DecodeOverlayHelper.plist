@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregatepadding</key>
+	<string>difficultTopic</string>
+	<key>completerKind</key>
+	<string>impactBound</string>
+	<key>diversifiedDispatcher</key>
+	<string>encodeTransition</string>
+	<key>keepsink</key>
+	<string>newestSwitch</string>
+	<key>signatureexceptlayer</key>
+	<string>processTimer</string>
+	<key>workflowContrast</key>
+	<string>elasticStream</string>
+</dict>
+</plist>

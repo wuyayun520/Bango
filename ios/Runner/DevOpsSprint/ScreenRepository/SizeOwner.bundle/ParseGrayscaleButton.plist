@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanWidget</key>
+	<string>rendersubscription</string>
+	<key>momentumdecoratordelay</key>
+	<string>resizeBuffer</string>
+	<key>originalCluster</key>
+	<string>aggregateNode</string>
+	<key>shouldContinuePadding</key>
+	<string>heromerger</string>
+	<key>visibleExpanded</key>
+	<string>behaviorAlignment</string>
+</dict>
+</plist>

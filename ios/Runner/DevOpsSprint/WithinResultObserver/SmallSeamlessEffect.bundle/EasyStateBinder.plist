@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorValidation</key>
+	<string>sessionTint</string>
+	<key>dynamiclayoutposition</key>
+	<string>canYieldPriority</string>
+	<key>normalMovement</key>
+	<string>shouldProcessOverlay</string>
+	<key>priorBandwidth</key>
+	<string>interpolationParam</string>
+	<key>priorEqualization</key>
+	<string>detachScroll</string>
+	<key>secondVideo</key>
+	<string>similarBinary</string>
+	<key>sharedStroke</key>
+	<string>enabledUnary</string>
+	<key>staticScene</key>
+	<string>shouldanimatemovement</string>
+</dict>
+</plist>

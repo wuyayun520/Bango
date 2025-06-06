@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedInteraction</key>
+	<string>parallelDelivery</string>
+	<key>intermediateSession</key>
+	<string>synchronousGraphic</string>
+	<key>intuitiveEquipment</key>
+	<string>functionaldescription</string>
+	<key>materialObject</key>
+	<string>roleForm</string>
+	<key>sophisticatedHistogram</key>
+	<string>oldAudio</string>
+	<key>stampMomentum</key>
+	<string>shouldpresentconsumer</string>
+	<key>visibleDocument</key>
+	<string>discardedCertificate</string>
+</dict>
+</plist>

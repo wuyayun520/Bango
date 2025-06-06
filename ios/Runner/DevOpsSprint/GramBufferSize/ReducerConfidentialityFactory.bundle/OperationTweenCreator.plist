@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertercolor</key>
+	<string>radiuskind</string>
+	<key>displayableAperture</key>
+	<string>augmentNode</string>
+	<key>hierarchicalTangent</key>
+	<string>isHero</string>
+	<key>inactiveSubscription</key>
+	<string>independentAudio</string>
+	<key>masterdirection</key>
+	<string>rowContrast</string>
+	<key>setstateprogressbar</key>
+	<string>specifyScroller</string>
+	<key>shouldNavigateSpot</key>
+	<string>spinDelegate</string>
+	<key>sortedMaterializer</key>
+	<string>symbolSaturation</string>
+	<key>synchronousPolyfill</key>
+	<string>mixinText</string>
+	<key>tensorObject</key>
+	<string>fusedController</string>
+</dict>
+</plist>

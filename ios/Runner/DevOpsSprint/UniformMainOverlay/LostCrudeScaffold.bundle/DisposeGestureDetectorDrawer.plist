@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeconnector</key>
+	<string>responsiveCaption</string>
+	<key>customizedSpine</key>
+	<string>eagersubscriptionbehavior</string>
+	<key>dedicatedPreview</key>
+	<string>liteChannel</string>
+	<key>dispatcherTail</key>
+	<string>statefulgraph</string>
+	<key>geometricSession</key>
+	<string>decoupleEntity</string>
+	<key>markpet</key>
+	<string>canAnimateScale</string>
+	<key>mutableContrast</key>
+	<string>inactiveGraphic</string>
+</dict>
+</plist>

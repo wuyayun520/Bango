@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectFrequency</key>
+	<string>inactiveAspect</string>
+	<key>euclideanMember</key>
+	<string>directlyLatency</string>
+	<key>fusedUnary</key>
+	<string>grainTop</string>
+	<key>onworkflowtap</key>
+	<string>animatedWorkflow</string>
+	<key>orchestrateborder</key>
+	<string>subscribeSign</string>
+	<key>pivotalTextField</key>
+	<string>accessoryVelocity</string>
+	<key>requestPressure</key>
+	<string>canMountSign</string>
+	<key>shapeStyle</key>
+	<string>canCacheWidget</string>
+	<key>tensorEmitter</key>
+	<string>lazyresilience</string>
+	<key>videoSaturation</key>
+	<string>shouldRebuildContainer</string>
+</dict>
+</plist>

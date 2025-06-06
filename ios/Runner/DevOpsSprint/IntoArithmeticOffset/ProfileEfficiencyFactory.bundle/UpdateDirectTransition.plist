@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultcustompaint</key>
+	<string>advancedMapper</string>
+	<key>draggableProgressBar</key>
+	<string>timerborder</string>
+	<key>protectedInfrastructure</key>
+	<string>unmountedConstraint</string>
+	<key>shouldUnbindMission</key>
+	<string>updateSizedBox</string>
+</dict>
+</plist>

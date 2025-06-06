@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedScenario</key>
+	<string>titlealongbridge</string>
+	<key>borderOrigin</key>
+	<string>resumeLayout</string>
+	<key>directlyInterpolation</key>
+	<string>hardStorage</string>
+	<key>diversifiedShader</key>
+	<string>activeGraph</string>
+	<key>granularEfficiency</key>
+	<string>canProcessAlpha</string>
+	<key>modulusaction</key>
+	<string>gateValidation</string>
+	<key>permanentResponse</key>
+	<string>uniqueTraversal</string>
+	<key>relationalcolor</key>
+	<string>profileStorage</string>
+	<key>sizeAlignment</key>
+	<string>canStopCursor</string>
+	<key>tweakFormat</key>
+	<string>queuestatehead</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticSegment</key>
+	<string>trainawait</string>
+	<key>mappercount</key>
+	<string>enabledService</string>
+	<key>navigatorformat</key>
+	<string>impressionDirection</string>
+	<key>observerstyleright</key>
+	<string>loadequipment</string>
+	<key>storetail</key>
+	<string>actionexceptmediator</string>
+	<key>tangentVisibility</key>
+	<string>taskMediator</string>
+	<key>temporaryNotation</key>
+	<string>canBindScale</string>
+	<key>toleranceHue</key>
+	<string>localizationNumber</string>
+	<key>videoResponse</key>
+	<string>mediaStructure</string>
+</dict>
+</plist>

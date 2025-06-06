@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>membername</key>
+	<string>concreteSample</string>
+	<key>shouldAnimateActivity</key>
+	<string>sensorkindstatus</string>
+	<key>shouldAnimateSpot</key>
+	<string>consultativeScroll</string>
+	<key>shouldDeserializeTouch</key>
+	<string>seamlessShader</string>
+	<key>statefulDuration</key>
+	<string>mediocreEntity</string>
+	<key>subtleUsage</key>
+	<string>dismissBatch</string>
+	<key>usedProgressBar</key>
+	<string>deserializeVector</string>
+</dict>
+</plist>

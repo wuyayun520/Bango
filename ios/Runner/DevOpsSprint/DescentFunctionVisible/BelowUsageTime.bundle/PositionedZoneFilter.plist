@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoComposition</key>
+	<string>shouldRenderCompletion</string>
+	<key>directlyskinorigin</key>
+	<string>canDisconnectCapacities</string>
+	<key>eagerLatency</key>
+	<string>flexibleInfrastructure</string>
+	<key>handlerInset</key>
+	<string>remainderVisible</string>
+	<key>missedCompletion</key>
+	<string>advancedDelegate</string>
+	<key>providerframeworkbehavior</key>
+	<string>crudeNode</string>
+	<key>responsiveVideo</key>
+	<string>scrollablerenderer</string>
+	<key>statelessBitrate</key>
+	<string>prioralignmentmargin</string>
+	<key>themeTail</key>
+	<string>profileStage</string>
+</dict>
+</plist>

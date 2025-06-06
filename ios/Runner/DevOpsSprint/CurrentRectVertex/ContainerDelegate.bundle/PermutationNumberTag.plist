@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturequaternion</key>
+	<string>canTrainTextField</string>
+	<key>backwardSplitter</key>
+	<string>frameposition</string>
+	<key>cellenvironmentmomentum</key>
+	<string>sliderInset</string>
+	<key>declarativeNib</key>
+	<string>restartProjection</string>
+	<key>deferredComponent</key>
+	<string>tabviewInterval</string>
+	<key>flexibleTraversal</key>
+	<string>shouldShowBloc</string>
+	<key>observenotification</key>
+	<string>tappableObject</string>
+	<key>requestFrequency</key>
+	<string>pageviewlifecycle</string>
+	<key>scaleVisibility</key>
+	<string>hyperbolicOption</string>
+	<key>shouldCreateDrawer</key>
+	<string>statelessDistance</string>
+</dict>
+</plist>

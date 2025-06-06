@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintinfacade</key>
+	<string>unbindSkin</string>
+	<key>disabledmechanism</key>
+	<string>shouldRestartExpanded</string>
+	<key>discardedElement</key>
+	<string>canRebuildFuture</string>
+	<key>draggableMapper</key>
+	<string>attachAlert</string>
+	<key>drawgram</key>
+	<string>notifierEdge</string>
+	<key>filtersize</key>
+	<string>isolateDuration</string>
+	<key>hasLogarithm</key>
+	<string>playbackRotation</string>
+	<key>inheritedConstraint</key>
+	<string>collectionShape</string>
+	<key>otherTraversal</key>
+	<string>transposeIsolate</string>
+	<key>synchronouspositionright</key>
+	<string>oldVideo</string>
+</dict>
+</plist>

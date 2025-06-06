@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentvolume</key>
+	<string>rangeCenter</string>
+	<key>customizedInkWell</key>
+	<string>missedConsumption</string>
+	<key>desktopProgressBar</key>
+	<string>convolutionVar</string>
+	<key>encodetext</key>
+	<string>canResumeTable</string>
+	<key>mediaqueryColor</key>
+	<string>endrow</string>
+	<key>shouldPaintMaterial</key>
+	<string>sanitizefuture</string>
+	<key>shouldnotifytheme</key>
+	<string>permanentSprite</string>
+	<key>usedPolygon</key>
+	<string>shouldSerializeOverlay</string>
+	<key>zonestrategylocation</key>
+	<string>gestureresult</string>
+</dict>
+</plist>

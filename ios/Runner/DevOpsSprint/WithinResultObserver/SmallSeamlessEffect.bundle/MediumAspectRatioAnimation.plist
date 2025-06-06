@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseEdge</key>
+	<string>elasticcontainer</string>
+	<key>cubeTail</key>
+	<string>rapidChart</string>
+	<key>defaultcell</key>
+	<string>maincluster</string>
+	<key>hardEfficiency</key>
+	<string>difficultIntensity</string>
+	<key>heapMargin</key>
+	<string>widgetSkewX</string>
+	<key>relationalunaryorientation</key>
+	<string>requiredCertificate</string>
+	<key>signaturerectangle</key>
+	<string>embedTransformer</string>
+	<key>streamTransparency</key>
+	<string>canPublishMusic</string>
+</dict>
+</plist>

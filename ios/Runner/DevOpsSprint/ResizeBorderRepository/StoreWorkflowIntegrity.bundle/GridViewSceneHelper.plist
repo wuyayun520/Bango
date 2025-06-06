@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineplatformbound</key>
+	<string>continueInstruction</string>
+	<key>deferredSorter</key>
+	<string>uniformSorter</string>
+	<key>ignoredcontractionpressure</key>
+	<string>shouldValidateAnchor</string>
+	<key>labeltag</key>
+	<string>semanticArchitecture</string>
+	<key>shouldUpdateProject</key>
+	<string>hasCube</string>
+	<key>significantAsset</key>
+	<string>flexibleTopic</string>
+</dict>
+</plist>

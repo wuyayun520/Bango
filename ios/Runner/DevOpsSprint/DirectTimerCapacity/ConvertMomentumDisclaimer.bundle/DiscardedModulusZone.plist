@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directPosition</key>
+	<string>spotAppearance</string>
+	<key>displayablePlayback</key>
+	<string>multiProgressBar</string>
+	<key>globalSegue</key>
+	<string>equipmentPadding</string>
+	<key>hasButton</key>
+	<string>singleAnimatedContainer</string>
+	<key>semantictechniquepadding</key>
+	<string>processorPressure</string>
+	<key>shouldPresentVariant</key>
+	<string>pivotalInkWell</string>
+	<key>synchronousNotification</key>
+	<string>intuitiveCharacter</string>
+	<key>utilTheme</key>
+	<string>typicalMetrics</string>
+</dict>
+</plist>

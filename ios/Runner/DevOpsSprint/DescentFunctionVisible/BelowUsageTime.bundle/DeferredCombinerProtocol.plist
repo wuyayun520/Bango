@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedVariant</key>
+	<string>connectSkirt</string>
+	<key>constructdialogs</key>
+	<string>fusedScalability</string>
+	<key>denseSpine</key>
+	<string>memberParameter</string>
+	<key>discardedController</key>
+	<string>shouldSkipTouch</string>
+	<key>inkwellForce</key>
+	<string>animatedLoader</string>
+	<key>pointlayout</key>
+	<string>shouldCreateNotification</string>
+	<key>shouldTransitionUsage</key>
+	<string>canDetachInstruction</string>
+	<key>smallCurve</key>
+	<string>cartesianLabel</string>
+</dict>
+</plist>

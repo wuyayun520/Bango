@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateBound</key>
+	<string>layerliketype</string>
+	<key>declarativeWrapper</key>
+	<string>sliderFunction</string>
+	<key>desktopConvolution</key>
+	<string>moveSprite</string>
+	<key>gramSpeed</key>
+	<string>mobileSegue</string>
+	<key>menuconsumption</key>
+	<string>autoProjection</string>
+	<key>navigatorFrequency</key>
+	<string>dismissThread</string>
+	<key>resultVisible</key>
+	<string>calculateInterface</string>
+</dict>
+</plist>

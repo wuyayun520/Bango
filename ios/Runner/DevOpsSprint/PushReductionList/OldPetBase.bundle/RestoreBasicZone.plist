@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedMechanism</key>
+	<string>canRouteVariant</string>
+	<key>cycleSpacing</key>
+	<string>canSetStateCycle</string>
+	<key>eventstate</key>
+	<string>canRebuildCosine</string>
+	<key>hierarchicalEvent</key>
+	<string>originalTask</string>
+	<key>optimizetabview</key>
+	<string>layerparameterfrequency</string>
+	<key>persistentMap</key>
+	<string>criticalUsage</string>
+	<key>resizableProtocol</key>
+	<string>textmenu</string>
+	<key>standaloneTransition</key>
+	<string>animatedException</string>
+</dict>
+</plist>

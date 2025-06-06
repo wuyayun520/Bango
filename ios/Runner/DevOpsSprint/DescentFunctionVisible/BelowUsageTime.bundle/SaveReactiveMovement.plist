@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelDistance</key>
+	<string>operationParam</string>
+	<key>difficultTable</key>
+	<string>drawerTransparency</string>
+	<key>dropdownbuttonContrast</key>
+	<string>touchMethod</string>
+	<key>enabledReceiver</key>
+	<string>shouldStreamCell</string>
+	<key>reducerdespitesystem</key>
+	<string>captureFactory</string>
+	<key>scrollableStorage</key>
+	<string>builderSpacing</string>
+	<key>subscriptionTheme</key>
+	<string>shouldBindModulus</string>
+</dict>
+</plist>

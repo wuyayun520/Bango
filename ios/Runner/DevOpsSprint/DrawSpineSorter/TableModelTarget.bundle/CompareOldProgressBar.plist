@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalRecursion</key>
+	<string>movePosition</string>
+	<key>inkwellsingletonresponse</key>
+	<string>requiredMonster</string>
+	<key>newesteventrate</key>
+	<string>nibBound</string>
+	<key>particleDistance</key>
+	<string>emitTool</string>
+	<key>storagecontainstage</key>
+	<string>infoMomentum</string>
+	<key>throughputSaturation</key>
+	<string>nibright</string>
+</dict>
+</plist>

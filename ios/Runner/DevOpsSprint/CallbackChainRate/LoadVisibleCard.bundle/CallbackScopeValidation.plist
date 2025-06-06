@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateconsumer</key>
+	<string>concurrentRenderer</string>
+	<key>keyThread</key>
+	<string>permissiveCluster</string>
+	<key>robustsizeappearance</key>
+	<string>makeview</string>
+	<key>shouldDismissPadding</key>
+	<string>serializeCache</string>
+	<key>shouldStreamCollection</key>
+	<string>combineRect</string>
+</dict>
+</plist>

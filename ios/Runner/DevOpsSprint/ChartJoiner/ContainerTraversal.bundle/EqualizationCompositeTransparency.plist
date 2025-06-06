@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSingleton</key>
+	<string>updateAnimation</string>
+	<key>diffableMaterial</key>
+	<string>retainedLoop</string>
+	<key>largeBox</key>
+	<string>reconcileFrame</string>
+	<key>missedQueue</key>
+	<string>borderPattern</string>
+	<key>permissivemechanism</key>
+	<string>missioncreator</string>
+	<key>searcherKind</key>
+	<string>semanticAsset</string>
+	<key>tabbarDensity</key>
+	<string>sustainablenode</string>
+	<key>unactivatedGate</key>
+	<string>criticalActivity</string>
+	<key>uniqueQuaternion</key>
+	<string>associatedIntensity</string>
+</dict>
+</plist>

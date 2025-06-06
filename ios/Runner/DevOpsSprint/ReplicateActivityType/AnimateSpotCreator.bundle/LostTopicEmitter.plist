@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedInfo</key>
+	<string>webCaption</string>
+	<key>awaittrigger</key>
+	<string>hierarchicalTraversal</string>
+	<key>canvasFlags</key>
+	<string>rectifyView</string>
+	<key>elasticityShape</key>
+	<string>intuitiveProvision</string>
+	<key>overlayflyweightcenter</key>
+	<string>routeAnimatedContainer</string>
+</dict>
+</plist>

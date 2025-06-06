@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCurve</key>
+	<string>buildermomentum</string>
+	<key>characterexceptstage</key>
+	<string>retainedLog</string>
+	<key>checkrepository</key>
+	<string>allocateLayout</string>
+	<key>criticalCursor</key>
+	<string>notifyRole</string>
+	<key>effectduringvalue</key>
+	<string>controllerinfo</string>
+	<key>equipmentinsidecontext</key>
+	<string>canNavigateOverlay</string>
+	<key>hasGridView</key>
+	<string>protectedCaption</string>
+	<key>lazyEntropy</key>
+	<string>tensorEntropy</string>
+	<key>profileTag</key>
+	<string>blocStyle</string>
+</dict>
+</plist>

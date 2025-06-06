@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compilematrix</key>
+	<string>oldPermutation</string>
+	<key>directModal</key>
+	<string>easyCard</string>
+	<key>interceptprovider</key>
+	<string>interactiveOption</string>
+	<key>listenerIndex</key>
+	<string>nativeAnimatedContainer</string>
+	<key>mapperCenter</key>
+	<string>loaderRate</string>
+	<key>rapidController</key>
+	<string>interfaceCoord</string>
+	<key>reactiveMusic</key>
+	<string>layerbeyondkind</string>
+	<key>shouldListenTouch</key>
+	<string>canBindTable</string>
+	<key>sortedLoader</key>
+	<string>labelevaluation</string>
+</dict>
+</plist>

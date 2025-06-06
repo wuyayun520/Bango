@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitRepository</key>
+	<string>updateButton</string>
+	<key>menumapper</key>
+	<string>mediocreSession</string>
+	<key>modulusVelocity</key>
+	<string>resilientBloc</string>
+	<key>responsiveUseCase</key>
+	<string>shouldPresentGift</string>
+	<key>roleRotation</key>
+	<string>scrollTemple</string>
+	<key>selectedAspect</key>
+	<string>deflateLocalization</string>
+	<key>shouldRebuildBox</key>
+	<string>touchLevel</string>
+	<key>taskstorage</key>
+	<string>canStartView</string>
+	<key>unarymerger</key>
+	<string>updateGestureDetector</string>
+</dict>
+</plist>

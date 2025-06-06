@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonResponse</key>
+	<string>canReplaceAspectRatio</string>
+	<key>fragmentofadapter</key>
+	<string>typicalqueue</string>
+	<key>functionalCursor</key>
+	<string>temporaryPainter</string>
+	<key>modalInset</key>
+	<string>mitigateResult</string>
+	<key>shouldEmitMobile</key>
+	<string>smallTimeline</string>
+	<key>spriteSpacing</key>
+	<string>sharedData</string>
+	<key>traincontainer</key>
+	<string>tweenStrategy</string>
+</dict>
+</plist>

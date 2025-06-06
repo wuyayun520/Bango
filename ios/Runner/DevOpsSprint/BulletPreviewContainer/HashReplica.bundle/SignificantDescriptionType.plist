@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nextStream</key>
+	<string>scaleCommand</string>
+	<key>replacestate</key>
+	<string>hasConsumer</string>
+	<key>requiredkernelflags</key>
+	<string>appendMethod</string>
+	<key>shouldConnectHeap</key>
+	<string>directconsumerhead</string>
+	<key>shouldLoadMonster</key>
+	<string>titleValidation</string>
+	<key>shouldValidateAlpha</key>
+	<string>arithmeticSpine</string>
+</dict>
+</plist>

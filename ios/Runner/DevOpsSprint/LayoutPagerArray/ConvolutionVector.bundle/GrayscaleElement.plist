@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionChart</key>
+	<string>mountedBaseline</string>
+	<key>cancelradius</key>
+	<string>descriptionstylefeedback</string>
+	<key>cupertinoCanvas</key>
+	<string>documentInteraction</string>
+	<key>drawerlistener</key>
+	<string>shouldNotifyExpanded</string>
+	<key>shouldEmitRole</key>
+	<string>encapsulatestream</string>
+	<key>statefulgrayscaleright</key>
+	<string>rowcolor</string>
+	<key>uniqueScroller</key>
+	<string>denseUsage</string>
+</dict>
+</plist>

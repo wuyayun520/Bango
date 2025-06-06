@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityContrast</key>
+	<string>lazyDistinction</string>
+	<key>analyzerRotation</key>
+	<string>asynchronousOccasion</string>
+	<key>commonElasticity</key>
+	<string>threadAction</string>
+	<key>curveacceleration</key>
+	<string>pageviewBuffer</string>
+	<key>fragmentsShape</key>
+	<string>triggerValidation</string>
+	<key>indicatorOrientation</key>
+	<string>transitionsystemvisible</string>
+	<key>liteScreen</key>
+	<string>boxshadowColor</string>
+	<key>significantController</key>
+	<string>alphacallback</string>
+	<key>symmetricTimeline</key>
+	<string>routeMap</string>
+</dict>
+</plist>

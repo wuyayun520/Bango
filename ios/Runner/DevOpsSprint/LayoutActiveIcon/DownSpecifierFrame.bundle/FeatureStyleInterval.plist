@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianPreview</key>
+	<string>layoutCupertino</string>
+	<key>charttension</key>
+	<string>formatasync</string>
+	<key>cursordelegate</key>
+	<string>parseProtocol</string>
+	<key>decorationcontrast</key>
+	<string>elasticbuttonshade</string>
+	<key>remainderPadding</key>
+	<string>spineVisibility</string>
+	<key>roleSkewX</key>
+	<string>masterAction</string>
+	<key>singleLayout</key>
+	<string>captionFrequency</string>
+	<key>tweenpermutation</key>
+	<string>selectorOffset</string>
+	<key>unactivatedScaffold</key>
+	<string>discardedEvaluation</string>
+	<key>variantbybridge</key>
+	<string>sampleValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseProcessor</key>
+	<string>typicalElement</string>
+	<key>functionalConfidentiality</key>
+	<string>secondView</string>
+	<key>indicatordistance</key>
+	<string>shouldPersistNotification</string>
+	<key>navigatortint</key>
+	<string>shouldnotifyhero</string>
+	<key>shouldUpdateButton</key>
+	<string>greatCallback</string>
+	<key>usecaseVisibility</key>
+	<string>decoupleParticle</string>
+</dict>
+</plist>

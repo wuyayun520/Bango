@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralMethod</key>
+	<string>reactiveBuilder</string>
+	<key>errorforce</key>
+	<string>updateSkin</string>
+	<key>functionalallocator</key>
+	<string>independentGroup</string>
+	<key>heroName</key>
+	<string>advancedDimension</string>
+	<key>labeltransparency</key>
+	<string>modelmode</string>
+	<key>petgrid</key>
+	<string>unmountedExpanded</string>
+	<key>shouldBuildKernel</key>
+	<string>arithmeticSpacing</string>
+</dict>
+</plist>

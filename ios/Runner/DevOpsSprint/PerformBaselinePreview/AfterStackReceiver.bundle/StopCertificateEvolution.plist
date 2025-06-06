@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildertraversal</key>
+	<string>discardedanimatedcontainer</string>
+	<key>missedMerger</key>
+	<string>unsortedShape</string>
+	<key>onimagetap</key>
+	<string>fetchSpine</string>
+	<key>pivotalAnimation</key>
+	<string>smallReduction</string>
+	<key>statefulEvent</key>
+	<string>typicalNorm</string>
+	<key>textfieldPosition</key>
+	<string>explicitStateful</string>
+	<key>triggerSaturation</key>
+	<string>attachSkirt</string>
+	<key>unmountedparticle</key>
+	<string>mobilePlayback</string>
+</dict>
+</plist>

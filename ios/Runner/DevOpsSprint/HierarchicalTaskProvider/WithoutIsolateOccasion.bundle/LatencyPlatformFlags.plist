@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocinterval</key>
+	<string>indicatorCenter</string>
+	<key>certificateskewx</key>
+	<string>greatDelegate</string>
+	<key>concreteDecoration</key>
+	<string>visibleImage</string>
+	<key>disabledReducer</key>
+	<string>resizableColor</string>
+	<key>factoryCount</key>
+	<string>shouldUpdateTabBar</string>
+	<key>granularMusic</key>
+	<string>createDelegate</string>
+	<key>persistentzone</key>
+	<string>onlogtap</string>
+	<key>receiverpressure</key>
+	<string>precisionEdge</string>
+	<key>shouldSkipStack</key>
+	<string>groupParameter</string>
+</dict>
+</plist>

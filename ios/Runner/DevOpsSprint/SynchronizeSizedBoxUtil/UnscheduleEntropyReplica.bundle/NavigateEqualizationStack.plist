@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disconnectentity</key>
+	<string>partitionLocalization</string>
+	<key>granularArithmetic</key>
+	<string>lazyScalability</string>
+	<key>mediumModel</key>
+	<string>parallelNavigator</string>
+	<key>mergerAlignment</key>
+	<string>binaryOpacity</string>
+	<key>opaqueVariant</key>
+	<string>divideIsolate</string>
+</dict>
+</plist>

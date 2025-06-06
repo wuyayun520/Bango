@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentslider</key>
+	<string>scenarioResponse</string>
+	<key>dynamicMaterializer</key>
+	<string>materialKernel</string>
+	<key>extensionenvironmentflags</key>
+	<string>draggableAxis</string>
+	<key>paintpainter</key>
+	<string>actiontheme</string>
+	<key>semanticcertificatetop</key>
+	<string>shouldCacheDecoration</string>
+	<key>shouldcacheindicator</key>
+	<string>advancedRichText</string>
+	<key>storageduration</key>
+	<string>rotateroute</string>
+</dict>
+</plist>

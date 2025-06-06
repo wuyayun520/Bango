@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeConverter</key>
+	<string>onbuilderchanged</string>
+	<key>customizedContrast</key>
+	<string>shouldRebuildDuration</string>
+	<key>dispatcherVisible</key>
+	<string>referenceFramework</string>
+	<key>elasticproviderstate</key>
+	<string>diversifiedchecklistmargin</string>
+	<key>emitterSpacing</key>
+	<string>widgetstyle</string>
+	<key>iterativesessionforce</key>
+	<string>makeSingleton</string>
+	<key>reusableLifecycle</key>
+	<string>uniformCatalyst</string>
+	<key>sortedtangentorientation</key>
+	<string>transpileProgressBar</string>
+	<key>taskscopemargin</key>
+	<string>widgetIndex</string>
+	<key>widgetinteraction</key>
+	<string>semanticScope</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveQueue</key>
+	<string>canPaintCompletion</string>
+	<key>copyconstraint</key>
+	<string>serializeDialogs</string>
+	<key>looptypestate</key>
+	<string>unactivatedborderdelay</string>
+	<key>mobileLayout</key>
+	<string>directFeature</string>
+	<key>offsetaskind</key>
+	<string>geometricInkWell</string>
+	<key>pointsincestrategy</key>
+	<string>prepareDrawer</string>
+	<key>statefulBottom</key>
+	<string>granularPositioned</string>
+	<key>taxonomyVisibility</key>
+	<string>listviewAppearance</string>
+</dict>
+</plist>

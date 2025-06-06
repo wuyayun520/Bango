@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorDirection</key>
+	<string>materializerbound</string>
+	<key>cubeCoord</key>
+	<string>stackValue</string>
+	<key>hardStack</key>
+	<string>informationSkewY</string>
+	<key>immediateDisclaimer</key>
+	<string>materializeAlignment</string>
+	<key>oldReduction</key>
+	<string>shouldDismissExpanded</string>
+	<key>resizabletheme</key>
+	<string>canDismissCanvas</string>
+	<key>respectivelayerdelay</key>
+	<string>canSkipExtension</string>
+	<key>shouldcancelflex</key>
+	<string>shouldNotifyMultiplication</string>
+	<key>storeawaystrategy</key>
+	<string>indicatorSkewX</string>
+</dict>
+</plist>

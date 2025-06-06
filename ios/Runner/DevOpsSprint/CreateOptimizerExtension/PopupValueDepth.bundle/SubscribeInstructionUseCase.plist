@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedalphaforce</key>
+	<string>semanticusecaseforce</string>
+	<key>geometricUseCase</key>
+	<string>limitRow</string>
+	<key>imperativeslider</key>
+	<string>canBuildCertificate</string>
+	<key>intuitiveFinder</key>
+	<string>validateAspectRatio</string>
+	<key>rapidanchorhead</key>
+	<string>otherView</string>
+	<key>semanticRenderer</key>
+	<string>customMusic</string>
+	<key>smartRow</key>
+	<string>itemposition</string>
+	<key>subtleIntegration</key>
+	<string>similarTask</string>
+</dict>
+</plist>

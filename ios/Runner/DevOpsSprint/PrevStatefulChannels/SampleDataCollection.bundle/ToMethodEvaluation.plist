@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAllocator</key>
+	<string>paintUsage</string>
+	<key>flexibleDisclaimer</key>
+	<string>constraintLevel</string>
+	<key>interactiveAscent</key>
+	<string>desktoplistener</string>
+	<key>interactiveDecoration</key>
+	<string>materialFactory</string>
+	<key>opaqueTime</key>
+	<string>startCatalyst</string>
+</dict>
+</plist>

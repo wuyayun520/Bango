@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxTension</key>
+	<string>singleNib</string>
+	<key>localNotification</key>
+	<string>greatLocalization</string>
+	<key>mergerVelocity</key>
+	<string>directLog</string>
+	<key>mitigatecache</key>
+	<string>standaloneCaption</string>
+	<key>pushgridview</key>
+	<string>convertexpanded</string>
+	<key>seamlessAction</key>
+	<string>shouldListenPromise</string>
+	<key>shouldAnimateDuration</key>
+	<string>shouldUnmountedMap</string>
+</dict>
+</plist>

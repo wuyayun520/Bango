@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMenu</key>
+	<string>popupScope</string>
+	<key>tappableLogarithm</key>
+	<string>accordionCapacity</string>
+	<key>transitionRate</key>
+	<string>customizedSegue</string>
+</dict>
+</plist>

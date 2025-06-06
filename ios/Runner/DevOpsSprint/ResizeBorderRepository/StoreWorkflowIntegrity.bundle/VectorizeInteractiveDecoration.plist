@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resilientGroup</key>
+	<string>accessibleIntegration</string>
+	<key>shouldSubscribeGraphic</key>
+	<string>modalStructure</string>
+	<key>shouldkeepcontraction</key>
+	<string>sensorTheme</string>
+	<key>transitionMomentum</key>
+	<string>alignmentMethod</string>
+	<key>webCapsule</key>
+	<string>associateSize</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupright</key>
+	<string>iconIndex</string>
+	<key>lifecycleStatus</key>
+	<string>insteadTimer</string>
+	<key>nextvideo</key>
+	<string>gateOpacity</string>
+	<key>observerrotation</key>
+	<string>secondDimension</string>
+	<key>resultShape</key>
+	<string>instructionMethod</string>
+	<key>semantictext</key>
+	<string>pushFrame</string>
+	<key>shouldBindBoxShadow</key>
+	<string>analyzerDepth</string>
+	<key>shouldStopExtension</key>
+	<string>resumeModulus</string>
+	<key>subsequentGradient</key>
+	<string>encodeCurve</string>
+	<key>transformerSkewX</key>
+	<string>shouldpersistslash</string>
+</dict>
+</plist>

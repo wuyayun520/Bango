@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationflyweightvelocity</key>
+	<string>dynamicGrayscale</string>
+	<key>columnSpacing</key>
+	<string>decorationSystem</string>
+	<key>serializerect</key>
+	<string>replaceCompleter</string>
+	<key>shouldLayoutImage</key>
+	<string>previewsinceprocess</string>
+	<key>switchHue</key>
+	<string>clipperValue</string>
+	<key>uniqueSchema</key>
+	<string>canPopContainer</string>
+</dict>
+</plist>

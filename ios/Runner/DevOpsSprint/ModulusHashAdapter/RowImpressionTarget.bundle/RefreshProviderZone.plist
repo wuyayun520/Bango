@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivemodelbottom</key>
+	<string>navigatedimension</string>
+	<key>descriptionparamcolor</key>
+	<string>intermediateIntensity</string>
+	<key>elasticPlayback</key>
+	<string>animationtiervelocity</string>
+	<key>fillresult</key>
+	<string>canStreamPainter</string>
+	<key>gradientandpattern</key>
+	<string>decorationCycle</string>
+	<key>materialGrain</key>
+	<string>dynamicCluster</string>
+	<key>reusableMetrics</key>
+	<string>symmetricinterface</string>
+	<key>servicetension</key>
+	<string>layerShape</string>
+	<key>shouldCancelReduction</key>
+	<string>exceptioncontainkind</string>
+</dict>
+</plist>

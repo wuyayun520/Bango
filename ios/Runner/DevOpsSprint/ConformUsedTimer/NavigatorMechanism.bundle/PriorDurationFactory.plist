@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalProjection</key>
+	<string>immediateError</string>
+	<key>lastSearcher</key>
+	<string>advancedPriority</string>
+	<key>mutableUseCase</key>
+	<string>alertAction</string>
+	<key>rapidtransition</key>
+	<string>shouldSkipNotification</string>
+	<key>reactiveLocalization</key>
+	<string>transformdrawer</string>
+	<key>shouldCreateMomentum</key>
+	<string>checklistFlyweight</string>
+	<key>shouldDetachExpanded</key>
+	<string>boxshadowamortization</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionRotation</key>
+	<string>aspectDecorator</string>
+	<key>geometricEvent</key>
+	<string>requestKind</string>
+	<key>joinerHue</key>
+	<string>statelessLevel</string>
+	<key>lazytweenvalidation</key>
+	<string>groupwithoutflyweight</string>
+	<key>oninterpolationtap</key>
+	<string>notationBehavior</string>
+</dict>
+</plist>

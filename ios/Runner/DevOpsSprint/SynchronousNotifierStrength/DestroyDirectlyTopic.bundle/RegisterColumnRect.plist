@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSize</key>
+	<string>profileSaturation</string>
+	<key>sensorBrightness</key>
+	<string>sizeMomentum</string>
+	<key>sessionTransparency</key>
+	<string>enabledUsage</string>
+	<key>shouldContinueMusic</key>
+	<string>themesize</string>
+</dict>
+</plist>

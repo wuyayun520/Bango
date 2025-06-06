@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeChannels</key>
+	<string>standalonepreview</string>
+	<key>captionRight</key>
+	<string>brushCommand</string>
+	<key>cursorDistance</key>
+	<string>fetchMaster</string>
+	<key>functionalTweak</key>
+	<string>finishNavigation</string>
+	<key>materialtaskbottom</key>
+	<string>shouldEmitFragment</string>
+	<key>otherAppBar</key>
+	<string>customScenario</string>
+	<key>protocolskewy</key>
+	<string>titleSpeed</string>
+	<key>shouldRenderMediaQuery</key>
+	<string>asyncshape</string>
+	<key>shouldRouteCapacities</key>
+	<string>attachInkWell</string>
+</dict>
+</plist>

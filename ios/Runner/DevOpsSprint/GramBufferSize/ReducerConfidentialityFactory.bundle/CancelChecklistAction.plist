@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatescene</key>
+	<string>shouldupdatepriority</string>
+	<key>criticalInstruction</key>
+	<string>tappableSplitter</string>
+	<key>custompaintInterval</key>
+	<string>retrieveFrame</string>
+	<key>draggablecatalystskewy</key>
+	<string>shouldBuildMonster</string>
+	<key>entityinteraction</key>
+	<string>stampuntilform</string>
+	<key>ephemeralbinary</key>
+	<string>pauseProjection</string>
+	<key>fragmentKind</key>
+	<string>canNavigateDelegate</string>
+	<key>hastabview</key>
+	<string>rowShade</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granulartaskbrightness</key>
+	<string>explicitText</string>
+	<key>responderTension</key>
+	<string>composableReceiver</string>
+	<key>significantCosine</key>
+	<string>persistentCupertino</string>
+</dict>
+</plist>

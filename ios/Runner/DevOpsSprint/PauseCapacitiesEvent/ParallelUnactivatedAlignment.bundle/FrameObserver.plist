@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionNode</key>
+	<string>cellbeyondcontext</string>
+	<key>modalAlignment</key>
+	<string>liteCupertino</string>
+	<key>modulusBrightness</key>
+	<string>disparateDescent</string>
+	<key>shouldSkipTask</key>
+	<string>storyboardawayoperation</string>
+	<key>visitview</key>
+	<string>bitratesingletonleft</string>
+</dict>
+</plist>

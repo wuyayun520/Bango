@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialContainer</key>
+	<string>pushresource</string>
+	<key>draggableQuaternion</key>
+	<string>shouldInflateAlert</string>
+	<key>efficiencyRate</key>
+	<string>publicCanvas</string>
+	<key>hierarchicalModule</key>
+	<string>detailInterval</string>
+	<key>movementLeft</key>
+	<string>cupertinoConsumption</string>
+	<key>polyfillDepth</key>
+	<string>shouldCancelUnary</string>
+	<key>standaloneScreen</key>
+	<string>resilienceBehavior</string>
+	<key>typicalContainer</key>
+	<string>presentSensor</string>
+</dict>
+</plist>

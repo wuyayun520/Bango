@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRepository</key>
+	<string>configureIntensity</string>
+	<key>attachcatalyst</key>
+	<string>serviceForm</string>
+	<key>dataMargin</key>
+	<string>subpixelResponse</string>
+	<key>descriptionDensity</key>
+	<string>deprecateMethod</string>
+	<key>inactiveboxshadow</key>
+	<string>screenRate</string>
+	<key>statecontrast</key>
+	<string>associatedScope</string>
+	<key>tensorTrigger</key>
+	<string>characteristicTint</string>
+	<key>viewscale</key>
+	<string>documenttrajectory</string>
+	<key>zonevarbound</key>
+	<string>largeMaterializer</string>
+</dict>
+</plist>

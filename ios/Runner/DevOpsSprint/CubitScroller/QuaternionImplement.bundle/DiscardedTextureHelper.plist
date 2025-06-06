@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainHead</key>
+	<string>alignmentLocation</string>
+	<key>immutablesubscriptiondistance</key>
+	<string>associatedoverlayalignment</string>
+	<key>imperativeSpot</key>
+	<string>observerlocation</string>
+	<key>inactiveThreshold</key>
+	<string>interpolationSaturation</string>
+	<key>intuitiveTentative</key>
+	<string>delicateText</string>
+	<key>liteFragment</key>
+	<string>divideLoop</string>
+	<key>parallelMobile</key>
+	<string>resizableTimer</string>
+	<key>shouldTrainCapacities</key>
+	<string>canHandleText</string>
+	<key>streamBound</key>
+	<string>addAsync</string>
+</dict>
+</plist>

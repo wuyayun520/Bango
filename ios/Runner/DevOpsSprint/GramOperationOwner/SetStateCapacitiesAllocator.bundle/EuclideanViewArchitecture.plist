@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushColor</key>
+	<string>axisState</string>
+	<key>colordepth</key>
+	<string>samplebandwidth</string>
+	<key>directSign</key>
+	<string>priorityPhase</string>
+	<key>interactiveCycle</key>
+	<string>loadAlert</string>
+	<key>mobileasync</key>
+	<string>videoEdge</string>
+	<key>nextAnimatedContainer</key>
+	<string>normalStream</string>
+	<key>shouldtrainthread</key>
+	<string>normalcontainer</string>
+	<key>subsequentAnalogy</key>
+	<string>publicSine</string>
+	<key>textCoord</key>
+	<string>painterParam</string>
+</dict>
+</plist>

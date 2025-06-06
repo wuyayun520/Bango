@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerThreshold</key>
+	<string>continueMargin</string>
+	<key>notificationMomentum</key>
+	<string>startsprite</string>
+	<key>oldRadio</key>
+	<string>adaptiveDistinction</string>
+	<key>prismaticOption</key>
+	<string>metricsSize</string>
+	<key>protectedRow</key>
+	<string>visibleCanvas</string>
+	<key>unsortedscene</key>
+	<string>associateservice</string>
+	<key>usedloop</key>
+	<string>activatedMonster</string>
+</dict>
+</plist>

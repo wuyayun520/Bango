@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableservice</key>
+	<string>encodeConfiguration</string>
+	<key>platebyvalue</key>
+	<string>variantOperation</string>
+	<key>schedulerVelocity</key>
+	<string>shouldKeepPlate</string>
+	<key>sizevelocity</key>
+	<string>sequentialStatus</string>
+	<key>unmountoption</key>
+	<string>canKeepOverlay</string>
+</dict>
+</plist>

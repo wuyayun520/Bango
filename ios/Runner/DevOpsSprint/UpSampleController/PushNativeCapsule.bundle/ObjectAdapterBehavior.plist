@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorTransparency</key>
+	<string>delicateSplitter</string>
+	<key>associatedobserverorigin</key>
+	<string>formatBinary</string>
+	<key>decorationthroughinterpreter</key>
+	<string>discovercoordinator</string>
+	<key>hardAperture</key>
+	<string>masterStatus</string>
+	<key>infrastructureStatus</key>
+	<string>quantizerUseCase</string>
+	<key>modalRotation</key>
+	<string>lostPageView</string>
+	<key>uniformpager</key>
+	<string>canInflatePrecision</string>
+</dict>
+</plist>

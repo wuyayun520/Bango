@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralScope</key>
+	<string>anchorSpacing</string>
+	<key>functionalIsolate</key>
+	<string>orchestratefactory</string>
+	<key>parallelBandwidth</key>
+	<string>switchRate</string>
+	<key>shouldNavigateInstruction</key>
+	<string>petPosition</string>
+	<key>shouldObserveDropdownButton</key>
+	<string>standaloneException</string>
+</dict>
+</plist>

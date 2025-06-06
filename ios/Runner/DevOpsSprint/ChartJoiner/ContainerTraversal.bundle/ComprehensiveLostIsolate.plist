@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridBrightness</key>
+	<string>createProjection</string>
+	<key>insteadroute</key>
+	<string>dismissChallenge</string>
+	<key>interactiveBrush</key>
+	<string>desktopSpine</string>
+	<key>parallelrouter</key>
+	<string>shouldHandleSpot</string>
+	<key>restartprojection</key>
+	<string>notifierLeft</string>
+	<key>shouldRenderWidget</key>
+	<string>trainfactory</string>
+	<key>taxonomyResponse</key>
+	<string>aggregateService</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonenvironmentacceleration</key>
+	<string>shouldTransitionColumn</string>
+	<key>fillrow</key>
+	<string>othergroup</string>
+	<key>mediumInterpolation</key>
+	<string>factoryDecorator</string>
+	<key>modelInterval</key>
+	<string>canAttachAppBar</string>
+	<key>rowColor</key>
+	<string>workflowPosition</string>
+	<key>scrollablePolyfill</key>
+	<string>delegateTop</string>
+	<key>shouldFormatDelegate</key>
+	<string>replaceSignature</string>
+	<key>shouldNavigateAlpha</key>
+	<string>finishtextfield</string>
+	<key>subsequentRichText</key>
+	<string>rolebound</string>
+</dict>
+</plist>

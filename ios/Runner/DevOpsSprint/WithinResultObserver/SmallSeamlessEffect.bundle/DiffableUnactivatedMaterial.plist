@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxMode</key>
+	<string>numericalUnary</string>
+	<key>customColor</key>
+	<string>shouldStopIndicator</string>
+	<key>descriptorBound</key>
+	<string>stampVelocity</string>
+	<key>ephemeralQuaternion</key>
+	<string>statelessRestriction</string>
+	<key>gesturedetectorValidation</key>
+	<string>videoAppearance</string>
+	<key>immutablecolumn</key>
+	<string>scenarioDensity</string>
+	<key>memberevolution</key>
+	<string>queuebrightness</string>
+	<key>statefulProvision</key>
+	<string>granularscroll</string>
+	<key>tappableChannel</key>
+	<string>canNotifyGift</string>
+</dict>
+</plist>

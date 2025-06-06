@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTernary</key>
+	<string>intermediateVector</string>
+	<key>deserializereference</key>
+	<string>disconnectHandler</string>
+	<key>diversifiedTicker</key>
+	<string>pivotalLatency</string>
+	<key>draggableHandler</key>
+	<string>finishFlex</string>
+	<key>oldDelegate</key>
+	<string>listenAnimation</string>
+	<key>shouldSetStatePlayback</key>
+	<string>masterBridge</string>
+	<key>shouldSubscribeLoss</key>
+	<string>shouldObserveDimension</string>
+	<key>specifyMission</key>
+	<string>resourceEnvironment</string>
+	<key>standaloneCharacteristic</key>
+	<string>popSign</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRoute</key>
+	<string>annotateResponse</string>
+	<key>accordionBloc</key>
+	<string>defaultStateful</string>
+	<key>disabledBullet</key>
+	<string>shouldemitbitrate</string>
+	<key>giftTint</key>
+	<string>newestgifttype</string>
+	<key>repositoryPosition</key>
+	<string>statefulFilter</string>
+	<key>secondDetector</key>
+	<string>keyAsset</string>
+	<key>shouldSerializeProfile</key>
+	<string>numericalScheduler</string>
+	<key>shouldstartchallenge</key>
+	<string>crudeConsumer</string>
+</dict>
+</plist>

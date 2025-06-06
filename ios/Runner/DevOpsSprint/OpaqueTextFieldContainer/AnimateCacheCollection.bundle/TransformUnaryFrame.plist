@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionResponse</key>
+	<string>decodeReducer</string>
+	<key>dedicatedInterpolation</key>
+	<string>entropyAcceleration</string>
+	<key>eventdirection</key>
+	<string>canPublishGradient</string>
+	<key>oldSample</key>
+	<string>pageviewresult</string>
+	<key>onunarytap</key>
+	<string>prismaticDisclaimer</string>
+	<key>staticTime</key>
+	<string>parallellabelpadding</string>
+</dict>
+</plist>

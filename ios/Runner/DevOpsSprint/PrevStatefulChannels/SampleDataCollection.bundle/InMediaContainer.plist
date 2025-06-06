@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agiledurationoffset</key>
+	<string>stampVisible</string>
+	<key>bandwidthTransparency</key>
+	<string>currentmusic</string>
+	<key>gramhead</key>
+	<string>mobilevaluetension</string>
+	<key>immediateReceiver</key>
+	<string>nodeactivityrate</string>
+	<key>informationDelay</key>
+	<string>ignoredIntensity</string>
+	<key>isCanvas</key>
+	<string>setupDecoration</string>
+	<key>latencyKind</key>
+	<string>componentAcceleration</string>
+	<key>numericalalphadepth</key>
+	<string>shouldConnectConvolution</string>
+	<key>positionjobvisibility</key>
+	<string>listviewcomponent</string>
+	<key>resilientEffect</key>
+	<string>drawFrame</string>
+</dict>
+</plist>

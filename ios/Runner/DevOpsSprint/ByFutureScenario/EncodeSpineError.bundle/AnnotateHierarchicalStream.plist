@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinolatency</key>
+	<string>shouldSaveTable</string>
+	<key>hierarchicalStrength</key>
+	<string>joinerTint</string>
+	<key>numericalProgressBar</key>
+	<string>desktopRemediation</string>
+	<key>persistentAspect</key>
+	<string>firstManager</string>
+	<key>sceneSkewY</key>
+	<string>immediateBase</string>
+	<key>seamlessMaterial</key>
+	<string>transformpageview</string>
+	<key>singletonTheme</key>
+	<string>fragmentBottom</string>
+	<key>specifyPositioned</key>
+	<string>hasAccessory</string>
+	<key>statelessOperation</key>
+	<string>sustainableGridView</string>
+</dict>
+</plist>

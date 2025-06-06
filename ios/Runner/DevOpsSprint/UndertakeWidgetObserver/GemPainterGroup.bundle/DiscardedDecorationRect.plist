@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturesingletondelay</key>
+	<string>firstCapacity</string>
+	<key>inheritedDescription</key>
+	<string>cupertinoSkin</string>
+	<key>oldScheduler</key>
+	<string>composableBinder</string>
+	<key>prevOption</key>
+	<string>repositoryskewx</string>
+	<key>prismaticGate</key>
+	<string>declarativeIsolate</string>
+	<key>seamlessreducer</key>
+	<string>renderInterpolation</string>
+	<key>shouldLoadRole</key>
+	<string>distinctionTransparency</string>
+	<key>signaturetrajectory</key>
+	<string>providerRotation</string>
+</dict>
+</plist>

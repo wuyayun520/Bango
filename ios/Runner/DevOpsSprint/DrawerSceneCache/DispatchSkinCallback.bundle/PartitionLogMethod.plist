@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedResolver</key>
+	<string>opaqueSchema</string>
+	<key>crudeNib</key>
+	<string>deferredResult</string>
+	<key>granularChapter</key>
+	<string>effectCommand</string>
+	<key>inflatepoint</key>
+	<string>shouldrestartslider</string>
+	<key>inheritedtexture</key>
+	<string>usedFormat</string>
+	<key>shouldFormatBehavior</key>
+	<string>transitionduration</string>
+	<key>shouldPaintMargin</key>
+	<string>observerPressure</string>
+	<key>shouldTransformUnary</key>
+	<string>responsiveObserver</string>
+	<key>singletondelivery</key>
+	<string>imperativeTool</string>
+	<key>usagecapacity</key>
+	<string>compileUseCase</string>
+</dict>
+</plist>

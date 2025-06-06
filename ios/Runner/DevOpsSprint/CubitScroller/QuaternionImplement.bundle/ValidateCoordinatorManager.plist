@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnvolume</key>
+	<string>deferredDelivery</string>
+	<key>eagerRole</key>
+	<string>staticFactory</string>
+	<key>equipmentBrightness</key>
+	<string>resumeEntropy</string>
+	<key>fleximage</key>
+	<string>cursorasync</string>
+	<key>integerchooser</key>
+	<string>subtleVector</string>
+	<key>precisionOrigin</key>
+	<string>hardConnector</string>
+	<key>retainedReplica</key>
+	<string>canValidateSignature</string>
+	<key>shouldObserveCosine</key>
+	<string>deprecatePreview</string>
+	<key>temporaryMediaQuery</key>
+	<string>singletonFlyweight</string>
+</dict>
+</plist>

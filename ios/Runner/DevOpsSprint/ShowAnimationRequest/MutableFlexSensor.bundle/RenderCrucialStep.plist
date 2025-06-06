@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableResolver</key>
+	<string>promiseCommand</string>
+	<key>parallelAspectRatio</key>
+	<string>intuitiveEntity</string>
+	<key>shouldKeepCustomPaint</key>
+	<string>skirtTail</string>
+	<key>subtlePadding</key>
+	<string>detailTag</string>
+	<key>webPriority</key>
+	<string>respectiveMission</string>
+</dict>
+</plist>

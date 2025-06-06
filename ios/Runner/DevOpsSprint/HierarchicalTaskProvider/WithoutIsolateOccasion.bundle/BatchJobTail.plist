@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerRotation</key>
+	<string>sinkbyaction</string>
+	<key>diversifiedcompletertransparency</key>
+	<string>shouldInflateBuilder</string>
+	<key>interpolationquaternion</key>
+	<string>displaystorage</string>
+	<key>largeProgressBar</key>
+	<string>statelessstatus</string>
+	<key>largeSink</key>
+	<string>adjustSlider</string>
+	<key>localizationTransparency</key>
+	<string>rowTension</string>
+	<key>movementtweak</key>
+	<string>publicInteraction</string>
+	<key>restrictionAlignment</key>
+	<string>canDetachSample</string>
+	<key>shouldStreamCell</key>
+	<string>canBuildSign</string>
+	<key>specifyUnary</key>
+	<string>singleDispatcher</string>
+</dict>
+</plist>

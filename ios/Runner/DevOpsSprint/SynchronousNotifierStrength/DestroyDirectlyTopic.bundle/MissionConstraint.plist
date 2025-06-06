@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationrenderer</key>
+	<string>receiverVelocity</string>
+	<key>dimensionshade</key>
+	<string>subtleUsage</string>
+	<key>intuitiveFragments</key>
+	<string>providerOrientation</string>
+	<key>lossShade</key>
+	<string>missedView</string>
+	<key>missedNavigation</key>
+	<string>dimensionOpacity</string>
+	<key>nextoption</key>
+	<string>otherMaterializer</string>
+	<key>shouldTransitionTask</key>
+	<string>accordionmetadata</string>
+	<key>spinedirection</key>
+	<string>smallRemainder</string>
+	<key>streamamongphase</key>
+	<string>canUnbindProvider</string>
+</dict>
+</plist>

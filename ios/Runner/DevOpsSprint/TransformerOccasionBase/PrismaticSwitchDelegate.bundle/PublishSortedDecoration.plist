@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxalongprototype</key>
+	<string>normalscroll</string>
+	<key>interactivemetrics</key>
+	<string>accessibleDetector</string>
+	<key>latencyPressure</key>
+	<string>precisionProcess</string>
+	<key>petalignment</key>
+	<string>canEndSample</string>
+	<key>profileCoord</key>
+	<string>mediumCard</string>
+	<key>typicalTitle</key>
+	<string>canRestartLog</string>
+</dict>
+</plist>

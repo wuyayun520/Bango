@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianModel</key>
+	<string>featuredelay</string>
+	<key>imagelocation</key>
+	<string>compareProgressBar</string>
+	<key>normalDetail</key>
+	<string>shouldUpdatePainter</string>
+	<key>shouldPaintSpot</key>
+	<string>blocPhase</string>
+</dict>
+</plist>

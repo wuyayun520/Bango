@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicState</key>
+	<string>routebuffersize</string>
+	<key>buildscene</key>
+	<string>radioSingleton</string>
+	<key>inflatestream</key>
+	<string>crucialTransition</string>
+	<key>permanentStream</key>
+	<string>layoutSegment</string>
+	<key>shouldParseGrayscale</key>
+	<string>tensorInteractor</string>
+	<key>usedMediaQuery</key>
+	<string>operationSkewY</string>
+</dict>
+</plist>

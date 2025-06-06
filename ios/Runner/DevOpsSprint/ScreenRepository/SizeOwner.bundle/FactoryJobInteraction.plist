@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePadding</key>
+	<string>popBase</string>
+	<key>allocateposition</key>
+	<string>makeDependency</string>
+	<key>dropdownbuttonRight</key>
+	<string>keyChapter</string>
+	<key>easyChallenge</key>
+	<string>profileUtil</string>
+	<key>smartLoader</key>
+	<string>navigatorFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontaineramortization</key>
+	<string>desktopReplica</string>
+	<key>convolutionStatus</key>
+	<string>retainedError</string>
+	<key>firstTicker</key>
+	<string>accordionPlate</string>
+	<key>immediateStroke</key>
+	<string>geometricprojectpressure</string>
+	<key>interpolateslider</key>
+	<string>hierarchicalCluster</string>
+	<key>lostMetrics</key>
+	<string>resizeFrame</string>
+	<key>providertempletint</key>
+	<string>retainedview</string>
+	<key>shouldContinueLayout</key>
+	<string>projectflags</string>
+	<key>unmountedreducer</key>
+	<string>ignoredCell</string>
+</dict>
+</plist>

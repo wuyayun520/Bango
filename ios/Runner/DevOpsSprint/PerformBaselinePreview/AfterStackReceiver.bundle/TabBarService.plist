@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerefficiency</key>
+	<string>schedulerMargin</string>
+	<key>fixedDetector</key>
+	<string>calculateAsset</string>
+	<key>immutablecapsule</key>
+	<string>statelessFacade</string>
+	<key>managerviadecorator</key>
+	<string>shouldParsePet</string>
+	<key>mediumDelivery</key>
+	<string>multiDelivery</string>
+	<key>reusableModule</key>
+	<string>explicitSegment</string>
+	<key>storageasplatform</key>
+	<string>screenrotation</string>
+	<key>tabbarcoordinator</key>
+	<string>deferredScale</string>
+	<key>unmountedticker</key>
+	<string>marshalLabel</string>
+</dict>
+</plist>

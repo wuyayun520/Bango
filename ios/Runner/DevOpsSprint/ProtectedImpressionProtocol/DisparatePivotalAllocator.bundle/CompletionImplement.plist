@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackmomentum</key>
+	<string>notificationFlyweight</string>
+	<key>convolutionDuration</key>
+	<string>shouldUnmountedResource</string>
+	<key>disabledCompleter</key>
+	<string>easyPoint</string>
+	<key>missedPlate</key>
+	<string>descriptorAction</string>
+	<key>publicDelegate</key>
+	<string>shouldObserveChecklist</string>
+</dict>
+</plist>

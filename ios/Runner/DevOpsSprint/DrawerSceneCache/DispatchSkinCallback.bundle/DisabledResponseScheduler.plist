@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstMusic</key>
+	<string>shaderChain</string>
+	<key>persistentTrigger</key>
+	<string>shouldAttachArithmetic</string>
+	<key>shouldFetchConvolution</key>
+	<string>readAction</string>
+	<key>shouldUnmountBullet</key>
+	<string>serializeKernel</string>
+	<key>significantmediaquery</key>
+	<string>captureWidget</string>
+	<key>statefulRemediation</key>
+	<string>invisiblescheduler</string>
+</dict>
+</plist>

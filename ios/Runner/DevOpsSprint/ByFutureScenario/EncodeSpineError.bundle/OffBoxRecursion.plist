@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativePolyfill</key>
+	<string>cacheRow</string>
+	<key>dedicatedImpact</key>
+	<string>otherTool</string>
+	<key>displayinterpolation</key>
+	<string>interfacesize</string>
+	<key>shouldDetachThread</key>
+	<string>shouldRebuildPadding</string>
+	<key>shouldFinishMatrix</key>
+	<string>baseActivity</string>
+	<key>staticSelector</key>
+	<string>curveShade</string>
+	<key>tappableGridView</key>
+	<string>rowInteraction</string>
+	<key>tickerShape</key>
+	<string>vectorRight</string>
+</dict>
+</plist>

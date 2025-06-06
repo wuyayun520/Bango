@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismissdialogs</key>
+	<string>reducerBorder</string>
+	<key>isolateDepth</key>
+	<string>autoTransition</string>
+	<key>mediocrewidget</key>
+	<string>firstMediaQuery</string>
+	<key>requestColor</key>
+	<string>replaceDependency</string>
+	<key>segmentStyle</key>
+	<string>sequentialDimension</string>
+	<key>shouldPopArithmetic</key>
+	<string>gatefuture</string>
+	<key>shouldUnmountedAnchor</key>
+	<string>reflectController</string>
+	<key>shouldValidateScroll</key>
+	<string>rectangleTag</string>
+</dict>
+</plist>

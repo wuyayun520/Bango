@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalIntegration</key>
+	<string>dispatchpadding</string>
+	<key>fusedgrain</key>
+	<string>parallelReplica</string>
+	<key>hardContrast</key>
+	<string>canStartTangent</string>
+	<key>histogramValidation</key>
+	<string>emitprovider</string>
+	<key>inactiveStroke</key>
+	<string>stackCommand</string>
+	<key>intensityinsidelayer</key>
+	<string>shouldPersistMediaQuery</string>
+	<key>smartIntensity</key>
+	<string>basicFragments</string>
+</dict>
+</plist>

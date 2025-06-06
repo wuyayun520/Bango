@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commoninteractor</key>
+	<string>unactivatedinjection</string>
+	<key>cubitvelocity</key>
+	<string>comprehensiveMargin</string>
+	<key>descriptionparamleft</key>
+	<string>propagateDelegate</string>
+	<key>eagerTangent</key>
+	<string>prevDelegate</string>
+	<key>gesturedetectorFlags</key>
+	<string>connectFuture</string>
+	<key>persistentTentative</key>
+	<string>asynchronousIntegrity</string>
+	<key>requiredrole</key>
+	<string>shouldShowCaption</string>
+	<key>resizableconstraintforce</key>
+	<string>synchronizeUseCase</string>
+</dict>
+</plist>

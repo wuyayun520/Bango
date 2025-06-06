@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildallocator</key>
+	<string>continueSample</string>
+	<key>invisibleDescent</key>
+	<string>objectTint</string>
+	<key>lostSegue</key>
+	<string>reactiveAwait</string>
+	<key>methoddespiteproxy</key>
+	<string>vectorascycle</string>
+	<key>numericalPosition</key>
+	<string>elasticdescription</string>
+</dict>
+</plist>

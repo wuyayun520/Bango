@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardbrush</key>
+	<string>liteIntegrity</string>
+	<key>beginnertexturepadding</key>
+	<string>concatenatePresenter</string>
+	<key>mediocreMovement</key>
+	<string>materialStream</string>
+	<key>precisionpager</key>
+	<string>canParseStream</string>
+	<key>previndicator</key>
+	<string>canSubscribeHistogram</string>
+	<key>sharedTransition</key>
+	<string>nodeCoord</string>
+	<key>shouldListenLayout</key>
+	<string>shouldShowTextField</string>
+	<key>standalonebloc</key>
+	<string>beginnerAnimation</string>
+</dict>
+</plist>

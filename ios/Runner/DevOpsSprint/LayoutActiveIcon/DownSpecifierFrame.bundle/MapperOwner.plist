@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTextField</key>
+	<string>canvasDistance</string>
+	<key>bitrateVelocity</key>
+	<string>equipmentphasebrightness</string>
+	<key>commonMultiplication</key>
+	<string>vectorForm</string>
+	<key>geometricMultiplication</key>
+	<string>accessibleSwitch</string>
+	<key>movementresolver</key>
+	<string>positionedmerger</string>
+	<key>positionviaproxy</key>
+	<string>relationalSplitter</string>
+	<key>replicaright</key>
+	<string>shouldLayoutSine</string>
+	<key>shouldRebuildRoute</key>
+	<string>seamlessScroll</string>
+</dict>
+</plist>

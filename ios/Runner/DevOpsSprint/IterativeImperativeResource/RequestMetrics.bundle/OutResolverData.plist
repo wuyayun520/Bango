@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateoverlay</key>
+	<string>syncConfiguration</string>
+	<key>curvedelay</key>
+	<string>shouldDispatchSensor</string>
+	<key>geometricInformation</key>
+	<string>otherAsync</string>
+	<key>imperativeTime</key>
+	<string>currentEfficiency</string>
+	<key>iterativeAxis</key>
+	<string>canvasInterval</string>
+	<key>segmentOrientation</key>
+	<string>scopetag</string>
+</dict>
+</plist>

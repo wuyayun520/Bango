@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllersincedecorator</key>
+	<string>endSignature</string>
+	<key>crudeobserverorigin</key>
+	<string>resultComposite</string>
+	<key>dedicatedSprite</key>
+	<string>uniformProfile</string>
+	<key>euclideanintegration</key>
+	<string>accordionCurve</string>
+	<key>inkwellimpact</key>
+	<string>temporaryTimeline</string>
+	<key>spritetag</key>
+	<string>requestincludetask</string>
+	<key>standaloneSegment</key>
+	<string>deflatemediaquery</string>
+	<key>transitionStyle</key>
+	<string>sortedutil</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncprovider</key>
+	<string>publishTernary</string>
+	<key>backwardAllocator</key>
+	<string>profileMenu</string>
+	<key>chapterstrategykind</key>
+	<string>tweakBrightness</string>
+	<key>disabledStream</key>
+	<string>shouldSaveDocument</string>
+	<key>draweroffacade</key>
+	<string>transformertypemomentum</string>
+	<key>prevParticle</key>
+	<string>shouldMountedListView</string>
+	<key>splitterleft</key>
+	<string>transitionExtension</string>
+</dict>
+</plist>

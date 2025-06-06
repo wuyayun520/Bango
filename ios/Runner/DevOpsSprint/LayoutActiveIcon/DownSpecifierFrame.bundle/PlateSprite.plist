@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modalinset</key>
+	<string>canBindContainer</string>
+	<key>movementchaininset</key>
+	<string>normBuffer</string>
+	<key>shouldNavigateProject</key>
+	<string>unmounteffect</string>
+	<key>shouldPauseSizedBox</key>
+	<string>publishlistview</string>
+	<key>signatureinobserver</key>
+	<string>loadRole</string>
+</dict>
+</plist>

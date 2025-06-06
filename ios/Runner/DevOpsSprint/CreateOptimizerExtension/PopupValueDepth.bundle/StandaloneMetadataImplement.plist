@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryState</key>
+	<string>canUpdateSample</string>
+	<key>numericalCubit</key>
+	<string>usecaseDistance</string>
+	<key>shouldAttachIcon</key>
+	<string>disclaimerright</string>
+	<key>shouldCacheCosine</key>
+	<string>chapterStatus</string>
+	<key>shouldDismissComposition</key>
+	<string>advancedEvolution</string>
+	<key>shouldFinishCursor</key>
+	<string>liteNotation</string>
+	<key>shouldMountedLabel</key>
+	<string>publishScaffold</string>
+	<key>shouldbindcompletion</key>
+	<string>graphTint</string>
+	<key>statelessMetrics</key>
+	<string>usedPositioned</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRoute</key>
+	<string>tabviewMemento</string>
+	<key>dedicatedGem</key>
+	<string>canPrepareMaster</string>
+	<key>deployarithmetic</key>
+	<string>shouldNavigateSpecifier</string>
+	<key>eagerDispatcher</key>
+	<string>shouldInflateWidget</string>
+	<key>listenerEdge</key>
+	<string>customSound</string>
+	<key>metadatasystemmode</key>
+	<string>shouldPublishStateless</string>
+	<key>resourceawayvalue</key>
+	<string>activeCheckbox</string>
+	<key>shouldBindPriority</key>
+	<string>loaderPressure</string>
+	<key>statefulType</key>
+	<string>fusedresourcesize</string>
+	<key>stepinterpreterlocation</key>
+	<string>missedShader</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopMedia</key>
+	<string>shouldRenderGate</string>
+	<key>shouldResumePoint</key>
+	<string>shouldObservePlayback</string>
+	<key>shouldSaveConsumer</key>
+	<string>canBuildHistogram</string>
+	<key>sortedAnalogy</key>
+	<string>diffableMenu</string>
+	<key>tappableCatalyst</key>
+	<string>radioBridge</string>
+</dict>
+</plist>

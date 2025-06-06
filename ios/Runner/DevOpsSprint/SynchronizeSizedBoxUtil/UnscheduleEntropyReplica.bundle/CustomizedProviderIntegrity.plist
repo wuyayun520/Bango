@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamichandlersize</key>
+	<string>herooperationstatus</string>
+	<key>liteEffect</key>
+	<string>operationTier</string>
+	<key>shouldSetStateBrush</key>
+	<string>canFormatHeap</string>
+	<key>shouldStopInteger</key>
+	<string>nextExtension</string>
+</dict>
+</plist>

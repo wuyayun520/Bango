@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedInkWell</key>
+	<string>dissociaterepository</string>
+	<key>callbackValidation</key>
+	<string>ternaryValidation</string>
+	<key>commonTouch</key>
+	<string>pageviewactioninterval</string>
+	<key>granularCharacter</key>
+	<string>imageTension</string>
+	<key>hierarchicalListener</key>
+	<string>hardSubscriber</string>
+	<key>shouldUnbindPlayback</key>
+	<string>queueparambrightness</string>
+	<key>sophisticatedCursor</key>
+	<string>architectureName</string>
+	<key>storyboardSkewX</key>
+	<string>interactiveSine</string>
+</dict>
+</plist>

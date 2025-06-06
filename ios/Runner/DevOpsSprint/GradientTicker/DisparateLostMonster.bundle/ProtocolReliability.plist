@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelthroughput</key>
+	<string>directexception</string>
+	<key>cubitsensor</key>
+	<string>beginnerScale</string>
+	<key>independentInterpolation</key>
+	<string>dialogsaudio</string>
+	<key>onstatefultap</key>
+	<string>shouldBuildBitrate</string>
+	<key>queueValidation</key>
+	<string>normalThreshold</string>
+	<key>scrollableRole</key>
+	<string>embedEntity</string>
+	<key>textureplatformdensity</key>
+	<string>serviceActivity</string>
+</dict>
+</plist>

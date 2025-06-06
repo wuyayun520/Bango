@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorCoord</key>
+	<string>fixedusecase</string>
+	<key>deferredGrid</key>
+	<string>invokePosition</string>
+	<key>granularInterpolation</key>
+	<string>backwardSpot</string>
+	<key>lastnotificationposition</key>
+	<string>imperativeGraphic</string>
+	<key>normalCubit</key>
+	<string>custompaintAcceleration</string>
+	<key>notationDepth</key>
+	<string>canFormatMobile</string>
+	<key>positioneddecoration</key>
+	<string>modelparamtheme</string>
+</dict>
+</plist>

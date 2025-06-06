@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocResponse</key>
+	<string>resolveCubit</string>
+	<key>elasticDropdownButton</key>
+	<string>ascentbrightness</string>
+	<key>elasticEvaluation</key>
+	<string>clipperBridge</string>
+	<key>euclideanGraph</key>
+	<string>boxStructure</string>
+</dict>
+</plist>

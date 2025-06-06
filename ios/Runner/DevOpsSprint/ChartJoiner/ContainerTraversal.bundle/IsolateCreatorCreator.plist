@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missedNode</key>
+	<string>statelessAsync</string>
+	<key>mutablerequest</key>
+	<string>comprehensiveStroke</string>
+	<key>ondropdownbuttontap</key>
+	<string>emitpresenter</string>
+	<key>reactiveTimeline</key>
+	<string>keyEquivalent</string>
+	<key>utilDuration</key>
+	<string>moveSlider</string>
+</dict>
+</plist>

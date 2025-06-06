@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPriority</key>
+	<string>arithmeticState</string>
+	<key>curveBrightness</key>
+	<string>writeTween</string>
+	<key>mainMaterial</key>
+	<string>globalOperation</string>
+	<key>memberinterface</key>
+	<string>reactiveThroughput</string>
+	<key>navigationValidation</key>
+	<string>onoverlaytap</string>
+	<key>primaryBullet</key>
+	<string>shouldLayoutProject</string>
+	<key>traversalskewx</key>
+	<string>viewSpacing</string>
+</dict>
+</plist>

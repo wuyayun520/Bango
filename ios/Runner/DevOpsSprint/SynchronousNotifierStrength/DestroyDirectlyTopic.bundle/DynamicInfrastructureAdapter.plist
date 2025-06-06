@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorflags</key>
+	<string>shouldsubscribecheckbox</string>
+	<key>channelhandler</key>
+	<string>decodeGift</string>
+	<key>currentButton</key>
+	<string>bandwidthBorder</string>
+	<key>dynamicPermutation</key>
+	<string>obtainInteractor</string>
+	<key>secondScroll</key>
+	<string>capsulemodule</string>
+	<key>selectedtabview</key>
+	<string>interpolationresponse</string>
+	<key>shouldBindStep</key>
+	<string>hyperbolicBaseline</string>
+	<key>shouldDetachMultiplication</key>
+	<string>shouldValidateMultiplication</string>
+	<key>texturecount</key>
+	<string>shouldUnmountSpecifier</string>
+</dict>
+</plist>

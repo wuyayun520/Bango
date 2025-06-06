@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachcubit</key>
+	<string>mainParticle</string>
+	<key>firstBaseline</key>
+	<string>isolateFeedback</string>
+	<key>interactiveEmitter</key>
+	<string>canPushPainter</string>
+	<key>polyfillHead</key>
+	<string>canResumeGridView</string>
+	<key>shouldPresentBaseline</key>
+	<string>touchCompleter</string>
+	<key>spineTop</key>
+	<string>intuitiveAnimation</string>
+	<key>statelessdrawer</key>
+	<string>shouldconnectalert</string>
+	<key>symmetricLayer</key>
+	<string>chartRotation</string>
+</dict>
+</plist>

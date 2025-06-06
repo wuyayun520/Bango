@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedParticle</key>
+	<string>sustainableDropdownButton</string>
+	<key>diffableCard</key>
+	<string>markCoordinator</string>
+	<key>gridType</key>
+	<string>symmetricConvolution</string>
+	<key>instructionTop</key>
+	<string>associatedComposition</string>
+	<key>sorterFeedback</key>
+	<string>shouldnotifybaseline</string>
+	<key>staticTrigger</key>
+	<string>cycleevaluation</string>
+</dict>
+</plist>

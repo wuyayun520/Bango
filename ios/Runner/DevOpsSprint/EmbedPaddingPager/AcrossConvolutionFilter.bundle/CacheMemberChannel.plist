@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardnode</key>
+	<string>orchestratemethod</string>
+	<key>cancelresponse</key>
+	<string>gramLeft</string>
+	<key>crucialchecklistposition</key>
+	<string>canAttachTransition</string>
+	<key>deflateinterpolation</key>
+	<string>semanticBinary</string>
+	<key>sensorsincecontext</key>
+	<string>consumerinsidecomposite</string>
+	<key>shouldunbindstep</key>
+	<string>transitionPadding</string>
+	<key>statefulPresenter</key>
+	<string>responsiveSink</string>
+	<key>storeRight</key>
+	<string>symbolComposite</string>
+	<key>topicBehavior</key>
+	<string>hasController</string>
+</dict>
+</plist>

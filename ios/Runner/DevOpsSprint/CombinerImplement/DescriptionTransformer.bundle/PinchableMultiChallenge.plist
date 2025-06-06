@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarDirection</key>
+	<string>currentPublisher</string>
+	<key>attachbuilder</key>
+	<string>throughputFeedback</string>
+	<key>clipperacceleration</key>
+	<string>minGift</string>
+	<key>consultativepresenter</key>
+	<string>builderevent</string>
+	<key>inactiveGrain</key>
+	<string>renderRow</string>
+	<key>mediaType</key>
+	<string>layoutCard</string>
+	<key>notifierOpacity</key>
+	<string>interactorOperation</string>
+	<key>projectpolygon</key>
+	<string>drawerInterval</string>
+	<key>shouldResumeCell</key>
+	<string>progressbardepth</string>
+	<key>unsortedAmortization</key>
+	<string>canRestartExpanded</string>
+</dict>
+</plist>

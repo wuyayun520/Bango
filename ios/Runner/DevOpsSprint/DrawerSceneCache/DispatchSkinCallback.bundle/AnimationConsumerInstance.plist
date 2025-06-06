@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatepromise</key>
+	<string>customManager</string>
+	<key>newestFilter</key>
+	<string>accelerateResource</string>
+	<key>observerDirection</key>
+	<string>shouldLayoutLogarithm</string>
+	<key>reactivePlayback</key>
+	<string>reusableSpine</string>
+	<key>selectedaspect</key>
+	<string>invokeDependency</string>
+	<key>shouldAnimateMatrix</key>
+	<string>contrastTransparency</string>
+	<key>shouldPushGram</key>
+	<string>frameTint</string>
+	<key>sophisticatedHero</key>
+	<string>regulateBuilder</string>
+	<key>topicColor</key>
+	<string>storyboardPhase</string>
+</dict>
+</plist>

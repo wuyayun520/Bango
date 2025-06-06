@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletfeedback</key>
+	<string>mutableAperture</string>
+	<key>consumerHead</key>
+	<string>asynchronousAperture</string>
+	<key>iterativeWidget</key>
+	<string>shouldLayoutTextField</string>
+	<key>lazyresponse</key>
+	<string>presenterTop</string>
+	<key>pushcontainer</key>
+	<string>shouldEmitGift</string>
+	<key>shouldrestartalpha</key>
+	<string>canDeserializeStoryboard</string>
+	<key>unsortedConsumer</key>
+	<string>navigatorJob</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesName</key>
+	<string>presenterInteraction</string>
+	<key>dialogstransparency</key>
+	<string>webMapper</string>
+	<key>disparateScene</key>
+	<string>smartIntegration</string>
+	<key>strokeBehavior</key>
+	<string>fragmentslocation</string>
+	<key>subpixelbydecorator</key>
+	<string>singleSegue</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evolutionBottom</key>
+	<string>collectiondecoratorspacing</string>
+	<key>gradientconstraint</key>
+	<string>symmetricTable</string>
+	<key>radiograin</key>
+	<string>requiredDetail</string>
+	<key>tickerRate</key>
+	<string>deferredCursor</string>
+</dict>
+</plist>

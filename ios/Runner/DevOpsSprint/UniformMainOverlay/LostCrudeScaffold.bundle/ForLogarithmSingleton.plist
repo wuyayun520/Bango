@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationFeedback</key>
+	<string>convertButton</string>
+	<key>momentumorigin</key>
+	<string>accessoryAppearance</string>
+	<key>relationalscenedensity</key>
+	<string>desktopModule</string>
+	<key>shouldTrainCharacter</key>
+	<string>customizedPopup</string>
+	<key>tabbarDistance</key>
+	<string>renderBox</string>
+</dict>
+</plist>

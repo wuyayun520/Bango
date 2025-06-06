@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerSpeed</key>
+	<string>primaryEvolution</string>
+	<key>cupertinoChooser</key>
+	<string>usedcallbackinset</string>
+	<key>disabledTaxonomy</key>
+	<string>mediaqueryFacade</string>
+	<key>flexaroundstage</key>
+	<string>alignmentchooser</string>
+	<key>integrityResponse</key>
+	<string>channelpertemple</string>
+	<key>otherRenderer</key>
+	<string>resourceVelocity</string>
+	<key>profileForce</key>
+	<string>statefulDocument</string>
+	<key>segmentadaptersaturation</key>
+	<string>gridStrategy</string>
+	<key>shouldInflateInstruction</key>
+	<string>resizableFilter</string>
+	<key>unaryvolume</key>
+	<string>interactiveDescriptor</string>
+</dict>
+</plist>

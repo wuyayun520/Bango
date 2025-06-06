@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicScheduler</key>
+	<string>singlePlate</string>
+	<key>easyBaseline</key>
+	<string>entropySpeed</string>
+	<key>giftBorder</key>
+	<string>subpixelstructurebottom</string>
+	<key>persistentVideo</key>
+	<string>shouldSetStateDescriptor</string>
+	<key>seamlessLog</key>
+	<string>canParseChecklist</string>
+	<key>shouldDecodeRadio</key>
+	<string>setstateAppBar</string>
+	<key>shouldPopTouch</key>
+	<string>customRange</string>
+	<key>spriteborder</key>
+	<string>subtlebloc</string>
+</dict>
+</plist>

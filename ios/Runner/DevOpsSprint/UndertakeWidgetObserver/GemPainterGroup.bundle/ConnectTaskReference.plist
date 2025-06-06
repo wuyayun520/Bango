@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerHead</key>
+	<string>seamlessGradient</string>
+	<key>layoutIndex</key>
+	<string>crudeSplitter</string>
+	<key>nibVelocity</key>
+	<string>touchTransparency</string>
+	<key>permissivenodetransparency</key>
+	<string>entropyTask</string>
+	<key>relationalChallenge</key>
+	<string>visibleCombiner</string>
+	<key>shouldBuildReference</key>
+	<string>shouldDetachTabBar</string>
+	<key>shouldListenCard</key>
+	<string>emitterInteraction</string>
+	<key>shouldRenderHero</key>
+	<string>canProcessWidget</string>
+	<key>smartCanvas</key>
+	<string>projectionAppearance</string>
+	<key>stampContrast</key>
+	<string>resultFacade</string>
+</dict>
+</plist>

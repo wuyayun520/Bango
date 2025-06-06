@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertbuffer</key>
+	<string>sophisticatedSlider</string>
+	<key>referencereliability</key>
+	<string>commonnodebottom</string>
+	<key>requiredTheme</key>
+	<string>canFormatSlider</string>
+	<key>shouldHandleCollection</key>
+	<string>shouldKeepDecoration</string>
+	<key>smartCoordinator</key>
+	<string>updateThread</string>
+	<key>titleedge</key>
+	<string>buildCosine</string>
+</dict>
+</plist>

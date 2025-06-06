@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableStateless</key>
+	<string>autocallback</string>
+	<key>debugcompleter</key>
+	<string>blocPrototype</string>
+	<key>detailHead</key>
+	<string>canPublishPageView</string>
+	<key>heapPosition</key>
+	<string>semanticError</string>
+	<key>inkwellthroughput</key>
+	<string>columnStructure</string>
+	<key>protectedRect</key>
+	<string>cupertinoSign</string>
+	<key>segmentborder</key>
+	<string>disabledScope</string>
+	<key>sharedHash</key>
+	<string>debugscale</string>
+	<key>touchreliability</key>
+	<string>schemaRight</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitBottom</key>
+	<string>canDismissDuration</string>
+	<key>consumerType</key>
+	<string>labelmerger</string>
+	<key>injectionsingletonspacing</key>
+	<string>canResumeAlpha</string>
+	<key>primaryIntegration</key>
+	<string>renderPlayback</string>
+	<key>tensorpager</key>
+	<string>dynamicEfficiency</string>
+</dict>
+</plist>

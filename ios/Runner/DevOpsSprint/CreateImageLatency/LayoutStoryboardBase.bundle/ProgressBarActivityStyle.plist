@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionenvironmentborder</key>
+	<string>layoutDistance</string>
+	<key>entityName</key>
+	<string>techniqueCycle</string>
+	<key>impressionHue</key>
+	<string>deferredrenderer</string>
+	<key>originalConnector</key>
+	<string>basefeature</string>
+	<key>secondDescriptor</key>
+	<string>mediaStage</string>
+	<key>shouldStartGesture</key>
+	<string>characterCount</string>
+</dict>
+</plist>

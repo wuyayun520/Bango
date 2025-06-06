@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferDistance</key>
+	<string>gatesingletonmargin</string>
+	<key>concurrentMedia</key>
+	<string>lazyException</string>
+	<key>immutableSlash</key>
+	<string>basicSwitch</string>
+	<key>oncontainerchanged</key>
+	<string>labeltint</string>
+	<key>prismaticticker</key>
+	<string>intuitiveScroll</string>
+	<key>shouldBindCell</key>
+	<string>canUpdateCapsule</string>
+	<key>sortedStore</key>
+	<string>removeIntensity</string>
+</dict>
+</plist>

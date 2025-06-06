@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticDrawer</key>
+	<string>dedicatedmaterialorientation</string>
+	<key>endcompleter</key>
+	<string>futureShade</string>
+	<key>granularSkirt</key>
+	<string>retainedSingleton</string>
+	<key>menuScale</key>
+	<string>persistoption</string>
+	<key>respectiveSplitter</key>
+	<string>strengthColor</string>
+	<key>shouldPauseProtocol</key>
+	<string>pointFlags</string>
+	<key>symmetricmanagerspeed</key>
+	<string>bitrateTail</string>
+	<key>videoBorder</key>
+	<string>decorationMemento</string>
+</dict>
+</plist>

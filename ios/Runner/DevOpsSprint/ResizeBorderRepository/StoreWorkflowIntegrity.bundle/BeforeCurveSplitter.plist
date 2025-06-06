@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsagainstmediator</key>
+	<string>bundleParticle</string>
+	<key>errorType</key>
+	<string>responsiveEntity</string>
+	<key>materialsemantics</key>
+	<string>restartBehavior</string>
+	<key>reducerjobsaturation</key>
+	<string>keepresource</string>
+	<key>shouldRestartButton</key>
+	<string>animatesize</string>
+	<key>specifyTrajectory</key>
+	<string>resizeMethod</string>
+	<key>unactivatedLogarithm</key>
+	<string>consumerremediation</string>
+</dict>
+</plist>

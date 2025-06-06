@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatePressure</key>
+	<string>revisitCallback</string>
+	<key>entitymomentum</key>
+	<string>curvestate</string>
+	<key>fixedarchitecture</key>
+	<string>shouldLoadCard</string>
+	<key>granularNotification</key>
+	<string>throughputSkewX</string>
+	<key>interpolationColor</key>
+	<string>groupMethod</string>
+	<key>permanentSegue</key>
+	<string>taskFramework</string>
+	<key>persistentStatus</key>
+	<string>listenPadding</string>
+	<key>popevent</key>
+	<string>configurationinactivity</string>
+</dict>
+</plist>

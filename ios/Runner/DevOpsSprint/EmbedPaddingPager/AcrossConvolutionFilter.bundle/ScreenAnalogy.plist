@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousAsync</key>
+	<string>densesensor</string>
+	<key>defaultCube</key>
+	<string>videoHead</string>
+	<key>keyAspect</key>
+	<string>singleShader</string>
+	<key>mediocreGram</key>
+	<string>providerDelay</string>
+	<key>shouldDisconnectTransition</key>
+	<string>resilienceAppearance</string>
+	<key>shouldNotifyPadding</key>
+	<string>mobileCertificate</string>
+</dict>
+</plist>

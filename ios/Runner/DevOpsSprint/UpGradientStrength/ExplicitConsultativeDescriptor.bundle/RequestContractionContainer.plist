@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeContrast</key>
+	<string>aspectSingleton</string>
+	<key>defaultcanvas</key>
+	<string>dissociateSingleton</string>
+	<key>dialogsDirection</key>
+	<string>commonNotation</string>
+	<key>lostAllocator</key>
+	<string>asynchronousbuilder</string>
+	<key>popupvariabletint</key>
+	<string>sizedboxBuffer</string>
+	<key>semanticsShade</key>
+	<string>cursorBorder</string>
+	<key>shouldEncodeChannels</key>
+	<string>lazyjoiner</string>
+	<key>webstackduration</key>
+	<string>commonsampletheme</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyChannels</key>
+	<string>gridviewlinker</string>
+	<key>pausebitrate</key>
+	<string>usedGram</string>
+	<key>requiredBloc</key>
+	<string>mitigateChart</string>
+	<key>shouldReplaceMaterial</key>
+	<string>resolveStream</string>
+	<key>tensorSelector</key>
+	<string>spriteinlayer</string>
+</dict>
+</plist>

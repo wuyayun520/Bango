@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerInset</key>
+	<string>shouldFinishMember</string>
+	<key>difficultSemantics</key>
+	<string>transitionHero</string>
+	<key>ignoredTimeline</key>
+	<string>directThreshold</string>
+	<key>isolatetaxonomy</key>
+	<string>optimizeFeature</string>
+	<key>objectBorder</key>
+	<string>cubitbehavior</string>
+	<key>shouldAttachAspect</key>
+	<string>sequentialLayout</string>
+	<key>textureLeft</key>
+	<string>tabviewkindbrightness</string>
+</dict>
+</plist>

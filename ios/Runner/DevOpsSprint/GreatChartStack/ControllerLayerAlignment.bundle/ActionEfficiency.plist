@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardalignment</key>
+	<string>shouldNavigateAnchor</string>
+	<key>deferredLabel</key>
+	<string>extendContainer</string>
+	<key>largeRenderer</key>
+	<string>dialogsAppearance</string>
+	<key>persistentrepository</key>
+	<string>connectController</string>
+	<key>precisionfrequency</key>
+	<string>preparePlate</string>
+	<key>resilientBinary</key>
+	<string>shouldUpdateOperation</string>
+	<key>shouldListenTable</key>
+	<string>similarOffset</string>
+	<key>smallMediaQuery</key>
+	<string>animateBinary</string>
+</dict>
+</plist>

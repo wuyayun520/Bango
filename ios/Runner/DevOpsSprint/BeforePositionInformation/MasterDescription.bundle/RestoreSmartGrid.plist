@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousEvaluation</key>
+	<string>pivotalElement</string>
+	<key>consumptionmargin</key>
+	<string>characteristicFrequency</string>
+	<key>encapsulatetopic</key>
+	<string>locateBloc</string>
+	<key>mutableGesture</key>
+	<string>signLocation</string>
+	<key>optimizerrow</key>
+	<string>positionedObserver</string>
+	<key>shouldReplaceFuture</key>
+	<string>textRate</string>
+	<key>shouldTransformNotification</key>
+	<string>globalCoordinator</string>
+	<key>streamDirection</key>
+	<string>updateVariant</string>
+	<key>timerSkewY</key>
+	<string>emitMetadata</string>
+</dict>
+</plist>

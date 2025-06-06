@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basedistance</key>
+	<string>resilienceRate</string>
+	<key>compositionOrientation</key>
+	<string>processPositioned</string>
+	<key>constantSpeed</key>
+	<string>dissociateQueue</string>
+	<key>normScale</key>
+	<string>deferredDrawer</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSegment</key>
+	<string>processDocument</string>
+	<key>cupertinoGrayscale</key>
+	<string>revisitPresenter</string>
+	<key>deliveryPressure</key>
+	<string>otherHero</string>
+	<key>denseAppBar</key>
+	<string>secondExtension</string>
+	<key>mediocreConstraint</key>
+	<string>routeController</string>
+	<key>mutableCell</key>
+	<string>arithmeticLogarithm</string>
+	<key>pagerDistance</key>
+	<string>compositionCount</string>
+	<key>scrollableherovisibility</key>
+	<string>asynchronousConsumption</string>
+	<key>shouldObserveCosine</key>
+	<string>activatedProvision</string>
+</dict>
+</plist>

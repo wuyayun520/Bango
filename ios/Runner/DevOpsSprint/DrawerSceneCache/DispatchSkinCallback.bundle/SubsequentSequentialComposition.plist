@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePadding</key>
+	<string>capsuleStatus</string>
+	<key>challengeColor</key>
+	<string>encodeBrush</string>
+	<key>formatchannels</key>
+	<string>priorityCommand</string>
+	<key>materialrowvelocity</key>
+	<string>declarativeMaster</string>
+	<key>nextStoryboard</key>
+	<string>localMetrics</string>
+	<key>tappablechart</key>
+	<string>missionShape</string>
+	<key>usagenavigator</key>
+	<string>optionValidation</string>
+</dict>
+</plist>

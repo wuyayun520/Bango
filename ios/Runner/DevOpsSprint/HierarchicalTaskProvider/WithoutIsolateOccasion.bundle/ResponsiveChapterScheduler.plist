@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterForce</key>
+	<string>liteWidget</string>
+	<key>crucialMethod</key>
+	<string>sinkTag</string>
+	<key>interactiveNode</key>
+	<string>opaqueDocument</string>
+	<key>symmetricRouter</key>
+	<string>cupertinoexponent</string>
+	<key>temporaryQueue</key>
+	<string>agileInteraction</string>
+</dict>
+</plist>

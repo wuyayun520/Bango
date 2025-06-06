@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianFeature</key>
+	<string>itemvelocity</string>
+	<key>localizationvardepth</key>
+	<string>offsetForm</string>
+	<key>missedGrain</key>
+	<string>inheritedDescriptor</string>
+	<key>modelposition</key>
+	<string>exitCompleter</string>
+	<key>navigationOffset</key>
+	<string>canBuildCapsule</string>
+	<key>precisionTension</key>
+	<string>scenebehavior</string>
+	<key>shouldBuildFlex</key>
+	<string>unscheduleStorage</string>
+	<key>shouldSetStateScaffold</key>
+	<string>animatorRotation</string>
+	<key>symmetricScheduler</key>
+	<string>canPrepareRadio</string>
+	<key>typicalfuturemode</key>
+	<string>canAnimateGift</string>
+</dict>
+</plist>

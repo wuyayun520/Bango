@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledSpecifier</key>
+	<string>sortedtexturemargin</string>
+	<key>ephemeralmediaquery</key>
+	<string>retainedFactory</string>
+	<key>hashvarbehavior</key>
+	<string>offsetSingleton</string>
+	<key>shouldTransformController</key>
+	<string>cursorexceptbridge</string>
+	<key>sortedOption</key>
+	<string>resolverHue</string>
+</dict>
+</plist>

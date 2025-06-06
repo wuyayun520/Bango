@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicFuture</key>
+	<string>createDecoration</string>
+	<key>layerconnector</key>
+	<string>constraintValidation</string>
+	<key>liteCapsule</key>
+	<string>inkwellColor</string>
+	<key>mobileShader</key>
+	<string>shouldAnimateSkirt</string>
+	<key>paintlistener</key>
+	<string>canCacheStream</string>
+	<key>sliderconstant</key>
+	<string>shouldEncodeEntropy</string>
+	<key>transitionqueue</key>
+	<string>typicalThread</string>
+	<key>usedGem</key>
+	<string>nativeSubpixel</string>
+	<key>yieldawait</key>
+	<string>cacheBoxShadow</string>
+</dict>
+</plist>

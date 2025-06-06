@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletinfacade</key>
+	<string>shouldDecodeCharacter</string>
+	<key>challengehue</key>
+	<string>unsortedOption</string>
+	<key>elasticMaterial</key>
+	<string>markappbar</string>
+	<key>firstimpact</key>
+	<string>completedConsumer</string>
+	<key>unactivatedTolerance</key>
+	<string>canUpdateEqualization</string>
+	<key>unsortedTimer</key>
+	<string>singleTopic</string>
+</dict>
+</plist>

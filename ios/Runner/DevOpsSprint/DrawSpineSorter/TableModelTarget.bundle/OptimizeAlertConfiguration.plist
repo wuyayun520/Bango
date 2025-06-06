@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonView</key>
+	<string>schedulerBound</string>
+	<key>customSink</key>
+	<string>seamlessSegue</string>
+	<key>directGridView</key>
+	<string>accordionOperation</string>
+	<key>flexibleStateful</key>
+	<string>largeReliability</string>
+	<key>quantizermovement</key>
+	<string>layoutDialogs</string>
+	<key>routeparameterpadding</key>
+	<string>uniquereduction</string>
+	<key>shouldDecodeRadio</key>
+	<string>mainSkin</string>
+</dict>
+</plist>

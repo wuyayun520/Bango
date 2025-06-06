@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphtransparency</key>
+	<string>persistentScenario</string>
+	<key>numericalcluster</key>
+	<string>connectTopic</string>
+	<key>protectedbuttonposition</key>
+	<string>multiplyTexture</string>
+	<key>tangentFormat</key>
+	<string>canDisposeOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mountedcoordinator</key>
+	<string>disabledEvaluation</string>
+	<key>navigationType</key>
+	<string>routeFormat</string>
+	<key>navigatorFrequency</key>
+	<string>awaitName</string>
+	<key>shouldRebuildContraction</key>
+	<string>disposeCollection</string>
+	<key>subsequentVertex</key>
+	<string>shouldPushAnimation</string>
+</dict>
+</plist>

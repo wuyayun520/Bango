@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generateasset</key>
+	<string>eagerConfiguration</string>
+	<key>missiongroup</key>
+	<string>temporaryTransition</string>
+	<key>nextImage</key>
+	<string>mainAccessory</string>
+	<key>seamlessdropdownbutton</key>
+	<string>reducerMemento</string>
+	<key>sequentialMethod</key>
+	<string>iterativeStateless</string>
+</dict>
+</plist>

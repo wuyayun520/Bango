@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardFormat</key>
+	<string>pickerOrientation</string>
+	<key>composableProjection</key>
+	<string>videoScale</string>
+	<key>elasticLifecycle</key>
+	<string>equalizationInterpreter</string>
+	<key>frametransparency</key>
+	<string>responseOffset</string>
+	<key>globalChallenge</key>
+	<string>queueTheme</string>
+	<key>layervisibility</key>
+	<string>tickerSpeed</string>
+	<key>mediaaroundchain</key>
+	<string>collectionShape</string>
+	<key>semanticMethod</key>
+	<string>providerprototypetheme</string>
+	<key>shouldKeepCube</key>
+	<string>shouldKeepGradient</string>
+	<key>shouldObserveBinary</key>
+	<string>sampleproxytension</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedLoader</key>
+	<string>isolateTier</string>
+	<key>impactTop</key>
+	<string>saveExpanded</string>
+	<key>keyCaption</key>
+	<string>desktopImage</string>
+	<key>mediumUtil</key>
+	<string>inheritedsensor</string>
+	<key>movementDelay</key>
+	<string>trainsingleton</string>
+	<key>paddingfinder</key>
+	<string>euclideanPager</string>
+	<key>shouldDecodeMusic</key>
+	<string>borderStrategy</string>
+	<key>shouldSubscribeBullet</key>
+	<string>compilecaption</string>
+	<key>webTentative</key>
+	<string>dividesession</string>
+</dict>
+</plist>

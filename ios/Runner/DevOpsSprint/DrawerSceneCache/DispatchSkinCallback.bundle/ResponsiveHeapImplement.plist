@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedparticle</key>
+	<string>canContinueRoute</string>
+	<key>commonPreview</key>
+	<string>backwardMatrix</string>
+	<key>deferredResult</key>
+	<string>configurationevent</string>
+	<key>grayscalevelocity</key>
+	<string>isolateContext</string>
+	<key>persistentStack</key>
+	<string>kernelSpeed</string>
+	<key>profilecurve</key>
+	<string>fetchSemantics</string>
+	<key>specifyConsumer</key>
+	<string>isduration</string>
+	<key>storyboardInteraction</key>
+	<string>scheduleFuture</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autotriangles</key>
+	<string>shouldMountedFragment</string>
+	<key>crucialTriangles</key>
+	<string>autoSegue</string>
+	<key>makechannel</key>
+	<string>accessibleSubpixel</string>
+	<key>mobilemargin</key>
+	<string>restartContainer</string>
+</dict>
+</plist>

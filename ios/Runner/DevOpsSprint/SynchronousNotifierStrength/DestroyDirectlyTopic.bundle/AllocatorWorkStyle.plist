@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderResponse</key>
+	<string>uniqueTool</string>
+	<key>chooserSize</key>
+	<string>formatLog</string>
+	<key>createchannels</key>
+	<string>webCompleter</string>
+	<key>iterativeException</key>
+	<string>consumeResponse</string>
+	<key>missedImpact</key>
+	<string>configurationstroke</string>
+	<key>optimizerawait</key>
+	<string>pivotalDocument</string>
+	<key>rapidLinker</key>
+	<string>projectrequest</string>
+	<key>servicetransparency</key>
+	<string>sessionAction</string>
+	<key>shouldPresentSlider</key>
+	<string>staticNavigator</string>
+</dict>
+</plist>

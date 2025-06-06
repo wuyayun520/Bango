@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modulusResponse</key>
+	<string>gridChain</string>
+	<key>newestGroup</key>
+	<string>liteSound</string>
+	<key>resizableBorder</key>
+	<string>sortedTime</string>
+	<key>shouldRouteProjection</key>
+	<string>priorMerger</string>
+</dict>
+</plist>

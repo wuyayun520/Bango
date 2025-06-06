@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblecubit</key>
+	<string>associatedDescent</string>
+	<key>currentconvolution</key>
+	<string>symbolintype</string>
+	<key>deferredInterface</key>
+	<string>mobileDescriptor</string>
+	<key>functionalRectangle</key>
+	<string>invisibleAscent</string>
+	<key>invisibleAscent</key>
+	<string>persistentCombiner</string>
+	<key>latencyDensity</key>
+	<string>quitproject</string>
+	<key>mediaqueryDuration</key>
+	<string>callbackInterval</string>
+	<key>missedhandler</key>
+	<string>independentClipper</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeIcon</key>
+	<string>largeBinary</string>
+	<key>intermediateInteraction</key>
+	<string>directlyOccasion</string>
+	<key>invisibleInteractor</key>
+	<string>attachTabView</string>
+	<key>nativeNotation</key>
+	<string>comprehensiveTernary</string>
+	<key>previewVisibility</key>
+	<string>shouldFinishMediaQuery</string>
+	<key>shouldCancelText</key>
+	<string>sensorTag</string>
+</dict>
+</plist>

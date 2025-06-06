@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteEmitter</key>
+	<string>pointSaturation</string>
+	<key>emitaction</key>
+	<string>resolveTopic</string>
+	<key>instructionSpacing</key>
+	<string>canCancelContainer</string>
+	<key>notifyskirt</key>
+	<string>batchpatterntop</string>
+	<key>originalStrength</key>
+	<string>shouldUnmountedProject</string>
+	<key>reactiveBuilder</key>
+	<string>canDetachDuration</string>
+	<key>shouldCacheRoute</key>
+	<string>instructionvisibility</string>
+	<key>shouldResumeExpanded</key>
+	<string>capacitiesamongform</string>
+	<key>sortedOccasion</key>
+	<string>navigatorframeworkscale</string>
+	<key>switchinteraction</key>
+	<string>resilienceLeft</string>
+</dict>
+</plist>

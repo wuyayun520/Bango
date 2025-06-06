@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCycle</key>
+	<string>uniformScenario</string>
+	<key>flexibleTween</key>
+	<string>accordionMember</string>
+	<key>primaryMomentum</key>
+	<string>completedStoryboard</string>
+	<key>shouldLayoutPlayback</key>
+	<string>videoDelay</string>
+</dict>
+</plist>

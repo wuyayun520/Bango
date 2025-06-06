@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyShader</key>
+	<string>mediocreCell</string>
+	<key>localChooser</key>
+	<string>consumerPrototype</string>
+	<key>moduleMargin</key>
+	<string>canValidateTouch</string>
+	<key>smallBase</key>
+	<string>basicScalability</string>
+	<key>smartPriority</key>
+	<string>permanentNotification</string>
+	<key>texteffect</key>
+	<string>techniqueVelocity</string>
+	<key>uniformScale</key>
+	<string>unsortedPolyfill</string>
+</dict>
+</plist>

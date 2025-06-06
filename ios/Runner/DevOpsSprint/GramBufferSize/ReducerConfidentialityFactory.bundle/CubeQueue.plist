@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledCallback</key>
+	<string>selectedCache</string>
+	<key>immutableAlpha</key>
+	<string>cycleMomentum</string>
+	<key>nextCache</key>
+	<string>ignoredNode</string>
+	<key>previewstrategyorigin</key>
+	<string>gramindex</string>
+	<key>reactiveConverter</key>
+	<string>activatesubscription</string>
+	<key>shouldResumeAperture</key>
+	<string>newestObserver</string>
+	<key>timeVisible</key>
+	<string>pushSizedBox</string>
+</dict>
+</plist>

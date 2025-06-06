@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalRadius</key>
+	<string>popBorder</string>
+	<key>localizationcount</key>
+	<string>brushrepository</string>
+	<key>primaryModule</key>
+	<string>awaitaboutenvironment</string>
+	<key>selectedOperation</key>
+	<string>shouldrestartimage</string>
+	<key>shouldDetachCache</key>
+	<string>replicaForce</string>
+	<key>symmetricMetadata</key>
+	<string>futurecontrast</string>
+</dict>
+</plist>

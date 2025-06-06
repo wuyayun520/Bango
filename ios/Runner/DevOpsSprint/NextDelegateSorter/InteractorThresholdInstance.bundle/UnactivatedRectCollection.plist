@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationobserver</key>
+	<string>shouldRestartDecoration</string>
+	<key>commonService</key>
+	<string>retainedService</string>
+	<key>detailtype</key>
+	<string>cellCenter</string>
+	<key>mastertexture</key>
+	<string>interpolationcurve</string>
+	<key>shouldAttachSwitch</key>
+	<string>usedManager</string>
+	<key>shouldPublishExpanded</key>
+	<string>symmetricPolyfill</string>
+	<key>upgradeentity</key>
+	<string>shouldFetchOptimizer</string>
+</dict>
+</plist>

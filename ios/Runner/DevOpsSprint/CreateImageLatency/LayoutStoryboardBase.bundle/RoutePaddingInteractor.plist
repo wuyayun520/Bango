@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ondimensionchanged</key>
+	<string>marginPadding</string>
+	<key>receiverBottom</key>
+	<string>commonStatus</string>
+	<key>shadermodeshape</key>
+	<string>paintoperation</string>
+	<key>shouldConnectTouch</key>
+	<string>rebuildDropdownButton</string>
+	<key>specifyLabel</key>
+	<string>canRouteClipper</string>
+</dict>
+</plist>

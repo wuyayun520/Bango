@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetchainbound</key>
+	<string>uniformOffset</string>
+	<key>dependencyBehavior</key>
+	<string>canSaveAppBar</string>
+	<key>requiredStateless</key>
+	<string>respectiveException</string>
+	<key>resizableShape</key>
+	<string>parseWidget</string>
+	<key>shouldFormatDimension</key>
+	<string>pivotalInjection</string>
+	<key>shouldProcessMonster</key>
+	<string>diversifiedBrush</string>
+	<key>subtleAction</key>
+	<string>destroyInteractor</string>
+	<key>switchcommandskewy</key>
+	<string>introspectFrame</string>
+</dict>
+</plist>

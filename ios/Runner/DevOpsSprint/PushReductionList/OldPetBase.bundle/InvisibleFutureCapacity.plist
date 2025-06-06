@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBinary</key>
+	<string>stateStrategy</string>
+	<key>cacheorientation</key>
+	<string>dissociateHandler</string>
+	<key>dedicatedDisclaimer</key>
+	<string>segmentOperation</string>
+	<key>directContraction</key>
+	<string>directPolyfill</string>
+	<key>fusedTween</key>
+	<string>statelessInterval</string>
+	<key>liteitem</key>
+	<string>seamlessDuration</string>
+	<key>staticdurationspacing</key>
+	<string>intuitiveMaterializer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comparehero</key>
+	<string>controllerInset</string>
+	<key>draggableThroughput</key>
+	<string>webSound</string>
+	<key>particledirection</key>
+	<string>singleGrayscale</string>
+	<key>rapidAsync</key>
+	<string>canStartProjection</string>
+	<key>shouldKeepListView</key>
+	<string>searchPreview</string>
+	<key>shouldUnbindChannels</key>
+	<string>statelessmenu</string>
+	<key>symmetricVideo</key>
+	<string>semanticUnary</string>
+	<key>techniquepadding</key>
+	<string>synchronizecoordinator</string>
+</dict>
+</plist>

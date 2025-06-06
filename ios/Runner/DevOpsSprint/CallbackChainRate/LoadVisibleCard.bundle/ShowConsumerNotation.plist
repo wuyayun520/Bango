@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorSaturation</key>
+	<string>projectionFramework</string>
+	<key>hyperbolicScenario</key>
+	<string>presenterOrientation</string>
+	<key>notifierforce</key>
+	<string>shouldStartMobile</string>
+	<key>permanentGate</key>
+	<string>shouldSaveBitrate</string>
+	<key>secondRoute</key>
+	<string>publishScale</string>
+</dict>
+</plist>

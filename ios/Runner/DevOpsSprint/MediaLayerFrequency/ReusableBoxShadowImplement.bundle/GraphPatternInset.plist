@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialinteractor</key>
+	<string>ephemeralTernary</string>
+	<key>crudeCard</key>
+	<string>beginnerChart</string>
+	<key>layoutstate</key>
+	<string>positionedMediator</string>
+	<key>responsiveTweak</key>
+	<string>materialBorder</string>
+	<key>toolcombiner</key>
+	<string>unactivatedOption</string>
+</dict>
+</plist>

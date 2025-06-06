@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nativeFragment</key>
+	<string>subscribeNotifier</string>
+	<key>pivotaldropdownbuttontheme</key>
+	<string>routedensity</string>
+	<key>radiusthanmode</key>
+	<string>canDeserializeStateful</string>
+	<key>rangeSpacing</key>
+	<string>canCreateDocument</string>
+	<key>retainedRecursion</key>
+	<string>multiRectangle</string>
+	<key>schemaTop</key>
+	<string>shouldCacheFuture</string>
+	<key>sequentialimpression</key>
+	<string>loaderopacity</string>
+	<key>sharedGridView</key>
+	<string>sinkLeft</string>
+	<key>shouldReplaceMediaQuery</key>
+	<string>reducerResponse</string>
+	<key>sophisticatedProgressBar</key>
+	<string>viewtransparency</string>
+</dict>
+</plist>

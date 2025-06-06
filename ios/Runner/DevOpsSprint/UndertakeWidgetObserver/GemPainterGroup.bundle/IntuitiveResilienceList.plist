@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAnalogy</key>
+	<string>instantiateRow</string>
+	<key>asynchronousTimeline</key>
+	<string>shouldRouteActivity</string>
+	<key>chartcontextinteraction</key>
+	<string>hardMission</string>
+	<key>paintresolver</key>
+	<string>saveMaterial</string>
+	<key>polygonVisibility</key>
+	<string>disabledRequest</string>
+	<key>scrollerShade</key>
+	<string>reusableCapacity</string>
+	<key>semanticsVisible</key>
+	<string>futureDepth</string>
+	<key>textfieldtimer</key>
+	<string>providerbycomposite</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricGesture</key>
+	<string>customscenario</string>
+	<key>greatevent</key>
+	<string>retainedRichText</string>
+	<key>iterativeElasticity</key>
+	<string>publisherSkewY</string>
+	<key>responsiveContraction</key>
+	<string>shouldMountedMission</string>
+	<key>responsiveReceiver</key>
+	<string>delegateFlags</string>
+</dict>
+</plist>

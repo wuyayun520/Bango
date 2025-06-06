@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediatetext</key>
+	<string>quantizerAllocator</string>
+	<key>meshVisible</key>
+	<string>dedicatedvariantsaturation</string>
+	<key>primaryDetail</key>
+	<string>movementDuration</string>
+	<key>scrollerAlignment</key>
+	<string>unactivatedScope</string>
+</dict>
+</plist>

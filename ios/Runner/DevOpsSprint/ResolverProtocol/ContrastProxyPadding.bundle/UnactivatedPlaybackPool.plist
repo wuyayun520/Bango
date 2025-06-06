@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorMargin</key>
+	<string>streamresource</string>
+	<key>difficultGrayscale</key>
+	<string>impressionBorder</string>
+	<key>restartcallback</key>
+	<string>shouldRouteFragment</string>
+	<key>secondShape</key>
+	<string>typicalCaption</string>
+	<key>shouldSetStateCosine</key>
+	<string>immediateSchema</string>
+	<key>staticFragments</key>
+	<string>seekSingleton</string>
+	<key>textureVisible</key>
+	<string>prismaticPermutation</string>
+</dict>
+</plist>

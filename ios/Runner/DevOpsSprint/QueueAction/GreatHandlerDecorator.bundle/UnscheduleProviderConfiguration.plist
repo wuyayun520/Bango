@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushOrientation</key>
+	<string>renderContraction</string>
+	<key>captionanimation</key>
+	<string>canYieldOperation</string>
+	<key>disclaimerMode</key>
+	<string>reductionOffset</string>
+	<key>hierarchicalIcon</key>
+	<string>objectCenter</string>
+	<key>onstamptap</key>
+	<string>prevSpot</string>
+	<key>positionedscheduler</key>
+	<string>requiredObserver</string>
+	<key>smallSlash</key>
+	<string>canTransformDialogs</string>
+</dict>
+</plist>

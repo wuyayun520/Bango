@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionworkstatus</key>
+	<string>segmentStyle</string>
+	<key>cachebound</key>
+	<string>mediaFrequency</string>
+	<key>concatenatetextfield</key>
+	<string>canSetStateDocument</string>
+	<key>labelstyleoffset</key>
+	<string>storyboardInterval</string>
+	<key>overlayState</key>
+	<string>analogyFrequency</string>
+	<key>specifyCluster</key>
+	<string>shouldProcessOverlay</string>
+	<key>ternarybyscope</key>
+	<string>pauseRow</string>
+	<key>throughputoffset</key>
+	<string>shouldFormatMedia</string>
+</dict>
+</plist>

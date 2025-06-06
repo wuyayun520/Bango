@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowValidation</key>
+	<string>beginnerTool</string>
+	<key>deferredTransition</key>
+	<string>listenBullet</string>
+	<key>intermediateIcon</key>
+	<string>integrityDensity</string>
+	<key>radioadapterbehavior</key>
+	<string>storeContainer</string>
+	<key>shouldCancelSymbol</key>
+	<string>storageOrigin</string>
+	<key>shouldFetchEqualization</key>
+	<string>detachTween</string>
+	<key>smartPolyfill</key>
+	<string>invisibleModel</string>
+	<key>tabviewshade</key>
+	<string>allocatorShape</string>
+	<key>touchtag</key>
+	<string>singletonVariable</string>
+</dict>
+</plist>

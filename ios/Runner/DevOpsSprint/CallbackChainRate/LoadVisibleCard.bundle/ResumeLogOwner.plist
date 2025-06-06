@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisFlags</key>
+	<string>euclideantransition</string>
+	<key>ignoredService</key>
+	<string>lastProject</string>
+	<key>iswidget</key>
+	<string>shouldShowTask</string>
+	<key>menuascent</key>
+	<string>triggerInterval</string>
+	<key>priorCycle</key>
+	<string>nextMetadata</string>
+	<key>shouldPublishPageView</key>
+	<string>nativeQuaternion</string>
+	<key>typicalRepository</key>
+	<string>delegateRow</string>
+	<key>uniformMetrics</key>
+	<string>painterDirection</string>
+</dict>
+</plist>

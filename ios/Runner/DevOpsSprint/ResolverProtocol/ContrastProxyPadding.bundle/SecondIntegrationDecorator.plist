@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelshash</key>
+	<string>callbackPadding</string>
+	<key>descriptorcontrast</key>
+	<string>navigationSpeed</string>
+	<key>positionforce</key>
+	<string>hardTriangles</string>
+	<key>publishticker</key>
+	<string>canAnimateButton</string>
+	<key>scrollermomentum</key>
+	<string>prepareDelegate</string>
+	<key>typicalPreview</key>
+	<string>sinkCycle</string>
+</dict>
+</plist>

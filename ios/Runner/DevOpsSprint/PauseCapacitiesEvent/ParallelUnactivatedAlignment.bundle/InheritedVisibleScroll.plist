@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxfunctiontransparency</key>
+	<string>ephemeralSound</string>
+	<key>dataFrequency</key>
+	<string>provideVector</string>
+	<key>gridDelay</key>
+	<string>awaitdelay</string>
+	<key>intensitymediatorborder</key>
+	<string>upgradeStream</string>
+	<key>mediocreInjection</key>
+	<string>imageSpacing</string>
+</dict>
+</plist>

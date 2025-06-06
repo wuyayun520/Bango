@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalFuture</key>
+	<string>widgetinteraction</string>
+	<key>disparateRenderer</key>
+	<string>shouldRouteEqualization</string>
+	<key>isolateforwork</key>
+	<string>agileTabBar</string>
+	<key>shouldAnimateOverlay</key>
+	<string>finishShader</string>
+	<key>smartConsumer</key>
+	<string>stopOperation</string>
+	<key>yieldcurve</key>
+	<string>checklistOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatProfile</key>
+	<string>cubitTier</string>
+	<key>inheritedGridView</key>
+	<string>easyOffset</string>
+	<key>keyStateful</key>
+	<string>blocOrientation</string>
+	<key>mutableChannels</key>
+	<string>subscriptionHead</string>
+	<key>resourcePressure</key>
+	<string>retainedDecoration</string>
+	<key>shouldFinishAspectRatio</key>
+	<string>calculateFeature</string>
+	<key>shouldParseRemainder</key>
+	<string>animateResponse</string>
+	<key>sliderFormat</key>
+	<string>imperativeConverter</string>
+</dict>
+</plist>

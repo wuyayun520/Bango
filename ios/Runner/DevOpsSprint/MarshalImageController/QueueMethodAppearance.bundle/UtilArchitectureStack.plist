@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorBound</key>
+	<string>shouldResumeRemainder</string>
+	<key>diffablefactory</key>
+	<string>deprecateSingleton</string>
+	<key>framealongnumber</key>
+	<string>volumename</string>
+	<key>requestanalyzer</key>
+	<string>cubitatmethod</string>
+	<key>synchronousResolver</key>
+	<string>adaptiveInjection</string>
+	<key>textfieldchart</key>
+	<string>menuhead</string>
+</dict>
+</plist>

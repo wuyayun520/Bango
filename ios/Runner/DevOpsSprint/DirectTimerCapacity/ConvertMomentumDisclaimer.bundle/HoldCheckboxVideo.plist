@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMediaQuery</key>
+	<string>navigatestorage</string>
+	<key>binaryPressure</key>
+	<string>respectiveContrast</string>
+	<key>criticalCluster</key>
+	<string>canFinishBrush</string>
+	<key>crudeSwitch</key>
+	<string>publicVolume</string>
+	<key>deferredMission</key>
+	<string>gestureLevel</string>
+	<key>graphvariablecolor</key>
+	<string>restartSubpixel</string>
+	<key>indicatorFeedback</key>
+	<string>eventCount</string>
+	<key>normlocation</key>
+	<string>detachPet</string>
+	<key>shouldpublishlog</key>
+	<string>canFetchReference</string>
+	<key>sustainableAnchor</key>
+	<string>channelsTier</string>
+</dict>
+</plist>

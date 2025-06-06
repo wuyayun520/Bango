@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedColumn</key>
+	<string>captureLoop</string>
+	<key>callbackfeedback</key>
+	<string>sequentialeventfrequency</string>
+	<key>compileexception</key>
+	<string>shouldKeepAnimation</string>
+	<key>dynamicScaffold</key>
+	<string>canEncodeMultiplication</string>
+	<key>masterbridgeresponse</key>
+	<string>interactiveEffect</string>
+	<key>semanticOperation</key>
+	<string>binaryDecorator</string>
+	<key>shouldDisposeProjection</key>
+	<string>selecteddescriptor</string>
+</dict>
+</plist>

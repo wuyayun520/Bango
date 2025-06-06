@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeNib</key>
+	<string>usedSound</string>
+	<key>commonInkWell</key>
+	<string>mutablePicker</string>
+	<key>impactInterval</key>
+	<string>injectRow</string>
+	<key>inactiveComposition</key>
+	<string>routetheme</string>
+	<key>numericalChannel</key>
+	<string>painterorientation</string>
+	<key>reusableEfficiency</key>
+	<string>animateTask</string>
+	<key>rowwithoutactivity</key>
+	<string>loaderOffset</string>
+	<key>shouldRestartPlate</key>
+	<string>lazyPlayback</string>
+	<key>toolthanmediator</key>
+	<string>performRect</string>
+</dict>
+</plist>

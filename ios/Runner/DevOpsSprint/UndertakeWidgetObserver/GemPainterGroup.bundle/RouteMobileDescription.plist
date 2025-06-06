@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationSaturation</key>
+	<string>transitionInset</string>
+	<key>exponentprogressbar</key>
+	<string>rebuildpageview</string>
+	<key>itemFlags</key>
+	<string>zonedirection</string>
+	<key>listenpresenter</key>
+	<string>immutableReducer</string>
+	<key>topictrajectory</key>
+	<string>pushAppBar</string>
+	<key>trianglesPosition</key>
+	<string>serviceinsidestyle</string>
+	<key>zoneState</key>
+	<string>canReplaceVariant</string>
+</dict>
+</plist>

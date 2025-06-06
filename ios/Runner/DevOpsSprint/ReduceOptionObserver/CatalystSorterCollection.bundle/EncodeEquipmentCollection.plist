@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultaspectratio</key>
+	<string>emitSample</string>
+	<key>dynamicReducer</key>
+	<string>shouldKeepButton</string>
+	<key>elasticCard</key>
+	<string>channeldecoratororigin</string>
+	<key>futuretheme</key>
+	<string>resilientgridview</string>
+	<key>gemresponse</key>
+	<string>compareInjection</string>
+	<key>hyperbolicInjection</key>
+	<string>canRenderMember</string>
+	<key>masterSkewX</key>
+	<string>orchestrateQueue</string>
+	<key>rowexceptscope</key>
+	<string>shouldStartEntropy</string>
+	<key>scenariofeedback</key>
+	<string>shouldConnectOption</string>
+	<key>secondAspect</key>
+	<string>tickerVisitor</string>
+</dict>
+</plist>

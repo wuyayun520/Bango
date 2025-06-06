@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customFeature</key>
+	<string>projectShape</string>
+	<key>dependencyOpacity</key>
+	<string>subscriberdirection</string>
+	<key>inflatesubpixel</key>
+	<string>explicitusecase</string>
+	<key>multichannelsspacing</key>
+	<string>grouptexture</string>
+	<key>nodeForce</key>
+	<string>pageviewBridge</string>
+	<key>quaternionBrightness</key>
+	<string>intermediatetransformerskewy</string>
+	<key>radioResponse</key>
+	<string>newestCustomPaint</string>
+	<key>relationalDecoration</key>
+	<string>listenerAlignment</string>
+	<key>smartObserver</key>
+	<string>priorgesturerate</string>
+</dict>
+</plist>

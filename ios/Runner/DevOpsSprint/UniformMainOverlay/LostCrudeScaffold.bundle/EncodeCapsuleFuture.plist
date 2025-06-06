@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletticker</key>
+	<string>featureAlignment</string>
+	<key>futureCount</key>
+	<string>canvassubscriber</string>
+	<key>iterativeQueue</key>
+	<string>largeTimer</string>
+	<key>oldLoss</key>
+	<string>webListener</string>
+	<key>reducerdelay</key>
+	<string>resumeOverlay</string>
+	<key>replaceentity</key>
+	<string>wrapService</string>
+	<key>shouldReplaceObserver</key>
+	<string>staticmanagerfrequency</string>
+	<key>swiftMomentum</key>
+	<string>comprehensiveBuffer</string>
+	<key>symmetricStroke</key>
+	<string>canContinueCustomPaint</string>
+	<key>uniformAwait</key>
+	<string>checkboxWork</string>
+</dict>
+</plist>

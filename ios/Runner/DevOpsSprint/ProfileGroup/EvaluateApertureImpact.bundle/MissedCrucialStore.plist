@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonrepositoryinterval</key>
+	<string>shouldKeepPlayback</string>
+	<key>desktopfuturedensity</key>
+	<string>responseFormat</string>
+	<key>invisibleInfo</key>
+	<string>checkPresenter</string>
+	<key>normalCluster</key>
+	<string>iconDelay</string>
+	<key>receiverFeedback</key>
+	<string>canCancelTernary</string>
+	<key>shouldKeepBullet</key>
+	<string>shouldFinishNorm</string>
+	<key>shouldPublishSwitch</key>
+	<string>parseinteractor</string>
+</dict>
+</plist>

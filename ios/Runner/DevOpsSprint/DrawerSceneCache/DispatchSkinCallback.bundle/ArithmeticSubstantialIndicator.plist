@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCursor</key>
+	<string>activityLevel</string>
+	<key>capacitiesTop</key>
+	<string>tickerinformation</string>
+	<key>desktopScope</key>
+	<string>sortedbutton</string>
+	<key>dynamicDropdownButton</key>
+	<string>gesturedetectorPrototype</string>
+	<key>similarLoop</key>
+	<string>equalizationState</string>
+	<key>statusTheme</key>
+	<string>shouldStopAlpha</string>
+</dict>
+</plist>

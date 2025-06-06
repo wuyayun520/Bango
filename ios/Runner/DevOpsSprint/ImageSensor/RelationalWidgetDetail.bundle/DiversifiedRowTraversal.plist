@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveoccasion</key>
+	<string>shouldAnimateShader</string>
+	<key>listenerLocation</key>
+	<string>canNotifyRadio</string>
+	<key>meshRate</key>
+	<string>trianglesShape</string>
+	<key>pinchableQueue</key>
+	<string>clonebuilder</string>
+	<key>responsiveProfile</key>
+	<string>commonContraction</string>
+	<key>robustScalability</key>
+	<string>specifierprototypeleft</string>
+	<key>threadviastrategy</key>
+	<string>assetSpeed</string>
+	<key>transformsemantics</key>
+	<string>immediateQueue</string>
+	<key>webView</key>
+	<string>crudeVideo</string>
+</dict>
+</plist>

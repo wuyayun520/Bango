@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveChooser</key>
+	<string>transitionsingleton</string>
+	<key>defaultGift</key>
+	<string>actionalignment</string>
+	<key>difficultMethod</key>
+	<string>benchmarkAllocator</string>
+	<key>directStroke</key>
+	<string>modulusBridge</string>
+	<key>ignoredpicker</key>
+	<string>respectiveProjection</string>
+	<key>managerAlignment</key>
+	<string>radioState</string>
+	<key>sequentialElement</key>
+	<string>draggableCapacities</string>
+	<key>shouldPersistScaffold</key>
+	<string>oldInfrastructure</string>
+</dict>
+</plist>

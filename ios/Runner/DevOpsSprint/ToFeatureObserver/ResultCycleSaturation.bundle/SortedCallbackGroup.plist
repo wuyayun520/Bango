@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedBaseline</key>
+	<string>invisibleUseCase</string>
+	<key>advancedPermutation</key>
+	<string>entityValidation</string>
+	<key>anchorDuration</key>
+	<string>materialtag</string>
+	<key>animateparticle</key>
+	<string>currenteffect</string>
+	<key>crucialcontractionshade</key>
+	<string>relationalConvolution</string>
+	<key>dedicatedIndicator</key>
+	<string>intensitystate</string>
+	<key>dedicatednavigationshade</key>
+	<string>diffableSkin</string>
+	<key>permissiveEffect</key>
+	<string>multiBinary</string>
+	<key>priorconsumer</key>
+	<string>challengeFeedback</string>
+	<key>shouldTransitionLayout</key>
+	<string>videoMargin</string>
+</dict>
+</plist>

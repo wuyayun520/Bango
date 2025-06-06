@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateTabBar</key>
+	<string>customScene</string>
+	<key>independentCaption</key>
+	<string>heroAlignment</string>
+	<key>injectionBottom</key>
+	<string>concurrentConstant</string>
+	<key>respectiveStream</key>
+	<string>canDisconnectComposition</string>
+	<key>scenarioTransparency</key>
+	<string>eagerPermutation</string>
+	<key>semanticAsset</key>
+	<string>popupcomponent</string>
+	<key>shouldTransformExponent</key>
+	<string>canTransformRichText</string>
+</dict>
+</plist>

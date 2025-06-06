@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedamortization</key>
+	<string>arithmeticMap</string>
+	<key>colorAlignment</key>
+	<string>liteinteractor</string>
+	<key>currentCell</key>
+	<string>findChapter</string>
+	<key>custompaintLeft</key>
+	<string>asynchronousSignature</string>
+	<key>defaultmatrix</key>
+	<string>responsiveNib</string>
+	<key>indicatorMomentum</key>
+	<string>transitionborder</string>
+	<key>newestListView</key>
+	<string>shouldCacheStamp</string>
+	<key>precisionpatternacceleration</key>
+	<string>transpileTransformer</string>
+	<key>spriteAppearance</key>
+	<string>easyScroll</string>
+</dict>
+</plist>

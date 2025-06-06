@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activescreen</key>
+	<string>shouldStreamSkin</string>
+	<key>awaitOrientation</key>
+	<string>profiletransformer</string>
+	<key>smallSlash</key>
+	<string>easyVector</string>
+	<key>tabbarBehavior</key>
+	<string>animatedcontainerMethod</string>
+</dict>
+</plist>

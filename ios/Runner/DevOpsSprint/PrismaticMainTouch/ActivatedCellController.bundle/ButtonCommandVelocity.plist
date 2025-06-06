@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCanvas</key>
+	<string>adaptiveModule</string>
+	<key>difficultConsumption</key>
+	<string>mapperfrequency</string>
+	<key>missedRepository</key>
+	<string>offsetZone</string>
+	<key>othermesh</key>
+	<string>statefulNavigator</string>
+	<key>semanticProject</key>
+	<string>stopgrid</string>
+</dict>
+</plist>

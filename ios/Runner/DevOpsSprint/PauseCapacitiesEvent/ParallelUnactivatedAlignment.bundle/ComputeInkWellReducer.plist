@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layerSaturation</key>
+	<string>rectifyConfiguration</string>
+	<key>smartPlayback</key>
+	<string>mechanismVisible</string>
+	<key>standaloneRequest</key>
+	<string>intuitiveTrajectory</string>
+	<key>subsequentIcon</key>
+	<string>responsivelayerbrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentAnalogy</key>
+	<string>spritecontextappearance</string>
+	<key>descriptioninset</key>
+	<string>directlySignature</string>
+	<key>gridviewShape</key>
+	<string>singleIndicator</string>
+	<key>hierarchicalVertex</key>
+	<string>reflectGraph</string>
+	<key>mainScenario</key>
+	<string>stopContainer</string>
+	<key>mediumIntensity</key>
+	<string>canMountedMusic</string>
+	<key>shouldSetStateGrayscale</key>
+	<string>crucialGrayscale</string>
+	<key>visibleMap</key>
+	<string>basicMomentum</string>
+</dict>
+</plist>

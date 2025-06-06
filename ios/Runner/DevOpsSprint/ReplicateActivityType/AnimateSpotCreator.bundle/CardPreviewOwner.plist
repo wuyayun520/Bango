@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatchchallenge</key>
+	<string>unbindHero</string>
+	<key>finishinjection</key>
+	<string>groupInterpreter</string>
+	<key>logFrequency</key>
+	<string>playbackSpacing</string>
+	<key>missedResult</key>
+	<string>overrideFactory</string>
+	<key>permanentBloc</key>
+	<string>hyperbolicRestriction</string>
+	<key>reducermodeoffset</key>
+	<string>shouldObserveNorm</string>
+	<key>shouldStopDocument</key>
+	<string>canDisconnectCell</string>
+</dict>
+</plist>

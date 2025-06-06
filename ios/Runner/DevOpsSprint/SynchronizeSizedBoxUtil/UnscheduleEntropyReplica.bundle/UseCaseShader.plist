@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalResource</key>
+	<string>denseElement</string>
+	<key>independentConfiguration</key>
+	<string>tensorScaffold</string>
+	<key>observerDelay</key>
+	<string>cancelTouch</string>
+	<key>shouldKeepSlider</key>
+	<string>diversifiedCoordinator</string>
+	<key>specifySound</key>
+	<string>distinctionFlags</string>
+</dict>
+</plist>

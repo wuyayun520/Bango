@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionBottom</key>
+	<string>permanentChannel</string>
+	<key>disclaimerFlags</key>
+	<string>heroName</string>
+	<key>roleBound</key>
+	<string>canTransitionController</string>
+	<key>semanticsVisible</key>
+	<string>characterbound</string>
+	<key>shouldPopConstraint</key>
+	<string>denseAction</string>
+	<key>signPressure</key>
+	<string>widgetscope</string>
+	<key>textfieldindex</key>
+	<string>commonRichText</string>
+	<key>titleFlags</key>
+	<string>spineMargin</string>
+	<key>unactivatedLifecycle</key>
+	<string>baselinebrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedForce</key>
+	<string>shouldPushProjection</string>
+	<key>integrationskewx</key>
+	<string>segmentLevel</string>
+	<key>listviewType</key>
+	<string>aggregateoffset</string>
+	<key>reactiveanimationcontrast</key>
+	<string>subtlerequestduration</string>
+	<key>smallListView</key>
+	<string>activecallback</string>
+	<key>statelessMaterial</key>
+	<string>usagePadding</string>
+	<key>subtleloader</key>
+	<string>unsortedAwait</string>
+	<key>tappableMetrics</key>
+	<string>currentbaseline</string>
+	<key>topicaudio</key>
+	<string>shouldDeserializeSine</string>
+</dict>
+</plist>

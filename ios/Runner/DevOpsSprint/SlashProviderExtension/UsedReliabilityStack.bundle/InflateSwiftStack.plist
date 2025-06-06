@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAspect</key>
+	<string>topicAction</string>
+	<key>currentmanager</key>
+	<string>basicSine</string>
+	<key>deliverystatus</key>
+	<string>similarVideo</string>
+	<key>immediateThread</key>
+	<string>directReducer</string>
+	<key>pinchableState</key>
+	<string>scaffoldActivity</string>
+	<key>responsiveLayout</key>
+	<string>stopMomentum</string>
+	<key>shouldStopProtocol</key>
+	<string>channelsize</string>
+	<key>timerdirection</key>
+	<string>shouldUnmountHero</string>
+</dict>
+</plist>

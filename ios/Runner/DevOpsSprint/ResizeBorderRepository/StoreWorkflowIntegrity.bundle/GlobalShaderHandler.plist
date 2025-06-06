@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardroute</key>
+	<string>channelAppearance</string>
+	<key>currentdecoration</key>
+	<string>allocateService</string>
+	<key>hierarchicalmedia</key>
+	<string>layoutUsage</string>
+	<key>inactiveSearcher</key>
+	<string>layerBottom</string>
+	<key>statefulBandwidth</key>
+	<string>globalGraph</string>
+	<key>storagealignment</key>
+	<string>infoTint</string>
+</dict>
+</plist>

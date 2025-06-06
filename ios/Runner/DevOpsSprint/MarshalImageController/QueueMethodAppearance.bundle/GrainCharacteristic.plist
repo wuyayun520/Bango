@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsOpacity</key>
+	<string>secondView</string>
+	<key>channelsfortask</key>
+	<string>sinktiermargin</string>
+	<key>dialogsMargin</key>
+	<string>publicWorkflow</string>
+	<key>isoption</key>
+	<string>metadataMethod</string>
+	<key>rangeOffset</key>
+	<string>shouldValidateResource</string>
+	<key>sharedLayout</key>
+	<string>interpolationSize</string>
+	<key>slidersaturation</key>
+	<string>initializeState</string>
+</dict>
+</plist>

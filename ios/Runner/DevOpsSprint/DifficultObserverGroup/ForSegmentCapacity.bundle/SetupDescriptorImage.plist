@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocdecoratordensity</key>
+	<string>lastPolyfill</string>
+	<key>emitterRate</key>
+	<string>vectorbufferinset</string>
+	<key>ignoredTaxonomy</key>
+	<string>asynchronousCache</string>
+	<key>seamlessBitrate</key>
+	<string>canUnmountMedia</string>
+	<key>staticConfidentiality</key>
+	<string>intermediateWrapper</string>
+	<key>subtleDistinction</key>
+	<string>touchPreview</string>
+</dict>
+</plist>

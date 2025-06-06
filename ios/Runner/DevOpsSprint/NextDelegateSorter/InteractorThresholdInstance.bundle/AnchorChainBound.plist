@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDependency</key>
+	<string>geometricPrecision</string>
+	<key>basicGrain</key>
+	<string>canEndCapsule</string>
+	<key>cardScale</key>
+	<string>canTrainMobile</string>
+	<key>mediumMenu</key>
+	<string>canProcessCube</string>
+	<key>resizableDescription</key>
+	<string>canConnectOperation</string>
+	<key>respectiveWidget</key>
+	<string>robustArchitecture</string>
+	<key>shouldRestartAlert</key>
+	<string>opaquePosition</string>
+	<key>statelessloader</key>
+	<string>semanticsStage</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSplitter</key>
+	<string>transformerPlatform</string>
+	<key>controllerSkewX</key>
+	<string>discardedRequest</string>
+	<key>multiTabView</key>
+	<string>grainMethod</string>
+	<key>parallelCreator</key>
+	<string>declarativeConfiguration</string>
+	<key>resilientElasticity</key>
+	<string>poolMetadata</string>
+	<key>semanticSpot</key>
+	<string>easySink</string>
+	<key>storegrid</key>
+	<string>shouldYieldMomentum</string>
+</dict>
+</plist>

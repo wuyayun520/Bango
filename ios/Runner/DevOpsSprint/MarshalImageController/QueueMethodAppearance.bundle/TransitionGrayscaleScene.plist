@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncinterpreterskewx</key>
+	<string>pointOrigin</string>
+	<key>cacheSpeed</key>
+	<string>sizeDelay</string>
+	<key>cubeconstant</key>
+	<string>shouldkeepstep</string>
+	<key>evolutionSkewX</key>
+	<string>shouldmountedsegue</string>
+	<key>geometricCube</key>
+	<string>propagateSubscription</string>
+	<key>inheritedVariant</key>
+	<string>onscaffoldtap</string>
+	<key>intuitivedescriptorflags</key>
+	<string>projectVisitor</string>
+	<key>requiredPrecision</key>
+	<string>evolutionKind</string>
+	<key>serializecallback</key>
+	<string>canSubscribeMedia</string>
+	<key>temporaryresponder</key>
+	<string>immutableHeap</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticService</key>
+	<string>quitBuffer</string>
+	<key>gifttransparency</key>
+	<string>convolutionfilter</string>
+	<key>inkwellOrigin</key>
+	<string>vertexName</string>
+	<key>paintershade</key>
+	<string>canFinishCell</string>
+	<key>significantdetector</key>
+	<string>respectiveBase</string>
+	<key>webRepository</key>
+	<string>shouldunbinddrawer</string>
+</dict>
+</plist>

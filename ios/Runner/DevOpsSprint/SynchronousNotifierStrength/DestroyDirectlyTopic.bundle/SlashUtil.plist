@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelresponse</key>
+	<string>canStopAccessory</string>
+	<key>handleparticle</key>
+	<string>inheritedMesh</string>
+	<key>immutableRadio</key>
+	<string>columndensity</string>
+	<key>lastScaffold</key>
+	<string>staticPriority</string>
+	<key>pinchableOperation</key>
+	<string>cacheduration</string>
+	<key>statelessChannel</key>
+	<string>amortizationDuration</string>
+	<key>stepVelocity</key>
+	<string>disconnectStorage</string>
+	<key>tensorConverter</key>
+	<string>deferredTween</string>
+</dict>
+</plist>

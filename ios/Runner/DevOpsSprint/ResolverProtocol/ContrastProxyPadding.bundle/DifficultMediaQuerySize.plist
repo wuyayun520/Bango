@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerbesidepattern</key>
+	<string>canDeserializeFuture</string>
+	<key>customizedEntity</key>
+	<string>statefulGridView</string>
+	<key>mainScreen</key>
+	<string>standaloneTransition</string>
+	<key>multiSink</key>
+	<string>resizablePadding</string>
+	<key>normalTicker</key>
+	<string>screenJob</string>
+	<key>popticker</key>
+	<string>canDeserializeMedia</string>
+	<key>tentativeColor</key>
+	<string>shouldConnectPadding</string>
+</dict>
+</plist>

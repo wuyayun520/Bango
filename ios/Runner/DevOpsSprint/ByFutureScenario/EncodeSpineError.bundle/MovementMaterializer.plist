@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerrotation</key>
+	<string>retainedAperture</string>
+	<key>deferredSignature</key>
+	<string>canPresentLabel</string>
+	<key>mainChooser</key>
+	<string>shouldContinueCard</string>
+	<key>persistentPicker</key>
+	<string>binaryStage</string>
+	<key>respectiveSpot</key>
+	<string>mediocreSplitter</string>
+	<key>singletonOpacity</key>
+	<string>functionalDropdownButton</string>
+</dict>
+</plist>

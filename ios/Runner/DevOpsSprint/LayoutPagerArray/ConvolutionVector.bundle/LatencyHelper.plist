@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetprocesshead</key>
+	<string>inflateSpot</string>
+	<key>ephemeralBehavior</key>
+	<string>signSkewY</string>
+	<key>publicPrecision</key>
+	<string>custompaintStatus</string>
+	<key>specifyMember</key>
+	<string>yieldTernary</string>
+</dict>
+</plist>

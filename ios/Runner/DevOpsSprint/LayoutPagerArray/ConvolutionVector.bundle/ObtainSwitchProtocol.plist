@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTransition</key>
+	<string>shouldPresentSkirt</string>
+	<key>builderSaturation</key>
+	<string>imageMemento</string>
+	<key>directDetail</key>
+	<string>sizedboxfeedback</string>
+	<key>pivotalBullet</key>
+	<string>pivotalCache</string>
+	<key>reduceduration</key>
+	<string>provideoverlay</string>
+	<key>resizableScreen</key>
+	<string>eagerObject</string>
+	<key>retainedTransformer</key>
+	<string>semanticConnector</string>
+	<key>singleMechanism</key>
+	<string>actionorientation</string>
+	<key>thresholdLocation</key>
+	<string>clipperstyle</string>
+</dict>
+</plist>

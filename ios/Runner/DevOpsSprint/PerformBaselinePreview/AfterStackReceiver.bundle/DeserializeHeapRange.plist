@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTicker</key>
+	<string>activeProgressBar</string>
+	<key>constructresult</key>
+	<string>mutableEvent</string>
+	<key>coordinatorResponse</key>
+	<string>referenceframe</string>
+	<key>crucialReliability</key>
+	<string>compositionalzone</string>
+	<key>defaultentropy</key>
+	<string>interfacecontrast</string>
+	<key>desktopDecoration</key>
+	<string>pinchableInteractor</string>
+	<key>iterativeMetrics</key>
+	<string>captionBehavior</string>
+	<key>linkerMode</key>
+	<string>unmountedcontraction</string>
+	<key>unlockoffset</key>
+	<string>asynchronousInkWell</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendgrid</key>
+	<string>shouldValidateBaseline</string>
+	<key>menutheme</key>
+	<string>canContinueSlash</string>
+	<key>paddingcontainstyle</key>
+	<string>effectaction</string>
+	<key>sophisticatedCheckbox</key>
+	<string>mitigateUtil</string>
+</dict>
+</plist>

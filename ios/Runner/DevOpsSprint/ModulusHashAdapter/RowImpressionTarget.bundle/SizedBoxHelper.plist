@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleUseCase</key>
+	<string>enabledContainer</string>
+	<key>customizedAnalogy</key>
+	<string>largecursorstatus</string>
+	<key>interfaceinsidekind</key>
+	<string>buildConsumer</string>
+	<key>responseLeft</key>
+	<string>temporaryChart</string>
+	<key>streamscopevelocity</key>
+	<string>canFetchOperation</string>
+	<key>timercoord</key>
+	<string>normmethodvisibility</string>
+</dict>
+</plist>

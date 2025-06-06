@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pushternary</key>
+	<string>dedicatedpaddingbrightness</string>
+	<key>shouldKeepSubpixel</key>
+	<string>delegateview</string>
+	<key>shouldcachemusic</key>
+	<string>notifymodel</string>
+	<key>smartResponse</key>
+	<string>canPauseMusic</string>
+	<key>smartScaffold</key>
+	<string>chapterIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastAcceleration</key>
+	<string>parseProgressBar</string>
+	<key>methodfrequency</key>
+	<string>canDismissPadding</string>
+	<key>shouldInflateBatch</key>
+	<string>firstSorter</string>
+	<key>shouldbindprofile</key>
+	<string>disparateBuilder</string>
+</dict>
+</plist>

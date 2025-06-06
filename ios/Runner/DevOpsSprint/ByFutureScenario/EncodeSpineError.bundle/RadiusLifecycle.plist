@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocSpacing</key>
+	<string>defaultfragment</string>
+	<key>concurrentUtil</key>
+	<string>sharedCubit</string>
+	<key>momentumcolor</key>
+	<string>presentListView</string>
+	<key>seamlessRole</key>
+	<string>displayVector</string>
+	<key>shoulddispatchnorm</key>
+	<string>largeGate</string>
+	<key>shouldunbindworkflow</key>
+	<string>texturemetrics</string>
+</dict>
+</plist>

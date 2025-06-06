@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBloc</key>
+	<string>cacheResponse</string>
+	<key>completerbufferopacity</key>
+	<string>rectthroughphase</string>
+	<key>explicitArithmetic</key>
+	<string>setupPopup</string>
+	<key>lastAnalyzer</key>
+	<string>beginnerModel</string>
+	<key>priorThreshold</key>
+	<string>accessibleResource</string>
+	<key>shouldRebuildSubpixel</key>
+	<string>canSaveOperation</string>
+	<key>webEqualization</key>
+	<string>addlayout</string>
+</dict>
+</plist>

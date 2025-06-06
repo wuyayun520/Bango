@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatoropacity</key>
+	<string>shouldInflatePageView</string>
+	<key>gridvisibility</key>
+	<string>canResumeCollection</string>
+	<key>notifystoryboard</key>
+	<string>shouldStreamThread</string>
+	<key>originalTitle</key>
+	<string>concreteUsage</string>
+	<key>respectiveCluster</key>
+	<string>concurrentemitter</string>
+	<key>shouldCacheEqualization</key>
+	<string>backwardTabBar</string>
+	<key>sustainableStore</key>
+	<string>canPopTangent</string>
+</dict>
+</plist>

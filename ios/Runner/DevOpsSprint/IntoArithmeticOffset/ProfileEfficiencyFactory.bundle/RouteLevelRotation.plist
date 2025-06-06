@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowPosition</key>
+	<string>resilientScaffold</string>
+	<key>capacityMomentum</key>
+	<string>permanentMomentum</string>
+	<key>descriptionResponse</key>
+	<string>textureLocation</string>
+	<key>interactiveMusic</key>
+	<string>shouldBuildPriority</string>
+	<key>statefulAnimatedContainer</key>
+	<string>canPopSymbol</string>
+</dict>
+</plist>

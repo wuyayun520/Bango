@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineexceptshape</key>
+	<string>fusedModule</string>
+	<key>characterSize</key>
+	<string>smartScreen</string>
+	<key>deferredTimer</key>
+	<string>originalTimeline</string>
+	<key>parallelFilter</key>
+	<string>entropyTension</string>
+	<key>protectedoverlaysaturation</key>
+	<string>appbarInterval</string>
+	<key>reusableTask</key>
+	<string>textureelasticity</string>
+	<key>shouldPauseTabView</key>
+	<string>comprehensiveusecasestyle</string>
+	<key>shouldcachemission</key>
+	<string>calculateMethod</string>
+</dict>
+</plist>

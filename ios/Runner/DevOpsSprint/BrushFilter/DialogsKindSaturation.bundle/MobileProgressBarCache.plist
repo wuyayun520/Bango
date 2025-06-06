@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commontime</key>
+	<string>canSubscribeOption</string>
+	<key>deferredbulletkind</key>
+	<string>shouldInflateMission</string>
+	<key>desktopLoader</key>
+	<string>immutableHandler</string>
+	<key>elasticityTransparency</key>
+	<string>diversifiedShader</string>
+	<key>filterskewy</key>
+	<string>listviewTag</string>
+	<key>metadataFlags</key>
+	<string>partitionContainer</string>
+	<key>subscriberleft</key>
+	<string>diversifiedStoryboard</string>
+	<key>substantialFuture</key>
+	<string>parallelTask</string>
+	<key>subtleTraversal</key>
+	<string>signFramework</string>
+	<key>typicalInterpolation</key>
+	<string>masterPhase</string>
+</dict>
+</plist>

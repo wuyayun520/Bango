@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinerDensity</key>
+	<string>invisibleTentative</string>
+	<key>diffableRequest</key>
+	<string>shouldSerializeHeap</string>
+	<key>encodesign</key>
+	<string>receiveInjection</string>
+	<key>fixedThroughput</key>
+	<string>shouldFinishTechnique</string>
+	<key>mediumVector</key>
+	<string>binaryFramework</string>
+	<key>sequentialfuture</key>
+	<string>shouldKeepSkin</string>
+</dict>
+</plist>

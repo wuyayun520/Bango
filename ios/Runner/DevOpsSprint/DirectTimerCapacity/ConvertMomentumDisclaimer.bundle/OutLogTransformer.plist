@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSwitch</key>
+	<string>deserializeIcon</string>
+	<key>geometricProgressBar</key>
+	<string>canKeepGift</string>
+	<key>ignoredTweak</key>
+	<string>persistentRoute</string>
+	<key>integrationTail</key>
+	<string>sophisticatedTween</string>
+	<key>interactionSkewY</key>
+	<string>normInterval</string>
+	<key>prevThroughput</key>
+	<string>saveDecoration</string>
+	<key>projectdescription</key>
+	<string>syncText</string>
+	<key>protocolpublisher</key>
+	<string>disabledstampposition</string>
+	<key>shouldLayoutEffect</key>
+	<string>uniformShape</string>
+	<key>shouldSaveGraphic</key>
+	<string>densePager</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendmedia</key>
+	<string>granularEvaluation</string>
+	<key>delegatefactory</key>
+	<string>dissociateInteractor</string>
+	<key>interactiveParticle</key>
+	<string>finishdecoration</string>
+	<key>intuitiveMediaQuery</key>
+	<string>ephemeralCustomPaint</string>
+	<key>listviewspeed</key>
+	<string>addProvider</string>
+	<key>sharedConstant</key>
+	<string>ephemeralSpine</string>
+	<key>shouldfetchbehavior</key>
+	<string>gesturedetectorTier</string>
+</dict>
+</plist>

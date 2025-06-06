@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCatalyst</key>
+	<string>dialogsPosition</string>
+	<key>bufferDuration</key>
+	<string>cacheFlags</string>
+	<key>cupertinoConverter</key>
+	<string>errorLevel</string>
+	<key>customizedScale</key>
+	<string>backwardPopup</string>
+	<key>functionalGrid</key>
+	<string>actionActivity</string>
+	<key>meshVisibility</key>
+	<string>decodeReference</string>
+	<key>mobileInstruction</key>
+	<string>resourceVisible</string>
+	<key>priorPolyfill</key>
+	<string>similarMargin</string>
+	<key>specifyCheckbox</key>
+	<string>shouldDisposeTangent</string>
+	<key>spriteDuration</key>
+	<string>greatproviderdelay</string>
+</dict>
+</plist>

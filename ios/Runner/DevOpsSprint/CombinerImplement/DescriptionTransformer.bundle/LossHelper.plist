@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivedelegate</key>
+	<string>inflateSine</string>
+	<key>asyncadapterbehavior</key>
+	<string>shouldSkipStateless</string>
+	<key>directlyStack</key>
+	<string>activatedInterface</string>
+	<key>grayscaleDensity</key>
+	<string>canShowMultiplication</string>
+	<key>keyChannel</key>
+	<string>denseTweak</string>
+	<key>primaryAscent</key>
+	<string>dynamicInformation</string>
+	<key>priorPainter</key>
+	<string>normalSpot</string>
+	<key>semanticscene</key>
+	<string>threadCount</string>
+	<key>sophisticatedLabel</key>
+	<string>formatUnary</string>
+</dict>
+</plist>

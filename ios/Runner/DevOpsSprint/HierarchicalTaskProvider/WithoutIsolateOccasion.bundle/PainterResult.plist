@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianAmortization</key>
+	<string>loadtask</string>
+	<key>handlertint</key>
+	<string>cliptext</string>
+	<key>largeprovider</key>
+	<string>canSaveSizedBox</string>
+	<key>meshtransparency</key>
+	<string>autoMetadata</string>
+	<key>requestLocation</key>
+	<string>lastTweak</string>
+	<key>shouldFormatTask</key>
+	<string>restartCube</string>
+	<key>texturerotation</key>
+	<string>canContinueAccessory</string>
+	<key>workflowlocation</key>
+	<string>hashPhase</string>
+</dict>
+</plist>

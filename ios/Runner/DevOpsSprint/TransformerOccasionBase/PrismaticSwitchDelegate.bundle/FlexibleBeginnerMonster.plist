@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasmomentum</key>
+	<string>subscribeSegue</string>
+	<key>cartesianticker</key>
+	<string>shapebrightness</string>
+	<key>defaultnavigation</key>
+	<string>canRestartCosine</string>
+	<key>evaluationLeft</key>
+	<string>equipmentPosition</string>
+	<key>inactiveThreshold</key>
+	<string>attachMenu</string>
+	<key>infrastructureForce</key>
+	<string>shouldParseSession</string>
+	<key>tappableInteractor</key>
+	<string>litePainter</string>
+</dict>
+</plist>

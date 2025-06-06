@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>imperativeCell</key>
+	<string>curvetheme</string>
+	<key>shouldFinishNotification</key>
+	<string>permanentSubscription</string>
+	<key>shouldTransformPoint</key>
+	<string>strokeDuration</string>
+	<key>sortedRecursion</key>
+	<string>autoDependency</string>
+	<key>usecaseShade</key>
+	<string>captureModel</string>
+</dict>
+</plist>

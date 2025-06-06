@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengerepository</key>
+	<string>pinchableArithmetic</string>
+	<key>limitpresenter</key>
+	<string>immutableImage</string>
+	<key>originalSingleton</key>
+	<string>endSensor</string>
+	<key>shouldPaintResource</key>
+	<string>canLayoutUnary</string>
+	<key>statelessBehavior</key>
+	<string>parserouter</string>
+	<key>toolMode</key>
+	<string>partitionGraph</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCertificate</key>
+	<string>shouldEndView</string>
+	<key>beginnerCapacities</key>
+	<string>canKeepProfile</string>
+	<key>difficultImpression</key>
+	<string>canvasActivity</string>
+	<key>fragmentsMode</key>
+	<string>dissociateDelegate</string>
+	<key>histogramHue</key>
+	<string>dedicatedreducer</string>
+	<key>permanentmanagerindex</key>
+	<string>persistChecklist</string>
+	<key>shouldPushBitrate</key>
+	<string>shouldUnbindGate</string>
+</dict>
+</plist>

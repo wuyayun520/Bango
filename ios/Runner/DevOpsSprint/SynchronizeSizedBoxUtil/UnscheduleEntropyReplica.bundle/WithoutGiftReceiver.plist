@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicResilience</key>
+	<string>chapterMemento</string>
+	<key>curvetransformer</key>
+	<string>canPublishOverlay</string>
+	<key>diversifiedConstraint</key>
+	<string>emitLog</string>
+	<key>flexibleFlex</key>
+	<string>seekAllocator</string>
+</dict>
+</plist>

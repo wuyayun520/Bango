@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedChannels</key>
+	<string>fetchText</string>
+	<key>builderLocation</key>
+	<string>sustainableChart</string>
+	<key>captionState</key>
+	<string>semanticsEdge</string>
+	<key>cupertinoSkirt</key>
+	<string>shouldSetStateDrawer</string>
+	<key>expandedMargin</key>
+	<string>buttonFacade</string>
+	<key>joinerbehavior</key>
+	<string>shouldPauseShader</string>
+	<key>mapperVisibility</key>
+	<string>geometricModal</string>
+	<key>retainedRemediation</key>
+	<string>backwardFinder</string>
+	<key>scaffoldstageindex</key>
+	<string>matrixShade</string>
+	<key>shouldValidateMaterial</key>
+	<string>dialogsProcess</string>
+</dict>
+</plist>

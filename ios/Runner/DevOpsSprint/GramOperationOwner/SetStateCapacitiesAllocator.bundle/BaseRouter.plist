@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitTransition</key>
+	<string>masterShade</string>
+	<key>hierarchicalConfiguration</key>
+	<string>canStartBehavior</string>
+	<key>hierarchicalTitle</key>
+	<string>invisibleBloc</string>
+	<key>prevpreview</key>
+	<string>subscriberLeft</string>
+	<key>shouldSubscribeSession</key>
+	<string>tweenDirection</string>
+	<key>uniformOccasion</key>
+	<string>shouldContinueAccessory</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantScale</key>
+	<string>grampadding</string>
+	<key>customizedExponent</key>
+	<string>singletonVisibility</string>
+	<key>drawframe</key>
+	<string>gramType</string>
+	<key>immutableRestriction</key>
+	<string>shouldParseEntropy</string>
+	<key>inheritedbandwidth</key>
+	<string>shouldSaveMember</string>
+	<key>keyIcon</key>
+	<string>composableGraph</string>
+	<key>largepopup</key>
+	<string>denseCoordinator</string>
+	<key>modalpressure</key>
+	<string>serviceValue</string>
+	<key>shouldConnectCard</key>
+	<string>insteadBuilder</string>
+</dict>
+</plist>

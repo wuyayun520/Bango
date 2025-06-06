@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleConfiguration</key>
+	<string>denserectangle</string>
+	<key>converterorientation</key>
+	<string>typicalMapper</string>
+	<key>intuitiveSign</key>
+	<string>actionParam</string>
+	<key>selectedExpanded</key>
+	<string>concatenateSprite</string>
+	<key>shouldContinueProvider</key>
+	<string>aspectDensity</string>
+	<key>spineleveltail</key>
+	<string>prismaticMetadata</string>
+	<key>temporaryConsumption</key>
+	<string>appbarFeedback</string>
+	<key>vertexPressure</key>
+	<string>layerforce</string>
+</dict>
+</plist>

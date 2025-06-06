@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicRange</key>
+	<string>canStopNorm</string>
+	<key>buildercenter</key>
+	<string>basicModulus</string>
+	<key>discardedProvider</key>
+	<string>declarativeMenu</string>
+	<key>granularAnalyzer</key>
+	<string>rebuildNotifier</string>
+	<key>impactDelay</key>
+	<string>blocBorder</string>
+	<key>itemInset</key>
+	<string>custompaintLeft</string>
+	<key>prevEqualization</key>
+	<string>eagerPermutation</string>
+	<key>routemodule</key>
+	<string>convolutionDecorator</string>
+	<key>semanticNorm</key>
+	<string>shouldSerializeUnary</string>
+</dict>
+</plist>

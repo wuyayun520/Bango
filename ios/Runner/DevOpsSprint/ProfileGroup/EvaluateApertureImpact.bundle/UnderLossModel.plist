@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatMapper</key>
+	<string>startMovement</string>
+	<key>interactiveTopic</key>
+	<string>imperativePolygon</string>
+	<key>listenerbeyondpattern</key>
+	<string>desktoperror</string>
+	<key>pointSpacing</key>
+	<string>streamFrequency</string>
+	<key>shouldCancelGram</key>
+	<string>shouldYieldAspectRatio</string>
+	<key>significantTimeline</key>
+	<string>statelessStep</string>
+	<key>similarStroke</key>
+	<string>titleTemple</string>
+	<key>smallCluster</key>
+	<string>directResolver</string>
+</dict>
+</plist>

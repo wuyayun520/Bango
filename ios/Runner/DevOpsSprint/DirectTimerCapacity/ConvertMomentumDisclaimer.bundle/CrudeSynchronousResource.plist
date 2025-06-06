@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyRectangle</key>
+	<string>tabviewappearance</string>
+	<key>flexibleinjection</key>
+	<string>usedanimation</string>
+	<key>membertween</key>
+	<string>declarativeReducer</string>
+	<key>parallelDropdownButton</key>
+	<string>controllerVariable</string>
+	<key>prismaticSlash</key>
+	<string>unmountBoxShadow</string>
+	<key>shouldCacheChallenge</key>
+	<string>canSaveOption</string>
+	<key>viewlikestrategy</key>
+	<string>matrixMomentum</string>
+</dict>
+</plist>

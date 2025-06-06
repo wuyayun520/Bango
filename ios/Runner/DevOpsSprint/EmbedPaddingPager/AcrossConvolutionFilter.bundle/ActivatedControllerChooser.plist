@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorInterval</key>
+	<string>shouldpopchecklist</string>
+	<key>globalBullet</key>
+	<string>skipSlash</string>
+	<key>iterativeLifecycle</key>
+	<string>nativeHero</string>
+	<key>iterativeScroll</key>
+	<string>unactivatedStream</string>
+	<key>keypreview</key>
+	<string>lifecycleStatus</string>
+	<key>mapTail</key>
+	<string>interactiveItem</string>
+	<key>otherservice</key>
+	<string>maintainCallback</string>
+	<key>precisionColor</key>
+	<string>disposenorm</string>
+	<key>viewDensity</key>
+	<string>composableSize</string>
+</dict>
+</plist>

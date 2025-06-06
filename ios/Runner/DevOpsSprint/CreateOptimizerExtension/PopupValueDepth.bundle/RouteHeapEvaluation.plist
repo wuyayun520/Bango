@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanOffset</key>
+	<string>operationVariable</string>
+	<key>iterativeContrast</key>
+	<string>modulusDirection</string>
+	<key>listenerhue</key>
+	<string>resizeAction</string>
+	<key>mitigatemaster</key>
+	<string>shouldSubscribeEffect</string>
+	<key>referencemargin</key>
+	<string>updateFlex</string>
+	<key>shouldPauseCharacter</key>
+	<string>retainedLatency</string>
+</dict>
+</plist>

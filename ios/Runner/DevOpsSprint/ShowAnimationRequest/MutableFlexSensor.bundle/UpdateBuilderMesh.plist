@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachcoordinator</key>
+	<string>rapidScene</string>
+	<key>channelsLocation</key>
+	<string>compareTexture</string>
+	<key>contrastInterval</key>
+	<string>notificationAcceleration</string>
+	<key>deferredArithmetic</key>
+	<string>seamlessPoint</string>
+	<key>interactoroccasion</key>
+	<string>awaitBehavior</string>
+</dict>
+</plist>

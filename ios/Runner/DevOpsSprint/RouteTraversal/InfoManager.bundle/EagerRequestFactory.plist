@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateSplitter</key>
+	<string>diffableOverlay</string>
+	<key>detectorHead</key>
+	<string>emitCube</string>
+	<key>easyQuaternion</key>
+	<string>listencompleter</string>
+	<key>granularReference</key>
+	<string>errorPlatform</string>
+	<key>labelformflags</key>
+	<string>hyperbolicAudio</string>
+	<key>navigatorEdge</key>
+	<string>actionRate</string>
+	<key>pivotalReliability</key>
+	<string>opaqueIntegration</string>
+	<key>subtleactionright</key>
+	<string>methodCount</string>
+	<key>temporarySegue</key>
+	<string>shouldunmountappbar</string>
+</dict>
+</plist>

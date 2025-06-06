@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contrastPadding</key>
+	<string>globalSprite</string>
+	<key>directlySlider</key>
+	<string>stepForm</string>
+	<key>explicitoverlay</key>
+	<string>listviewtween</string>
+	<key>metadataformskewy</key>
+	<string>streamlikecycle</string>
+	<key>shouldbuildplate</key>
+	<string>currentdurationbehavior</string>
+	<key>unregisterdecoration</key>
+	<string>shouldCancelStamp</string>
+	<key>viewIndex</key>
+	<string>scrollableTask</string>
+</dict>
+</plist>

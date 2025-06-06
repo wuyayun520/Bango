@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTopic</key>
+	<string>canInflateIndicator</string>
+	<key>declarativeObserver</key>
+	<string>extendDuration</string>
+	<key>infrastructureBottom</key>
+	<string>hasNavigation</string>
+	<key>subtleBaseline</key>
+	<string>bitrateMargin</string>
+</dict>
+</plist>

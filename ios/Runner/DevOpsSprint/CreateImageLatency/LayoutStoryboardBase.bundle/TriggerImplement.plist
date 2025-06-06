@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionChart</key>
+	<string>skirttype</string>
+	<key>asynchronousMomentum</key>
+	<string>canRestartExpanded</string>
+	<key>curveKind</key>
+	<string>gateSkewX</string>
+	<key>originalbutton</key>
+	<string>coordinatorcompositevelocity</string>
+	<key>spriteappearance</key>
+	<string>statusHead</string>
+</dict>
+</plist>

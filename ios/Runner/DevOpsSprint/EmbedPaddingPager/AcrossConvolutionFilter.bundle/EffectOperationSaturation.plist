@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionVelocity</key>
+	<string>resizableRestriction</string>
+	<key>interfacestagespeed</key>
+	<string>constraintincludetemple</string>
+	<key>parsecompleter</key>
+	<string>normalReducer</string>
+	<key>popupOffset</key>
+	<string>mobileLabel</string>
+	<key>scrollableNotation</key>
+	<string>statefulReliability</string>
+	<key>sharedPresenter</key>
+	<string>constructLayer</string>
+	<key>sliderbound</key>
+	<string>permissivePoint</string>
+	<key>wrapperSaturation</key>
+	<string>endSine</string>
+</dict>
+</plist>

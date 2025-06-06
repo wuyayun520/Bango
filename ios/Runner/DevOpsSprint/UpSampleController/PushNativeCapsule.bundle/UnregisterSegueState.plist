@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthTension</key>
+	<string>pinchablePromise</string>
+	<key>basicTrigger</key>
+	<string>retainFactory</string>
+	<key>batchPressure</key>
+	<string>resizeReducer</string>
+	<key>desktopMapper</key>
+	<string>metadataInterpreter</string>
+	<key>primarygridview</key>
+	<string>indicatorTail</string>
+	<key>shouldTransformBatch</key>
+	<string>otherdecorationbound</string>
+	<key>shouldUnmountOptimizer</key>
+	<string>granularImpact</string>
+	<key>shouldrebuildunary</key>
+	<string>mitigateoverlay</string>
+</dict>
+</plist>

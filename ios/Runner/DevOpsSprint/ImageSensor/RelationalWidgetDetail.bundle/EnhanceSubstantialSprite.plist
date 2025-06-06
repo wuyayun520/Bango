@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticController</key>
+	<string>pivotalPlayback</string>
+	<key>euclideanSubpixel</key>
+	<string>symmetricStroke</string>
+	<key>flexibleVertex</key>
+	<string>fusedNorm</string>
+	<key>relationalColor</key>
+	<string>chooserTransparency</string>
+	<key>relationalFlex</key>
+	<string>vectoroperation</string>
+	<key>shouldShowBullet</key>
+	<string>stampMomentum</string>
+	<key>standaloneChallenge</key>
+	<string>enabledNotation</string>
+	<key>ternaryvarcolor</key>
+	<string>layerorstyle</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectInset</key>
+	<string>formatgram</string>
+	<key>cellState</key>
+	<string>shouldUpdateGem</string>
+	<key>decorationmode</key>
+	<string>secondAppBar</string>
+	<key>gesturesystemskewx</key>
+	<string>minFuture</string>
+	<key>kernelType</key>
+	<string>restartArithmetic</string>
+	<key>mobileCube</key>
+	<string>accordionreference</string>
+	<key>pinchableProcessor</key>
+	<string>ignoredTrigger</string>
+	<key>resourcefromform</key>
+	<string>inheritedCache</string>
+	<key>shouldPaintAperture</key>
+	<string>opaqueSchema</string>
+</dict>
+</plist>

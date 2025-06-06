@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentdecorationopacity</key>
+	<string>difficultPager</string>
+	<key>customkernel</key>
+	<string>mediaBrightness</string>
+	<key>deserializeexpanded</key>
+	<string>shouldCreateDrawer</string>
+	<key>documentValidation</key>
+	<string>immediateDelegate</string>
+	<key>flexibleMonster</key>
+	<string>canSaveContraction</string>
+	<key>immediateLoss</key>
+	<string>arithmeticRepository</string>
+	<key>shouldDetachNotification</key>
+	<string>firstCollection</string>
+	<key>sustainableSignature</key>
+	<string>canObserveCertificate</string>
+</dict>
+</plist>

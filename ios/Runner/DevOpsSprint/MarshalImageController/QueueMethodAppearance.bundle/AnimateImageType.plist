@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedModal</key>
+	<string>challengeStrategy</string>
+	<key>fillbloc</key>
+	<string>fuseddurationmargin</string>
+	<key>roleinparam</key>
+	<string>subsequentTabBar</string>
+	<key>statefulPlayback</key>
+	<string>accordionTimer</string>
+	<key>tappableDropdownButton</key>
+	<string>significantCertificate</string>
+</dict>
+</plist>

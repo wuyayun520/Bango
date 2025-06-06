@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleException</key>
+	<string>anchorRotation</string>
+	<key>deferredTween</key>
+	<string>nodeOffset</string>
+	<key>fusedpreview</key>
+	<string>arithmeticWidget</string>
+	<key>gridviewVisible</key>
+	<string>shouldKeepCupertino</string>
+	<key>requestasvisitor</key>
+	<string>crucialQueue</string>
+	<key>scalabilityRight</key>
+	<string>connectorMargin</string>
+	<key>secondCapacity</key>
+	<string>diffableCosine</string>
+	<key>shouldDismissExponent</key>
+	<string>channelsSkewY</string>
+</dict>
+</plist>

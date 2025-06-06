@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBinder</key>
+	<string>debugDependency</string>
+	<key>disabledReducer</key>
+	<string>canConnectBullet</string>
+	<key>histogramversusmemento</key>
+	<string>clearalert</string>
+	<key>platespeed</key>
+	<string>shouldInflateSpecifier</string>
+	<key>profileSkewY</key>
+	<string>heapstyle</string>
+	<key>shouldFetchCupertino</key>
+	<string>agilegraphstate</string>
+	<key>specifierForce</key>
+	<string>hasCollection</string>
+</dict>
+</plist>

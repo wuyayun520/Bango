@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineShape</key>
+	<string>profileCubit</string>
+	<key>columnthroughput</key>
+	<string>shouldpushtextfield</string>
+	<key>contractionprocessmargin</key>
+	<string>canCacheCycle</string>
+	<key>globalScroll</key>
+	<string>factoryforvalue</string>
+	<key>managerType</key>
+	<string>canTransitionSensor</string>
+	<key>shouldMountedAppBar</key>
+	<string>semanticsTint</string>
+	<key>temporaryMapper</key>
+	<string>desktopResponder</string>
+	<key>uniformCheckbox</key>
+	<string>thresholdOpacity</string>
+</dict>
+</plist>

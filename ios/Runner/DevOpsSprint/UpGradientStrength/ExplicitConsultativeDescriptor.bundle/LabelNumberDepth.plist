@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerbesidetemple</key>
+	<string>sustainableOverlay</string>
+	<key>aspectratioSkewX</key>
+	<string>offsetHash</string>
+	<key>mediaDensity</key>
+	<string>smartviewindex</string>
+	<key>nextVector</key>
+	<string>chapterandwork</string>
+	<key>singleDrawer</key>
+	<string>processOverlay</string>
+	<key>sorterSize</key>
+	<string>defaultNorm</string>
+	<key>statelessTransition</key>
+	<string>unsortedEntropy</string>
+</dict>
+</plist>

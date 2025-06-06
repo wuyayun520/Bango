@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonanalogy</key>
+	<string>canYieldProtocol</string>
+	<key>differentiatedependency</key>
+	<string>shouldTransformGram</string>
+	<key>draggableHero</key>
+	<string>shouldDismissCard</string>
+	<key>shouldProcessResource</key>
+	<string>storyboardBound</string>
+	<key>stopview</key>
+	<string>canReplaceSpecifier</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerRange</key>
+	<string>formatPromise</string>
+	<key>explicitConverter</key>
+	<string>tabviewAcceleration</string>
+	<key>missedTime</key>
+	<string>canPresentSymbol</string>
+	<key>shouldUpdateAlert</key>
+	<string>compileView</string>
+	<key>sustainableborder</key>
+	<string>containerOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachtexture</key>
+	<string>keySine</string>
+	<key>inflatetransformer</key>
+	<string>concurrentseguebound</string>
+	<key>lazyPublisher</key>
+	<string>usedChart</string>
+	<key>reactiveProcessor</key>
+	<string>deliveryscale</string>
+	<key>shouldbuildresource</key>
+	<string>shouldStopCycle</string>
+	<key>singleSlash</key>
+	<string>shouldMountedCurve</string>
+</dict>
+</plist>

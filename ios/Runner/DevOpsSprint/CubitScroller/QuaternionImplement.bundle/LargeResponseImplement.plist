@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedReliability</key>
+	<string>encodeNotification</string>
+	<key>provisionCount</key>
+	<string>canRouteSession</string>
+	<key>requiredSprite</key>
+	<string>crucialDetail</string>
+	<key>shouldReplaceHero</key>
+	<string>customizedMonster</string>
+	<key>shouldskipsegment</key>
+	<string>shouldDetachBullet</string>
+	<key>statelessheapbehavior</key>
+	<string>diffableConverter</string>
+	<key>synchronizedimension</key>
+	<string>tabviewPlatform</string>
+	<key>variantBottom</key>
+	<string>renderallocator</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSkirt</key>
+	<string>relationalcube</string>
+	<key>backwardTexture</key>
+	<string>exceptionEnvironment</string>
+	<key>deferredActivity</key>
+	<string>composableEquivalent</string>
+	<key>fillcheckbox</key>
+	<string>allocateNode</string>
+	<key>modulusTop</key>
+	<string>cloneNavigator</string>
+	<key>singleDistinction</key>
+	<string>findaxis</string>
+	<key>staticBloc</key>
+	<string>canUnbindMusic</string>
+</dict>
+</plist>

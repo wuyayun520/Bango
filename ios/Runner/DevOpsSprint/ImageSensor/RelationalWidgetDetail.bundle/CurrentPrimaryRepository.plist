@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedScheduler</key>
+	<string>textureskewy</string>
+	<key>buildervisibility</key>
+	<string>mountedresolver</string>
+	<key>inactiveCache</key>
+	<string>shouldBindGrayscale</string>
+	<key>permanentpresenter</key>
+	<string>selectedcontainer</string>
+	<key>registerprojection</key>
+	<string>toolCount</string>
+	<key>shouldInflateBatch</key>
+	<string>completedSemantics</string>
+</dict>
+</plist>

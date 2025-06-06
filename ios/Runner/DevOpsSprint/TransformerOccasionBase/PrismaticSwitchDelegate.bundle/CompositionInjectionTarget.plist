@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCharacteristic</key>
+	<string>priorSign</string>
+	<key>customLayer</key>
+	<string>deserializeevent</string>
+	<key>denseCycle</key>
+	<string>captionIndex</string>
+	<key>emitgraph</key>
+	<string>cleanSingleton</string>
+	<key>geometricDetector</key>
+	<string>executeStore</string>
+	<key>listenerFormat</key>
+	<string>singleMedia</string>
+	<key>shouldDisconnectMultiplication</key>
+	<string>concurrentHandler</string>
+	<key>statefulMaterializer</key>
+	<string>taskPressure</string>
+	<key>subtlebuilder</key>
+	<string>transformBoxShadow</string>
+</dict>
+</plist>

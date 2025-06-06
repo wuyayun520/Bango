@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredRepository</key>
+	<string>fusedJoiner</string>
+	<key>interactororenvironment</key>
+	<string>canEmitExpanded</string>
+	<key>intermediateoperationinterval</key>
+	<string>serviceShape</string>
+	<key>sequentialAsync</key>
+	<string>zonestructureflags</string>
+</dict>
+</plist>

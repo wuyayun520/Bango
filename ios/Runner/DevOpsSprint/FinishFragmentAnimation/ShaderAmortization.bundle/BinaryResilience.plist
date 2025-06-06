@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missedCompletion</key>
+	<string>missionChain</string>
+	<key>multiCapsule</key>
+	<string>accessibleindicator</string>
+	<key>playbackvisibility</key>
+	<string>parsemobile</string>
+	<key>scaffoldSkewX</key>
+	<string>shouldUpdateObserver</string>
+	<key>shouldReplaceIcon</key>
+	<string>integerBehavior</string>
+	<key>usecasefacadedepth</key>
+	<string>shouldHandleSegue</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endroute</key>
+	<string>specifyStateful</string>
+	<key>ignoredSizedBox</key>
+	<string>lossBrightness</string>
+	<key>infoColor</key>
+	<string>oldPositioned</string>
+	<key>liteStream</key>
+	<string>independentProvider</string>
+	<key>logarithmasbridge</key>
+	<string>executeTexture</string>
+	<key>persistentStream</key>
+	<string>adaptiveProject</string>
+	<key>previewvideo</key>
+	<string>sensorBridge</string>
+	<key>relationalInterface</key>
+	<string>shouldtraincompletion</string>
+	<key>storyboardvariablemomentum</key>
+	<string>diffableIntegrity</string>
+</dict>
+</plist>

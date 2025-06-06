@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customBorder</key>
+	<string>shouldSaveTangent</string>
+	<key>difficultUsage</key>
+	<string>lifecycleStyle</string>
+	<key>documentwrapper</key>
+	<string>shouldLoadProject</string>
+	<key>indicatorresource</key>
+	<string>layoutOrientation</string>
+	<key>lazyReference</key>
+	<string>mutableCompletion</string>
+	<key>toolwidget</key>
+	<string>canBuildProfile</string>
+	<key>typicalprovision</key>
+	<string>frameedge</string>
+	<key>yieldticker</key>
+	<string>factoryincludelevel</string>
+</dict>
+</plist>

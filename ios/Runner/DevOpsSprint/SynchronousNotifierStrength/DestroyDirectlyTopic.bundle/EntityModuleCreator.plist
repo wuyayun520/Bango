@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggabledecorationspacing</key>
+	<string>traversalDensity</string>
+	<key>dynamicchartbrightness</key>
+	<string>modalmargin</string>
+	<key>reactiveAccessory</key>
+	<string>widgetproxyvalidation</string>
+	<key>specifyCatalyst</key>
+	<string>prevInfrastructure</string>
+	<key>standaloneAllocator</key>
+	<string>sanitizeMenu</string>
+	<key>typicalTimeline</key>
+	<string>shouldRebuildConvolution</string>
+</dict>
+</plist>

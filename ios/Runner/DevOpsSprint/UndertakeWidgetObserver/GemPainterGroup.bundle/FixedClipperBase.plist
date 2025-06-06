@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineresilience</key>
+	<string>canPaintGridView</string>
+	<key>monstertime</key>
+	<string>shouldDisposeProvider</string>
+	<key>responsiveHero</key>
+	<string>activityType</string>
+	<key>semanticbehaviorcontrast</key>
+	<string>shouldAttachInstruction</string>
+	<key>shouldTrainOption</key>
+	<string>activityJob</string>
+	<key>shouldformattheme</key>
+	<string>flexiblemodulus</string>
+	<key>singlefragments</key>
+	<string>providerconnector</string>
+</dict>
+</plist>

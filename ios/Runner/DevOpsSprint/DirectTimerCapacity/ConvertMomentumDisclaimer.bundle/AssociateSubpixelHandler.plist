@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlymanagerspeed</key>
+	<string>dismissListView</string>
+	<key>hasprofile</key>
+	<string>isRichText</string>
+	<key>musicType</key>
+	<string>oldAspectRatio</string>
+	<key>relationalAxis</key>
+	<string>agileScroller</string>
+	<key>scrollspeed</key>
+	<string>cosineSize</string>
+	<key>statefultransition</key>
+	<string>shouldnavigateanimatedcontainer</string>
+	<key>viewShape</key>
+	<string>connectMovement</string>
+</dict>
+</plist>

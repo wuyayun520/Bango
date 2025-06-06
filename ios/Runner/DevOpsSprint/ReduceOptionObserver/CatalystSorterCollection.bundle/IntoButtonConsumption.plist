@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerorigin</key>
+	<string>imageBorder</string>
+	<key>delicateScope</key>
+	<string>substantialMetrics</string>
+	<key>emitterResponse</key>
+	<string>directExpanded</string>
+	<key>shouldcancelfragment</key>
+	<string>switchCenter</string>
+	<key>significantDialogs</key>
+	<string>mainStateful</string>
+</dict>
+</plist>

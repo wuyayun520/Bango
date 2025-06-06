@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectoperationstyle</key>
+	<string>directlySession</string>
+	<key>elasticityAlignment</key>
+	<string>canPrepareConvolution</string>
+	<key>immediateTime</key>
+	<string>awaitOperation</string>
+	<key>instructionBehavior</key>
+	<string>missedSubscription</string>
+	<key>mobileEqualization</key>
+	<string>shouldDeserializeGesture</string>
+	<key>pivotalPlate</key>
+	<string>streamMargin</string>
+	<key>sampleresult</key>
+	<string>fixedFilter</string>
+	<key>sensorForce</key>
+	<string>themeWork</string>
+</dict>
+</plist>

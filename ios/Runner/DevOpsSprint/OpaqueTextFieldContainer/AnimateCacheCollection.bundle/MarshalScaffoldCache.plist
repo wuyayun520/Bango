@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formatFormat</key>
+	<string>channelVisibility</string>
+	<key>gridMargin</key>
+	<string>yieldBuilder</string>
+	<key>mediumPolyfill</key>
+	<string>presentertypefrequency</string>
+	<key>mergerShape</key>
+	<string>robustMerger</string>
+	<key>parallelScroll</key>
+	<string>opaqueSymbol</string>
+	<key>robustDispatcher</key>
+	<string>shouldKeepBinary</string>
+	<key>sorterTail</key>
+	<string>crudeCanvas</string>
+	<key>storageMode</key>
+	<string>lossTheme</string>
+	<key>unarylocation</key>
+	<string>shouldUnmountedInterpolation</string>
+</dict>
+</plist>

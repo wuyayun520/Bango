@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveTool</key>
+	<string>desktopCache</string>
+	<key>denseEvolution</key>
+	<string>optimizeAsync</string>
+	<key>eagerResource</key>
+	<string>futurethroughput</string>
+	<key>featurebrightness</key>
+	<string>discardedReference</string>
+	<key>globalcapacity</key>
+	<string>shouldDecodeBitrate</string>
+	<key>masterVelocity</key>
+	<string>protectedInterface</string>
+	<key>sharedLinker</key>
+	<string>navigateSingleton</string>
+	<key>shouldPauseStoryboard</key>
+	<string>canLayoutBehavior</string>
+	<key>subtleProvider</key>
+	<string>temporaryBatch</string>
+</dict>
+</plist>

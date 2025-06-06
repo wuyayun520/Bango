@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentprovider</key>
+	<string>offsetFunction</string>
+	<key>draggableSubpixel</key>
+	<string>shouldLoadBloc</string>
+	<key>fragmentchainfrequency</key>
+	<string>shouldPopRoute</string>
+	<key>immutableResolver</key>
+	<string>revisitGroup</string>
+	<key>optiondecoratorinterval</key>
+	<string>wrapperOrientation</string>
+	<key>shouldUnbindCard</key>
+	<string>petMediator</string>
+	<key>statelessShader</key>
+	<string>smartHistogram</string>
+	<key>textureFeedback</key>
+	<string>selectedcatalyst</string>
+</dict>
+</plist>

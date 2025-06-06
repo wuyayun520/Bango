@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitinteraction</key>
+	<string>inkwellCycle</string>
+	<key>globalTrigger</key>
+	<string>mainscaffoldformat</string>
+	<key>positionedValidation</key>
+	<string>thresholdVisible</string>
+	<key>storepager</key>
+	<string>lostDescent</string>
+	<key>uniquecontrollerkind</key>
+	<string>multiUnary</string>
+	<key>unsortedDropdownButton</key>
+	<string>pushBatch</string>
+</dict>
+</plist>

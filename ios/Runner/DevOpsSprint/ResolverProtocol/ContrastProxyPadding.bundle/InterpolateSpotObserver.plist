@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredcontrollerorientation</key>
+	<string>shouldResumeAnchor</string>
+	<key>delegatename</key>
+	<string>clonecoordinator</string>
+	<key>directAspectRatio</key>
+	<string>holdFuture</string>
+	<key>mendCenter</key>
+	<string>shouldSetStateObserver</string>
+	<key>samplekind</key>
+	<string>canValidateCell</string>
+	<key>shouldRenderInteger</key>
+	<string>retainedStatus</string>
+	<key>shouldResumeDrawer</key>
+	<string>inheritedIntegrity</string>
+	<key>subsequentbinary</key>
+	<string>numericalMetrics</string>
+	<key>throughputInset</key>
+	<string>findTopic</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesPressure</key>
+	<string>pushSwift</string>
+	<key>gridcontainlevel</key>
+	<string>canShowBoxShadow</string>
+	<key>prevThread</key>
+	<string>compareIsolate</string>
+	<key>reusablemodulusindex</key>
+	<string>canShowStateful</string>
+	<key>shouldEmitReference</key>
+	<string>advancedSensor</string>
+	<key>shouldYieldModal</key>
+	<string>activeSymbol</string>
+	<key>updateplayback</key>
+	<string>fixedstack</string>
+</dict>
+</plist>

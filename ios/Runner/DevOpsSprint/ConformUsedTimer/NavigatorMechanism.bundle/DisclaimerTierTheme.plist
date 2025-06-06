@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluateasset</key>
+	<string>canUnmountCursor</string>
+	<key>originalSplitter</key>
+	<string>shouldPaintLog</string>
+	<key>sequentialMerger</key>
+	<string>priorityEdge</string>
+	<key>synchronousRouter</key>
+	<string>disconnectScale</string>
+</dict>
+</plist>

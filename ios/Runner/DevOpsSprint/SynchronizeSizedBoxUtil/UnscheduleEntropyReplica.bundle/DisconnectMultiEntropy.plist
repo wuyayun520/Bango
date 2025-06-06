@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAccessory</key>
+	<string>requiredChapter</string>
+	<key>callbackrate</key>
+	<string>composableAxis</string>
+	<key>chaptermargin</key>
+	<string>batchEdge</string>
+	<key>euclideanConstraint</key>
+	<string>featurereducer</string>
+	<key>interactiveconverter</key>
+	<string>binderShade</string>
+	<key>samplesingletonsaturation</key>
+	<string>signaturePlatform</string>
+	<key>singleResolver</key>
+	<string>architectureTail</string>
+	<key>skirtvaluestate</key>
+	<string>consumerfeedback</string>
+	<key>tableHue</key>
+	<string>utilSingleton</string>
+</dict>
+</plist>

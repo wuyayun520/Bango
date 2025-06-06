@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyindex</key>
+	<string>shouldDecodeDecoration</string>
+	<key>keyStroke</key>
+	<string>singlequeue</string>
+	<key>profileValidation</key>
+	<string>diffableTabBar</string>
+	<key>replaceeffect</key>
+	<string>timerworkinterval</string>
+	<key>streamAppearance</key>
+	<string>notationDuration</string>
+	<key>subtleBinder</key>
+	<string>fetchDimension</string>
+</dict>
+</plist>

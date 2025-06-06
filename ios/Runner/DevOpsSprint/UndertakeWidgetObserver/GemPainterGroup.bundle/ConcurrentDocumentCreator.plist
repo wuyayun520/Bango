@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCompleter</key>
+	<string>neweststatecount</string>
+	<key>concurrentLocalization</key>
+	<string>aspectratioCommand</string>
+	<key>desktopmediaquerycoord</key>
+	<string>profileRotation</string>
+	<key>pivotalZone</key>
+	<string>canPauseSkirt</string>
+	<key>standaloneInteger</key>
+	<string>canStopAspectRatio</string>
+</dict>
+</plist>

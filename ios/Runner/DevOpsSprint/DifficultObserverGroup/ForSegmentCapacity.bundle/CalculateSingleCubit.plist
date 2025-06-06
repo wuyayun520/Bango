@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateSubscription</key>
+	<string>typicalPicker</string>
+	<key>interpolationtheme</key>
+	<string>missionResponse</string>
+	<key>shouldDeserializeModal</key>
+	<string>cupertinoFunction</string>
+	<key>shouldPublishConsumer</key>
+	<string>subsequentInfo</string>
+	<key>textright</key>
+	<string>consultativeDecoration</string>
+</dict>
+</plist>

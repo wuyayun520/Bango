@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurewidget</key>
+	<string>introspectIsolate</string>
+	<key>intuitiveSink</key>
+	<string>matrixParam</string>
+	<key>listennotifier</key>
+	<string>directlyCard</string>
+	<key>mobileFuture</key>
+	<string>trainProjection</string>
+	<key>stampKind</key>
+	<string>momentumBuffer</string>
+	<key>touchscreen</key>
+	<string>rectifyTransition</string>
+</dict>
+</plist>

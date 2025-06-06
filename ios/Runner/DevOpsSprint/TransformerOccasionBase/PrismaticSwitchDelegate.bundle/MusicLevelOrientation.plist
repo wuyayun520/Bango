@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSpine</key>
+	<string>canBindModulus</string>
+	<key>criticalStateful</key>
+	<string>intensitycluster</string>
+	<key>difficultMember</key>
+	<string>currentResource</string>
+	<key>grainVisible</key>
+	<string>resizableException</string>
+	<key>reactiveAlignment</key>
+	<string>usedStoryboard</string>
+	<key>repositorySkewX</key>
+	<string>columncount</string>
+	<key>similarCycle</key>
+	<string>layoutCube</string>
+</dict>
+</plist>

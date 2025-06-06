@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedFragments</key>
+	<string>specifierInterpreter</string>
+	<key>dimensionInterval</key>
+	<string>canStartGraphic</string>
+	<key>hardEntropy</key>
+	<string>multiSwitch</string>
+	<key>lazywidget</key>
+	<string>delicateResponse</string>
+	<key>optionfactory</key>
+	<string>alignmentvelocity</string>
+	<key>shouldStopMediaQuery</key>
+	<string>resourceStatus</string>
+	<key>shouldvalidatenavigation</key>
+	<string>liteSensor</string>
+	<key>statefulbesideprocess</key>
+	<string>disposeCupertino</string>
+</dict>
+</plist>

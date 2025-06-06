@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeResponder</key>
+	<string>concurrentlatency</string>
+	<key>desktopWrapper</key>
+	<string>restartPet</string>
+	<key>iscollection</key>
+	<string>drawAlignment</string>
+	<key>localDelegate</key>
+	<string>permanentChooser</string>
+	<key>localShader</key>
+	<string>infrastructureCoord</string>
+	<key>shouldKeepMovement</key>
+	<string>crucialBloc</string>
+	<key>shouldvalidatescaffold</key>
+	<string>mainPriority</string>
+	<key>staticScroller</key>
+	<string>awaitPlatform</string>
+</dict>
+</plist>

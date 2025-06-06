@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentbatchvelocity</key>
+	<string>instantiatecurve</string>
+	<key>eagerTolerance</key>
+	<string>rowSystem</string>
+	<key>independentGridView</key>
+	<string>beginnerflex</string>
+	<key>marginDensity</key>
+	<string>timerStatus</string>
+	<key>parallelText</key>
+	<string>reusableGift</string>
+	<key>shouldDeserializeLoss</key>
+	<string>layoutInset</string>
+	<key>shouldDeserializeWidget</key>
+	<string>diffableStoryboard</string>
+	<key>similarpositioned</key>
+	<string>toolMediator</string>
+	<key>transformerCoord</key>
+	<string>routerbottom</string>
+</dict>
+</plist>

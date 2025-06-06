@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveProjection</key>
+	<string>parallelTable</string>
+	<key>functionalParticle</key>
+	<string>positionedTask</string>
+	<key>nextScope</key>
+	<string>observeCapsule</string>
+	<key>reactivebuilder</key>
+	<string>opaqueIsolate</string>
+	<key>resizableSensor</key>
+	<string>replicateResolver</string>
+	<key>semanticExpanded</key>
+	<string>storageCommand</string>
+	<key>shoulddismissdescriptor</key>
+	<string>unregisterZone</string>
+	<key>splitterMomentum</key>
+	<string>unsortedlocalization</string>
+</dict>
+</plist>

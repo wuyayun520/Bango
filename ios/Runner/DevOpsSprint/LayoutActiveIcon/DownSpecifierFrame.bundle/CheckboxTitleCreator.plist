@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedBehavior</key>
+	<string>eraseDescription</string>
+	<key>customImpact</key>
+	<string>shouldBindSlider</string>
+	<key>largeRoute</key>
+	<string>animatedGesture</string>
+	<key>normalGestureDetector</key>
+	<string>criticalProvider</string>
+	<key>shouldDismissProfile</key>
+	<string>accessibleMaterial</string>
+	<key>shouldPopModulus</key>
+	<string>activatedSymbol</string>
+</dict>
+</plist>

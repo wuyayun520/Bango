@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactortop</key>
+	<string>shouldYieldCompletion</string>
+	<key>newestLifecycle</key>
+	<string>textureexceptshape</string>
+	<key>newestshape</key>
+	<string>streamCheckbox</string>
+	<key>pageviewOpacity</key>
+	<string>shouldHandleSymbol</string>
+	<key>skirtMode</key>
+	<string>sorterColor</string>
+	<key>standaloneCube</key>
+	<string>invisibleKernel</string>
+	<key>temporaryPoint</key>
+	<string>chapterOperation</string>
+</dict>
+</plist>

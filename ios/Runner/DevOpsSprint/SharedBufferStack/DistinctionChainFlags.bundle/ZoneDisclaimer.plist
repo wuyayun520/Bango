@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDistinction</key>
+	<string>criticalReceiver</string>
+	<key>desktopCollection</key>
+	<string>elementColor</string>
+	<key>easyVariant</key>
+	<string>uniformIndicator</string>
+	<key>handlerVisibility</key>
+	<string>crudeOffset</string>
+	<key>hyperbolicPicker</key>
+	<string>isstoryboard</string>
+	<key>shouldObservePadding</key>
+	<string>shouldStopContraction</string>
+</dict>
+</plist>

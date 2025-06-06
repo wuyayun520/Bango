@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicContrast</key>
+	<string>lazyNavigation</string>
+	<key>detachinterpolation</key>
+	<string>popsegue</string>
+	<key>gridviewName</key>
+	<string>canSerializeCollection</string>
+	<key>immutablealignment</key>
+	<string>buildertexture</string>
+	<key>receiveevent</key>
+	<string>commonexceptionshape</string>
+	<key>respectiveProcessor</key>
+	<string>hashAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comparemember</key>
+	<string>clippershade</string>
+	<key>declarativeSlider</key>
+	<string>desktopChapter</string>
+	<key>dedicatedGraph</key>
+	<string>measureController</string>
+	<key>gemvisitorposition</key>
+	<string>deferredCheckbox</string>
+	<key>geometricservice</key>
+	<string>disparateskincolor</string>
+	<key>iterativeCompleter</key>
+	<string>granularTitle</string>
+	<key>respondcapacities</key>
+	<string>canFormatPadding</string>
+	<key>shouldBuildBorder</key>
+	<string>semanticscurve</string>
+	<key>utilnumberformat</key>
+	<string>mountedNavigation</string>
+	<key>webStrength</key>
+	<string>activatedSelector</string>
+</dict>
+</plist>

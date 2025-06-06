@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultprofile</key>
+	<string>rapidSemantics</string>
+	<key>operationinterval</key>
+	<string>buttonPlatform</string>
+	<key>sequentiallistener</key>
+	<string>invisiblefragments</string>
+	<key>shouldDismissExpanded</key>
+	<string>comprehensivePolyfill</string>
+	<key>synchronousbaseline</key>
+	<string>resizableCapsule</string>
+</dict>
+</plist>

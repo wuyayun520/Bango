@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalChannel</key>
+	<string>deferredloss</string>
+	<key>currentRole</key>
+	<string>canFormatMonster</string>
+	<key>globalInfo</key>
+	<string>tensorMobile</string>
+	<key>isolateframeworkedge</key>
+	<string>soundHead</string>
+	<key>retainedModel</key>
+	<string>elasticBrush</string>
+	<key>sharedScheduler</key>
+	<string>attachSensor</string>
+</dict>
+</plist>

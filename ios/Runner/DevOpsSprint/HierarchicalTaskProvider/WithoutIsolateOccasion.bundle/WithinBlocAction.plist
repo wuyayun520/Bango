@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveprotocol</key>
+	<string>displayablePreview</string>
+	<key>draggableInjection</key>
+	<string>singleKernel</string>
+	<key>multiMesh</key>
+	<string>otherScenario</string>
+	<key>normalcheckliststatus</key>
+	<string>canDecodeScroll</string>
+	<key>orchestrateinterface</key>
+	<string>readResponse</string>
+	<key>shouldMountedPainter</key>
+	<string>cartesianExpanded</string>
+	<key>singleChapter</key>
+	<string>usedasync</string>
+	<key>traingesture</key>
+	<string>nativeModel</string>
+	<key>unactivatedDescent</key>
+	<string>resizestateless</string>
+</dict>
+</plist>

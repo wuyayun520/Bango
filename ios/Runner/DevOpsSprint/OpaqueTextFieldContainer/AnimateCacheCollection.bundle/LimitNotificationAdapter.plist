@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emittransformer</key>
+	<string>histogramDirection</string>
+	<key>gramFormat</key>
+	<string>boxsorter</string>
+	<key>greatVideo</key>
+	<string>responseSpeed</string>
+	<key>hardPopup</key>
+	<string>adjustTexture</string>
+	<key>sliderRate</key>
+	<string>similarChallenge</string>
+	<key>streamcallback</key>
+	<string>escalateMethod</string>
+	<key>ternaryCount</key>
+	<string>completedBullet</string>
+	<key>timeruntilsingleton</key>
+	<string>observeTexture</string>
+	<key>unmountcallback</key>
+	<string>pickerAppearance</string>
+</dict>
+</plist>

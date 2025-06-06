@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectiondispatcher</key>
+	<string>mediocreSegue</string>
+	<key>consultativerole</key>
+	<string>customSlider</string>
+	<key>distinctionDirection</key>
+	<string>inactiveInstruction</string>
+	<key>permissiveInterface</key>
+	<string>staticPolyfill</string>
+	<key>requesttint</key>
+	<string>equalAsset</string>
+	<key>requiredMethod</key>
+	<string>activatedRadius</string>
+</dict>
+</plist>

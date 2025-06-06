@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationformforce</key>
+	<string>tweakPressure</string>
+	<key>dispatcherPressure</key>
+	<string>shouldDispatchTechnique</string>
+	<key>granularOperation</key>
+	<string>invisibleTouch</string>
+	<key>modelvalidation</key>
+	<string>originalcontrollercolor</string>
+	<key>optimizername</key>
+	<string>staticRoute</string>
+	<key>resourcePosition</key>
+	<string>resolveSize</string>
+	<key>sophisticatedRemediation</key>
+	<string>shouldNotifyLog</string>
+	<key>unactivatedController</key>
+	<string>diffableProvision</string>
+</dict>
+</plist>

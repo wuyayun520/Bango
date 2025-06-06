@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileVector</key>
+	<string>canPersistDescriptor</string>
+	<key>composableIndicator</key>
+	<string>nodeLocation</string>
+	<key>cubitSkewY</key>
+	<string>bloccount</string>
+	<key>scrollDelay</key>
+	<string>canUpdateFragment</string>
+	<key>semanticmultiplicationvisible</key>
+	<string>tensorTextField</string>
+	<key>storyboardvisibility</key>
+	<string>shouldPaintInterpolation</string>
+</dict>
+</plist>

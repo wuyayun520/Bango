@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicDetector</key>
+	<string>navigatorCount</string>
+	<key>iterativeternary</key>
+	<string>ephemeralContraction</string>
+	<key>lostConfiguration</key>
+	<string>pinchableStorage</string>
+	<key>onwidgettap</key>
+	<string>interfacetrigger</string>
+</dict>
+</plist>

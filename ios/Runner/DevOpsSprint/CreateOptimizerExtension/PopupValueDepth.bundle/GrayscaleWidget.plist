@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionallocatorfeedback</key>
+	<string>shouldStartThread</string>
+	<key>animatedConfidentiality</key>
+	<string>canPaintInterpolation</string>
+	<key>characterEdge</key>
+	<string>custompaintDelay</string>
+	<key>decorationinset</key>
+	<string>animatedbinder</string>
+	<key>lastUsage</key>
+	<string>draggableSink</string>
+	<key>newestController</key>
+	<string>gridviewVariable</string>
+	<key>shouldattachbitrate</key>
+	<string>registerHandler</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerpadding</key>
+	<string>coordinatorFlyweight</string>
+	<key>customizedExpanded</key>
+	<string>declarativemanagertheme</string>
+	<key>declarativerepositorybottom</key>
+	<string>assetFrequency</string>
+	<key>handleequalization</key>
+	<string>statefulNorm</string>
+	<key>modeldescent</key>
+	<string>geometricFeature</string>
+	<key>shouldYieldStateful</key>
+	<string>shouldPersistAnchor</string>
+</dict>
+</plist>

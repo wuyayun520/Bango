@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionacceleration</key>
+	<string>layoutWidget</string>
+	<key>criticalPresenter</key>
+	<string>nextObserver</string>
+	<key>dropdownbuttonTension</key>
+	<string>particlePressure</string>
+	<key>easyProjection</key>
+	<string>sortedNode</string>
+	<key>relationalhashrotation</key>
+	<string>canUnmountCanvas</string>
+	<key>shouldDisposeBox</key>
+	<string>prismaticCharacter</string>
+	<key>shouldSubscribeGem</key>
+	<string>shouldDismissSkin</string>
+	<key>staticBuilder</key>
+	<string>autoChart</string>
+</dict>
+</plist>

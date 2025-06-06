@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionflags</key>
+	<string>customizedNotifier</string>
+	<key>errorobserverrotation</key>
+	<string>onmediachanged</string>
+	<key>materializegroup</key>
+	<string>stopfeature</string>
+	<key>rectangleSpacing</key>
+	<string>invisiblerole</string>
+	<key>resizableIntegrity</key>
+	<string>certificateMode</string>
+	<key>sizeBorder</key>
+	<string>shouldPauseResource</string>
+</dict>
+</plist>

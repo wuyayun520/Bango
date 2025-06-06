@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTopic</key>
+	<string>webExponent</string>
+	<key>boxshadoworientation</key>
+	<string>appbarRotation</string>
+	<key>hasthread</key>
+	<string>variantInterpreter</string>
+	<key>shouldPauseConvolution</key>
+	<string>canAnimateCycle</string>
+	<key>statelessCompleter</key>
+	<string>extendGrain</string>
+	<key>throughputSpacing</key>
+	<string>composableNib</string>
+</dict>
+</plist>

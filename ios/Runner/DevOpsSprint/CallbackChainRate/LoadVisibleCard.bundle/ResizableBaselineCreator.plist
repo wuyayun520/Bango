@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledProfile</key>
+	<string>pushScene</string>
+	<key>keyMetadata</key>
+	<string>canSaveView</string>
+	<key>lazyInterface</key>
+	<string>cubitwithfacade</string>
+	<key>modulusFlags</key>
+	<string>routeSizedBox</string>
+	<key>polyfillAlignment</key>
+	<string>insteadSubscription</string>
+	<key>propagatechapter</key>
+	<string>inforight</string>
+	<key>receiverDirection</key>
+	<string>shadermomentum</string>
+	<key>shouldUnmountedConsumer</key>
+	<string>animationCount</string>
+	<key>sliderhash</key>
+	<string>shouldPauseComposition</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatecanvas</key>
+	<string>associatedChapter</string>
+	<key>characteremitter</key>
+	<string>stringifySingleton</string>
+	<key>geometricTransformer</key>
+	<string>menuCoord</string>
+	<key>mutableElement</key>
+	<string>canCancelSpecifier</string>
+	<key>reactiveScene</key>
+	<string>concreteGroup</string>
+	<key>shouldstartsine</key>
+	<string>bulletDuration</string>
+	<key>slashCenter</key>
+	<string>resourceScale</string>
+	<key>specifierColor</key>
+	<string>lastDelegate</string>
+	<key>tabviewMomentum</key>
+	<string>createConstraint</string>
+</dict>
+</plist>

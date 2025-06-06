@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivewidget</key>
+	<string>canShowMovement</string>
+	<key>cubitstylespacing</key>
+	<string>encodeStamp</string>
+	<key>functionalVariant</key>
+	<string>skiptopic</string>
+	<key>mutableStore</key>
+	<string>createMargin</string>
+	<key>painterMargin</key>
+	<string>finishReference</string>
+</dict>
+</plist>

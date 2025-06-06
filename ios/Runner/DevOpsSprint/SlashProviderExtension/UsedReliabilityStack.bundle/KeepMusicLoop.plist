@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteInjection</key>
+	<string>responsiveObject</string>
+	<key>granularConstraint</key>
+	<string>cacheroute</string>
+	<key>handlersplitter</key>
+	<string>alertMode</string>
+	<key>permissivecupertinotension</key>
+	<string>bundlemetadata</string>
+	<key>playevent</key>
+	<string>shouldStopOption</string>
+	<key>shouldShowMission</key>
+	<string>aspectProxy</string>
+	<key>specifyArchitecture</key>
+	<string>oldRange</string>
+	<key>temporaryCreator</key>
+	<string>shouldListenBloc</string>
+	<key>transformerandenvironment</key>
+	<string>textfieldStyle</string>
+</dict>
+</plist>

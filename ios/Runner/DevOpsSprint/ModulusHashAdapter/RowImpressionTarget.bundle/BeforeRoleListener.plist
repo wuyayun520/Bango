@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncLeft</key>
+	<string>unsortedMargin</string>
+	<key>axisresponder</key>
+	<string>schedulerspeed</string>
+	<key>completerinteraction</key>
+	<string>encodeDescriptor</string>
+	<key>dynamicCard</key>
+	<string>indicatorMediator</string>
+	<key>immutableMetrics</key>
+	<string>serviceShade</string>
+	<key>listenerorigin</key>
+	<string>notationFormat</string>
+</dict>
+</plist>

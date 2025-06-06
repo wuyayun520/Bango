@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeMethod</key>
+	<string>visitAllocator</string>
+	<key>intuitiveModulus</key>
+	<string>discardedRow</string>
+	<key>liteGraphic</key>
+	<string>permutationInset</string>
+	<key>painterTag</key>
+	<string>popPageView</string>
+	<key>routemargin</key>
+	<string>decodeSkin</string>
+	<key>statePressure</key>
+	<string>notifySprite</string>
+	<key>tensorBorder</key>
+	<string>shouldValidateAnimation</string>
+	<key>titleamongprototype</key>
+	<string>normalOptimizer</string>
+</dict>
+</plist>

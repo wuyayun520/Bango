@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialArithmetic</key>
+	<string>canUpdateUnary</string>
+	<key>remaindersink</key>
+	<string>createHandler</string>
+	<key>shouldDispatchTernary</key>
+	<string>skinsplitter</string>
+	<key>subsequentGrid</key>
+	<string>backwardInfo</string>
+	<key>tappableGram</key>
+	<string>explicitMaterial</string>
+	<key>typicalEqualization</key>
+	<string>pointTag</string>
+</dict>
+</plist>

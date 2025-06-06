@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellShape</key>
+	<string>canBuildTheme</string>
+	<key>directRouter</key>
+	<string>delegateflyweightleft</string>
+	<key>framecommandvelocity</key>
+	<string>requestTint</string>
+	<key>shouldPushRole</key>
+	<string>visualizeIntensity</string>
+	<key>singletonandvariable</key>
+	<string>resolveLayout</string>
+	<key>subtleMission</key>
+	<string>spriteStage</string>
+</dict>
+</plist>

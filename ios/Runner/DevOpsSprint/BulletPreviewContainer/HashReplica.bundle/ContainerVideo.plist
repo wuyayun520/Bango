@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTrigger</key>
+	<string>canDismissBinary</string>
+	<key>flexibleInteractor</key>
+	<string>relationalScalability</string>
+	<key>inactiveFragment</key>
+	<string>cartesiandependency</string>
+	<key>inactivePainter</key>
+	<string>eraseObserver</string>
+	<key>mutableStore</key>
+	<string>inflatesemantics</string>
+	<key>permissiveTransformer</key>
+	<string>shouldPresentProtocol</string>
+	<key>priorityaction</key>
+	<string>statelessArithmetic</string>
+	<key>propagateroute</key>
+	<string>detailHead</string>
+	<key>retainedModal</key>
+	<string>mediumTable</string>
+	<key>sharedBase</key>
+	<string>unmountchecklist</string>
+</dict>
+</plist>

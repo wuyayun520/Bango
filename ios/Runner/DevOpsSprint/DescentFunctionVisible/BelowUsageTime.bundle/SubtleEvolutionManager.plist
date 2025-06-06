@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlylocalizationhue</key>
+	<string>independentEqualization</string>
+	<key>disabledprotocol</key>
+	<string>queueinformation</string>
+	<key>discardedfeature</key>
+	<string>firstDetail</string>
+	<key>invisibleOption</key>
+	<string>anchorpager</string>
+	<key>liteBuilder</key>
+	<string>toolaboutwork</string>
+	<key>reusableprovider</key>
+	<string>canStartMultiplication</string>
+	<key>shouldUnbindExtension</key>
+	<string>comprehensiveBinary</string>
+	<key>storepermutation</key>
+	<string>directSymbol</string>
+	<key>tappableReplica</key>
+	<string>deferredSubpixel</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarType</key>
+	<string>contractionCoord</string>
+	<key>cellSize</key>
+	<string>shouldYieldPositioned</string>
+	<key>diffableSegue</key>
+	<string>errordelay</string>
+	<key>gridviewCount</key>
+	<string>calculateTransformer</string>
+	<key>metadataTag</key>
+	<string>respondTransformer</string>
+	<key>methodprocessfeedback</key>
+	<string>mobileLoop</string>
+	<key>originalFragments</key>
+	<string>rebuildTechnique</string>
+	<key>tappableChannel</key>
+	<string>utilcomponent</string>
+	<key>visibleCatalyst</key>
+	<string>delegateSink</string>
+</dict>
+</plist>

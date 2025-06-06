@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentcupertino</key>
+	<string>canSubscribeActivity</string>
+	<key>poppositioned</key>
+	<string>sceneduringproxy</string>
+	<key>publicStrength</key>
+	<string>routeBaseline</string>
+	<key>shouldInflateSubpixel</key>
+	<string>completedMargin</string>
+	<key>tangentFlags</key>
+	<string>dedicatedFeature</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPolyfill</key>
+	<string>fixedcompleterorientation</string>
+	<key>compositionalUnary</key>
+	<string>borderShade</string>
+	<key>delicatePoint</key>
+	<string>symmetricTraversal</string>
+	<key>directTechnique</key>
+	<string>yieldColumn</string>
+	<key>flexibleUseCase</key>
+	<string>permissiveSize</string>
+	<key>mediumComposition</key>
+	<string>sharedWidget</string>
+	<key>mediumDelivery</key>
+	<string>certificateAlignment</string>
+	<key>rapidCluster</key>
+	<string>shouldMountTabBar</string>
+	<key>shouldInflateCapsule</key>
+	<string>reduceTopic</string>
+</dict>
+</plist>

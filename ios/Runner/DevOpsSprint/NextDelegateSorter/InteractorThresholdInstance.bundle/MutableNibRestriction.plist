@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityDensity</key>
+	<string>shoulddisconnectchecklist</string>
+	<key>checkboxAcceleration</key>
+	<string>imperativeBatch</string>
+	<key>declarativeIcon</key>
+	<string>statusColor</string>
+	<key>flexibleContrast</key>
+	<string>canRouteSine</string>
+	<key>ignoredCycle</key>
+	<string>granularPet</string>
+	<key>mediocrepopupbottom</key>
+	<string>enhanceTexture</string>
+	<key>normalProvider</key>
+	<string>retrieveDuration</string>
+	<key>shouldEndPadding</key>
+	<string>associatedNavigation</string>
+	<key>singleSignature</key>
+	<string>finishloop</string>
+	<key>webOffset</key>
+	<string>explicitResponder</string>
+</dict>
+</plist>

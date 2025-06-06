@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeScope</key>
+	<string>visibleMission</string>
+	<key>beginnerStamp</key>
+	<string>smallInteraction</string>
+	<key>discardedCharacter</key>
+	<string>normAlignment</string>
+	<key>diversifiedTool</key>
+	<string>textfieldTier</string>
+	<key>granularzone</key>
+	<string>catalystfeedback</string>
+	<key>protectedTrajectory</key>
+	<string>reflectFrame</string>
+	<key>sharedDescriptor</key>
+	<string>consultativeStamp</string>
+	<key>synchronousAppBar</key>
+	<string>serializecache</string>
+	<key>tweenprocessshade</key>
+	<string>detachUsage</string>
+	<key>unlockcache</key>
+	<string>taxonomyForce</string>
+</dict>
+</plist>

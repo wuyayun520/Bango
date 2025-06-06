@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardReference</key>
+	<string>fusedsprite</string>
+	<key>configurationbufferforce</key>
+	<string>directFlex</string>
+	<key>crudeTicker</key>
+	<string>endClipper</string>
+	<key>disabledcycle</key>
+	<string>wrapSingleton</string>
+	<key>documentorplatform</key>
+	<string>labelawaychain</string>
+	<key>permutationInset</key>
+	<string>resolveBloc</string>
+	<key>renderrow</key>
+	<string>protectedDropdownButton</string>
+	<key>shouldAnimateCheckbox</key>
+	<string>permanentCombiner</string>
+	<key>singleroutescale</key>
+	<string>priorMonster</string>
+</dict>
+</plist>

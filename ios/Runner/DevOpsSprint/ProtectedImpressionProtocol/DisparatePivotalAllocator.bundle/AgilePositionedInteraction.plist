@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudereliability</key>
+	<string>accessibleArithmetic</string>
+	<key>customizedcheckboxalignment</key>
+	<string>gestureoutsidenumber</string>
+	<key>inactiveElasticity</key>
+	<string>touchanimation</string>
+	<key>mergerRight</key>
+	<string>shouldTransitionPriority</string>
+	<key>persistentTransformer</key>
+	<string>canObserveColumn</string>
+	<key>protocolType</key>
+	<string>eagerDescription</string>
+	<key>unactivatedThread</key>
+	<string>cardBridge</string>
+</dict>
+</plist>

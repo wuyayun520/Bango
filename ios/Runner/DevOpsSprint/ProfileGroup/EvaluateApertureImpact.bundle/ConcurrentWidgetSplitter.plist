@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousBehavior</key>
+	<string>associatedPolyfill</string>
+	<key>capsuleDirection</key>
+	<string>topicInteraction</string>
+	<key>controllertexture</key>
+	<string>hasBrush</string>
+	<key>oldView</key>
+	<string>accordionAlpha</string>
+</dict>
+</plist>

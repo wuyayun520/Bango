@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedlayout</key>
+	<string>documentaskind</string>
+	<key>advancedcosinehue</key>
+	<string>singleDescription</string>
+	<key>materialBatch</key>
+	<string>channelTier</string>
+	<key>opaqueInjection</key>
+	<string>dynamicBaseline</string>
+	<key>resilientScene</key>
+	<string>sequentialLoader</string>
+	<key>routeproject</key>
+	<string>bitrateInterval</string>
+	<key>shouldNotifyStamp</key>
+	<string>vectorSize</string>
+	<key>stampsystemforce</key>
+	<string>matrixstateflags</string>
+	<key>symmetricImpact</key>
+	<string>compileCompleter</string>
+</dict>
+</plist>

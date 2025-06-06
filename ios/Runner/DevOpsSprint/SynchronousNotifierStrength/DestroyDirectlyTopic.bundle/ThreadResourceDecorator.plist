@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonloop</key>
+	<string>inactiveInfo</string>
+	<key>cacheTheme</key>
+	<string>pinchableFuture</string>
+	<key>errorresponse</key>
+	<string>resourcebyparam</string>
+	<key>geometricPublisher</key>
+	<string>threadperframework</string>
+	<key>topiclevelrate</key>
+	<string>switchBrightness</string>
+	<key>zoneopacity</key>
+	<string>handlerStage</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedModal</key>
+	<string>secondternaryduration</string>
+	<key>ephemeralException</key>
+	<string>sessionAppearance</string>
+	<key>integerIndex</key>
+	<string>benchmarkException</string>
+	<key>intermediateContrast</key>
+	<string>slashborder</string>
+	<key>latencypressure</key>
+	<string>accordionNotifier</string>
+	<key>pinchableBehavior</key>
+	<string>uniformRadio</string>
+	<key>sampleIndex</key>
+	<string>subsequentinteger</string>
+	<key>searcherValidation</key>
+	<string>shouldSetStateLogarithm</string>
+	<key>uniformSpecifier</key>
+	<string>cacheGridView</string>
+</dict>
+</plist>

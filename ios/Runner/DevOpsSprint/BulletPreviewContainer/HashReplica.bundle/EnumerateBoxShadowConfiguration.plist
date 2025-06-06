@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanListener</key>
+	<string>canCancelSegment</string>
+	<key>geometriccubitskewy</key>
+	<string>refreshTopic</string>
+	<key>scrollableProcessor</key>
+	<string>shouldStopCollection</string>
+	<key>shouldAttachMedia</key>
+	<string>graphPressure</string>
+	<key>shouldDisposeGrayscale</key>
+	<string>seeklistener</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousClipper</key>
+	<string>nibScale</string>
+	<key>blocdecoratoroffset</key>
+	<string>animatorKind</string>
+	<key>decorationInset</key>
+	<string>requeststylepressure</string>
+	<key>fixedCosine</key>
+	<string>canConnectMovement</string>
+	<key>popupMomentum</key>
+	<string>bindFlex</string>
+	<key>primaryNotation</key>
+	<string>disabledCupertino</string>
+	<key>projectVisibility</key>
+	<string>ignoredBandwidth</string>
+	<key>rendererAcceleration</key>
+	<string>requestStatus</string>
+	<key>transitionShape</key>
+	<string>promiseSpacing</string>
+	<key>uniformMaterializer</key>
+	<string>shouldParseMap</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorRate</key>
+	<string>nextbutton</string>
+	<key>crudeEvolution</key>
+	<string>canDisconnectDuration</string>
+	<key>customusecaseorigin</key>
+	<string>composablePositioned</string>
+	<key>declarativecatalystrate</key>
+	<string>canSkipMargin</string>
+	<key>graphShade</key>
+	<string>significantImpact</string>
+	<key>iconForce</key>
+	<string>compositionalCycle</string>
+	<key>tablePressure</key>
+	<string>detectorMode</string>
+</dict>
+</plist>

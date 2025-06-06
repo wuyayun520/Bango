@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>offsetPressure</key>
+	<string>unmountresult</string>
+	<key>prevGesture</key>
+	<string>hyperbolicController</string>
+	<key>publicGestureDetector</key>
+	<string>inkwellShape</string>
+	<key>scenestructureedge</key>
+	<string>inflateStateless</string>
+	<key>storagebehavior</key>
+	<string>visualizeController</string>
+</dict>
+</plist>

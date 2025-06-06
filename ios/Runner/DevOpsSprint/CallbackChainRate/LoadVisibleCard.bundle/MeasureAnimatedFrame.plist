@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPageView</key>
+	<string>builderTag</string>
+	<key>analyzerValidation</key>
+	<string>navigatealert</string>
+	<key>hierarchicalAppBar</key>
+	<string>tabbarDecorator</string>
+	<key>hierarchicalKernel</key>
+	<string>allocatorOpacity</string>
+	<key>monsterfacadealignment</key>
+	<string>analyzerTransparency</string>
+	<key>oncolumntap</key>
+	<string>endspine</string>
+	<key>paddingEdge</key>
+	<string>nextTicker</string>
+	<key>resizableAnimator</key>
+	<string>decoupleAction</string>
+	<key>routerVelocity</key>
+	<string>shouldFinishPainter</string>
+</dict>
+</plist>

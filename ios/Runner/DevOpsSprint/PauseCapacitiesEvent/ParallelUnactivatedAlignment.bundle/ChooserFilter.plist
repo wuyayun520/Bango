@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedConsumption</key>
+	<string>canValidateCustomPaint</string>
+	<key>behaviordetector</key>
+	<string>requiredSorter</string>
+	<key>injectgraphic</key>
+	<string>usedStore</string>
+	<key>meshRate</key>
+	<string>resetRouter</string>
+	<key>missedRouter</key>
+	<string>scrollrestriction</string>
+	<key>rolebufferleft</key>
+	<string>paintTechnique</string>
+	<key>shouldBuildPriority</key>
+	<string>blocstyleskewy</string>
+	<key>transitionRight</key>
+	<string>shouldTransformInkWell</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedscroll</key>
+	<string>animateStoryboard</string>
+	<key>dynamicUseCase</key>
+	<string>checkboxright</string>
+	<key>reducerbyprototype</key>
+	<string>cleandimension</string>
+	<key>resizableConverter</key>
+	<string>saveTable</string>
+	<key>shouldAnimateGradient</key>
+	<string>parserequest</string>
+	<key>shouldResumeDelegate</key>
+	<string>cancelSegue</string>
+</dict>
+</plist>

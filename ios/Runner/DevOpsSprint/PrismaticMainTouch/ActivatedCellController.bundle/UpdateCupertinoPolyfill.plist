@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonmediatorright</key>
+	<string>activityFormat</string>
+	<key>currenttheme</key>
+	<string>retainedAsset</string>
+	<key>directSign</key>
+	<string>contractionBehavior</string>
+	<key>hyperbolicStoryboard</key>
+	<string>shouldInflateFlex</string>
+	<key>normalNotifier</key>
+	<string>captionPosition</string>
+	<key>permanentSegment</key>
+	<string>tentativeBottom</string>
+	<key>shouldYieldFragment</key>
+	<string>quantizationAwait</string>
+	<key>subtleAwait</key>
+	<string>locateIsolate</string>
+	<key>tweenscopefrequency</key>
+	<string>attachAllocator</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiofinder</key>
+	<string>detachPageView</string>
+	<key>polygonCount</key>
+	<string>shouldStopOverlay</string>
+	<key>prioritywithtask</key>
+	<string>animatedcontainerStatus</string>
+	<key>shouldDisposeStoryboard</key>
+	<string>streamState</string>
+	<key>webLayout</key>
+	<string>shouldConnectDialogs</string>
+</dict>
+</plist>

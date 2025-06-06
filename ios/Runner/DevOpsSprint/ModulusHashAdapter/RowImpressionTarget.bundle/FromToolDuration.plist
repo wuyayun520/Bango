@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionanimator</key>
+	<string>delicateConverter</string>
+	<key>consumptionScale</key>
+	<string>declarativeMesh</string>
+	<key>converterTop</key>
+	<string>skiptransformer</string>
+	<key>nibamongstate</key>
+	<string>canPresentProvider</string>
+	<key>shouldRouteAnchor</key>
+	<string>positionedVisibility</string>
+</dict>
+</plist>

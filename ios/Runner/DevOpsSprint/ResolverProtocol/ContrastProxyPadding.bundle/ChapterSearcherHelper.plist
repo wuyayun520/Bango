@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationShade</key>
+	<string>currentDisclaimer</string>
+	<key>blocInset</key>
+	<string>mixinSize</string>
+	<key>borderpatternalignment</key>
+	<string>desktopState</string>
+	<key>cartesianPreview</key>
+	<string>configurationOrigin</string>
+	<key>diffablegrainedge</key>
+	<string>persistentScroll</string>
+	<key>efficiencyBound</key>
+	<string>mapBrightness</string>
+	<key>executeheap</key>
+	<string>listviewColor</string>
+	<key>opaqueScaffold</key>
+	<string>sortedSlider</string>
+	<key>unsortedFormat</key>
+	<string>loadBinary</string>
+</dict>
+</plist>

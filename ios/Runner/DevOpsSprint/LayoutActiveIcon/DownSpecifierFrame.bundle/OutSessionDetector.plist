@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorContrast</key>
+	<string>rowPadding</string>
+	<key>effectHead</key>
+	<string>lazyQueue</string>
+	<key>handleloss</key>
+	<string>concurrentContainer</string>
+	<key>independentEntropy</key>
+	<string>gateAppearance</string>
+	<key>singleAlignment</key>
+	<string>processCompleter</string>
+	<key>substantialElement</key>
+	<string>localPainter</string>
+	<key>utilFlags</key>
+	<string>connectorTail</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectradius</key>
+	<string>storyboardDepth</string>
+	<key>eventCenter</key>
+	<string>originalmusichead</string>
+	<key>fragmentresponse</key>
+	<string>reflectTicker</string>
+	<key>intermediateStamp</key>
+	<string>opaqueEntity</string>
+	<key>newestsample</key>
+	<string>implementStream</string>
+	<key>persistentHash</key>
+	<string>previewVisible</string>
+	<key>shouldConnectSwitch</key>
+	<string>enabledConsumption</string>
+	<key>statefulImpact</key>
+	<string>newestcallbackalignment</string>
+	<key>textuntildecorator</key>
+	<string>refreshSingleton</string>
+	<key>transitionTint</key>
+	<string>resultMomentum</string>
+</dict>
+</plist>

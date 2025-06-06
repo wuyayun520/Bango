@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableAspect</key>
+	<string>visibleVector</string>
+	<key>draggableResult</key>
+	<string>graphAppearance</string>
+	<key>invisibleintensitycount</key>
+	<string>descriptionFunction</string>
+	<key>shouldPopController</key>
+	<string>deferredSession</string>
+	<key>standaloneOffset</key>
+	<string>adaptiveStore</string>
+	<key>subsequentpriority</key>
+	<string>hasCertificate</string>
+	<key>textperactivity</key>
+	<string>independentMargin</string>
+	<key>transformerTail</key>
+	<string>canEndPageView</string>
+</dict>
+</plist>

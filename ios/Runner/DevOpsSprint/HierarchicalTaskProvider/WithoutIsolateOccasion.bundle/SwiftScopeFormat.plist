@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaTransparency</key>
+	<string>otherShape</string>
+	<key>diffableQuaternion</key>
+	<string>capsuleSkewY</string>
+	<key>elasticSkirt</key>
+	<string>inheritedGridView</string>
+	<key>grayscalelikework</key>
+	<string>mediumresolvermode</string>
+	<key>interactordetector</key>
+	<string>tappableBloc</string>
+	<key>mediumZone</key>
+	<string>shouldReplaceMonster</string>
+	<key>originalFlex</key>
+	<string>cancelInterpolation</string>
+	<key>registerframe</key>
+	<string>sophisticatedparticlekind</string>
+	<key>shouldPaintGate</key>
+	<string>captionOperation</string>
+	<key>utildistance</key>
+	<string>stepAlignment</string>
+</dict>
+</plist>

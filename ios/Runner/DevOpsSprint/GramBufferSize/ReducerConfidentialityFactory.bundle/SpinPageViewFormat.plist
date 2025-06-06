@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSegue</key>
+	<string>pivotalMaster</string>
+	<key>onrolechanged</key>
+	<string>requestDecoration</string>
+	<key>progressbarPressure</key>
+	<string>celltaskhue</string>
+	<key>shouldYieldDialogs</key>
+	<string>reusableMap</string>
+	<key>symmetricConsumption</key>
+	<string>handlerHue</string>
+	<key>visibleHash</key>
+	<string>discoverIntensity</string>
+</dict>
+</plist>

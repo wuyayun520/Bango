@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCanvas</key>
+	<string>addspecifier</string>
+	<key>elasticityTag</key>
+	<string>shouldSerializeBaseline</string>
+	<key>grainAppearance</key>
+	<string>subtleFormat</string>
+	<key>inflategrid</key>
+	<string>monsterpressure</string>
+	<key>shouldCancelStoryboard</key>
+	<string>restoreContainer</string>
+	<key>uniqueAnimation</key>
+	<string>displayNavigator</string>
+	<key>visibleController</key>
+	<string>priorProgressBar</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredInteractor</key>
+	<string>entropypermutation</string>
+	<key>dropoutstore</key>
+	<string>characteristicRate</string>
+	<key>largeTentative</key>
+	<string>multiplicationpadding</string>
+	<key>requestjobspacing</key>
+	<string>unsortedremediation</string>
+	<key>sequentialScheduler</key>
+	<string>pushAccessory</string>
+	<key>shouldRebuildIndicator</key>
+	<string>relationalScenario</string>
+	<key>spotsize</key>
+	<string>unsortedShape</string>
+	<key>tappablePageView</key>
+	<string>activatedtext</string>
+	<key>timelineState</key>
+	<string>locateChart</string>
+</dict>
+</plist>

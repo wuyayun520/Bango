@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousThread</key>
+	<string>zoneRight</string>
+	<key>comprehensiveRestriction</key>
+	<string>gridTask</string>
+	<key>discardedDrawer</key>
+	<string>completerLeft</string>
+	<key>globalButton</key>
+	<string>swiftinteraction</string>
+	<key>optimizetimer</key>
+	<string>greatjoiner</string>
+	<key>queueState</key>
+	<string>pickerTail</string>
+	<key>sineOffset</key>
+	<string>canTransformPromise</string>
+</dict>
+</plist>

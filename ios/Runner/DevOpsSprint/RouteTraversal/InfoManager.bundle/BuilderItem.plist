@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerExpanded</key>
+	<string>commonTime</string>
+	<key>cacheResponse</key>
+	<string>globalEffect</string>
+	<key>completerResponse</key>
+	<string>reducerFlyweight</string>
+	<key>constantKind</key>
+	<string>sizedensity</string>
+	<key>interactivescaffold</key>
+	<string>singleNavigation</string>
+	<key>listensubscription</key>
+	<string>resourceskewx</string>
+	<key>movementEdge</key>
+	<string>encodePoint</string>
+	<key>protectedCoordinator</key>
+	<string>canValidateColumn</string>
+	<key>shouldRenderModulus</key>
+	<string>queueOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBase</key>
+	<string>metricsopacity</string>
+	<key>beginnerScroller</key>
+	<string>computeDecoration</string>
+	<key>channelatfacade</key>
+	<string>relationalAmortization</string>
+	<key>eagerInteraction</key>
+	<string>shouldMountResource</string>
+	<key>gradientMode</key>
+	<string>movesegment</string>
+	<key>shouldUnbindContainer</key>
+	<string>canAnimateUnary</string>
+	<key>standaloneEvaluation</key>
+	<string>vectorOpacity</string>
+	<key>statefulRichText</key>
+	<string>mutablepaintercenter</string>
+	<key>statelessCapsule</key>
+	<string>delicateTriangles</string>
+</dict>
+</plist>

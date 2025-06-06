@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentAspect</key>
+	<string>statefulinterface</string>
+	<key>defaultProvider</key>
+	<string>canSerializeMedia</string>
+	<key>repositoryandphase</key>
+	<string>shouldsavestateless</string>
+	<key>shouldhandlepoint</key>
+	<string>canConnectModulus</string>
+	<key>staticMaterializer</key>
+	<string>concurrentMap</string>
+	<key>stopcapsule</key>
+	<string>shouldProcessNavigator</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>datasaturation</key>
+	<string>displayableoffset</string>
+	<key>eventdistance</key>
+	<string>cosineScale</string>
+	<key>explicitImage</key>
+	<string>animatestoryboard</string>
+	<key>gridactivitylocation</key>
+	<string>isprofile</string>
+	<key>literesolver</key>
+	<string>canHandleCell</string>
+	<key>observerthreshold</key>
+	<string>shouldCacheRichText</string>
+	<key>permissiveAnimatedContainer</key>
+	<string>measureNode</string>
+	<key>sequentialTween</key>
+	<string>storestore</string>
+	<key>shouldPopBoxShadow</key>
+	<string>responsiveReference</string>
+	<key>shouldStartRoute</key>
+	<string>discardedResponder</string>
+</dict>
+</plist>

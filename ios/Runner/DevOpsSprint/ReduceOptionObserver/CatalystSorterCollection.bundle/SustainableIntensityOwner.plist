@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSlider</key>
+	<string>queuewithchain</string>
+	<key>bloctransformer</key>
+	<string>unlockContainer</string>
+	<key>characteristicname</key>
+	<string>sustainableRoute</string>
+	<key>permissiveTransition</key>
+	<string>sliderProcess</string>
+</dict>
+</plist>

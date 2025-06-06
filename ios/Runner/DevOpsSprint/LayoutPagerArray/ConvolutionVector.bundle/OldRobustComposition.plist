@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>retainedDrawer</key>
+	<string>shaderorvariable</string>
+	<key>shouldUnmountTouch</key>
+	<string>diffablemapshade</string>
+	<key>singleProtocol</key>
+	<string>associatedTrigger</string>
+</dict>
+</plist>

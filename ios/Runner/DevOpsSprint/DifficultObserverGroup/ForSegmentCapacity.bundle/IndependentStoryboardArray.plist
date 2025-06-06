@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentBehavior</key>
+	<string>reusableModel</string>
+	<key>defaultnavigator</key>
+	<string>canDecodeBorder</string>
+	<key>easyHeap</key>
+	<string>findgrid</string>
+	<key>entityInterval</key>
+	<string>agileEvent</string>
+	<key>roleStyle</key>
+	<string>statefulduringaction</string>
+	<key>shouldSubscribeInkWell</key>
+	<string>bitrateasflyweight</string>
+	<key>substantialThread</key>
+	<string>attachPriority</string>
+</dict>
+</plist>

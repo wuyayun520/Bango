@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectSpeed</key>
+	<string>observeroperation</string>
+	<key>enabledreducer</key>
+	<string>debugDelegate</string>
+	<key>enabledsorter</key>
+	<string>timerCycle</string>
+	<key>movementAlignment</key>
+	<string>navigationPhase</string>
+	<key>observertype</key>
+	<string>canStartDialogs</string>
+	<key>symmetricModal</key>
+	<string>sinkFlags</string>
+</dict>
+</plist>

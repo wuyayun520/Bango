@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerMechanism</key>
+	<string>transformerOpacity</string>
+	<key>lossindex</key>
+	<string>shouldAnimateCoordinator</string>
+	<key>mobileInterface</key>
+	<string>monstertimer</string>
+	<key>onunarytap</key>
+	<string>transpileSize</string>
+	<key>optimizerValidation</key>
+	<string>detailTransparency</string>
+	<key>reliabilityShade</key>
+	<string>resilientReceiver</string>
+	<key>secondConsumption</key>
+	<string>lazyCatalyst</string>
+	<key>shouldPrepareBullet</key>
+	<string>updateGram</string>
+	<key>unsortedObject</key>
+	<string>transposeEntity</string>
+</dict>
+</plist>

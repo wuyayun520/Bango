@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardExtension</key>
+	<string>arithmeticSorter</string>
+	<key>inactiveTopic</key>
+	<string>scaleSpeed</string>
+	<key>invisibleCheckbox</key>
+	<string>switchInset</string>
+	<key>methodBorder</key>
+	<string>staticPriority</string>
+	<key>shouldskipcard</key>
+	<string>scrollableScaffold</string>
+	<key>visibleAspectRatio</key>
+	<string>timeappearance</string>
+</dict>
+</plist>

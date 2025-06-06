@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeCache</key>
+	<string>mutablePageView</string>
+	<key>flexSaturation</key>
+	<string>statefulModulus</string>
+	<key>hierarchicalPadding</key>
+	<string>sanitizeInteractor</string>
+	<key>shouldPaintStoryboard</key>
+	<string>layoutcell</string>
+	<key>shouldRenderDelegate</key>
+	<string>completedGridView</string>
+	<key>shouldStartDecoration</key>
+	<string>sinkState</string>
+	<key>visibleMend</key>
+	<string>automethod</string>
+</dict>
+</plist>

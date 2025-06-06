@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturelikepattern</key>
+	<string>kernelPadding</string>
+	<key>associatedScene</key>
+	<string>optimizeSink</string>
+	<key>autotitleinset</key>
+	<string>materializecanvas</string>
+	<key>inheritedPolyfill</key>
+	<string>convolutionAppearance</string>
+	<key>materialCluster</key>
+	<string>statelesshandler</string>
+	<key>rapidLatency</key>
+	<string>denseDescent</string>
+	<key>reactiveEvaluation</key>
+	<string>smartPolyfill</string>
+	<key>reductionColor</key>
+	<string>primaryPreview</string>
+	<key>timeShape</key>
+	<string>checkboxatphase</string>
+</dict>
+</plist>

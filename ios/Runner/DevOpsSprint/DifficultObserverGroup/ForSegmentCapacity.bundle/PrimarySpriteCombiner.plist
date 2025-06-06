@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseRotation</key>
+	<string>canPresentStream</string>
+	<key>nibValidation</key>
+	<string>canDispatchGestureDetector</string>
+	<key>skinkindoffset</key>
+	<string>vectorizeListener</string>
+	<key>timesize</key>
+	<string>consultativeConfiguration</string>
+	<key>typicalInterpolation</key>
+	<string>dimensionbound</string>
+</dict>
+</plist>

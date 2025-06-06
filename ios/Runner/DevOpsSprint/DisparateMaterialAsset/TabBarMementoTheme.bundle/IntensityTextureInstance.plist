@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderTransparency</key>
+	<string>materializerFormat</string>
+	<key>discardedRoute</key>
+	<string>seamlessStateless</string>
+	<key>effectRate</key>
+	<string>statelessListView</string>
+	<key>invisibleRouter</key>
+	<string>mutableGraph</string>
+	<key>labelrestriction</key>
+	<string>explicitTime</string>
+	<key>presentercompositeacceleration</key>
+	<string>canPresentMobile</string>
+	<key>relationalPainter</key>
+	<string>largeTicker</string>
+	<key>shouldCacheBox</key>
+	<string>variantflags</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedMetrics</key>
+	<string>notifySensor</string>
+	<key>difficultTolerance</key>
+	<string>inheritedAmortization</string>
+	<key>firstDuration</key>
+	<string>sustainableThread</string>
+	<key>kernelvisible</key>
+	<string>asyncOpacity</string>
+	<key>specifyParticle</key>
+	<string>specifylabeldensity</string>
+	<key>subtleNavigator</key>
+	<string>containerhead</string>
+	<key>validateprovider</key>
+	<string>backwardEvaluation</string>
+	<key>webAnchor</key>
+	<string>localLifecycle</string>
+</dict>
+</plist>

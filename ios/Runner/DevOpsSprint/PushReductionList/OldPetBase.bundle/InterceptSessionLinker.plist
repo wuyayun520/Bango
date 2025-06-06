@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilehandler</key>
+	<string>grayscaleskewy</string>
+	<key>customizedController</key>
+	<string>flexfromvisitor</string>
+	<key>delegateexceptproxy</key>
+	<string>inkwellChain</string>
+	<key>handlertype</key>
+	<string>publisherCoord</string>
+	<key>navigatorFrequency</key>
+	<string>radiusInterpreter</string>
+	<key>paddingAppearance</key>
+	<string>canFetchPageView</string>
+	<key>responsiveStep</key>
+	<string>mutableScalability</string>
+	<key>shouldBuildCaption</key>
+	<string>canAnimateCapsule</string>
+	<key>skinRate</key>
+	<string>typicalbandwidth</string>
+	<key>unsortedPainter</key>
+	<string>optimizernode</string>
+</dict>
+</plist>

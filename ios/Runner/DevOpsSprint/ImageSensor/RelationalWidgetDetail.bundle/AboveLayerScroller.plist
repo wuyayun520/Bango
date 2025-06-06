@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationcontroller</key>
+	<string>statefulMenu</string>
+	<key>dropdownbuttonOrigin</key>
+	<string>lazyEffect</string>
+	<key>fusedKernel</key>
+	<string>shouldSubscribeShader</string>
+	<key>hyperbolicIndicator</key>
+	<string>intermediateFinder</string>
+	<key>localCollection</key>
+	<string>labelTransparency</string>
+	<key>modalVisibility</key>
+	<string>undertakeTimer</string>
+	<key>providerContrast</key>
+	<string>groupdirection</string>
+	<key>shouldSubscribeProvider</key>
+	<string>discardedSymbol</string>
+	<key>sortedAsset</key>
+	<string>processorSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopWrapper</key>
+	<string>setstateprogressbar</string>
+	<key>largeMonster</key>
+	<string>newestPadding</string>
+	<key>mobileLoader</key>
+	<string>spinsymbol</string>
+	<key>pointVisible</key>
+	<string>canRenderTabView</string>
+	<key>specifyDrawer</key>
+	<string>canHandleAnimatedContainer</string>
+	<key>transformerviatype</key>
+	<string>mediumLayout</string>
+</dict>
+</plist>

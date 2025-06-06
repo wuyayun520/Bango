@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledModel</key>
+	<string>similarExpanded</string>
+	<key>largeDelegate</key>
+	<string>interpolationCommand</string>
+	<key>momentumOrigin</key>
+	<string>canProcessAnchor</string>
+	<key>semanticImpact</key>
+	<string>draggableRemediation</string>
+</dict>
+</plist>

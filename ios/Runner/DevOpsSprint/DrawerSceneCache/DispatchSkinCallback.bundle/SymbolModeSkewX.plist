@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleObserver</key>
+	<string>screenDuration</string>
+	<key>alertvaluemargin</key>
+	<string>textfieldMomentum</string>
+	<key>channelsbuffer</key>
+	<string>arithmeticPet</string>
+	<key>columnVisibility</key>
+	<string>associateQueue</string>
+	<key>directlyBase</key>
+	<string>nativeThreshold</string>
+	<key>formatrequest</key>
+	<string>restartlocalization</string>
+	<key>mediocreIndicator</key>
+	<string>convolutionVelocity</string>
+	<key>shouldHandleStateless</key>
+	<string>readBuffer</string>
+</dict>
+</plist>

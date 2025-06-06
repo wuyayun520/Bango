@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containervalueflags</key>
+	<string>dedicatedStateless</string>
+	<key>documentMargin</key>
+	<string>relationalTween</string>
+	<key>parallelDimension</key>
+	<string>parseAccessory</string>
+	<key>spritelifecycle</key>
+	<string>collectionOffset</string>
+</dict>
+</plist>

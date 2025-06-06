@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonatvariable</key>
+	<string>zoneexceptchain</string>
+	<key>holdgridview</key>
+	<string>lastDelivery</string>
+	<key>iconSpeed</key>
+	<string>channelTask</string>
+	<key>ignoredshader</key>
+	<string>logarithmtempleinteraction</string>
+	<key>routetaskalignment</key>
+	<string>protectedMonster</string>
+	<key>shouldDispatchDocument</key>
+	<string>equalizationMargin</string>
+	<key>shouldHandleAperture</key>
+	<string>workflowHead</string>
+</dict>
+</plist>

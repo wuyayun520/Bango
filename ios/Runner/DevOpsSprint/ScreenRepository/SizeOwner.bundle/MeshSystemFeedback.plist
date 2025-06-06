@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationshade</key>
+	<string>selectorForce</string>
+	<key>normbycycle</key>
+	<string>multiresourceinteraction</string>
+	<key>pinchableTrigger</key>
+	<string>substantialDocument</string>
+	<key>shouldPublishClipper</key>
+	<string>compositionalSearcher</string>
+	<key>temporaryPolygon</key>
+	<string>pausespine</string>
+</dict>
+</plist>

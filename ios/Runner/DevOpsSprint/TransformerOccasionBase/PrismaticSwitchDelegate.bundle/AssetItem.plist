@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoResponder</key>
+	<string>timelineType</string>
+	<key>deployeffect</key>
+	<string>shouldTransformSlash</string>
+	<key>drawresult</key>
+	<string>gridoffset</string>
+	<key>eagerOptimizer</key>
+	<string>canDismissCheckbox</string>
+	<key>mainTitle</key>
+	<string>directHeap</string>
+	<key>occasionPadding</key>
+	<string>nodeRotation</string>
+	<key>primaryInteger</key>
+	<string>obtainService</string>
+	<key>respectiveShader</key>
+	<string>sinkCenter</string>
+	<key>serviceactivityname</key>
+	<string>curvecontainsystem</string>
+	<key>visibleStateful</key>
+	<string>checkRepository</string>
+</dict>
+</plist>

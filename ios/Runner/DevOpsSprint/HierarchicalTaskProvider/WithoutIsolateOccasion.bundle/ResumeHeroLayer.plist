@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBinder</key>
+	<string>geometricBase</string>
+	<key>effectIndex</key>
+	<string>shouldPresentCard</string>
+	<key>evolutionMode</key>
+	<string>registerResolver</string>
+	<key>frameType</key>
+	<string>originalIntegration</string>
+	<key>inactiveconstant</key>
+	<string>fixedTabView</string>
+	<key>missionRate</key>
+	<string>observesubscription</string>
+	<key>routetype</key>
+	<string>commonGestureDetector</string>
+	<key>scrollerRotation</key>
+	<string>canLoadDimension</string>
+	<key>seamlessTweak</key>
+	<string>profileselector</string>
+	<key>searcherTag</key>
+	<string>adaptiveAnalogy</string>
+</dict>
+</plist>

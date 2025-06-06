@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachevector</key>
+	<string>hardPriority</string>
+	<key>callbackbottom</key>
+	<string>reusableSignature</string>
+	<key>captiontypeshade</key>
+	<string>canDeserializeCompletion</string>
+	<key>concreteCharacteristic</key>
+	<string>adaptiveGridView</string>
+	<key>integrationBehavior</key>
+	<string>secondButton</string>
+	<key>logallocator</key>
+	<string>cycleAlignment</string>
+	<key>mutableTextField</key>
+	<string>buildPainter</string>
+	<key>navigateaspect</key>
+	<string>shouldBuildCollection</string>
+	<key>primaryImage</key>
+	<string>mobileName</string>
+</dict>
+</plist>

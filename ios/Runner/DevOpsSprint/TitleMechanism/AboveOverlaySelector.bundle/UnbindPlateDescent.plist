@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>marshallocalization</key>
+	<string>reusableRichText</string>
+	<key>paddingAcceleration</key>
+	<string>exceptionbeyondwork</string>
+	<key>reductionState</key>
+	<string>streamlineCompleter</string>
+	<key>rowoffset</key>
+	<string>captionMethod</string>
+	<key>sequentialElasticity</key>
+	<string>smartSearcher</string>
+	<key>stateperparam</key>
+	<string>viewinaction</string>
+	<key>sustainableModel</key>
+	<string>emitterHead</string>
+</dict>
+</plist>

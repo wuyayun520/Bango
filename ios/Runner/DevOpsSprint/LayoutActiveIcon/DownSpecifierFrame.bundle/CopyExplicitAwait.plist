@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeOffset</key>
+	<string>substantialtransitionindex</string>
+	<key>autoAnimation</key>
+	<string>shouldBuildTouch</string>
+	<key>autoHero</key>
+	<string>normIndex</string>
+	<key>mutablePlate</key>
+	<string>boxcompleter</string>
+	<key>shouldAnimateCosine</key>
+	<string>updateFragment</string>
+	<key>shouldEmitBox</key>
+	<string>shouldSkipBitrate</string>
+	<key>storeinvariable</key>
+	<string>kernelColor</string>
+</dict>
+</plist>

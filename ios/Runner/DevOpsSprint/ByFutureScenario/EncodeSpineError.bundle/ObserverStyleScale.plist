@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>destroystream</key>
+	<string>unactivatedStream</string>
+	<key>dynamicDescent</key>
+	<string>persistHeap</string>
+	<key>nextProvider</key>
+	<string>pivotalTolerance</string>
+	<key>objectSpacing</key>
+	<string>pageviewScale</string>
+	<key>projectioncontainadapter</key>
+	<string>opaqueTraversal</string>
+	<key>publicMesh</key>
+	<string>mobiletransformer</string>
+	<key>reusableSignature</key>
+	<string>hyperbolicAmortization</string>
+	<key>temporaryInterface</key>
+	<string>canReplaceAnimation</string>
+</dict>
+</plist>

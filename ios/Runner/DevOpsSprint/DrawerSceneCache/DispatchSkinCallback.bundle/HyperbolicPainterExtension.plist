@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineshade</key>
+	<string>interactiveRichText</string>
+	<key>priorRestriction</key>
+	<string>shouldSaveAlpha</string>
+	<key>providercluster</key>
+	<string>requiredReplica</string>
+	<key>sequentialBuilder</key>
+	<string>litepriority</string>
+	<key>shouldStreamCache</key>
+	<string>shouldRebuildView</string>
+	<key>unactivatedPriority</key>
+	<string>concurrentState</string>
+	<key>unactivatedRouter</key>
+	<string>resizeIntensity</string>
+	<key>usecaseLocation</key>
+	<string>dynamicSizedBox</string>
+</dict>
+</plist>

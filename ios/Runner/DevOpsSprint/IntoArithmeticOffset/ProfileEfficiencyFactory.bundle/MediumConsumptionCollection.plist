@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffervisibility</key>
+	<string>rotateTask</string>
+	<key>comprehensiveScope</key>
+	<string>shouldPresentListView</string>
+	<key>cubespacing</key>
+	<string>newestTable</string>
+	<key>mapperVisible</key>
+	<string>subscriptionborder</string>
+	<key>painterAlignment</key>
+	<string>unsortedCursor</string>
+	<key>repositorySaturation</key>
+	<string>modelFramework</string>
+	<key>reusableCustomPaint</key>
+	<string>originaltextstate</string>
+	<key>shaderaction</key>
+	<string>customizedstatefulforce</string>
+	<key>shouldFormatEntropy</key>
+	<string>timelinevelocity</string>
+</dict>
+</plist>

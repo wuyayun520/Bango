@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorexceptmode</key>
+	<string>cycleScope</string>
+	<key>parsepromise</key>
+	<string>canNavigateBuilder</string>
+	<key>persistentSensor</key>
+	<string>dialogsVisible</string>
+	<key>quantizerstream</key>
+	<string>optimizevariant</string>
+	<key>responsiveAccessory</key>
+	<string>extendresponse</string>
+	<key>shouldFormatComposition</key>
+	<string>textvalueresponse</string>
+	<key>shouldunmountpageview</key>
+	<string>missedRange</string>
+	<key>subtleTheme</key>
+	<string>criticalCell</string>
+</dict>
+</plist>

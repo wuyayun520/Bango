@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryinteraction</key>
+	<string>asyncResponse</string>
+	<key>baselineValidation</key>
+	<string>nativeAnimation</string>
+	<key>connectcube</key>
+	<string>canPublishRadio</string>
+	<key>customScalability</key>
+	<string>uniformEntity</string>
+	<key>customprojectmode</key>
+	<string>shouldDisconnectCustomPaint</string>
+	<key>hyperbolictheme</key>
+	<string>firstspriterate</string>
+	<key>interactiveCheckbox</key>
+	<string>canLayoutNotification</string>
+	<key>intermediateChecklist</key>
+	<string>borderRight</string>
+	<key>symmetricConstant</key>
+	<string>subscribeCursor</string>
+</dict>
+</plist>

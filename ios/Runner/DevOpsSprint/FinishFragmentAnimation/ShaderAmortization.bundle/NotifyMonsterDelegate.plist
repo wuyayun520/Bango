@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLayout</key>
+	<string>compareView</string>
+	<key>anchortimeline</key>
+	<string>plateFlyweight</string>
+	<key>arithmeticshadercolor</key>
+	<string>explicitTime</string>
+	<key>commonSlider</key>
+	<string>quantizationAllocator</string>
+	<key>groupthroughvalue</key>
+	<string>compositionalResponder</string>
+	<key>localAmortization</key>
+	<string>enabledExpanded</string>
+	<key>ontabbarchanged</key>
+	<string>canRenderEntropy</string>
+	<key>playlayout</key>
+	<string>shouldSaveCurve</string>
+</dict>
+</plist>

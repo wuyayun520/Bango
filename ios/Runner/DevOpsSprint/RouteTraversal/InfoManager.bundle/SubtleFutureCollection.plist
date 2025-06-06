@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartscopetheme</key>
+	<string>opaquePicker</string>
+	<key>displayableAlpha</key>
+	<string>searchDependency</string>
+	<key>euclideanDependency</key>
+	<string>shouldYieldRichText</string>
+	<key>functionalBehavior</key>
+	<string>futureSpacing</string>
+	<key>missionSkewX</key>
+	<string>materialcontainaction</string>
+	<key>scaleState</key>
+	<string>canRouteAspectRatio</string>
+	<key>shouldDisposeSemantics</key>
+	<string>canFinishAperture</string>
+</dict>
+</plist>

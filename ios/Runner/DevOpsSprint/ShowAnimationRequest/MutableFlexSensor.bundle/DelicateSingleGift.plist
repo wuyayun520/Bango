@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectscalability</key>
+	<string>commonMerger</string>
+	<key>cartesianException</key>
+	<string>hardMultiplication</string>
+	<key>columnLeft</key>
+	<string>enabledObserver</string>
+	<key>comprehensiveNorm</key>
+	<string>statelessContext</string>
+	<key>listenerspacing</key>
+	<string>endSkin</string>
+	<key>shouldStreamBatch</key>
+	<string>ignoredContraction</string>
+	<key>tweakOrientation</key>
+	<string>normalCapacity</string>
+</dict>
+</plist>

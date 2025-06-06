@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDuration</key>
+	<string>temporaryoffset</string>
+	<key>crucialMedia</key>
+	<string>gridObserver</string>
+	<key>originalscheduler</key>
+	<string>musicLocation</string>
+	<key>petOrientation</key>
+	<string>shouldRebuildMonster</string>
+	<key>resizableIsolate</key>
+	<string>normStyle</string>
+	<key>tableoffset</key>
+	<string>shouldListenProvider</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateTouch</key>
+	<string>shouldEmitAppBar</string>
+	<key>denseRoute</key>
+	<string>oncubechanged</string>
+	<key>easygesturedetector</key>
+	<string>creatorSize</string>
+	<key>iscycle</key>
+	<string>routerShape</string>
+	<key>liteDispatcher</key>
+	<string>materialname</string>
+	<key>protectedFeature</key>
+	<string>checkWidget</string>
+</dict>
+</plist>

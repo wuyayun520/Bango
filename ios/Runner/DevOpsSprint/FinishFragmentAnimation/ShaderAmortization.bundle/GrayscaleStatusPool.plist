@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackCenter</key>
+	<string>spriteLocation</string>
+	<key>compositionalInteraction</key>
+	<string>gatetexture</string>
+	<key>configurationvisible</key>
+	<string>constantFormat</string>
+	<key>dimensionatbuffer</key>
+	<string>shouldSavePromise</string>
+	<key>disabledCoordinator</key>
+	<string>cacheWork</string>
+	<key>mapBound</key>
+	<string>bitrateContext</string>
+	<key>missionDelay</key>
+	<string>fetchgrayscale</string>
+	<key>opaqueChallenge</key>
+	<string>shouldInflateArithmetic</string>
+	<key>rapidSlider</key>
+	<string>routeSensor</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBoxShadow</key>
+	<string>optionRight</string>
+	<key>binderBorder</key>
+	<string>euclideanTimeline</string>
+	<key>defaultcycle</key>
+	<string>accessoryVisibility</string>
+	<key>diversifiedProfile</key>
+	<string>respectiveListView</string>
+	<key>flexibleListView</key>
+	<string>standaloneCycle</string>
+	<key>granularchapteroffset</key>
+	<string>textDelay</string>
+	<key>nativeTolerance</key>
+	<string>giftcurve</string>
+	<key>shouldStartTernary</key>
+	<string>profileScale</string>
+	<key>storyboardbottom</key>
+	<string>statelessNavigator</string>
+	<key>tensorMember</key>
+	<string>normalprovider</string>
+</dict>
+</plist>

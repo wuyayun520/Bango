@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleInterval</key>
+	<string>tangentPosition</string>
+	<key>desktopSingleton</key>
+	<string>concreteLabel</string>
+	<key>disabledLayout</key>
+	<string>standaloneComponent</string>
+	<key>modelOffset</key>
+	<string>routePosition</string>
+	<key>replacegroup</key>
+	<string>semanticTool</string>
+	<key>shouldLoadGraphic</key>
+	<string>threadLocation</string>
+	<key>signtemplerate</key>
+	<string>awaitVisitor</string>
+</dict>
+</plist>

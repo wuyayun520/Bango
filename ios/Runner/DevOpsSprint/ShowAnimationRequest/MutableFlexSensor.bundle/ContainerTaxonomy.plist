@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediumAlert</key>
+	<string>smartPager</string>
+	<key>momentumMode</key>
+	<string>geometricPresenter</string>
+	<key>particleVelocity</key>
+	<string>liteExtension</string>
+	<key>positiontypeinset</key>
+	<string>profilelinker</string>
+	<key>tabviewSaturation</key>
+	<string>intermediatePositioned</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedRenderer</key>
+	<string>mixinSize</string>
+	<key>gatevisibility</key>
+	<string>intermediatePositioned</string>
+	<key>mapperfunction</key>
+	<string>pendingPainter</string>
+	<key>musicStyle</key>
+	<string>flexiblerenderer</string>
+	<key>progressbarOrigin</key>
+	<string>nodeDepth</string>
+	<key>swiftPadding</key>
+	<string>boxshadowIndex</string>
+</dict>
+</plist>

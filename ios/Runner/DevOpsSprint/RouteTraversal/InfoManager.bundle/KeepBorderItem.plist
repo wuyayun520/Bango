@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedwidgettension</key>
+	<string>cacheContrast</string>
+	<key>advancedTangent</key>
+	<string>showHeap</string>
+	<key>aspectTop</key>
+	<string>canListenCaption</string>
+	<key>checklistInset</key>
+	<string>disposePositioned</string>
+	<key>clipperSaturation</key>
+	<string>differentiateLayout</string>
+	<key>flexibleFuture</key>
+	<string>shouldMountedInkWell</string>
+	<key>providerastask</key>
+	<string>directlyLocalization</string>
+	<key>rapidTask</key>
+	<string>statelessSubscriber</string>
+	<key>semanticPriority</key>
+	<string>notifyaspect</string>
+</dict>
+</plist>

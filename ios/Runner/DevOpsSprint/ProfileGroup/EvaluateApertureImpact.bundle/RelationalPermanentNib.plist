@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLatency</key>
+	<string>validateAxis</string>
+	<key>awaitforce</key>
+	<string>validateexponent</string>
+	<key>icondistance</key>
+	<string>resolverTag</string>
+	<key>originaltopic</key>
+	<string>streamAppBar</string>
+	<key>shouldAttachAccessory</key>
+	<string>drawerAcceleration</string>
+	<key>shouldPopCharacter</key>
+	<string>buttonOffset</string>
+	<key>statelessInjection</key>
+	<string>canTransformBatch</string>
+</dict>
+</plist>

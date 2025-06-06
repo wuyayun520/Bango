@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianInteractor</key>
+	<string>shouldCacheKernel</string>
+	<key>easyPriority</key>
+	<string>readGrid</string>
+	<key>featureanalyzer</key>
+	<string>shouldparsebullet</string>
+	<key>keyCanvas</key>
+	<string>roleValue</string>
+	<key>queuethroughlevel</key>
+	<string>ternaryContrast</string>
+	<key>shouldDecodeMediaQuery</key>
+	<string>protocolRight</string>
+	<key>shouldEmitMobile</key>
+	<string>shouldReplaceInterpolation</string>
+	<key>uniqueLog</key>
+	<string>exitMethod</string>
+</dict>
+</plist>

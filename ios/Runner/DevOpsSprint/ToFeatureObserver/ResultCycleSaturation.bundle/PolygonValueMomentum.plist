@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerpressure</key>
+	<string>constraintscene</string>
+	<key>independentSample</key>
+	<string>endDecoration</string>
+	<key>nextCubit</key>
+	<string>enabledArithmetic</string>
+	<key>onoperationtap</key>
+	<string>releaseAllocator</string>
+	<key>prismaticanimation</key>
+	<string>richtextCommand</string>
+	<key>sharedservicestatus</key>
+	<string>unactivatedresilience</string>
+	<key>shouldNavigateSkirt</key>
+	<string>euclideanSlash</string>
+	<key>shoulddeserializecube</key>
+	<string>cupertinoMission</string>
+</dict>
+</plist>

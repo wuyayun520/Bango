@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actioncontextcontrast</key>
+	<string>processStateless</string>
+	<key>certificatePadding</key>
+	<string>custompaintVelocity</string>
+	<key>composableThread</key>
+	<string>loadrouter</string>
+	<key>dismissbuffer</key>
+	<string>tangentconsumption</string>
+	<key>eagerTabView</key>
+	<string>canPublishCapsule</string>
+	<key>modeltransparency</key>
+	<string>shaderdensity</string>
+	<key>shouldContinueRemainder</key>
+	<string>durationviaplatform</string>
+	<key>usagedependency</key>
+	<string>typicalScaffold</string>
+</dict>
+</plist>

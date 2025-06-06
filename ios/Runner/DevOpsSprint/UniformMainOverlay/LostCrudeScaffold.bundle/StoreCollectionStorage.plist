@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyPet</key>
+	<string>nativeStamp</string>
+	<key>equalizationInterval</key>
+	<string>resumePlayback</string>
+	<key>otherStore</key>
+	<string>lostCard</string>
+	<key>sequentialAperture</key>
+	<string>bitrateLeft</string>
+	<key>shouldReplaceDocument</key>
+	<string>observeInterface</string>
+	<key>tickerrotation</key>
+	<string>draggablePet</string>
+</dict>
+</plist>

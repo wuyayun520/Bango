@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvaszone</key>
+	<string>shouldHandleAnimation</string>
+	<key>ephemeralImpact</key>
+	<string>channelShape</string>
+	<key>projectlayerposition</key>
+	<string>canPrepareCycle</string>
+	<key>shouldDisposeConsumer</key>
+	<string>scrollerTension</string>
+	<key>shouldPresentDelegate</key>
+	<string>shouldReplaceCertificate</string>
+</dict>
+</plist>

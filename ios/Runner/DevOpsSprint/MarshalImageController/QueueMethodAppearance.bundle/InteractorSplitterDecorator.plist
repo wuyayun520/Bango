@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerinterpreteralignment</key>
+	<string>requestimpact</string>
+	<key>draggableText</key>
+	<string>skipsink</string>
+	<key>fetchinterface</key>
+	<string>sustainablecapacities</string>
+	<key>menuLocation</key>
+	<string>fragmentHue</string>
+	<key>presentername</key>
+	<string>appbarCycle</string>
+	<key>referenceSize</key>
+	<string>slashTransparency</string>
+</dict>
+</plist>

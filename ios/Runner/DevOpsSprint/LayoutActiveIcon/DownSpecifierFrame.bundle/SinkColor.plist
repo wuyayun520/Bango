@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableResilience</key>
+	<string>hyperbolicpageviewstyle</string>
+	<key>dedicatedoperationbehavior</key>
+	<string>materialRange</string>
+	<key>emitsubscription</key>
+	<string>calculateTopic</string>
+	<key>modalDensity</key>
+	<string>euclideanScroll</string>
+	<key>shoulddetachresource</key>
+	<string>wrapperPosition</string>
+	<key>usedResolver</key>
+	<string>rectifyLayout</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowPressure</key>
+	<string>euclideanMetadata</string>
+	<key>containerview</key>
+	<string>pinchableNavigator</string>
+	<key>histogramevolution</key>
+	<string>shouldStreamListView</string>
+	<key>painterKind</key>
+	<string>nativeConnector</string>
+	<key>resolvermodeinteraction</key>
+	<string>mainModule</string>
+	<key>skirtjobforce</key>
+	<string>factoryDistance</string>
+	<key>substantialEntity</key>
+	<string>informationRate</string>
+	<key>tappableMobile</key>
+	<string>associatedPositioned</string>
+	<key>touchmonster</key>
+	<string>exceptionDirection</string>
+</dict>
+</plist>

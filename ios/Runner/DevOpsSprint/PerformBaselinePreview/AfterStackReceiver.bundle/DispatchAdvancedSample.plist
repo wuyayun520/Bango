@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatortail</key>
+	<string>liteFormat</string>
+	<key>backwardLinker</key>
+	<string>repositoryFrequency</string>
+	<key>hashstatename</key>
+	<string>renameFeature</string>
+	<key>priorResilience</key>
+	<string>independentComponent</string>
+	<key>shouldDispatchCupertino</key>
+	<string>layeropacity</string>
+</dict>
+</plist>

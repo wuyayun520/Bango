@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedLabel</key>
+	<string>listenerlocation</string>
+	<key>basicLog</key>
+	<string>canSkipScaffold</string>
+	<key>onpainterchanged</key>
+	<string>invisibleLifecycle</string>
+	<key>richtextcreator</key>
+	<string>architecturelocation</string>
+	<key>sequentialiconcontrast</key>
+	<string>uniformText</string>
+	<key>transitionevent</key>
+	<string>shouldEncodeLog</string>
+</dict>
+</plist>

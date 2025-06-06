@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lostAxis</key>
+	<string>publicVolume</string>
+	<key>mediumLayer</key>
+	<string>shouldPublishConvolution</string>
+	<key>shouldCancelSlash</key>
+	<string>shouldDismissTabBar</string>
+	<key>similarRecursion</key>
+	<string>renderSwitch</string>
+	<key>singletonName</key>
+	<string>concurrentTernary</string>
+	<key>usedTransition</key>
+	<string>baseStatus</string>
+</dict>
+</plist>

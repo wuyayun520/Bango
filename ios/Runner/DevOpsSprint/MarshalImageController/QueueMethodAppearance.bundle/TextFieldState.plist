@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileresponder</key>
+	<string>repositorybeyondpattern</string>
+	<key>dedicatedGrid</key>
+	<string>controllerBuffer</string>
+	<key>firstnode</key>
+	<string>scrollableUseCase</string>
+	<key>groupfromprocess</key>
+	<string>shouldParseCompletion</string>
+	<key>iterativeScroller</key>
+	<string>seamlessFormat</string>
+	<key>latencyhue</key>
+	<string>navigationVisible</string>
+	<key>optimizescene</key>
+	<string>updateTernary</string>
+</dict>
+</plist>

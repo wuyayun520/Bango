@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystRate</key>
+	<string>animationtentative</string>
+	<key>gateinterval</key>
+	<string>intermediateTweak</string>
+	<key>rectadaptervisible</key>
+	<string>temporarytext</string>
+	<key>shouldPushCustomPaint</key>
+	<string>resourceHue</string>
+	<key>shouldTransitionStep</key>
+	<string>evaluationForce</string>
+	<key>shouldUnmountMap</key>
+	<string>difficultSwift</string>
+</dict>
+</plist>

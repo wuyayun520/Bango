@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedConvolution</key>
+	<string>asynchronousTentative</string>
+	<key>ephemeralFrame</key>
+	<string>moduleborder</string>
+	<key>euclideanBehavior</key>
+	<string>implementAwait</string>
+	<key>momentumShape</key>
+	<string>shouldConnectSine</string>
+	<key>resizableevent</key>
+	<string>semanticschema</string>
+	<key>sinkVisibility</key>
+	<string>queueSpeed</string>
+	<key>variantagainstlayer</key>
+	<string>temporaryNib</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keyEvent</key>
+	<string>schemaVelocity</string>
+	<key>logarithmlevelmode</key>
+	<string>publicHash</string>
+	<key>statefulNavigation</key>
+	<string>persistMobile</string>
+	<key>timerLocation</key>
+	<string>singleAnimatedContainer</string>
+	<key>typicalOption</key>
+	<string>animateGift</string>
+</dict>
+</plist>

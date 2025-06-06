@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationDuration</key>
+	<string>mutableView</string>
+	<key>compositionalInterpolation</key>
+	<string>handlerFormat</string>
+	<key>draggablePlayback</key>
+	<string>iterativeWrapper</string>
+	<key>globalInteractor</key>
+	<string>canPushConvolution</string>
+	<key>handlerbottom</key>
+	<string>gesturedetectorBottom</string>
+	<key>hyperbolicConstant</key>
+	<string>consultativeOption</string>
+	<key>shouldResumeGestureDetector</key>
+	<string>resolverstructuredistance</string>
+</dict>
+</plist>

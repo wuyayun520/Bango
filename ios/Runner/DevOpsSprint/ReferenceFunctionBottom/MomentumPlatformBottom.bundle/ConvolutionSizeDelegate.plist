@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionshade</key>
+	<string>renderCaption</string>
+	<key>contrastCount</key>
+	<string>widgetbesideprocess</string>
+	<key>lostDescription</key>
+	<string>comprehensiveChart</string>
+	<key>shouldFinishCaption</key>
+	<string>restoreDescription</string>
+	<key>shouldpresentview</key>
+	<string>instructionPattern</string>
+	<key>specifyScheduler</key>
+	<string>benchmarkTransition</string>
+	<key>textDepth</key>
+	<string>tickerFrequency</string>
+</dict>
+</plist>

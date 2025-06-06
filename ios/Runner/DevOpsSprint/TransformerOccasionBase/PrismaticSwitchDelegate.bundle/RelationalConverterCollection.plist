@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintBottom</key>
+	<string>originalEquivalent</string>
+	<key>cycleOrigin</key>
+	<string>isgate</string>
+	<key>deactivateprogressbar</key>
+	<string>skipMovement</string>
+	<key>priorTabBar</key>
+	<string>otherCapacity</string>
+	<key>provisionDepth</key>
+	<string>transformWorkflow</string>
+	<key>shouldfetchsensor</key>
+	<string>statelessPet</string>
+	<key>transitionFeedback</key>
+	<string>canTrainAlpha</string>
+	<key>unsortedradius</key>
+	<string>similarSine</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGesture</key>
+	<string>timeFlags</string>
+	<key>dispatchusage</key>
+	<string>divideButton</string>
+	<key>documentcyclemargin</key>
+	<string>writePreview</string>
+	<key>flexibleRemediation</key>
+	<string>immutableFeature</string>
+	<key>projectionValidation</key>
+	<string>reusablevector</string>
+	<key>reusabletask</key>
+	<string>shouldLoadTernary</string>
+	<key>shouldDecodeRichText</key>
+	<string>visualizeskirt</string>
+</dict>
+</plist>

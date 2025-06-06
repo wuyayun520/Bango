@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedStore</key>
+	<string>resourceTag</string>
+	<key>debugfeature</key>
+	<string>interceptstorage</string>
+	<key>deserializeclipper</key>
+	<string>unaryDensity</string>
+	<key>shouldPersistLayout</key>
+	<string>encapsulateAction</string>
+</dict>
+</plist>

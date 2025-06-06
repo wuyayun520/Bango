@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaInterval</key>
+	<string>adaptiveLoop</string>
+	<key>shouldDecodeProtocol</key>
+	<string>canPublishFuture</string>
+	<key>significantVideo</key>
+	<string>animationbesideprocess</string>
+	<key>sortedBrush</key>
+	<string>hasconstraint</string>
+	<key>tappablePreview</key>
+	<string>trainlogarithm</string>
+	<key>uniformAppBar</key>
+	<string>stampFunction</string>
+</dict>
+</plist>

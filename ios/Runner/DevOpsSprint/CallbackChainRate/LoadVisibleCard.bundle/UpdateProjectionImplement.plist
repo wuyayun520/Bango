@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachusage</key>
+	<string>shouldContinueAccessory</string>
+	<key>desktopController</key>
+	<string>hardScope</string>
+	<key>extensionVisibility</key>
+	<string>effectSystem</string>
+	<key>graphchaincount</key>
+	<string>canMountedBase</string>
+	<key>materialcenter</key>
+	<string>canDismissRemainder</string>
+	<key>painterState</key>
+	<string>refreshEvent</string>
+	<key>prismaticThread</key>
+	<string>groupSize</string>
+	<key>reductionKind</key>
+	<string>shouldunbindswitch</string>
+	<key>validateskirt</key>
+	<string>animatedcontainerContext</string>
+</dict>
+</plist>

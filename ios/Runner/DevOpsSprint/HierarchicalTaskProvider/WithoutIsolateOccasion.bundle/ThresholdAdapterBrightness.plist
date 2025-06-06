@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDescription</key>
+	<string>tangentbottom</string>
+	<key>brushleft</key>
+	<string>permanentTitle</string>
+	<key>cartesianPlayback</key>
+	<string>equalRadius</string>
+	<key>completionMode</key>
+	<string>canUnbindNotifier</string>
+	<key>exceptionandframework</key>
+	<string>cancelModal</string>
+	<key>graphbuffervalidation</key>
+	<string>serializeSignature</string>
+	<key>listenoption</key>
+	<string>modelKind</string>
+	<key>nextProgressBar</key>
+	<string>flexibleMesh</string>
+	<key>opaqueConstraint</key>
+	<string>radioshapedelay</string>
+	<key>permanentLoader</key>
+	<string>mediocreJoiner</string>
+</dict>
+</plist>

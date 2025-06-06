@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedRect</key>
+	<string>expandedcenter</string>
+	<key>impressionShape</key>
+	<string>curveCount</string>
+	<key>loglayout</key>
+	<string>overrideFeature</string>
+	<key>mutableCompletion</key>
+	<string>canCreateMargin</string>
+	<key>opaqueTopic</key>
+	<string>removeResponse</string>
+	<key>seamlessimpact</key>
+	<string>unbindHero</string>
+</dict>
+</plist>

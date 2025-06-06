@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInteraction</key>
+	<string>shouldcreatestoryboard</string>
+	<key>easyNode</key>
+	<string>typicalScenario</string>
+	<key>finishresolver</key>
+	<string>uniqueCapsule</string>
+	<key>nativeFragments</key>
+	<string>canDecodeLabel</string>
+	<key>rapidSkirt</key>
+	<string>canInflateLayout</string>
+	<key>staticMenu</key>
+	<string>disparateContrast</string>
+</dict>
+</plist>

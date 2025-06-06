@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainColor</key>
+	<string>audioTag</string>
+	<key>invisibleReduction</key>
+	<string>synchronousWorkflow</string>
+	<key>numericalResponse</key>
+	<string>canBuildTouch</string>
+	<key>scrollableImpression</key>
+	<string>timersensor</string>
+</dict>
+</plist>

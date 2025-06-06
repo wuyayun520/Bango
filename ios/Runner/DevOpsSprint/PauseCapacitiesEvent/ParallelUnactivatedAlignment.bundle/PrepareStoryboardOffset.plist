@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendframe</key>
+	<string>durationcontextflags</string>
+	<key>defaultVariant</key>
+	<string>completedPoint</string>
+	<key>directmerger</key>
+	<string>shouldParseMonster</string>
+	<key>draggableStatus</key>
+	<string>custompaintSpacing</string>
+	<key>shouldShowWorkflow</key>
+	<string>exitModel</string>
+	<key>staticMechanism</key>
+	<string>canCancelNotification</string>
+	<key>subscriptionFrequency</key>
+	<string>enhanceMetadata</string>
+</dict>
+</plist>

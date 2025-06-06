@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticityDuration</key>
+	<string>fusedInstruction</string>
+	<key>hardSignature</key>
+	<string>directlysinkinteraction</string>
+	<key>robustSprite</key>
+	<string>mobilevertex</string>
+</dict>
+</plist>

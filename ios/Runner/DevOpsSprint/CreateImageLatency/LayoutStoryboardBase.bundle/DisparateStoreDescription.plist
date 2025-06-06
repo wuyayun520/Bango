@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basestagedirection</key>
+	<string>canRouteStoryboard</string>
+	<key>easyOccasion</key>
+	<string>benchmarkSink</string>
+	<key>lastGestureDetector</key>
+	<string>bundleState</string>
+	<key>markreducer</key>
+	<string>displayableUseCase</string>
+	<key>petOrigin</key>
+	<string>touchReducer</string>
+	<key>rowOffset</key>
+	<string>sizeColor</string>
+	<key>sequentialRoute</key>
+	<string>canSetStateDescriptor</string>
+	<key>shouldStopStateful</key>
+	<string>accessibleLayer</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDelegate</key>
+	<string>delegateobserversize</string>
+	<key>criticalChannels</key>
+	<string>usecaseactivitydelay</string>
+	<key>screenright</key>
+	<string>disposeMomentum</string>
+	<key>standaloneExpanded</key>
+	<string>constantbehavior</string>
+	<key>sustainableListView</key>
+	<string>viewShape</string>
+</dict>
+</plist>

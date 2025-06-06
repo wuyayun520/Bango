@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionOffset</key>
+	<string>precisionFlyweight</string>
+	<key>configurestore</key>
+	<string>immediateNotification</string>
+	<key>defaultoverlay</key>
+	<string>disabledMaterializer</string>
+	<key>menuAcceleration</key>
+	<string>symbolRate</string>
+	<key>normcolor</key>
+	<string>canReplaceMovement</string>
+	<key>requestagainstframework</key>
+	<string>symmetricTraversal</string>
+	<key>shouldTransitionFuture</key>
+	<string>shouldObserveLayout</string>
+	<key>shouldbindtechnique</key>
+	<string>processAspectRatio</string>
+</dict>
+</plist>

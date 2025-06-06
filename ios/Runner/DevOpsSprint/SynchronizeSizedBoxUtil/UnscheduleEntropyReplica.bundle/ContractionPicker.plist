@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphacontroller</key>
+	<string>builderBrightness</string>
+	<key>graintaskvisibility</key>
+	<string>logarithmoffset</string>
+	<key>gramaudio</key>
+	<string>restartLog</string>
+	<key>imperativetimerinterval</key>
+	<string>shouldUnmountedMediaQuery</string>
+	<key>navigationandprocess</key>
+	<string>replicaRight</string>
+</dict>
+</plist>

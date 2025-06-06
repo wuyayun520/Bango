@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartacceleration</key>
+	<string>heroLayer</string>
+	<key>criticalListener</key>
+	<string>cardactivityresponse</string>
+	<key>discardedShape</key>
+	<string>notifyImage</string>
+	<key>inactiveMusic</key>
+	<string>diffableCertificate</string>
+	<key>momentumDuration</key>
+	<string>hyperbolicInkWell</string>
+	<key>receiveropacity</key>
+	<string>shouldPushIcon</string>
+	<key>secondMend</key>
+	<string>screenindex</string>
+	<key>vectorPadding</key>
+	<string>sharedRequest</string>
+</dict>
+</plist>

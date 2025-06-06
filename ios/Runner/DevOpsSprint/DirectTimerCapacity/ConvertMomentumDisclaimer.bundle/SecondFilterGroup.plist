@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAnimatedContainer</key>
+	<string>agileGesture</string>
+	<key>cardadaptervalidation</key>
+	<string>elasticWrapper</string>
+	<key>coordinatorthroughform</key>
+	<string>optimizerEdge</string>
+	<key>seamlessCupertino</key>
+	<string>promiseVisible</string>
+	<key>statefulRemediation</key>
+	<string>keyHandler</string>
+	<key>sustainableProfile</key>
+	<string>fixedGrayscale</string>
+</dict>
+</plist>

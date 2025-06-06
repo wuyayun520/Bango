@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetsystemcenter</key>
+	<string>pushTicker</string>
+	<key>augmentbase</key>
+	<string>defaultpositioned</string>
+	<key>cellDirection</key>
+	<string>prismaticItem</string>
+	<key>channelpolyfill</key>
+	<string>criticalCube</string>
+	<key>composableSearcher</key>
+	<string>batchPrototype</string>
+	<key>discardedCaption</key>
+	<string>autoTicker</string>
+	<key>serviceLocation</key>
+	<string>intermediateBox</string>
+</dict>
+</plist>

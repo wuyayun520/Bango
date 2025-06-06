@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleMaterializer</key>
+	<string>buildCell</string>
+	<key>awaitSaturation</key>
+	<string>notifyParticle</string>
+	<key>exitbuilder</key>
+	<string>sizedboxCommand</string>
+	<key>fusedTechnique</key>
+	<string>shouldStopKernel</string>
+	<key>mapperAlignment</key>
+	<string>canKeepMaster</string>
+	<key>navigatemodal</key>
+	<string>presenterstyleorientation</string>
+	<key>seamlesspainter</key>
+	<string>textureChain</string>
+	<key>soundName</key>
+	<string>listenLabel</string>
+	<key>textfieldKind</key>
+	<string>subsequentresultorigin</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeIndex</key>
+	<string>mediocreTaxonomy</string>
+	<key>concurrentInstruction</key>
+	<string>textTier</string>
+	<key>cupertinoCapacity</key>
+	<string>liteExtension</string>
+	<key>graphColor</key>
+	<string>immutableTween</string>
+	<key>liteSpecifier</key>
+	<string>otherBox</string>
+	<key>reusableEmitter</key>
+	<string>explicitContainer</string>
+	<key>shouldPauseMaster</key>
+	<string>stackVisitor</string>
+	<key>skinmomentum</key>
+	<string>canRestartController</string>
+	<key>staticRect</key>
+	<string>objectborder</string>
+</dict>
+</plist>

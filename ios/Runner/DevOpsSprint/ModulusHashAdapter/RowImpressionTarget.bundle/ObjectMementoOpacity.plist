@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateCursor</key>
+	<string>cubitVariable</string>
+	<key>intermediateEqualization</key>
+	<string>locateProvider</string>
+	<key>missedNotification</key>
+	<string>specifyConstant</string>
+	<key>shouldAttachDescriptor</key>
+	<string>opaqueAnchor</string>
+	<key>similarhistogramtransparency</key>
+	<string>pushNavigation</string>
+	<key>vectorDelay</key>
+	<string>interactorBehavior</string>
+</dict>
+</plist>

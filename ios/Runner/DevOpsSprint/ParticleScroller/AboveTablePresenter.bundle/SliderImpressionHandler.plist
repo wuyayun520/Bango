@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedLinker</key>
+	<string>soundResponse</string>
+	<key>dedicatedImpression</key>
+	<string>shouldKeepPlate</string>
+	<key>directlyPager</key>
+	<string>escalateResult</string>
+	<key>notationdensity</key>
+	<string>specifiershape</string>
+	<key>shouldDismissBatch</key>
+	<string>basicJoiner</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedArchitecture</key>
+	<string>profileHash</string>
+	<key>basicPolygon</key>
+	<string>loopdistance</string>
+	<key>completionType</key>
+	<string>iterativemodel</string>
+	<key>dedicatedService</key>
+	<string>globalexponent</string>
+	<key>previewcontrast</key>
+	<string>semanticsparticle</string>
+	<key>robustSample</key>
+	<string>transitionacceleration</string>
+	<key>uniqueMetrics</key>
+	<string>actiondirection</string>
+</dict>
+</plist>

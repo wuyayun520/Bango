@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorBottom</key>
+	<string>independentefficiency</string>
+	<key>cupertinoHue</key>
+	<string>fetchparticle</string>
+	<key>enabledHandler</key>
+	<string>canSaveSemantics</string>
+	<key>evaluationMode</key>
+	<string>shouldBuildNavigator</string>
+	<key>granularReducer</key>
+	<string>liteGrayscale</string>
+	<key>restoreconstraint</key>
+	<string>radiusSize</string>
+	<key>sharedMobile</key>
+	<string>selectorVelocity</string>
+	<key>shouldAttachSwift</key>
+	<string>dispatchChallenge</string>
+	<key>shouldNotifyActivity</key>
+	<string>offsetRow</string>
+</dict>
+</plist>

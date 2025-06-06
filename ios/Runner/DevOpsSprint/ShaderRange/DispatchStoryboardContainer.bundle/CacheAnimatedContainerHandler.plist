@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertTension</key>
+	<string>activeScreen</string>
+	<key>euclideanCompleter</key>
+	<string>permanentPet</string>
+	<key>shouldSavePoint</key>
+	<string>quantizationCallback</string>
+</dict>
+</plist>

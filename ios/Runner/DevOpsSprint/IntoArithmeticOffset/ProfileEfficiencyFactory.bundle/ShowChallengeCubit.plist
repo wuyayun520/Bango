@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveChapter</key>
+	<string>canNotifySignature</string>
+	<key>discardedCatalyst</key>
+	<string>canDisposeAnimatedContainer</string>
+	<key>equipmentVisibility</key>
+	<string>basicError</string>
+	<key>fusedRemainder</key>
+	<string>shouldUnmountedTangent</string>
+	<key>multilogarithm</key>
+	<string>shouldSaveStateless</string>
+	<key>mutableService</key>
+	<string>lostOption</string>
+	<key>priorPadding</key>
+	<string>lastlossdensity</string>
+	<key>resilientCollection</key>
+	<string>allocatorPressure</string>
+	<key>sequentialScenario</key>
+	<string>canCancelPadding</string>
+	<key>shouldCreateAxis</key>
+	<string>canPopProtocol</string>
+</dict>
+</plist>

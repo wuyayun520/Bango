@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretePlayback</key>
+	<string>skinFlyweight</string>
+	<key>directlyState</key>
+	<string>catalystOffset</string>
+	<key>disabledPlayback</key>
+	<string>mediumBorder</string>
+	<key>durationthanpattern</key>
+	<string>vectoropacity</string>
+	<key>greatResponder</key>
+	<string>canTrainCard</string>
+	<key>intermediateRestriction</key>
+	<string>secondEntropy</string>
+	<key>lazyCompleter</key>
+	<string>canMountedRoute</string>
+	<key>monsterDensity</key>
+	<string>canFetchAnchor</string>
+	<key>tensorMetrics</key>
+	<string>deprecateTransition</string>
+</dict>
+</plist>

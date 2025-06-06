@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionDirection</key>
+	<string>scrollableModal</string>
+	<key>originalSegment</key>
+	<string>mountWorkflow</string>
+	<key>parsestream</key>
+	<string>joinerAcceleration</string>
+	<key>receivelabel</key>
+	<string>disparateElement</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushcenter</key>
+	<string>composableInkWell</string>
+	<key>futureColor</key>
+	<string>detachslider</string>
+	<key>lazyKernel</key>
+	<string>canDetachModal</string>
+	<key>offsetAppearance</key>
+	<string>decodeGate</string>
+	<key>progressbaramongcommand</key>
+	<string>canProcessGridView</string>
+	<key>projectionShape</key>
+	<string>documentcompleter</string>
+	<key>screenTail</key>
+	<string>subsequentTangent</string>
+</dict>
+</plist>

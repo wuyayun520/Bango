@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackstageskewy</key>
+	<string>detachSprite</string>
+	<key>seamlessEfficiency</key>
+	<string>mobileElasticity</string>
+	<key>similarGradient</key>
+	<string>sessionEnvironment</string>
+	<key>usedData</key>
+	<string>sortercontrast</string>
+</dict>
+</plist>

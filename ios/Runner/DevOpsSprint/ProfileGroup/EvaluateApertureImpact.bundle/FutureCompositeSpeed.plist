@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyprocessor</key>
+	<string>mountNotifier</string>
+	<key>giftIndex</key>
+	<string>resourcelinker</string>
+	<key>keyScenario</key>
+	<string>canLayoutStamp</string>
+	<key>prismaticMesh</key>
+	<string>shouldMountedCard</string>
+	<key>referencecount</key>
+	<string>catalystPosition</string>
+	<key>shouldResumeVariant</key>
+	<string>gridconsumer</string>
+	<key>slidercolor</key>
+	<string>canvasShape</string>
+</dict>
+</plist>

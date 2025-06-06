@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousReduction</key>
+	<string>compareButton</string>
+	<key>directlyPolyfill</key>
+	<string>shouldHandleBuilder</string>
+	<key>geminterval</key>
+	<string>decodeIndicator</string>
+	<key>permissiveTentative</key>
+	<string>rectOrientation</string>
+</dict>
+</plist>

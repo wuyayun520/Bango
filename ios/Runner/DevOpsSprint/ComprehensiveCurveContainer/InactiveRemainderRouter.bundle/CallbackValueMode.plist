@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatehue</key>
+	<string>configureRow</string>
+	<key>draggableChooser</key>
+	<string>shouldNotifyWidget</string>
+	<key>iterativeWrapper</key>
+	<string>renderGestureDetector</string>
+	<key>newestDimension</key>
+	<string>asyncName</string>
+	<key>rendererScale</key>
+	<string>temporarySkirt</string>
+	<key>scaffoldCenter</key>
+	<string>substantialTextField</string>
+	<key>shouldPaintOption</key>
+	<string>detectorTransparency</string>
+	<key>shouldSkipTheme</key>
+	<string>layoutLevel</string>
+	<key>statelessDisclaimer</key>
+	<string>collectioncount</string>
+</dict>
+</plist>

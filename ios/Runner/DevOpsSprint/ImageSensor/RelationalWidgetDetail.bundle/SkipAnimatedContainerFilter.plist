@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxviaphase</key>
+	<string>moveSprite</string>
+	<key>customResilience</key>
+	<string>opaquechecklistright</string>
+	<key>immutablemap</key>
+	<string>instructionInterval</string>
+	<key>iterativeSign</key>
+	<string>greatEvent</string>
+	<key>nextRestriction</key>
+	<string>dropdownbuttonwithcomposite</string>
+	<key>resilienceBottom</key>
+	<string>themequaternion</string>
+	<key>sensorValidation</key>
+	<string>normaltaskbrightness</string>
+	<key>shouldrebuildlabel</key>
+	<string>profileSlider</string>
+</dict>
+</plist>

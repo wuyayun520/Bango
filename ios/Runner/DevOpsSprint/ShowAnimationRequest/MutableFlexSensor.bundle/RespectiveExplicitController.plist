@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>efficiencyCenter</key>
+	<string>unmarshalPreview</string>
+	<key>ephemeralCustomPaint</key>
+	<string>shouldPushImage</string>
+	<key>hardStroke</key>
+	<string>inkwellName</string>
+	<key>intensityshapevisible</key>
+	<string>pauseController</string>
+	<key>popupscheduler</key>
+	<string>draggableSprite</string>
+	<key>sampleResponse</key>
+	<string>titleBorder</string>
+	<key>shouldResumeGram</key>
+	<string>lastInteractor</string>
+</dict>
+</plist>

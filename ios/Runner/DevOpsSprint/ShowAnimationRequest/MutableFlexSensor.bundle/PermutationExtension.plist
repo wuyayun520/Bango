@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCaption</key>
+	<string>bindCapsule</string>
+	<key>aspectandnumber</key>
+	<string>reducermode</string>
+	<key>clipperdirection</key>
+	<string>richtextworkoffset</string>
+	<key>equalizationsize</key>
+	<string>uniformHandler</string>
+	<key>iconSpeed</key>
+	<string>loadWidget</string>
+	<key>inactiveStrength</key>
+	<string>resilientMargin</string>
+	<key>rapidDistinction</key>
+	<string>bufferequivalent</string>
+	<key>shouldStreamCosine</key>
+	<string>shouldEndExpanded</string>
+	<key>subtleEffect</key>
+	<string>utilPlatform</string>
+	<key>vertexInset</key>
+	<string>griddelay</string>
+</dict>
+</plist>

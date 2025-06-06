@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllermargin</key>
+	<string>scrollResponse</string>
+	<key>explicitButton</key>
+	<string>trainMobile</string>
+	<key>interactiveSwift</key>
+	<string>canEndImage</string>
+	<key>mediaqueryEdge</key>
+	<string>shouldshowtabbar</string>
+	<key>shouldRebuildRole</key>
+	<string>samplechart</string>
+	<key>subsequentGram</key>
+	<string>shouldCancelPageView</string>
+</dict>
+</plist>

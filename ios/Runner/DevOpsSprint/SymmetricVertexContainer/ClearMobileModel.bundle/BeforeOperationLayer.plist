@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalRemainder</key>
+	<string>tensorSegment</string>
+	<key>nextSpecifier</key>
+	<string>poolcurve</string>
+	<key>paralleloffsetvelocity</key>
+	<string>usedusage</string>
+	<key>sessiondescription</key>
+	<string>shouldPushUnary</string>
+	<key>visibleLoss</key>
+	<string>labelVariable</string>
+</dict>
+</plist>

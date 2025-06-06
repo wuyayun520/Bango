@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTextField</key>
+	<string>canTransitionCard</string>
+	<key>defaultMatrix</key>
+	<string>markText</string>
+	<key>inkwellright</key>
+	<string>logStage</string>
+	<key>specifyResilience</key>
+	<string>presenterAppearance</string>
+	<key>timeIndex</key>
+	<string>selectedChannels</string>
+	<key>toleranceFeedback</key>
+	<string>canRestartBaseline</string>
+</dict>
+</plist>

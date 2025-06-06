@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityVelocity</key>
+	<string>shouldObserveBox</string>
+	<key>gridbesidetier</key>
+	<string>shouldPresentBase</string>
+	<key>intuitiveParticle</key>
+	<string>fillTicker</string>
+	<key>localizationsorter</key>
+	<string>vertexTop</string>
+	<key>paintcoordinator</key>
+	<string>canSerializeBoxShadow</string>
+	<key>routersensor</key>
+	<string>geometricRemediation</string>
+	<key>shouldSetStatePageView</key>
+	<string>handleresource</string>
+</dict>
+</plist>

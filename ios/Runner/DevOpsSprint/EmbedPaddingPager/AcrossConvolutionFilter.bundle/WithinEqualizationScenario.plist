@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerMomentum</key>
+	<string>gridtexture</string>
+	<key>equaloffset</key>
+	<string>otherPoint</string>
+	<key>opaqueRole</key>
+	<string>adaptiveScalability</string>
+	<key>radioanimation</key>
+	<string>searchText</string>
+	<key>shouldUnmountedUnary</key>
+	<string>viewLevel</string>
+	<key>symbolstroke</key>
+	<string>strokeStatus</string>
+	<key>videoDirection</key>
+	<string>sorterPressure</string>
+</dict>
+</plist>

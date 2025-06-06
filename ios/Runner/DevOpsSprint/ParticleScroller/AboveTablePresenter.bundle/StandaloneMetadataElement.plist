@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTension</key>
+	<string>searchDuration</string>
+	<key>cleanaction</key>
+	<string>canDispatchExtension</string>
+	<key>directlySplitter</key>
+	<string>bufferFacade</string>
+	<key>isanimatedcontainer</key>
+	<string>deferredAscent</string>
+	<key>missedProvision</key>
+	<string>mutableLifecycle</string>
+	<key>resourcephasebrightness</key>
+	<string>canPauseOption</string>
+	<key>smallBandwidth</key>
+	<string>cubeDecorator</string>
+	<key>updatetheme</key>
+	<string>actionCount</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferwithstyle</key>
+	<string>dynamicResolver</string>
+	<key>cycleStatus</key>
+	<string>animatedcurve</string>
+	<key>intermediategramcolor</key>
+	<string>pooltextfield</string>
+	<key>platefeature</key>
+	<string>toleranceInteraction</string>
+	<key>pushconfiguration</key>
+	<string>uniformTrajectory</string>
+</dict>
+</plist>

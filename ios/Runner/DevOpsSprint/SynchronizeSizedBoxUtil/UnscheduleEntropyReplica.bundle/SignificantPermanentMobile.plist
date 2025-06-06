@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactivecallback</key>
+	<string>scrollBound</string>
+	<key>margincombiner</key>
+	<string>unsortedMatrix</string>
+	<key>mobileFrequency</key>
+	<string>layoutSymbol</string>
+	<key>momentumduration</key>
+	<string>allocateBloc</string>
+	<key>shadercontrast</key>
+	<string>arithmeticQueue</string>
+	<key>shouldStreamKernel</key>
+	<string>localResult</string>
+	<key>videoLeft</key>
+	<string>priorTouch</string>
+</dict>
+</plist>

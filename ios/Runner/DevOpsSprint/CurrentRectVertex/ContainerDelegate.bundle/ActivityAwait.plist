@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSubpixel</key>
+	<string>formatSpecifier</string>
+	<key>compositionalArchitecture</key>
+	<string>shouldPushOptimizer</string>
+	<key>containerflyweightshade</key>
+	<string>fetchSwift</string>
+	<key>elasticTween</key>
+	<string>scrollableQuaternion</string>
+	<key>nativeSkin</key>
+	<string>constantType</string>
+</dict>
+</plist>

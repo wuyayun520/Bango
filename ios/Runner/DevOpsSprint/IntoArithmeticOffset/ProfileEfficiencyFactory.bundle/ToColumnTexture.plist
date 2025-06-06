@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationofproxy</key>
+	<string>metadataEnvironment</string>
+	<key>draggableEquipment</key>
+	<string>rendererShade</string>
+	<key>effectconsumer</key>
+	<string>canStartBinary</string>
+	<key>localImpression</key>
+	<string>brushProcess</string>
+	<key>missedChapter</key>
+	<string>canUpdateNotification</string>
+	<key>requiredClipper</key>
+	<string>positionTheme</string>
+	<key>specifierthroughstyle</key>
+	<string>crucialReceiver</string>
+	<key>storyboardcompleter</key>
+	<string>permissiveConverter</string>
+	<key>textfieldShade</key>
+	<string>equalroute</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitycallback</key>
+	<string>previewtaxonomy</string>
+	<key>crucialAnalyzer</key>
+	<string>discoverSubscription</string>
+	<key>dynamicMerger</key>
+	<string>creatorTop</string>
+	<key>loopOrigin</key>
+	<string>subscriberFeedback</string>
+	<key>lostsignskewx</key>
+	<string>subscriptionCoord</string>
+	<key>normalSpot</key>
+	<string>mediaqueryAlignment</string>
+</dict>
+</plist>

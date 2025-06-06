@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardVolume</key>
+	<string>integerTransparency</string>
+	<key>graphicscalability</key>
+	<string>liteTransformer</string>
+	<key>prevFragment</key>
+	<string>shouldPresentBrush</string>
+	<key>providercommanddelay</key>
+	<string>canBuildPrecision</string>
+	<key>tappableStamp</key>
+	<string>mapValue</string>
+	<key>trajectoryMargin</key>
+	<string>shouldUnmountedGate</string>
+</dict>
+</plist>

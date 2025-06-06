@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedFilter</key>
+	<string>shouldDeserializePlate</string>
+	<key>concurrentsprite</key>
+	<string>onthreadchanged</string>
+	<key>hasInterpolation</key>
+	<string>routeshape</string>
+	<key>mainintegration</key>
+	<string>singlemechanism</string>
+	<key>metadataVelocity</key>
+	<string>shouldUnmountTouch</string>
+	<key>normalTraversal</key>
+	<string>chapterOrigin</string>
+	<key>prevdescriptor</key>
+	<string>signatureTail</string>
+	<key>primaryLifecycle</key>
+	<string>usageflags</string>
+	<key>segueVelocity</key>
+	<string>mixinresolver</string>
+</dict>
+</plist>

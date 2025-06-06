@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineformat</key>
+	<string>delegateDepth</string>
+	<key>disparateTabBar</key>
+	<string>viewbridgeedge</string>
+	<key>dispatcherVelocity</key>
+	<string>destroyMetadata</string>
+	<key>documentTransparency</key>
+	<string>rowBorder</string>
+	<key>flexibleCreator</key>
+	<string>checkChapter</string>
+	<key>painterDirection</key>
+	<string>mediaqueryviastrategy</string>
+	<key>relationalInteractor</key>
+	<string>pushrow</string>
+	<key>semanticElasticity</key>
+	<string>staticDropdownButton</string>
+	<key>shouldDisconnectSizedBox</key>
+	<string>navigateentity</string>
+	<key>sizedboxconsumption</key>
+	<string>asynchronousresponse</string>
+</dict>
+</plist>

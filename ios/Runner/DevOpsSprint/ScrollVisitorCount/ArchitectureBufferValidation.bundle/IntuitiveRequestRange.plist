@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalMapper</key>
+	<string>semanticsframeworkfeedback</string>
+	<key>monsterAlignment</key>
+	<string>revisitUtil</string>
+	<key>oldRouter</key>
+	<string>ignoredCompleter</string>
+	<key>pinchableChannels</key>
+	<string>symmetricTangent</string>
+	<key>pinchableLog</key>
+	<string>injectionColor</string>
+	<key>shouldSetStateInkWell</key>
+	<string>actionbehavior</string>
+	<key>shouldprocesschecklist</key>
+	<string>vectorPlatform</string>
+</dict>
+</plist>

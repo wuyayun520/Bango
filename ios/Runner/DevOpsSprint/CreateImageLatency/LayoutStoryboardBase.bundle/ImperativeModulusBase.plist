@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeConstant</key>
+	<string>disconnectcallback</string>
+	<key>fixedTime</key>
+	<string>replaceLayout</string>
+	<key>ignorednodehue</key>
+	<string>consumeDependency</string>
+	<key>invisibleinteraction</key>
+	<string>canDispatchCosine</string>
+	<key>listviewamortization</key>
+	<string>compileSingleton</string>
+	<key>mapOrigin</key>
+	<string>shouldConnectGem</string>
+	<key>multiIsolate</key>
+	<string>otherResource</string>
+	<key>pushloop</key>
+	<string>beginnerProcessor</string>
+	<key>transformerbottom</key>
+	<string>canStartHero</string>
+</dict>
+</plist>

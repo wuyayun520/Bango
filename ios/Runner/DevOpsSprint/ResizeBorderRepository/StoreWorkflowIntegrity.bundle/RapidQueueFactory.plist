@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMusic</key>
+	<string>canUnbindContainer</string>
+	<key>dedicatedswitchright</key>
+	<string>mediumMovement</string>
+	<key>disposecapsule</key>
+	<string>shouldResumeCycle</string>
+	<key>iterativeNotation</key>
+	<string>positionedTint</string>
+	<key>persistentmonster</key>
+	<string>interactorversusfunction</string>
+	<key>positionKind</key>
+	<string>utilthanlayer</string>
+	<key>shouldAnimateSensor</key>
+	<string>operationsingletonforce</string>
+	<key>shouldDetachSpot</key>
+	<string>methodFlags</string>
+	<key>sustainableInkWell</key>
+	<string>shouldStartEntropy</string>
+	<key>usageselector</key>
+	<string>subtleReducer</string>
+</dict>
+</plist>

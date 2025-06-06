@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderscale</key>
+	<string>paintercontrast</string>
+	<key>directPopup</key>
+	<string>directPolygon</string>
+	<key>eagermodeldirection</key>
+	<string>streamComposite</string>
+	<key>functionalcupertino</key>
+	<string>removeMethod</string>
+	<key>gesturedetectorCoord</key>
+	<string>groupOperation</string>
+	<key>independentDependency</key>
+	<string>requiredDialogs</string>
+	<key>prismaticdependency</key>
+	<string>crudeQuaternion</string>
+	<key>retainedblocsaturation</key>
+	<string>consumerPrototype</string>
+	<key>secondNotifier</key>
+	<string>registeranimation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticPolyfill</key>
+	<string>iterativetext</string>
+	<key>associatedobserver</key>
+	<string>trainsample</string>
+	<key>bordersink</key>
+	<string>stampSingleton</string>
+	<key>liteview</key>
+	<string>techniqueParam</string>
+	<key>pivotalScroll</key>
+	<string>canCreateExtension</string>
+	<key>semanticMap</key>
+	<string>ignoredDisclaimer</string>
+	<key>shouldDispatchPoint</key>
+	<string>checkboxopacity</string>
+	<key>sortedStack</key>
+	<string>painterRotation</string>
+</dict>
+</plist>

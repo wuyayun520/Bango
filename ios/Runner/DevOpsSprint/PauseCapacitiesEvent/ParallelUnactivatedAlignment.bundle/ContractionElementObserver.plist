@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedScaffold</key>
+	<string>reusableLayer</string>
+	<key>cardparametername</key>
+	<string>gemenvironmentstatus</string>
+	<key>currentMomentum</key>
+	<string>endStateless</string>
+	<key>ignoredModule</key>
+	<string>histogramOffset</string>
+	<key>prevLabel</key>
+	<string>oldMission</string>
+	<key>repositoryInset</key>
+	<string>buttonPadding</string>
+	<key>shaderresponse</key>
+	<string>seamlessPlayback</string>
+	<key>usedAspectRatio</key>
+	<string>propagateTask</string>
+</dict>
+</plist>

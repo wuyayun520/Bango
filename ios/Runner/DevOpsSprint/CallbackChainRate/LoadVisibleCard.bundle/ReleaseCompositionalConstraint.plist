@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationRotation</key>
+	<string>canTransitionImage</string>
+	<key>firstoverlay</key>
+	<string>pivotalTabView</string>
+	<key>hardspot</key>
+	<string>numericalAscent</string>
+	<key>mainException</key>
+	<string>uniformOperation</string>
+	<key>multiplicationprovider</key>
+	<string>pointBridge</string>
+	<key>shoulddisposestack</key>
+	<string>significantSegue</string>
+	<key>sustainableBatch</key>
+	<string>reusabletechniqueinset</string>
+</dict>
+</plist>

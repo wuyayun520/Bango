@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedConsumption</key>
+	<string>unmarshalError</string>
+	<key>newestInteractor</key>
+	<string>processBorder</string>
+	<key>neweststore</key>
+	<string>immutableSpot</string>
+	<key>shouldHandlePoint</key>
+	<string>elasticTable</string>
+	<key>shouldPrepareCoordinator</key>
+	<string>sophisticatedPolyfill</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertbehavior</key>
+	<string>staticPresenter</string>
+	<key>distinctionDistance</key>
+	<string>missedSpot</string>
+	<key>graphvariablebottom</key>
+	<string>similarCubit</string>
+	<key>intermediateOptimizer</key>
+	<string>cartesianLoader</string>
+	<key>lostVariant</key>
+	<string>cartesianOperation</string>
+	<key>relationalInjection</key>
+	<string>canProcessOverlay</string>
+	<key>respectiveStream</key>
+	<string>dialogsKind</string>
+	<key>shouldPopSignature</key>
+	<string>presenterVisitor</string>
+</dict>
+</plist>

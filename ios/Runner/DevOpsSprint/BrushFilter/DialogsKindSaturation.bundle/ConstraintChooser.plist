@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorHead</key>
+	<string>concurrentCubit</string>
+	<key>factorymesh</key>
+	<string>canStopConstraint</string>
+	<key>iconconsumption</key>
+	<string>multiGridView</string>
+	<key>lifecycleBorder</key>
+	<string>unsortedStroke</string>
+	<key>prismaticSensor</key>
+	<string>streamlineInterface</string>
+	<key>shouldDisconnectMultiplication</key>
+	<string>spineparamappearance</string>
+</dict>
+</plist>

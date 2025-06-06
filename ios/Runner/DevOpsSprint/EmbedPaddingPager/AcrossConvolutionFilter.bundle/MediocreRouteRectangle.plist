@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvespacing</key>
+	<string>deferredAwait</string>
+	<key>normalCache</key>
+	<string>crudeProtocol</string>
+	<key>resourceactivitybottom</key>
+	<string>materialDecoration</string>
+	<key>shouldLayoutCard</key>
+	<string>persistRow</string>
+	<key>shouldUnbindTabBar</key>
+	<string>backwardTicker</string>
+</dict>
+</plist>

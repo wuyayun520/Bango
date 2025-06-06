@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocinteraction</key>
+	<string>captureFrame</string>
+	<key>discardedequalizationflags</key>
+	<string>aspectratiorotation</string>
+	<key>errorlocation</key>
+	<string>cubepainter</string>
+	<key>formatSkewX</key>
+	<string>concurrentSemantics</string>
+	<key>groupmerger</key>
+	<string>pinchableMethod</string>
+	<key>localizationcompositepadding</key>
+	<string>canMountAspect</string>
+	<key>menuinterval</key>
+	<string>stepevaluation</string>
+	<key>multiPadding</key>
+	<string>usagesink</string>
+	<key>shouldDispatchNavigator</key>
+	<string>pushMember</string>
+	<key>themeactionbrightness</key>
+	<string>prevThroughput</string>
+</dict>
+</plist>

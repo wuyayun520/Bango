@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerSkewX</key>
+	<string>discardedlayertail</string>
+	<key>immutableHistogram</key>
+	<string>symmetricModal</string>
+	<key>immutableMonster</key>
+	<string>canPersistReduction</string>
+	<key>inheritedDialogs</key>
+	<string>cartesianCompleter</string>
+	<key>lifecycleLocation</key>
+	<string>gridviewPattern</string>
+	<key>robustCell</key>
+	<string>volumeDirection</string>
+	<key>semanticMenu</key>
+	<string>shouldconnectdrawer</string>
+	<key>staticMenu</key>
+	<string>statelessfinder</string>
+	<key>unactivatedSession</key>
+	<string>giftlocalization</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedButton</key>
+	<string>dismissSkin</string>
+	<key>dependencyforce</key>
+	<string>showBaseline</string>
+	<key>shouldCacheDialogs</key>
+	<string>modalBuffer</string>
+	<key>shouldCancelListView</key>
+	<string>bufferCycle</string>
+	<key>shouldDispatchExpanded</key>
+	<string>persistBehavior</string>
+	<key>similarBloc</key>
+	<string>reduceGraph</string>
+</dict>
+</plist>

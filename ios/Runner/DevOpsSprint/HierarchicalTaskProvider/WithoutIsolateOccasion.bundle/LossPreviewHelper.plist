@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationFeedback</key>
+	<string>refreshAction</string>
+	<key>ephemeralCapsule</key>
+	<string>canUnmountMission</string>
+	<key>giftName</key>
+	<string>slidertop</string>
+	<key>multiContraction</key>
+	<string>loadIndicator</string>
+	<key>retainedIntegration</key>
+	<string>denseStrength</string>
+</dict>
+</plist>

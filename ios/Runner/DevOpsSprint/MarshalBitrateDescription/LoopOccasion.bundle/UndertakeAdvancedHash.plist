@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTheme</key>
+	<string>pinchableFinder</string>
+	<key>geometricCompleter</key>
+	<string>materialChart</string>
+	<key>intermediateLifecycle</key>
+	<string>embraceObserver</string>
+	<key>rectoccasion</key>
+	<string>shouldFinishBloc</string>
+	<key>schedulecapsule</key>
+	<string>granularmaster</string>
+	<key>showcursor</key>
+	<string>sharedIndicator</string>
+	<key>usedEntropy</key>
+	<string>dynamicColumn</string>
+	<key>vectorflyweightbottom</key>
+	<string>specifyComponent</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablerouteinterval</key>
+	<string>channelssize</string>
+	<key>effectdrawer</key>
+	<string>pickerFeedback</string>
+	<key>hardNotifier</key>
+	<string>shouldListenDialogs</string>
+	<key>requestOrientation</key>
+	<string>eventBound</string>
+	<key>sessionScale</key>
+	<string>marginrate</string>
+	<key>shouldLayoutMonster</key>
+	<string>secondBullet</string>
+</dict>
+</plist>

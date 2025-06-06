@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialChannels</key>
+	<string>resizableexpanded</string>
+	<key>immediateChecklist</key>
+	<string>invisibleChooser</string>
+	<key>multiplicationInterval</key>
+	<string>draggableTask</string>
+	<key>parallelModel</key>
+	<string>navigatecollection</string>
+	<key>remainderMargin</key>
+	<string>boxshadowacceleration</string>
+	<key>sortedlayerstyle</key>
+	<string>canCancelPriority</string>
+</dict>
+</plist>

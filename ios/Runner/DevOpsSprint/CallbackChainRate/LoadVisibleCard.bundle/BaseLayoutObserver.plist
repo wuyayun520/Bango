@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialBase</key>
+	<string>dedicatedCurve</string>
+	<key>crucialexception</key>
+	<string>concurrentRichText</string>
+	<key>discardedAnimator</key>
+	<string>popslider</string>
+	<key>independentAlignment</key>
+	<string>labelBridge</string>
+	<key>injectionasparam</key>
+	<string>disconnectchart</string>
+	<key>nibtransparency</key>
+	<string>mediumBatch</string>
+	<key>profileAcceleration</key>
+	<string>desktopSwitch</string>
+	<key>roleOrientation</key>
+	<string>listenerVariable</string>
+	<key>smallMend</key>
+	<string>intermediatePresenter</string>
+</dict>
+</plist>

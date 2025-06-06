@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveGrid</key>
+	<string>canYieldPadding</string>
+	<key>durationleft</key>
+	<string>requiredstateful</string>
+	<key>firstTriangles</key>
+	<string>shouldAttachMonster</string>
+	<key>navigatebehavior</key>
+	<string>scalabilityDistance</string>
+	<key>seamlessCell</key>
+	<string>sineShape</string>
+</dict>
+</plist>

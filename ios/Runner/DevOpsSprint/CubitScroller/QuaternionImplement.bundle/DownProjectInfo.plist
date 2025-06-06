@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoHandler</key>
+	<string>statelessUtil</string>
+	<key>listeneroutsideplatform</key>
+	<string>specifyLabel</string>
+	<key>materialFinder</key>
+	<string>holdChannel</string>
+	<key>mobileDirection</key>
+	<string>disparateExpanded</string>
+	<key>shouldTransitionCupertino</key>
+	<string>gateexceptphase</string>
+	<key>statelessListener</key>
+	<string>canDispatchNavigation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRichText</key>
+	<string>boxshadowEdge</string>
+	<key>greatLocalization</key>
+	<string>canSubscribeScroll</string>
+	<key>onpositionedchanged</key>
+	<string>limitPosition</string>
+	<key>playbackState</key>
+	<string>durationvisible</string>
+	<key>provisionFeedback</key>
+	<string>textfieldorigin</string>
+	<key>shouldListenBullet</key>
+	<string>accordionMesh</string>
+	<key>taxonomyPadding</key>
+	<string>radiusfrequency</string>
+	<key>taxonomycolor</key>
+	<string>compositionalInjection</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustanimation</key>
+	<string>keepNavigator</string>
+	<key>missedCompletion</key>
+	<string>webQueue</string>
+	<key>replaceresponse</key>
+	<string>shouldSaveResource</string>
+	<key>responsiveMapper</key>
+	<string>priorMend</string>
+	<key>shouldDispatchMaster</key>
+	<string>transformSink</string>
+	<key>shouldEndObserver</key>
+	<string>resolvercreator</string>
+	<key>shouldRestartCell</key>
+	<string>shouldReplaceSwift</string>
+	<key>shouldSkipRow</key>
+	<string>pendingTabView</string>
+	<key>stackInterval</key>
+	<string>scenarioDelay</string>
+	<key>statelessRadius</key>
+	<string>labelstyletransparency</string>
+</dict>
+</plist>

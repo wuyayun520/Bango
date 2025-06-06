@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelSkewY</key>
+	<string>displayableappbarstyle</string>
+	<key>controllerHead</key>
+	<string>augmentMenu</string>
+	<key>cubitstatus</key>
+	<string>skirtMode</string>
+	<key>missedLog</key>
+	<string>explicitVolume</string>
+	<key>provisionSpacing</key>
+	<string>compositionalRow</string>
+	<key>smartProtocol</key>
+	<string>geometricImpact</string>
+	<key>staticColumn</key>
+	<string>canStreamStateful</string>
+</dict>
+</plist>

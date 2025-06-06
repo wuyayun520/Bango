@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBinary</key>
+	<string>semanticShape</string>
+	<key>alphascopescale</key>
+	<string>alphaJob</string>
+	<key>immutableIcon</key>
+	<string>annotateRouter</string>
+	<key>largeinteractor</key>
+	<string>dedicatedpointvisibility</string>
+	<key>paddingTag</key>
+	<string>missionProxy</string>
+	<key>restartstorage</key>
+	<string>firstOption</string>
+	<key>shouldCreateMovement</key>
+	<string>shouldPersistCheckbox</string>
+	<key>tensorSymbol</key>
+	<string>symmetricBrush</string>
+	<key>touchinfo</key>
+	<string>newestjoiner</string>
+</dict>
+</plist>

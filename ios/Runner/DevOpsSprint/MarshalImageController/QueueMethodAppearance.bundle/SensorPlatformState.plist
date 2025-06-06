@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableInteraction</key>
+	<string>canDisconnectTheme</string>
+	<key>reactiveFuture</key>
+	<string>captureDuration</string>
+	<key>receiverPadding</key>
+	<string>sanitizeTexture</string>
+	<key>subscriptionbottom</key>
+	<string>consumptionContrast</string>
+</dict>
+</plist>

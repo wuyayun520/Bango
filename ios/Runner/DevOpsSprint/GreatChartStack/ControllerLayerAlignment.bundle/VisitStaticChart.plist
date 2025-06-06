@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttontransparency</key>
+	<string>shouldSaveExtension</string>
+	<key>concreteEmitter</key>
+	<string>rotateResource</string>
+	<key>gramflyweightopacity</key>
+	<string>attachrect</string>
+	<key>isKernel</key>
+	<string>loopreplica</string>
+	<key>liteBehavior</key>
+	<string>arithmeticMetrics</string>
+	<key>painterShape</key>
+	<string>borderTier</string>
+	<key>saveticker</key>
+	<string>shouldProcessConstraint</string>
+	<key>shouldUnbindAnchor</key>
+	<string>creatorHead</string>
+	<key>tappableObserver</key>
+	<string>convolutionedge</string>
+</dict>
+</plist>

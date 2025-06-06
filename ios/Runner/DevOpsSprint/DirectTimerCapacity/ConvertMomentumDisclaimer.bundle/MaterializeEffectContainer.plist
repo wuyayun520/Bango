@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousChannels</key>
+	<string>typicalCharacteristic</string>
+	<key>functionalEquipment</key>
+	<string>normBottom</string>
+	<key>specifyMapper</key>
+	<string>accordionTweak</string>
+	<key>usecasetolerance</key>
+	<string>iterativeModel</string>
+</dict>
+</plist>

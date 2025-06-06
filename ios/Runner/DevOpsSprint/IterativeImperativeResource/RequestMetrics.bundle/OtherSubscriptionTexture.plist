@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionTransparency</key>
+	<string>reflectPreview</string>
+	<key>cupertinostatecolor</key>
+	<string>infoCenter</string>
+	<key>decorationSaturation</key>
+	<string>navigateFragment</string>
+	<key>imageDirection</key>
+	<string>advancedAllocator</string>
+	<key>permanentColor</key>
+	<string>constructVector</string>
+	<key>prevIntegration</key>
+	<string>discardedPromise</string>
+	<key>shouldNotifyMargin</key>
+	<string>parseTable</string>
+	<key>singletonwithtype</key>
+	<string>contrastFormat</string>
+	<key>subsequentLocalization</key>
+	<string>associatedIntensity</string>
+</dict>
+</plist>

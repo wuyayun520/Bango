@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeSprite</key>
+	<string>priorConfidentiality</string>
+	<key>limitprovider</key>
+	<string>deflateAsset</string>
+	<key>serviceCenter</key>
+	<string>specifyFuture</string>
+	<key>sessionTheme</key>
+	<string>shouldPopCoordinator</string>
+	<key>shouldPublishDelegate</key>
+	<string>shouldSubscribeReference</string>
+	<key>shouldSaveActivity</key>
+	<string>crucialView</string>
+	<key>shouldSerializeCollection</key>
+	<string>inactiveEvolution</string>
+</dict>
+</plist>

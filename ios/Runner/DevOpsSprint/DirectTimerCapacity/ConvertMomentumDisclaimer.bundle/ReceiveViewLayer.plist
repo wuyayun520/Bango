@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isArithmetic</key>
+	<string>parseMusic</string>
+	<key>lastHistogram</key>
+	<string>canUnbindShader</string>
+	<key>multiResource</key>
+	<string>hardDecoration</string>
+	<key>nextProject</key>
+	<string>progressbarPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSpecifier</key>
+	<string>provisionBottom</string>
+	<key>activeAscent</key>
+	<string>advancedComposition</string>
+	<key>opaqueManager</key>
+	<string>trainAccessory</string>
+	<key>permissiveExponent</key>
+	<string>basicprecision</string>
+	<key>primaryStore</key>
+	<string>routerfilter</string>
+	<key>resilientChannels</key>
+	<string>sizeKind</string>
+	<key>smallInkWell</key>
+	<string>aggregateTopic</string>
+	<key>sortedThreshold</key>
+	<string>optimizervelocity</string>
+</dict>
+</plist>

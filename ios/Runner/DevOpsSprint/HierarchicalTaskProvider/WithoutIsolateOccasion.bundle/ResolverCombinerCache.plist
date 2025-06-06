@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedScene</key>
+	<string>queueAction</string>
+	<key>coordinatorDensity</key>
+	<string>timelineInteraction</string>
+	<key>cosineFormat</key>
+	<string>crucialGroup</string>
+	<key>curvetrigger</key>
+	<string>secondEmitter</string>
+	<key>customRadio</key>
+	<string>advancedCurve</string>
+	<key>prismaticTween</key>
+	<string>selectedPrecision</string>
+	<key>retrievesymbol</key>
+	<string>usedRectangle</string>
+	<key>secondMomentum</key>
+	<string>resumeNotifier</string>
+	<key>stepsaturation</key>
+	<string>stampForce</string>
+	<key>sustainableLoop</key>
+	<string>chartVar</string>
+</dict>
+</plist>

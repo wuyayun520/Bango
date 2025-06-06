@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentjobvelocity</key>
+	<string>stampValidation</string>
+	<key>backwardstate</key>
+	<string>mergerTheme</string>
+	<key>collectionTint</key>
+	<string>cancelConsumer</string>
+	<key>extensionIndex</key>
+	<string>tabviewstructurecontrast</string>
+	<key>integrityLocation</key>
+	<string>interactivesizeshade</string>
+	<key>resourcebyflyweight</key>
+	<string>directConfiguration</string>
+	<key>shouldListenCaption</key>
+	<string>emitAwait</string>
+</dict>
+</plist>

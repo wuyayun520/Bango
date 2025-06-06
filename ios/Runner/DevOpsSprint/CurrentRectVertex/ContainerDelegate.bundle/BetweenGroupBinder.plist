@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderalignment</key>
+	<string>rowframe</string>
+	<key>customizedCache</key>
+	<string>storeLocalization</string>
+	<key>imperativeprotocolindex</key>
+	<string>deferredData</string>
+	<key>metricsRotation</key>
+	<string>canSetStateExtension</string>
+	<key>pinchableContraction</key>
+	<string>usedRenderer</string>
+	<key>positionedalongchain</key>
+	<string>defaultMaster</string>
+	<key>secondPicker</key>
+	<string>canTransitionClipper</string>
+	<key>sequentialStore</key>
+	<string>invisibleNotifier</string>
+	<key>spineDistance</key>
+	<string>documentShape</string>
+</dict>
+</plist>

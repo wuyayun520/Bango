@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerbuffer</key>
+	<string>directlycreator</string>
+	<key>flexibleExpanded</key>
+	<string>providerdensity</string>
+	<key>intermediateDelegate</key>
+	<string>criticaltransformertype</string>
+	<key>invisibleSegment</key>
+	<string>analyzeFrame</string>
+	<key>mobileTag</key>
+	<string>shouldResumeRadio</string>
+	<key>nextAllocator</key>
+	<string>trainmanager</string>
+	<key>persistentResponder</key>
+	<string>denseChecklist</string>
+	<key>protectedsessionopacity</key>
+	<string>responsiveText</string>
+	<key>shouldDetachSwift</key>
+	<string>canLoadThread</string>
+	<key>visibleAppBar</key>
+	<string>modelActivity</string>
+</dict>
+</plist>

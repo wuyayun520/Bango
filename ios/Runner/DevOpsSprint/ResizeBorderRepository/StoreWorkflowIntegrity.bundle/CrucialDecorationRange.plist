@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineEdge</key>
+	<string>activatedchecklisttop</string>
+	<key>otherIndicator</key>
+	<string>shouldPushShader</string>
+	<key>responsiveexceptiondistance</key>
+	<string>isborder</string>
+	<key>shoulddisposeappbar</key>
+	<string>nextMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeOrigin</key>
+	<string>hasUnary</string>
+	<key>dispatcherEdge</key>
+	<string>yieldCharacter</string>
+	<key>invisibleMenu</key>
+	<string>diffableSlash</string>
+	<key>mergerinterval</key>
+	<string>localQuaternion</string>
+	<key>queuewithoutstyle</key>
+	<string>canPersistCatalyst</string>
+	<key>referenceAcceleration</key>
+	<string>gateInterpreter</string>
+	<key>shouldRestartGestureDetector</key>
+	<string>ephemeralGraphic</string>
+	<key>shouldshowskin</key>
+	<string>mendMode</string>
+	<key>webChooser</key>
+	<string>removescreen</string>
+</dict>
+</plist>

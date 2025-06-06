@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindslider</key>
+	<string>canHandleListView</string>
+	<key>constraintDuration</key>
+	<string>catalystFlags</string>
+	<key>durationPadding</key>
+	<string>shouldInflateCatalyst</string>
+	<key>integrityVelocity</key>
+	<string>interpolationprototypeflags</string>
+	<key>liteTicker</key>
+	<string>canEndDrawer</string>
+	<key>projectionKind</key>
+	<string>substantialScroller</string>
+	<key>robustFrame</key>
+	<string>declarativeMission</string>
+	<key>shouldPushText</key>
+	<string>shouldValidateCard</string>
+	<key>shouldSubscribeOption</key>
+	<string>standaloneSlash</string>
+</dict>
+</plist>

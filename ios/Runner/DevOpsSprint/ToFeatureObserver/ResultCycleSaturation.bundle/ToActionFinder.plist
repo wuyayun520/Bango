@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturecontrast</key>
+	<string>signatureTail</string>
+	<key>concurrentReceiver</key>
+	<string>publishAperture</string>
+	<key>explicitContainer</key>
+	<string>shouldUnmountHistogram</string>
+	<key>multiplicationIndex</key>
+	<string>layoutScaffold</string>
+	<key>scrollableTabBar</key>
+	<string>receiveresource</string>
+	<key>signatureoffset</key>
+	<string>shouldAnimateMomentum</string>
+</dict>
+</plist>

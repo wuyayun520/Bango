@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedLoop</key>
+	<string>canSetStatePrecision</string>
+	<key>integerandnumber</key>
+	<string>interpolateListener</string>
+	<key>scenetail</key>
+	<string>opaqueConfidentiality</string>
+	<key>scrollablePlayback</key>
+	<string>paralleltext</string>
+	<key>singleTitle</key>
+	<string>rectPattern</string>
+</dict>
+</plist>

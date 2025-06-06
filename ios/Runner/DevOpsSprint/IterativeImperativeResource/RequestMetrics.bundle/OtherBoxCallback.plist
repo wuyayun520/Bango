@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulescopeflags</key>
+	<string>resultthanbridge</string>
+	<key>completionContrast</key>
+	<string>agileBuilder</string>
+	<key>convolutionInterval</key>
+	<string>standalonepicker</string>
+	<key>difficultElement</key>
+	<string>shouldPopTransition</string>
+	<key>iterativeMedia</key>
+	<string>partitionGrid</string>
+	<key>layoutcomponent</key>
+	<string>stackJob</string>
+	<key>routerdelivery</key>
+	<string>dissociateParticle</string>
+	<key>shouldPausePainter</key>
+	<string>shouldFetchStamp</string>
+	<key>textinvar</key>
+	<string>buildwidget</string>
+</dict>
+</plist>

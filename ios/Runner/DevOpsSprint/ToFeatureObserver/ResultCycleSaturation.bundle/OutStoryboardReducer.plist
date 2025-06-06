@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphafunctiondirection</key>
+	<string>significantpaddingedge</string>
+	<key>basicsize</key>
+	<string>segueVar</string>
+	<key>clipperDelay</key>
+	<string>commonTabBar</string>
+	<key>gestureFeedback</key>
+	<string>asynchronousController</string>
+	<key>resolvetabbar</key>
+	<string>granularPresenter</string>
+	<key>shouldFinishProtocol</key>
+	<string>strokeSpeed</string>
+	<key>shouldTransformNorm</key>
+	<string>fixedCheckbox</string>
+	<key>techniqueslider</key>
+	<string>exceptionCommand</string>
+	<key>unbindinjection</key>
+	<string>missionParameter</string>
+</dict>
+</plist>

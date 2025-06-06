@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCard</key>
+	<string>scrollableMapper</string>
+	<key>interactiveModel</key>
+	<string>disconnectTool</string>
+	<key>mutableconstraint</key>
+	<string>backwardMap</string>
+	<key>normSaturation</key>
+	<string>readAlignment</string>
+	<key>shouldLayoutEntropy</key>
+	<string>robustparticledirection</string>
+</dict>
+</plist>

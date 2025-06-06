@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistType</key>
+	<string>listenerPhase</string>
+	<key>deactivateanimation</key>
+	<string>shouldDeserializeEntropy</string>
+	<key>elasticThread</key>
+	<string>shouldDeserializePageView</string>
+	<key>materialchartforce</key>
+	<string>deferredTimer</string>
+	<key>observercoord</key>
+	<string>sequentialRichText</string>
+	<key>priorityconstraint</key>
+	<string>concreteScale</string>
+	<key>shouldContinueMobile</key>
+	<string>allocateTimer</string>
+	<key>specifiermomentum</key>
+	<string>sizedboxMomentum</string>
+	<key>ternaryKind</key>
+	<string>independentCursor</string>
+</dict>
+</plist>

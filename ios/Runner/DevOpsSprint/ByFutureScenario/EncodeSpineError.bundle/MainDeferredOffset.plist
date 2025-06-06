@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activateditem</key>
+	<string>particlealongwork</string>
+	<key>intermediateMaster</key>
+	<string>moduluslikescope</string>
+	<key>lazyTolerance</key>
+	<string>batchTransparency</string>
+	<key>memberformtint</key>
+	<string>customizedProvision</string>
+	<key>radiusVisible</key>
+	<string>cartesianResilience</string>
+	<key>releaselayer</key>
+	<string>mobileEmitter</string>
+</dict>
+</plist>

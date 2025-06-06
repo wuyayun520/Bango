@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendexception</key>
+	<string>oldSpine</string>
+	<key>attachinjection</key>
+	<string>instructionanimation</string>
+	<key>iconrate</key>
+	<string>prevState</string>
+	<key>nodeFeedback</key>
+	<string>semanticlistenervisible</string>
+	<key>numericalAsset</key>
+	<string>providerVariable</string>
+	<key>permissiveSingleton</key>
+	<string>controllerskewy</string>
+	<key>prevDisclaimer</key>
+	<string>consumeinteger</string>
+	<key>previewMode</key>
+	<string>temporarychart</string>
+	<key>shouldValidateRoute</key>
+	<string>diffableTrajectory</string>
+	<key>usecaseoffset</key>
+	<string>descriptorhead</string>
+</dict>
+</plist>

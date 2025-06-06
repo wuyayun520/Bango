@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsbesidecontext</key>
+	<string>missedDropdownButton</string>
+	<key>dependencyorigin</key>
+	<string>heroPattern</string>
+	<key>originalElement</key>
+	<string>cancelLog</string>
+	<key>otherTimeline</key>
+	<string>shouldObservePlate</string>
+	<key>roleVisibility</key>
+	<string>canFormatShader</string>
+	<key>shapePressure</key>
+	<string>transformicon</string>
+	<key>shouldInflateBitrate</key>
+	<string>volumeContrast</string>
+	<key>shouldPublishOption</key>
+	<string>persistMovement</string>
+	<key>smallaspect</key>
+	<string>sortedmultiplication</string>
+</dict>
+</plist>

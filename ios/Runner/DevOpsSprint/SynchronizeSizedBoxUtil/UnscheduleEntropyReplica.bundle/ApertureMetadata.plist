@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSkirt</key>
+	<string>dedicatedGroup</string>
+	<key>modelSkewY</key>
+	<string>parsescale</string>
+	<key>radioCoord</key>
+	<string>refreshButton</string>
+	<key>shouldStreamModulus</key>
+	<string>computeManager</string>
+	<key>shouldStreamText</key>
+	<string>smartPet</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoOverlay</key>
+	<string>autotask</string>
+	<key>directException</key>
+	<string>shouldLayoutCapsule</string>
+	<key>fusedGraphic</key>
+	<string>dynamicLayer</string>
+	<key>immediateAnimation</key>
+	<string>shouldInflateObserver</string>
+	<key>nextLocalization</key>
+	<string>shouldMountGradient</string>
+	<key>sharedVariant</key>
+	<string>shouldLayoutMatrix</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLoop</key>
+	<string>comprehensiveConnector</string>
+	<key>deferredOperation</key>
+	<string>asynchronousMultiplication</string>
+	<key>displayableError</key>
+	<string>canDisconnectCursor</string>
+	<key>encodesingleton</key>
+	<string>triggerSpacing</string>
+	<key>gridviewTag</key>
+	<string>commoncallbackfrequency</string>
+	<key>queuefeedback</key>
+	<string>tensorMenu</string>
+	<key>shouldDismissMaterial</key>
+	<string>shouldDetachResource</string>
+	<key>symmetricAperture</key>
+	<string>continueCursor</string>
+</dict>
+</plist>

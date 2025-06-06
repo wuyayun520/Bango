@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatescaffold</key>
+	<string>diversifiedstate</string>
+	<key>binderFrequency</key>
+	<string>locateDuration</string>
+	<key>compositionstyle</key>
+	<string>cartesianCube</string>
+	<key>directTentative</key>
+	<string>mapDistance</string>
+	<key>euclideanSlash</key>
+	<string>canSetStateEquipment</string>
+	<key>gesturedetectorelasticity</key>
+	<string>handleReference</string>
+	<key>hardGradient</key>
+	<string>encapsulateResult</string>
+	<key>hierarchicalMerger</key>
+	<string>asynchronouspointduration</string>
+	<key>numericalTime</key>
+	<string>ephemeralstore</string>
+	<key>retrieveconsumer</key>
+	<string>canProcessStateless</string>
+</dict>
+</plist>

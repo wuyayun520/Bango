@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystroute</key>
+	<string>quantizerMenu</string>
+	<key>commonMedia</key>
+	<string>conformInteractor</string>
+	<key>integerRight</key>
+	<string>prevservicerotation</string>
+	<key>isolateMode</key>
+	<string>aggregateState</string>
+	<key>mediumconfidentiality</key>
+	<string>resizableTransition</string>
+	<key>shouldSetStateWorkflow</key>
+	<string>stepBound</string>
+	<key>unsortedRecursion</key>
+	<string>canKeepPoint</string>
+</dict>
+</plist>

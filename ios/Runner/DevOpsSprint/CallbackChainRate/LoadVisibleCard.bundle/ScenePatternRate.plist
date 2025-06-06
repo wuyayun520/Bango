@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>joinerOrigin</key>
+	<string>progressbarwithoutvalue</string>
+	<key>lazyTangent</key>
+	<string>enhanceAlignment</string>
+	<key>nextEmitter</key>
+	<string>marginAction</string>
+	<key>opaqueSlash</key>
+	<string>selectedduration</string>
+	<key>substantialdispatcher</key>
+	<string>commonChooser</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardsine</key>
+	<string>shouldPrepareSwitch</string>
+	<key>herodetail</key>
+	<string>permanenttrajectory</string>
+	<key>opaqueImpression</key>
+	<string>shouldPopNavigator</string>
+	<key>shouldRebuildAnchor</key>
+	<string>logarithmduration</string>
+	<key>shouldRestartRemainder</key>
+	<string>shouldPaintDuration</string>
+	<key>stampSize</key>
+	<string>sustainableExpanded</string>
+</dict>
+</plist>

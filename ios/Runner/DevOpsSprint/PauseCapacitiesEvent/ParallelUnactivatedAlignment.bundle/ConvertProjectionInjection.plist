@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalAnchor</key>
+	<string>toolTask</string>
+	<key>infoSkewX</key>
+	<string>shouldCancelComposition</string>
+	<key>numericalBloc</key>
+	<string>curveFormat</string>
+	<key>resilientTangent</key>
+	<string>opaqueContrast</string>
+	<key>subtleTweak</key>
+	<string>firstcontroller</string>
+</dict>
+</plist>

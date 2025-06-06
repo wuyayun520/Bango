@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentTop</key>
+	<string>commonobserver</string>
+	<key>imperativeRequest</key>
+	<string>shouldCreateIcon</string>
+	<key>persistentBoxShadow</key>
+	<string>shouldPaintNotification</string>
+	<key>remainderkindoffset</key>
+	<string>binderSpacing</string>
+	<key>specifyDispatcher</key>
+	<string>shouldAttachEqualization</string>
+	<key>themeorparam</key>
+	<string>difficultGroup</string>
+</dict>
+</plist>

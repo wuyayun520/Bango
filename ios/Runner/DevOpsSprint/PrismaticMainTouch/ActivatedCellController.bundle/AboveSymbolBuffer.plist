@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activelistviewedge</key>
+	<string>intuitiveMesh</string>
+	<key>benchmarkclipper</key>
+	<string>parallelZone</string>
+	<key>delegateFlags</key>
+	<string>canDecodeContainer</string>
+	<key>paintutil</key>
+	<string>streamhandler</string>
+	<key>permanentPager</key>
+	<string>shouldEncodeAnchor</string>
+	<key>shouldUnbindDrawer</key>
+	<string>createbloc</string>
+	<key>viewstatus</key>
+	<string>musicAppearance</string>
+</dict>
+</plist>

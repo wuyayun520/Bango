@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>monsterformat</key>
+	<string>activatedIntegration</string>
+	<key>nextManager</key>
+	<string>fixedTriangles</string>
+	<key>resolverBrightness</key>
+	<string>defaultCoordinator</string>
+	<key>shouldTransitionBaseline</key>
+	<string>functionalCatalyst</string>
+</dict>
+</plist>

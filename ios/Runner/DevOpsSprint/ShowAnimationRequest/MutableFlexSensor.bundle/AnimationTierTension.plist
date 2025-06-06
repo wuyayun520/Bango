@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentAppearance</key>
+	<string>webRouter</string>
+	<key>hasboxshadow</key>
+	<string>finderOrigin</string>
+	<key>largeInformation</key>
+	<string>firsttransitiondirection</string>
+	<key>segueinteraction</key>
+	<string>shouldProcessAspect</string>
+	<key>sharedLayout</key>
+	<string>visibleTweak</string>
+	<key>shouldmountworkflow</key>
+	<string>musicRate</string>
+	<key>smallTitle</key>
+	<string>iterativeCompleter</string>
+	<key>taskviamediator</key>
+	<string>multiplicationLeft</string>
+</dict>
+</plist>

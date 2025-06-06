@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>latencyScale</key>
+	<string>crudeThroughput</string>
+	<key>notifiersingletonscale</key>
+	<string>sustainableScenario</string>
+	<key>playbackFeedback</key>
+	<string>keyException</string>
+	<key>relationalDescription</key>
+	<string>comprehensivewidgettype</string>
+</dict>
+</plist>

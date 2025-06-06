@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalProtocol</key>
+	<string>diffableConstraint</string>
+	<key>elasticConfiguration</key>
+	<string>semanticCapacity</string>
+	<key>fusedTrigger</key>
+	<string>rectTint</string>
+	<key>mediaqueryState</key>
+	<string>executeRouter</string>
+	<key>mediumhistogram</key>
+	<string>canAnimateEffect</string>
+	<key>semanticchart</key>
+	<string>movementEnvironment</string>
+</dict>
+</plist>

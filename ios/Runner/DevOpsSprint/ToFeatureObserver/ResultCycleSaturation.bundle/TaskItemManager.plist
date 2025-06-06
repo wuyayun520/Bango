@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocviamode</key>
+	<string>behaviorCoord</string>
+	<key>disposeinkwell</key>
+	<string>disparateTime</string>
+	<key>grambottom</key>
+	<string>pendingGrayscale</string>
+	<key>logInteraction</key>
+	<string>toleranceDensity</string>
+	<key>shouldAnimateBaseline</key>
+	<string>presenterTop</string>
+	<key>shouldDisconnectCosine</key>
+	<string>equipmentfrequency</string>
+	<key>smallRow</key>
+	<string>uniformProcessor</string>
+</dict>
+</plist>

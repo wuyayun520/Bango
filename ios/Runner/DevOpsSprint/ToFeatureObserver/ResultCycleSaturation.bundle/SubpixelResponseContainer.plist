@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerstorage</key>
+	<string>accessibleInfo</string>
+	<key>createtween</key>
+	<string>missedBuilder</string>
+	<key>diffableLoop</key>
+	<string>baseAlignment</string>
+	<key>imperativeRequest</key>
+	<string>shouldLayoutInterpolation</string>
+	<key>shouldPauseNotification</key>
+	<string>unscheduleRouter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedWidget</key>
+	<string>petopacity</string>
+	<key>priorScaffold</key>
+	<string>createhandler</string>
+	<key>shouldTransformHeap</key>
+	<string>resilientEquivalent</string>
+	<key>shouldparseanchor</key>
+	<string>decodespot</string>
+	<key>smallTweak</key>
+	<string>discovermaster</string>
+	<key>smartRouter</key>
+	<string>backwardFinder</string>
+</dict>
+</plist>

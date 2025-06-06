@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBehavior</key>
+	<string>greatScenario</string>
+	<key>animatedcontainerlevelpadding</key>
+	<string>matrixEnvironment</string>
+	<key>compositionalDelegate</key>
+	<string>handlerSpeed</string>
+	<key>cubepatternshade</key>
+	<string>mutableConverter</string>
+	<key>menuDensity</key>
+	<string>tickerbybridge</string>
+	<key>poplabel</key>
+	<string>yieldDimension</string>
+	<key>reactiveHistogram</key>
+	<string>subsequentFrame</string>
+	<key>timertype</key>
+	<string>connectView</string>
+</dict>
+</plist>

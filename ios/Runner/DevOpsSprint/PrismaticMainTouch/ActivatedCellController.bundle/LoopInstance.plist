@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarBrightness</key>
+	<string>methodSkewY</string>
+	<key>architectureInset</key>
+	<string>notifybutton</string>
+	<key>collectionHead</key>
+	<string>encapsulateAsset</string>
+	<key>concatenateusecase</key>
+	<string>hierarchicalNavigator</string>
+	<key>concurrentslider</key>
+	<string>sharedFrame</string>
+	<key>loopShade</key>
+	<string>reactiveaccessory</string>
+	<key>normalTimer</key>
+	<string>lockTexture</string>
+	<key>positionedMomentum</key>
+	<string>canEmitStep</string>
+</dict>
+</plist>

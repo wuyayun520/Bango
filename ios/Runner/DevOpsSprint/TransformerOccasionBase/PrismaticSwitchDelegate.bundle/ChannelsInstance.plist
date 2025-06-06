@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionworkoffset</key>
+	<string>evolutionMargin</string>
+	<key>intensityCenter</key>
+	<string>charactersink</string>
+	<key>interactororigin</key>
+	<string>shouldunmountedlabel</string>
+	<key>iterativeSlider</key>
+	<string>canUnbindSpine</string>
+	<key>permissiveAwait</key>
+	<string>quantizationNavigator</string>
+	<key>shouldAnimateExtension</key>
+	<string>intuitiveLinker</string>
+	<key>shouldKeepSlash</key>
+	<string>canPersistGraphic</string>
+</dict>
+</plist>

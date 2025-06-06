@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleProfile</key>
+	<string>canProcessButton</string>
+	<key>moduleBehavior</key>
+	<string>poolconvolution</string>
+	<key>relationalCursor</key>
+	<string>sinkFlyweight</string>
+	<key>shouldKeepPainter</key>
+	<string>synchronousContainer</string>
+	<key>streamprovider</key>
+	<string>symbolfunctionbehavior</string>
+	<key>uniquecoordinatorcontrast</key>
+	<string>difficultlinker</string>
+</dict>
+</plist>

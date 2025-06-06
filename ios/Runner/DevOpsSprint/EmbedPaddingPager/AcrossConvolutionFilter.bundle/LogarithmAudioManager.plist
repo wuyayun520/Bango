@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedAlert</key>
+	<string>schedulerDirection</string>
+	<key>apertureinset</key>
+	<string>handleThread</string>
+	<key>dataSpacing</key>
+	<string>checkTask</string>
+	<key>futureFrequency</key>
+	<string>crucialNib</string>
+	<key>preparemodal</key>
+	<string>aspectspeed</string>
+	<key>respectivePageView</key>
+	<string>shouldTransformPainter</string>
+	<key>respectiveReliability</key>
+	<string>shouldPublishStateless</string>
+	<key>stackContrast</key>
+	<string>processMatrix</string>
+	<key>startbullet</key>
+	<string>observePadding</string>
+</dict>
+</plist>

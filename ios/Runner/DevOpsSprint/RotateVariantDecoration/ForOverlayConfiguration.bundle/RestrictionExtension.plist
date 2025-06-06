@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>persistentScenario</key>
+	<string>lazyRecursion</string>
+	<key>progressbarsound</key>
+	<string>keyCursor</string>
+	<key>routeplatforminteraction</key>
+	<string>selectedfuture</string>
+	<key>significantTraversal</key>
+	<string>clonegraph</string>
+	<key>statefulSkewY</key>
+	<string>endRadio</string>
+	<key>stepBottom</key>
+	<string>cupertinoMetadata</string>
+	<key>taskAlignment</key>
+	<string>significantScreen</string>
+	<key>validatestore</key>
+	<string>notifyOption</string>
+</dict>
+</plist>

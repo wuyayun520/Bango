@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedConsumption</key>
+	<string>tabviewatstrategy</string>
+	<key>relationalExpanded</key>
+	<string>sizedboxtheme</string>
+	<key>retainedInformation</key>
+	<string>composabletimeline</string>
+	<key>shouldStartButton</key>
+	<string>poolResource</string>
+</dict>
+</plist>

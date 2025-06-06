@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentVideo</key>
+	<string>gesturedetectorenvironmentsize</string>
+	<key>inheritedVolume</key>
+	<string>singleNode</string>
+	<key>lazytimerborder</key>
+	<string>lostProgressBar</string>
+	<key>recursionTail</key>
+	<string>protectedScenario</string>
+	<key>replicatemobile</key>
+	<string>draggableCaption</string>
+	<key>sharedInjection</key>
+	<string>chapterLevel</string>
+	<key>standaloneRange</key>
+	<string>displayableviewleft</string>
+</dict>
+</plist>

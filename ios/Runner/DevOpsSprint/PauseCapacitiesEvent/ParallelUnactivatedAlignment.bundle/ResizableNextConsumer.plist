@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicasyncfeedback</key>
+	<string>cloneSingleton</string>
+	<key>enabledRole</key>
+	<string>canvasaction</string>
+	<key>ignoredGrid</key>
+	<string>pinchableMechanism</string>
+	<key>monsterwithinterpreter</key>
+	<string>factoryShade</string>
+	<key>serviceResponse</key>
+	<string>bufferKind</string>
+	<key>shouldPushStateless</key>
+	<string>architectureOffset</string>
+	<key>tickervartag</key>
+	<string>shouldDisconnectScaffold</string>
+</dict>
+</plist>

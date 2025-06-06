@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredStateful</key>
+	<string>normaldetector</string>
+	<key>disabledProgressBar</key>
+	<string>storeDelegate</string>
+	<key>futuredispatcher</key>
+	<string>syncOffset</string>
+	<key>shouldNotifyLabel</key>
+	<string>contractionTop</string>
+	<key>signaturerectangle</key>
+	<string>cupertinoSelector</string>
+	<key>subsequentPainter</key>
+	<string>initializeFrame</string>
+</dict>
+</plist>

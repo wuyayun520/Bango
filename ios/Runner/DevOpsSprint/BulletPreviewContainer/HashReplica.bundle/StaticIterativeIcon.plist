@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerprocesstransparency</key>
+	<string>greatItem</string>
+	<key>difficultOption</key>
+	<string>consultativeMechanism</string>
+	<key>drawerRotation</key>
+	<string>triggerAcceleration</string>
+	<key>ephemeralDropdownButton</key>
+	<string>canUnmountedSkin</string>
+	<key>euclideanEfficiency</key>
+	<string>gemresponse</string>
+	<key>finderVelocity</key>
+	<string>triggerFrequency</string>
+	<key>layeroffset</key>
+	<string>immediatePermutation</string>
+	<key>navigationOpacity</key>
+	<string>restrictionPadding</string>
+</dict>
+</plist>

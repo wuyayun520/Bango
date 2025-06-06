@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredgesturedetector</key>
+	<string>flexibleCursor</string>
+	<key>optionShape</key>
+	<string>offsetpressure</string>
+	<key>processorValidation</key>
+	<string>canPauseProtocol</string>
+	<key>shouldDisposePromise</key>
+	<string>serviceanalyzer</string>
+	<key>shouldNavigateNavigator</key>
+	<string>relationalquaternion</string>
+	<key>shouldShowDimension</key>
+	<string>shearisolate</string>
+	<key>shouldStartPrecision</key>
+	<string>enhanceEntity</string>
+	<key>smartChooser</key>
+	<string>processorBottom</string>
+</dict>
+</plist>

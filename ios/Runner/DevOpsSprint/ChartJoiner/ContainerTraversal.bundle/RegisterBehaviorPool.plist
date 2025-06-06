@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAnalyzer</key>
+	<string>shouldValidateSegue</string>
+	<key>animationColor</key>
+	<string>unscheduleReducer</string>
+	<key>customSound</key>
+	<string>litewidget</string>
+	<key>immediateReducer</key>
+	<string>completedNib</string>
+	<key>labelcontrast</key>
+	<string>explicitStateful</string>
+	<key>multiElement</key>
+	<string>imperativeCaption</string>
+	<key>permutationscale</key>
+	<string>elementBehavior</string>
+	<key>specifystate</key>
+	<string>respondUtil</string>
+	<key>symmetricsigndirection</key>
+	<string>robustSlider</string>
+	<key>themeCoord</key>
+	<string>concreteScroller</string>
+</dict>
+</plist>

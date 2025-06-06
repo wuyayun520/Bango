@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedFrame</key>
+	<string>canProcessRichText</string>
+	<key>shouldcreatesine</key>
+	<string>standaloneBrush</string>
+	<key>specifyObject</key>
+	<string>setstateSpecifier</string>
+	<key>specifyRichText</key>
+	<string>shouldRenderCube</string>
+	<key>triggerState</key>
+	<string>shouldPushAspect</string>
+</dict>
+</plist>

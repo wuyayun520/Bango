@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildscroll</key>
+	<string>screenDepth</string>
+	<key>futureSize</key>
+	<string>capacitiesType</string>
+	<key>immutableinteraction</key>
+	<string>buttonStatus</string>
+	<key>publicRole</key>
+	<string>concurrentgesturedetectorspeed</string>
+	<key>subsequentcheckboxvisible</key>
+	<string>navigatorDistance</string>
+	<key>temporaryBrush</key>
+	<string>connectOptimizer</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitContrast</key>
+	<string>allocatorParam</string>
+	<key>rapidSink</key>
+	<string>differentiatereduction</string>
+	<key>seamlessChannels</key>
+	<string>streamcolor</string>
+	<key>shouldInflateRadio</key>
+	<string>publicScene</string>
+</dict>
+</plist>

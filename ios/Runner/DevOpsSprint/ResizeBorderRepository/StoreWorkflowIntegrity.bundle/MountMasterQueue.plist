@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindfragment</key>
+	<string>servicebuilder</string>
+	<key>consultativeMargin</key>
+	<string>canAnimateSpot</string>
+	<key>dependencyMargin</key>
+	<string>significantUsage</string>
+	<key>directGraph</key>
+	<string>segmentCenter</string>
+	<key>euclideanStep</key>
+	<string>canUnbindChecklist</string>
+	<key>prevCycle</key>
+	<string>canPublishCell</string>
+	<key>shouldPersistMember</key>
+	<string>mobileComponent</string>
+	<key>sustainablemobile</key>
+	<string>sequentialstampinterval</string>
+	<key>tensorChallenge</key>
+	<string>currentprotocol</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compilecallback</key>
+	<string>observeConvolution</string>
+	<key>impactCenter</key>
+	<string>elasticRange</string>
+	<key>prevresource</key>
+	<string>keepMovement</string>
+	<key>shouldUnmountExtension</key>
+	<string>canUpdateDrawer</string>
+	<key>shouldYieldMultiplication</key>
+	<string>replaceObserver</string>
+</dict>
+</plist>

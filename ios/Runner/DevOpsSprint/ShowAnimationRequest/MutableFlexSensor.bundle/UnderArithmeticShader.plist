@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateElement</key>
+	<string>formatstep</string>
+	<key>denseFrame</key>
+	<string>routeAperture</string>
+	<key>inactiveSelector</key>
+	<string>crudeMatrix</string>
+	<key>independentzone</key>
+	<string>subpixelDensity</string>
+	<key>selectedrichtext</key>
+	<string>entropyType</string>
+	<key>statefulPresenter</key>
+	<string>displayTransition</string>
+	<key>tappabletweak</key>
+	<string>isfragment</string>
+	<key>unsortedcompletercolor</key>
+	<string>mediaqueryOffset</string>
+</dict>
+</plist>

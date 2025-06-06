@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activepublisher</key>
+	<string>borderpager</string>
+	<key>constructduration</key>
+	<string>createAllocator</string>
+	<key>custompaintandstage</key>
+	<string>aspectChain</string>
+	<key>disparateHistogram</key>
+	<string>uniqueRepository</string>
+	<key>granularBinder</key>
+	<string>receiveobserver</string>
+	<key>iscatalyst</key>
+	<string>sophisticatedRemediation</string>
+	<key>tensorTabView</key>
+	<string>explicitAsync</string>
+</dict>
+</plist>

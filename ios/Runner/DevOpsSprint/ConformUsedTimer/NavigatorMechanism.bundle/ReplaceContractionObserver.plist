@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activereplica</key>
+	<string>mainResolver</string>
+	<key>desktopAnimator</key>
+	<string>regulateroute</string>
+	<key>exceptionreplica</key>
+	<string>secondFactory</string>
+	<key>gesturedetectorResponse</key>
+	<string>handlerActivity</string>
+	<key>processsegue</key>
+	<string>shouldShowBox</string>
+	<key>refactoractivity</key>
+	<string>injectReducer</string>
+	<key>singletonscale</key>
+	<string>retrieveTransformer</string>
+	<key>temporaryBloc</key>
+	<string>canHandleSemantics</string>
+	<key>vertexTop</key>
+	<string>filterPosition</string>
+</dict>
+</plist>

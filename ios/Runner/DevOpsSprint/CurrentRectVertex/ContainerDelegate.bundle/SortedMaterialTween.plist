@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocrequest</key>
+	<string>robustResource</string>
+	<key>disabledContraction</key>
+	<string>impressionForce</string>
+	<key>drawereffect</key>
+	<string>activatedCollection</string>
+	<key>missionTint</key>
+	<string>gramMargin</string>
+	<key>originalConfiguration</key>
+	<string>independentDrawer</string>
+	<key>routerevaluation</key>
+	<string>loopType</string>
+	<key>shouldStopCollection</key>
+	<string>visualizeInjection</string>
+	<key>strokeFormat</key>
+	<string>invisibleCursor</string>
+</dict>
+</plist>

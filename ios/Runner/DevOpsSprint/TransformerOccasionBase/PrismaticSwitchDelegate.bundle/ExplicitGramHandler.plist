@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibletexture</key>
+	<string>intensityInterpreter</string>
+	<key>ascentOrientation</key>
+	<string>dynamicResponse</string>
+	<key>difficultResponse</key>
+	<string>synchronousDetector</string>
+	<key>euclideanTransition</key>
+	<string>mainlabel</string>
+	<key>fusedWidget</key>
+	<string>lostRole</string>
+	<key>gesturedetectorsplitter</key>
+	<string>replicateOffset</string>
+	<key>onspecifierchanged</key>
+	<string>screenStage</string>
+	<key>resourcetaxonomy</key>
+	<string>newestclipper</string>
+	<key>shouldProcessDrawer</key>
+	<string>dependencyBound</string>
+</dict>
+</plist>

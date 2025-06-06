@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateTicker</key>
+	<string>connectdecoration</string>
+	<key>normallistview</key>
+	<string>seamlessTransformer</string>
+	<key>precisionvisitortype</key>
+	<string>shouldProcessBullet</string>
+	<key>pushtask</key>
+	<string>materialRestriction</string>
+	<key>referenceDensity</key>
+	<string>shouldPauseCapacities</string>
+	<key>shouldUnmountStack</key>
+	<string>dynamicSign</string>
+</dict>
+</plist>

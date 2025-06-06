@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionComposition</key>
+	<string>autoInteractor</string>
+	<key>responsivelocalization</key>
+	<string>delegatehandler</string>
+	<key>semanticmatrixtype</key>
+	<string>timelineShape</string>
+	<key>stackpressure</key>
+	<string>canPaintMatrix</string>
+</dict>
+</plist>

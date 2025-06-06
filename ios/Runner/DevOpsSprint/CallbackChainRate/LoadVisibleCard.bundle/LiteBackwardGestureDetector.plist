@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentResponse</key>
+	<string>canListenLog</string>
+	<key>benchmarkstoryboard</key>
+	<string>propagatetitle</string>
+	<key>semanticTimeline</key>
+	<string>featurefrominterpreter</string>
+	<key>shouldAnimateNavigator</key>
+	<string>textfieldOpacity</string>
+	<key>shouldFetchScale</key>
+	<string>nativeResolver</string>
+	<key>shouldFinishMission</key>
+	<string>binaryColor</string>
+	<key>subsequentCallback</key>
+	<string>completerviacontext</string>
+	<key>symbolTop</key>
+	<string>concurrentShader</string>
+	<key>uniqueRouter</key>
+	<string>rectvelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bordercompleter</key>
+	<string>hierarchicalSine</string>
+	<key>channelamongparam</key>
+	<string>zonebufferscale</string>
+	<key>crucialLinker</key>
+	<string>shouldPresentArithmetic</string>
+	<key>defaultFragment</key>
+	<string>nodeAdapter</string>
+	<key>handledecoration</key>
+	<string>subsequentCache</string>
+	<key>lazyInfo</key>
+	<string>lastMaster</string>
+	<key>logarithmDepth</key>
+	<string>handlerMemento</string>
+	<key>priorChooser</key>
+	<string>observeBuilder</string>
+	<key>radiusSize</key>
+	<string>canTrainAppBar</string>
+</dict>
+</plist>

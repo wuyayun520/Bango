@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableBase</key>
+	<string>smallSign</string>
+	<key>directlyAnimation</key>
+	<string>reactiveReliability</string>
+	<key>litetexture</key>
+	<string>histogramRotation</string>
+	<key>nextMultiplication</key>
+	<string>interfaceMargin</string>
+	<key>selectedEqualization</key>
+	<string>directConnector</string>
+</dict>
+</plist>

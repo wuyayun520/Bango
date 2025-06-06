@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachreducer</key>
+	<string>grayscalePattern</string>
+	<key>clippermargin</key>
+	<string>presentNavigator</string>
+	<key>fusedPageView</key>
+	<string>navigateAnimation</string>
+	<key>multiScroller</key>
+	<string>gatespacing</string>
+	<key>multiplicationperadapter</key>
+	<string>standaloneRole</string>
+	<key>particletop</key>
+	<string>oldPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisMargin</key>
+	<string>dynamicNavigator</string>
+	<key>efficiencyRight</key>
+	<string>dropdownbuttonInterval</string>
+	<key>overridesubpixel</key>
+	<string>canShowCube</string>
+	<key>pivotalstoremode</key>
+	<string>shouldStopPet</string>
+	<key>scenesaturation</key>
+	<string>copypromise</string>
+	<key>stackSkewY</key>
+	<string>canYieldSegue</string>
+</dict>
+</plist>

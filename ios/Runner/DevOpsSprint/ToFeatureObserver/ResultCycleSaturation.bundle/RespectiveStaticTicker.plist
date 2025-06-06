@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitright</key>
+	<string>shouldBindKernel</string>
+	<key>interpolationValidation</key>
+	<string>skipAxis</string>
+	<key>missedFragment</key>
+	<string>generateTopic</string>
+	<key>mobileArchitecture</key>
+	<string>stampRotation</string>
+	<key>remainderwithprocess</key>
+	<string>canPauseCupertino</string>
+	<key>subtleTrajectory</key>
+	<string>polyfillOrigin</string>
+	<key>tabbarInteraction</key>
+	<string>singlerepository</string>
+	<key>taskoffset</key>
+	<string>synchronousObserver</string>
+</dict>
+</plist>

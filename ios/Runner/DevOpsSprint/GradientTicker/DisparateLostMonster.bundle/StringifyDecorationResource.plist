@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasfragments</key>
+	<string>routedistance</string>
+	<key>consumerwithflyweight</key>
+	<string>symmetricAxis</string>
+	<key>greatMetadata</key>
+	<string>selectedsizedbox</string>
+	<key>shaderfrequency</key>
+	<string>dismissEquipment</string>
+	<key>sharedMatrix</key>
+	<string>descriptorSpeed</string>
+	<key>staticException</key>
+	<string>shouldEmitDelegate</string>
+</dict>
+</plist>

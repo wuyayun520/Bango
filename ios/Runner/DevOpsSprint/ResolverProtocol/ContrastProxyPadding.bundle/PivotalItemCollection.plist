@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationResponse</key>
+	<string>bulletnode</string>
+	<key>dropoutboxshadow</key>
+	<string>semanticContraction</string>
+	<key>functionalManager</key>
+	<string>mediaStructure</string>
+	<key>mainObject</key>
+	<string>smartGrayscale</string>
+	<key>managerSkewY</key>
+	<string>canFetchBoxShadow</string>
+	<key>robustIndicator</key>
+	<string>profileColor</string>
+	<key>shouldDeserializeInkWell</key>
+	<string>lastReliability</string>
+	<key>shouldRouteProtocol</key>
+	<string>multiEvaluation</string>
+	<key>statefuldelegate</key>
+	<string>heapTag</string>
+</dict>
+</plist>

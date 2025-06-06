@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicManager</key>
+	<string>imperativeWidget</string>
+	<key>fixedDependency</key>
+	<string>mountMovement</string>
+	<key>informationindex</key>
+	<string>tabviewPressure</string>
+	<key>oldResponder</key>
+	<string>concatenateBuffer</string>
+	<key>retainedGradient</key>
+	<string>sustainablestamp</string>
+	<key>rowDistance</key>
+	<string>canUpdateLayout</string>
+	<key>sharedCycle</key>
+	<string>gesturedetectorResponse</string>
+	<key>shouldconnectpoint</key>
+	<string>decorationProcess</string>
+	<key>tweencoord</key>
+	<string>variantreducer</string>
+	<key>workflowticker</key>
+	<string>remediationScale</string>
+</dict>
+</plist>

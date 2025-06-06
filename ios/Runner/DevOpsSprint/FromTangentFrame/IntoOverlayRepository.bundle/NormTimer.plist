@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionKind</key>
+	<string>navigationthroughactivity</string>
+	<key>constraintlayerorigin</key>
+	<string>tappableThroughput</string>
+	<key>mediumLatency</key>
+	<string>canPresentAspectRatio</string>
+	<key>profiletension</key>
+	<string>canPushIcon</string>
+	<key>seekevent</key>
+	<string>transpileInjection</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatormargin</key>
+	<string>resolveMenu</string>
+	<key>deferredRange</key>
+	<string>protocolVelocity</string>
+	<key>elasticService</key>
+	<string>storeswift</string>
+	<key>fusedAsset</key>
+	<string>scrollableselector</string>
+	<key>rowequivalent</key>
+	<string>primaryCubit</string>
+	<key>semanticAnimator</key>
+	<string>shouldResumeHero</string>
+	<key>serviceRate</key>
+	<string>agileConverter</string>
+	<key>shouldSerializeNavigator</key>
+	<string>wrapRect</string>
+</dict>
+</plist>

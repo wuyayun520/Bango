@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativebutton</key>
+	<string>customizedcallback</string>
+	<key>freesprite</key>
+	<string>emitterBorder</string>
+	<key>mutableDescription</key>
+	<string>disparateResponder</string>
+	<key>permanentMerger</key>
+	<string>euclideanListView</string>
+	<key>rapidReceiver</key>
+	<string>shouldReplaceLabel</string>
+	<key>revisitbuilder</key>
+	<string>staticCharacter</string>
+	<key>shouldRebuildAppBar</key>
+	<string>integerParameter</string>
+	<key>similarLayout</key>
+	<string>commonScheduler</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAudio</key>
+	<string>resultTint</string>
+	<key>agileTimer</key>
+	<string>standaloneSign</string>
+	<key>animatedRequest</key>
+	<string>pinchableImage</string>
+	<key>arithmeticDisclaimer</key>
+	<string>subpixeltimer</string>
+	<key>instructioncontextrate</key>
+	<string>scrollhue</string>
+	<key>presentdescriptor</key>
+	<string>transitiongraphic</string>
+	<key>responseVisible</key>
+	<string>consumerPressure</string>
+</dict>
+</plist>

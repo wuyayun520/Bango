@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationinsidestrategy</key>
+	<string>stringifySink</string>
+	<key>compositionalGestureDetector</key>
+	<string>inactiveArithmetic</string>
+	<key>elasticSound</key>
+	<string>shouldSetStateTool</string>
+	<key>equivalentEdge</key>
+	<string>scrollableStoryboard</string>
+	<key>finishbloc</key>
+	<string>sophisticatedMaster</string>
+	<key>loaderTransparency</key>
+	<string>tensorbloccontrast</string>
+</dict>
+</plist>

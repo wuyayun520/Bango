@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedConfiguration</key>
+	<string>canPaintGradient</string>
+	<key>durationasset</key>
+	<string>actiondecoratorinteraction</string>
+	<key>geometricMap</key>
+	<string>secondtriangles</string>
+	<key>modalsize</key>
+	<string>smartcubit</string>
+	<key>shouldConnectAnimatedContainer</key>
+	<string>gestureincludetier</string>
+	<key>shouldSerializePageView</key>
+	<string>inheritedError</string>
+	<key>threadthanmode</key>
+	<string>replacePosition</string>
+</dict>
+</plist>

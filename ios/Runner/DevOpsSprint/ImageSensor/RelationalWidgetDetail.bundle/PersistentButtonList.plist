@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializelog</key>
+	<string>storeimage</string>
+	<key>firstImage</key>
+	<string>gridLevel</string>
+	<key>mobilehash</key>
+	<string>reusableConstant</string>
+	<key>rapidBehavior</key>
+	<string>optimizertypedensity</string>
+	<key>roleAppearance</key>
+	<string>impressionSkewX</string>
+	<key>shouldResumeActivity</key>
+	<string>inkwellTail</string>
+	<key>synchronousSchema</key>
+	<string>lossasprototype</string>
+</dict>
+</plist>

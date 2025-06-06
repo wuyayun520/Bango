@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedqueue</key>
+	<string>chooserLocation</string>
+	<key>associatedHandler</key>
+	<string>canUpdateBinary</string>
+	<key>checkboxCount</key>
+	<string>reusableObserver</string>
+	<key>concurrentCompletion</key>
+	<string>requiredUtil</string>
+	<key>fusedTool</key>
+	<string>advancedRouter</string>
+	<key>intermediateRestriction</key>
+	<string>removeContainer</string>
+	<key>listviewDistance</key>
+	<string>triggerAcceleration</string>
+	<key>mountedradius</key>
+	<string>compositionalLoss</string>
+	<key>prevGrid</key>
+	<string>multiRequest</string>
+	<key>shouldContinueGate</key>
+	<string>requestStyle</string>
+</dict>
+</plist>

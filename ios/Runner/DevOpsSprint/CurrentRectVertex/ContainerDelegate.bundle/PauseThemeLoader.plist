@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGradient</key>
+	<string>mediaInterpreter</string>
+	<key>animatedcontainersubscription</key>
+	<string>shouldPublishBatch</string>
+	<key>directsensorrotation</key>
+	<string>trianglesPressure</string>
+	<key>displayableInkWell</key>
+	<string>restrictionFormat</string>
+	<key>keySegue</key>
+	<string>providestateless</string>
+	<key>mapperHead</key>
+	<string>giftEdge</string>
+	<key>reusablegridview</key>
+	<string>staticInstruction</string>
+</dict>
+</plist>

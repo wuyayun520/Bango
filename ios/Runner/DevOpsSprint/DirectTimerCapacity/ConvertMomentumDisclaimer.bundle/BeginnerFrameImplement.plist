@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheworksaturation</key>
+	<string>independentAnimator</string>
+	<key>fetchresolver</key>
+	<string>methodTemple</string>
+	<key>localizationPadding</key>
+	<string>directPolyfill</string>
+	<key>methodplatformrate</key>
+	<string>stampFlags</string>
+	<key>replicaTheme</key>
+	<string>interfaceDuration</string>
+	<key>shouldCreatePriority</key>
+	<string>builderVariable</string>
+	<key>shouldRestartTechnique</key>
+	<string>shouldCancelModal</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatehash</key>
+	<string>pivotalView</string>
+	<key>interactiveNotation</key>
+	<string>canTransitionAxis</string>
+	<key>modelperenvironment</key>
+	<string>sampleworkresponse</string>
+	<key>mutableObserver</key>
+	<string>controllerDirection</string>
+	<key>pivotalDetector</key>
+	<string>initializeCompleter</string>
+	<key>pointPadding</key>
+	<string>indicatorParam</string>
+	<key>selectedSymbol</key>
+	<string>partitionDelegate</string>
+	<key>semanticpriority</key>
+	<string>activityLocation</string>
+	<key>singletonscenario</key>
+	<string>showView</string>
+</dict>
+</plist>

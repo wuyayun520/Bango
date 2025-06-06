@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evolutionSpeed</key>
+	<string>activeCustomPaint</string>
+	<key>handlersearcher</key>
+	<string>inheritedVolume</string>
+	<key>promiseVisibility</key>
+	<string>swiftFrequency</string>
+	<key>secondBoxShadow</key>
+	<string>pageviewSpeed</string>
+	<key>sequentialTweak</key>
+	<string>scaleInterval</string>
+	<key>shouldPushCatalyst</key>
+	<string>insteadNavigator</string>
+</dict>
+</plist>

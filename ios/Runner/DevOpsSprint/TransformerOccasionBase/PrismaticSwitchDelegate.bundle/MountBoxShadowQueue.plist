@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedReduction</key>
+	<string>pendingSegment</string>
+	<key>independentMomentum</key>
+	<string>measureStorage</string>
+	<key>webMission</key>
+	<string>serializeInteractor</string>
+</dict>
+</plist>

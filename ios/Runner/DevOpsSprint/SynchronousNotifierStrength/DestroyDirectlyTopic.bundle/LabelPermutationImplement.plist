@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorDuration</key>
+	<string>continueBorder</string>
+	<key>clipslash</key>
+	<string>cupertinoMobile</string>
+	<key>decorationparticle</key>
+	<string>shouldUnmountIndicator</string>
+	<key>explicitaspect</key>
+	<string>deferredBatch</string>
+	<key>scrollablepriorityshape</key>
+	<string>reductionOrigin</string>
+	<key>shouldLoadProvider</key>
+	<string>inflateCoordinator</string>
+	<key>stopframe</key>
+	<string>mainSensor</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderlatency</key>
+	<string>benchmarkService</string>
+	<key>defaultAlpha</key>
+	<string>requestConstraint</string>
+	<key>ignoredisolate</key>
+	<string>radiusVisitor</string>
+	<key>intermediateMapper</key>
+	<string>directlyContraction</string>
+	<key>otherindicatororientation</key>
+	<string>canNotifyDescriptor</string>
+	<key>parseworkflow</key>
+	<string>groupWork</string>
+	<key>shouldrenderlog</key>
+	<string>navigationRate</string>
+</dict>
+</plist>

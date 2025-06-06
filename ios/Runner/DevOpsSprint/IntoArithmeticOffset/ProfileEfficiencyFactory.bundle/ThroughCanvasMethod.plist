@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerConstant</key>
+	<string>fillTimer</string>
+	<key>bulletorigin</key>
+	<string>basictextfield</string>
+	<key>concurrentDimension</key>
+	<string>denseEquipment</string>
+	<key>elasticimagestatus</key>
+	<string>shouldDeserializeGrayscale</string>
+	<key>onaxischanged</key>
+	<string>playinterpolation</string>
+	<key>otherDropdownButton</key>
+	<string>flexIndex</string>
+	<key>pausemanager</key>
+	<string>presentCosine</string>
+	<key>screenasfunction</key>
+	<string>documentHue</string>
+	<key>transformerDirection</key>
+	<string>substantialdescription</string>
+	<key>utilDelay</key>
+	<string>disparatePlate</string>
+</dict>
+</plist>

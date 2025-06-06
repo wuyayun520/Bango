@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartHue</key>
+	<string>descriptorContrast</string>
+	<key>customizedindicatorvisibility</key>
+	<string>popMaterial</string>
+	<key>dedicatedSplitter</key>
+	<string>baselineInset</string>
+	<key>eagerresponse</key>
+	<string>interactorFormat</string>
+	<key>responsiveConfiguration</key>
+	<string>missedRepository</string>
+	<key>reusableSkirt</key>
+	<string>playConstraint</string>
+	<key>schedulerDensity</key>
+	<string>presentFuture</string>
+	<key>semanticsScale</key>
+	<string>customProjection</string>
+	<key>shouldStopInkWell</key>
+	<string>replaceHistogram</string>
+</dict>
+</plist>

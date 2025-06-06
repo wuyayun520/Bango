@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderindex</key>
+	<string>renameTimer</string>
+	<key>difficultPreview</key>
+	<string>detectorborder</string>
+	<key>isprovider</key>
+	<string>responsivesensor</string>
+	<key>lostScope</key>
+	<string>cupertinoFlex</string>
+	<key>menuthreshold</key>
+	<string>bundleContainer</string>
+	<key>synchronousPainter</key>
+	<string>timerValidation</string>
+	<key>techniqueFeedback</key>
+	<string>elasticbloc</string>
+</dict>
+</plist>

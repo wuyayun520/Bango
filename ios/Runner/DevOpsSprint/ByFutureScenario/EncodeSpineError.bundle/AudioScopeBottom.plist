@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedConnector</key>
+	<string>hyperbolicSubpixel</string>
+	<key>behaviorContrast</key>
+	<string>replacesink</string>
+	<key>comprehensiveChart</key>
+	<string>discardedsingleton</string>
+	<key>criticalAlpha</key>
+	<string>shouldValidateAnchor</string>
+	<key>dedicatedObject</key>
+	<string>bundleFuture</string>
+	<key>defaultModulus</key>
+	<string>mitigateFrame</string>
+	<key>injectionfrequency</key>
+	<string>staticAspect</string>
+	<key>mapperFrequency</key>
+	<string>readDelegate</string>
+	<key>shouldReplaceBinary</key>
+	<string>sortedDelivery</string>
+</dict>
+</plist>

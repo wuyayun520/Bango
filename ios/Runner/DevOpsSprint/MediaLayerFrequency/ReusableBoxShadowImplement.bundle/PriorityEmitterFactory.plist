@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthColor</key>
+	<string>stampnavigator</string>
+	<key>criticalCoordinator</key>
+	<string>canObserveCursor</string>
+	<key>delicateService</key>
+	<string>unaryPosition</string>
+	<key>denseSensor</key>
+	<string>activatedsegue</string>
+	<key>dependencyfrequency</key>
+	<string>routeAnchor</string>
+	<key>firstzone</key>
+	<string>shouldListenStack</string>
+	<key>shouldDecodePoint</key>
+	<string>chartDirection</string>
+	<key>shouldRestartSpecifier</key>
+	<string>tangentAction</string>
+</dict>
+</plist>

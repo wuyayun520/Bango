@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTrajectory</key>
+	<string>grayscaleVelocity</string>
+	<key>graphDistance</key>
+	<string>shaderCenter</string>
+	<key>layoutmend</key>
+	<string>originalConverter</string>
+	<key>shouldBindContainer</key>
+	<string>canLayoutBoxShadow</string>
+	<key>sliderduration</key>
+	<string>semanticProvision</string>
+</dict>
+</plist>

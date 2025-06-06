@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorystyletransparency</key>
+	<string>throughputBrightness</string>
+	<key>activeOccasion</key>
+	<string>interactiveservicebehavior</string>
+	<key>advancednodeskewy</key>
+	<string>measureIsolate</string>
+	<key>customprovision</key>
+	<string>buildHero</string>
+	<key>hardCache</key>
+	<string>persistMaster</string>
+	<key>normalDimension</key>
+	<string>constraintorigin</string>
+	<key>reactiveSprite</key>
+	<string>showSkirt</string>
+	<key>shouldPrepareObserver</key>
+	<string>comprehensiveRoute</string>
+	<key>storestorage</key>
+	<string>indicatoramortization</string>
+</dict>
+</plist>

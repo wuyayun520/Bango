@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderFormat</key>
+	<string>nativeScale</string>
+	<key>directlyScale</key>
+	<string>shouldPersistTechnique</string>
+	<key>ignoredBuilder</key>
+	<string>directlyCallback</string>
+	<key>rectTop</key>
+	<string>shouldPublishLayout</string>
+	<key>requiredNib</key>
+	<string>shouldRebuildTool</string>
+	<key>scaffoldVisible</key>
+	<string>diffablesizedboxskewx</string>
+	<key>searcherColor</key>
+	<string>reactiveFlex</string>
+	<key>shouldPopEqualization</key>
+	<string>canBindActivity</string>
+	<key>sophisticatedTweak</key>
+	<string>discardedConsumption</string>
+	<key>tableskewx</key>
+	<string>exitbuilder</string>
+</dict>
+</plist>

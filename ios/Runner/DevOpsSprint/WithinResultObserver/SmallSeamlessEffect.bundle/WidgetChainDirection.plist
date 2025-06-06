@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureorigin</key>
+	<string>taskaroundflyweight</string>
+	<key>giftBorder</key>
+	<string>canStartGestureDetector</string>
+	<key>newestMaterializer</key>
+	<string>resilientController</string>
+	<key>resizablePager</key>
+	<string>copyEntity</string>
+	<key>shouldStartAnchor</key>
+	<string>standaloneRange</string>
+	<key>statefultweenvalidation</key>
+	<string>scrollerFormat</string>
+</dict>
+</plist>

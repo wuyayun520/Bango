@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodeprogressbar</key>
+	<string>toleranceDistance</string>
+	<key>granularAwait</key>
+	<string>granularLayer</string>
+	<key>locatelocalization</key>
+	<string>significantprecision</string>
+	<key>prevcallbackflags</key>
+	<string>expandedPosition</string>
+	<key>specifierResponse</key>
+	<string>granularFinder</string>
+</dict>
+</plist>

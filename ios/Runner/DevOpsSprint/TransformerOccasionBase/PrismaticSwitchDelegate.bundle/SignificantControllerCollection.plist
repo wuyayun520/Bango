@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorvector</key>
+	<string>continueBase</string>
+	<key>implementcompleter</key>
+	<string>canValidateDialogs</string>
+	<key>isextension</key>
+	<string>isCapsule</string>
+	<key>navigateintensity</key>
+	<string>transformButton</string>
+	<key>primarycapacities</key>
+	<string>formatOffset</string>
+	<key>routeternary</key>
+	<string>descriptioninterpreteralignment</string>
+	<key>sizedboxTag</key>
+	<string>immediateticker</string>
+</dict>
+</plist>

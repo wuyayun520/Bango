@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infrastructureTag</key>
+	<string>staticJoiner</string>
+	<key>masterRotation</key>
+	<string>sinkSkewX</string>
+	<key>opaqueSpine</key>
+	<string>animatedcontainerSkewX</string>
+	<key>prevFuture</key>
+	<string>liteDependency</string>
+	<key>shapeOrientation</key>
+	<string>endProfile</string>
+	<key>shouldAnimateTheme</key>
+	<string>diffableSlash</string>
+	<key>statefulDisclaimer</key>
+	<string>buttontypehead</string>
+	<key>substantialBuffer</key>
+	<string>createBase</string>
+</dict>
+</plist>

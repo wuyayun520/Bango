@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleListener</key>
+	<string>spriteComposite</string>
+	<key>certificatecontainvalue</key>
+	<string>sanitizeAsset</string>
+	<key>concurrentHandler</key>
+	<string>borderSize</string>
+	<key>integrityRate</key>
+	<string>streambutton</string>
+	<key>persistentData</key>
+	<string>canTransformTextField</string>
+	<key>shouldAttachShader</key>
+	<string>materialDecorator</string>
+	<key>shouldObserveWorkflow</key>
+	<string>otherModel</string>
+	<key>usedReducer</key>
+	<string>criticalOffset</string>
+	<key>widgetflags</key>
+	<string>iterativeChannel</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousJoiner</key>
+	<string>functionalEqualization</string>
+	<key>batchscale</key>
+	<string>interactiveScalability</string>
+	<key>concreteFormat</key>
+	<string>deflateUtil</string>
+	<key>globalAsset</key>
+	<string>entityInteraction</string>
+	<key>intermediatescrollflags</key>
+	<string>oldTopic</string>
+	<key>pinchableConstant</key>
+	<string>combineRadius</string>
+	<key>prismaticJoiner</key>
+	<string>shouldPrepareHero</string>
+	<key>shouldSerializeDialogs</key>
+	<string>receiverEdge</string>
+	<key>shouldStopMedia</key>
+	<string>standaloneStep</string>
+</dict>
+</plist>

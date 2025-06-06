@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotatechart</key>
+	<string>dropoutAwait</string>
+	<key>channelsmethodvisibility</key>
+	<string>rapidLabel</string>
+	<key>defaultBaseline</key>
+	<string>tappableoptiondirection</string>
+	<key>listviewthantemple</key>
+	<string>infostyle</string>
+	<key>shouldDetachVariant</key>
+	<string>logHue</string>
+	<key>staticDependency</key>
+	<string>specifyPopup</string>
+	<key>tweakBound</key>
+	<string>shouldDisconnectWidget</string>
+</dict>
+</plist>

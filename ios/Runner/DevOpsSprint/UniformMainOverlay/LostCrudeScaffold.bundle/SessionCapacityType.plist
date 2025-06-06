@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionnotificationbottom</key>
+	<string>inheritedBuffer</string>
+	<key>debuginteractor</key>
+	<string>specifiervelocity</string>
+	<key>easySizedBox</key>
+	<string>allocatorFeedback</string>
+	<key>indicatorpreview</key>
+	<string>zonePhase</string>
+	<key>invisibleStream</key>
+	<string>linkerVelocity</string>
+	<key>pivotalAudio</key>
+	<string>destroyListener</string>
+	<key>positionedFlags</key>
+	<string>yieldAxis</string>
+	<key>shouldlayouticon</key>
+	<string>brushduration</string>
+	<key>usageRotation</key>
+	<string>stringifyPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousConverter</key>
+	<string>activityresponse</string>
+	<key>commonPosition</key>
+	<string>compileDescription</string>
+	<key>deliveryInteraction</key>
+	<string>referenceName</string>
+	<key>inactiveCompleter</key>
+	<string>shouldConnectTernary</string>
+	<key>inheritedCapacities</key>
+	<string>catalystValue</string>
+	<key>materialProvision</key>
+	<string>unsortedBaseline</string>
+	<key>nextshader</key>
+	<string>consumerMethod</string>
+	<key>seamlessEvaluation</key>
+	<string>defaultListView</string>
+	<key>sequentialGrid</key>
+	<string>sharedProvider</string>
+	<key>shouldPaintTool</key>
+	<string>synchronousInterface</string>
+</dict>
+</plist>

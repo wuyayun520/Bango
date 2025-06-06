@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integrationVelocity</key>
+	<string>similarBitrate</string>
+	<key>kernelflags</key>
+	<string>borderBound</string>
+	<key>responsiveStoryboard</key>
+	<string>scenariodirection</string>
+	<key>serviceworkspacing</key>
+	<string>persistentMenu</string>
+	<key>shouldPushDocument</key>
+	<string>parseAspectRatio</string>
+	<key>stoppositioned</key>
+	<string>catalystrate</string>
+	<key>tappableTabBar</key>
+	<string>cartesianmaterial</string>
+	<key>usedGrayscale</key>
+	<string>reflectRadius</string>
+</dict>
+</plist>

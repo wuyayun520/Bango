@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterdecoratorvalidation</key>
+	<string>materialMovement</string>
+	<key>diffableInfrastructure</key>
+	<string>deferredOption</string>
+	<key>robustContainer</key>
+	<string>playCoordinator</string>
+	<key>setupresponse</key>
+	<string>layoutStateless</string>
+	<key>shouldContinueSymbol</key>
+	<string>respectiveRichText</string>
+	<key>transformercycleinterval</key>
+	<string>originalScroll</string>
+</dict>
+</plist>

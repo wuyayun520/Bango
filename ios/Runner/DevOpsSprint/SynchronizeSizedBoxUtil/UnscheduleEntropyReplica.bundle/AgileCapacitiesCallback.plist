@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inflatedescriptor</key>
+	<string>clipEntity</string>
+	<key>normalInformation</key>
+	<string>traversalVisible</string>
+	<key>performstore</key>
+	<string>searchFactory</string>
+	<key>shouldPauseWidget</key>
+	<string>intermediateRole</string>
+	<key>shouldlistencupertino</key>
+	<string>subpixelResponse</string>
+	<key>stampDirection</key>
+	<string>mediumSchema</string>
+	<key>usedAlignment</key>
+	<string>mediumNorm</string>
+</dict>
+</plist>

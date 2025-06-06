@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyScenario</key>
+	<string>standaloneParticle</string>
+	<key>eventdelay</key>
+	<string>presentSpot</string>
+	<key>protectedPager</key>
+	<string>serializeGrayscale</string>
+	<key>standaloneCell</key>
+	<string>lockanimatedcontainer</string>
+	<key>triggerName</key>
+	<string>shouldFormatPadding</string>
+	<key>videoKind</key>
+	<string>synchronousEvent</string>
+</dict>
+</plist>

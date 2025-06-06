@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSchema</key>
+	<string>delegatetransition</string>
+	<key>declarativeTentative</key>
+	<string>nextMenu</string>
+	<key>inheritedCombiner</key>
+	<string>shouldBuildCache</string>
+	<key>missedicon</key>
+	<string>priorButton</string>
+	<key>priorTool</key>
+	<string>otherHash</string>
+	<key>shouldSetStateHistogram</key>
+	<string>shouldDecodeReference</string>
+</dict>
+</plist>

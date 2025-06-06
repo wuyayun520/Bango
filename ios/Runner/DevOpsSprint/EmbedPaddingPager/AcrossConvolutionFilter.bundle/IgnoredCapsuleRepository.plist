@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterforparam</key>
+	<string>toolVisitor</string>
+	<key>fixedTernary</key>
+	<string>viewright</string>
+	<key>interactiveTrigger</key>
+	<string>gridCoord</string>
+	<key>movementTension</key>
+	<string>hyperbolicExponent</string>
+	<key>relationalelasticity</key>
+	<string>errorForm</string>
+	<key>sceneduration</key>
+	<string>monsterDelay</string>
+</dict>
+</plist>

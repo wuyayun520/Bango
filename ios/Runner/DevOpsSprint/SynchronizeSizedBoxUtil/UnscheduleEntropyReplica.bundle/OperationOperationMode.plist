@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardBuffer</key>
+	<string>handleclipper</string>
+	<key>compositionalModulus</key>
+	<string>disableddrawersaturation</string>
+	<key>delicateGrayscale</key>
+	<string>heapInterval</string>
+	<key>directlyAnalyzer</key>
+	<string>shouldRebuildMaterial</string>
+	<key>eagerTweak</key>
+	<string>dispatchConstraint</string>
+	<key>implementfragment</key>
+	<string>respectiveCaption</string>
+	<key>shouldPrepareMaterial</key>
+	<string>awaitLayer</string>
+	<key>throughputtransparency</key>
+	<string>tickerresponse</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorEdge</key>
+	<string>concretesubscription</string>
+	<key>crudeBandwidth</key>
+	<string>taskresponse</string>
+	<key>loopfacadedepth</key>
+	<string>pinchableBitrate</string>
+	<key>opaqueanimation</key>
+	<string>keyInformation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerTail</key>
+	<string>dimensionFeedback</string>
+	<key>hardinterface</key>
+	<string>measuremenu</string>
+	<key>interpolationactionfrequency</key>
+	<string>originalEffect</string>
+	<key>parallelTween</key>
+	<string>layoutMatrix</string>
+	<key>referenceStyle</key>
+	<string>boxshadowScale</string>
+	<key>selectorFrequency</key>
+	<string>mountedSensor</string>
+	<key>shouldValidateInstruction</key>
+	<string>tickerDuration</string>
+	<key>sophisticatedConnector</key>
+	<string>thresholdCount</string>
+	<key>topicStyle</key>
+	<string>shouldStartPriority</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateLocation</key>
+	<string>prepareBinary</string>
+	<key>cellOrientation</key>
+	<string>interfaceInterval</string>
+	<key>fixedTopic</key>
+	<string>gridviewScale</string>
+	<key>hasGestureDetector</key>
+	<string>emitbutton</string>
+	<key>requiredRectangle</key>
+	<string>missedInkWell</string>
+	<key>startresponse</key>
+	<string>unmountedBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateNotifier</key>
+	<string>restartGradient</string>
+	<key>greatZone</key>
+	<string>interceptAllocator</string>
+	<key>shouldSerializeDecoration</key>
+	<string>notifyPainter</string>
+	<key>strengthSize</key>
+	<string>imageAcceleration</string>
+	<key>subsequentHandler</key>
+	<string>callbackexceptaction</string>
+</dict>
+</plist>

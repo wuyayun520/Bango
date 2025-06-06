@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachanimation</key>
+	<string>copyQueue</string>
+	<key>channelnotation</key>
+	<string>interactionAlignment</string>
+	<key>cubitjobscale</key>
+	<string>limitAnimation</string>
+	<key>desktopdistinction</key>
+	<string>presenterCommand</string>
+	<key>interceptmatrix</key>
+	<string>mobileLinker</string>
+	<key>lostArithmetic</key>
+	<string>performUtil</string>
+	<key>nodeloader</key>
+	<string>hardlifecycle</string>
+	<key>popcompletion</key>
+	<string>concurrentGroup</string>
+	<key>presentprotocol</key>
+	<string>shouldResumePlate</string>
+	<key>shouldDisconnectStream</key>
+	<string>materialTag</string>
+</dict>
+</plist>

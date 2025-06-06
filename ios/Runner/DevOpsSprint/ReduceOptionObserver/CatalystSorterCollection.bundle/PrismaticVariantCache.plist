@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyCompletion</key>
+	<string>gramFacade</string>
+	<key>shouldupdatecursor</key>
+	<string>modalStage</string>
+	<key>singleSlider</key>
+	<string>chartTransparency</string>
+	<key>sustainablebuffer</key>
+	<string>asyncTheme</string>
+</dict>
+</plist>

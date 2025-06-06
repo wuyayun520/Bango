@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedOccasion</key>
+	<string>resizeGroup</string>
+	<key>cubitinset</key>
+	<string>replaceResolver</string>
+	<key>geometricMetadata</key>
+	<string>integrityPosition</string>
+	<key>globalSign</key>
+	<string>greatrect</string>
+	<key>requesttolerance</key>
+	<string>checkAction</string>
+	<key>shouldMountedSkin</key>
+	<string>transpileLabel</string>
+	<key>taxonomyRotation</key>
+	<string>unmarshalTransition</string>
+	<key>vertexState</key>
+	<string>maintainAlignment</string>
+</dict>
+</plist>

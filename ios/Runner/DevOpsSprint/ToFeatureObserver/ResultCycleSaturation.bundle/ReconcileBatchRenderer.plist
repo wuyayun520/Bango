@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureInterval</key>
+	<string>elasticBuilder</string>
+	<key>consultativeListener</key>
+	<string>granularMetadata</string>
+	<key>crucialTraversal</key>
+	<string>unactivatedInterface</string>
+	<key>layoutgate</key>
+	<string>segmentPrototype</string>
+	<key>recursionTransparency</key>
+	<string>createbinary</string>
+	<key>shouldInflateAnimation</key>
+	<string>animatorVisible</string>
+	<key>shouldInflateCache</key>
+	<string>permanentEvent</string>
+	<key>shouldRenderEqualization</key>
+	<string>cursorMemento</string>
+</dict>
+</plist>

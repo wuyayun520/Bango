@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderinterpretertension</key>
+	<string>standaloneLoader</string>
+	<key>challengeRate</key>
+	<string>gradientCycle</string>
+	<key>featureVisible</key>
+	<string>binaryFunction</string>
+	<key>lastSplitter</key>
+	<string>screenComposite</string>
+	<key>permanentCube</key>
+	<string>canStreamStateless</string>
+	<key>pivotalTextField</key>
+	<string>errorfactory</string>
+	<key>relationalbloccolor</key>
+	<string>imageDuration</string>
+	<key>sharedRoute</key>
+	<string>emitSpot</string>
+	<key>timelineSize</key>
+	<string>hierarchicalPlayback</string>
+	<key>unsortedContrast</key>
+	<string>staticTrigger</string>
+</dict>
+</plist>

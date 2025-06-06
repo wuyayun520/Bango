@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureSkewY</key>
+	<string>shouldDisconnectDecoration</string>
+	<key>controllerbottom</key>
+	<string>workflowVariable</string>
+	<key>delicateMetadata</key>
+	<string>sorterfrequency</string>
+	<key>groupformethod</key>
+	<string>capsuleVisibility</string>
+	<key>navigationphasetint</key>
+	<string>tappableInteger</string>
+	<key>queuethroughput</key>
+	<string>temporaryarithmetic</string>
+	<key>sequentialmemberbottom</key>
+	<string>disconnectBloc</string>
+	<key>shouldInflateTransition</key>
+	<string>skipInteger</string>
+	<key>shouldPrepareEquipment</key>
+	<string>durationValue</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentPreview</key>
+	<string>arithmeticTopic</string>
+	<key>introspectposition</key>
+	<string>modulusawayplatform</string>
+	<key>normalScroller</key>
+	<string>vertexbottom</string>
+	<key>resizableItem</key>
+	<string>stateoutsideparam</string>
+	<key>shouldInflateIndicator</key>
+	<string>canSkipMap</string>
+	<key>shouldPersistScroll</key>
+	<string>integerAppearance</string>
+	<key>shouldPrepareMap</key>
+	<string>largeVolume</string>
+	<key>shouldTransformSample</key>
+	<string>globalGem</string>
+	<key>uniquebinder</key>
+	<string>dispatcherInset</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletmediatordelay</key>
+	<string>refactorPopup</string>
+	<key>criticalSubscription</key>
+	<string>ignoredRouter</string>
+	<key>disabledPrecision</key>
+	<string>largeCheckbox</string>
+	<key>interactivemenu</key>
+	<string>processortheme</string>
+	<key>lostgroupacceleration</key>
+	<string>singletonTag</string>
+	<key>popupintegrity</key>
+	<string>shouldTransformSensor</string>
+	<key>receiverposition</key>
+	<string>cupertinoZone</string>
+	<key>selectedternary</key>
+	<string>skirtProcess</string>
+	<key>substantialLabel</key>
+	<string>symmetricLog</string>
+</dict>
+</plist>

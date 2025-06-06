@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCaption</key>
+	<string>sophisticatedTabView</string>
+	<key>hyperbolicDependency</key>
+	<string>autoQueue</string>
+	<key>localGram</key>
+	<string>variantObserver</string>
+	<key>numericalBaseline</key>
+	<string>gestureSpacing</string>
+	<key>permanenttexture</key>
+	<string>advancedMediaQuery</string>
+	<key>pointinsideenvironment</key>
+	<string>directBloc</string>
+	<key>progressbarScale</key>
+	<string>encapsulateBuilder</string>
+	<key>reducerdelay</key>
+	<string>globalInformation</string>
+	<key>shouldEndTangent</key>
+	<string>shouldLayoutProtocol</string>
+</dict>
+</plist>

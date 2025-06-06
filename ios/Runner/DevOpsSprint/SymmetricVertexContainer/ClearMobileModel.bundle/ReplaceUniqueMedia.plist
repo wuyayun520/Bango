@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyPadding</key>
+	<string>sortedFormat</string>
+	<key>deserializeternary</key>
+	<string>buttonpatternright</string>
+	<key>presentertint</key>
+	<string>draggableTechnique</string>
+	<key>shouldCreatePoint</key>
+	<string>largeRow</string>
+	<key>shouldStartMission</key>
+	<string>trainMovement</string>
+</dict>
+</plist>

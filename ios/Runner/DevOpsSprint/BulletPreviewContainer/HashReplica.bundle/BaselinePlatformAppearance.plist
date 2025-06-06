@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildinterpolation</key>
+	<string>deployFrame</string>
+	<key>capsuleTop</key>
+	<string>denseNode</string>
+	<key>captionRight</key>
+	<string>requiredDimension</string>
+	<key>draggableNorm</key>
+	<string>shouldFetchCube</string>
+	<key>drawsubscription</key>
+	<string>imperativeHandler</string>
+	<key>fusedRequest</key>
+	<string>projectionTag</string>
+	<key>respectivePet</key>
+	<string>navigatormediatorscale</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedFuture</key>
+	<string>canPauseButton</string>
+	<key>defaultsymbol</key>
+	<string>standaloneRestriction</string>
+	<key>disabledCupertino</key>
+	<string>euclideanState</string>
+	<key>ignoredSensor</key>
+	<string>stopInkWell</string>
+	<key>menuasobserver</key>
+	<string>bitratetext</string>
+	<key>uniformTopic</key>
+	<string>draggableEffect</string>
+</dict>
+</plist>

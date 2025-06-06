@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisHead</key>
+	<string>nextLoop</string>
+	<key>interactiveTolerance</key>
+	<string>shouldPublishSignature</string>
+	<key>methodStatus</key>
+	<string>sortedMend</string>
+	<key>optimizeragainstcommand</key>
+	<string>associateBloc</string>
+	<key>reusableRadius</key>
+	<string>normalButton</string>
+	<key>specifyElement</key>
+	<string>destroyGrid</string>
+	<key>subscriptionresilience</key>
+	<string>scenestructurestyle</string>
+	<key>tappableScenario</key>
+	<string>textsound</string>
+</dict>
+</plist>

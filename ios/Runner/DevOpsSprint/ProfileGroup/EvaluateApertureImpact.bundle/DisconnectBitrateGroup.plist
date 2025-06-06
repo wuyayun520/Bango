@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAsset</key>
+	<string>canMountTable</string>
+	<key>composableDimension</key>
+	<string>interfaceLocation</string>
+	<key>converterHue</key>
+	<string>boxshadowthanscope</string>
+	<key>gestureconfiguration</key>
+	<string>dispatchGem</string>
+	<key>hyperbolicpainterbehavior</key>
+	<string>scrollableFactory</string>
+	<key>localizationVisible</key>
+	<string>diffableGroup</string>
+</dict>
+</plist>

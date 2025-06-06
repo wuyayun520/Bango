@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardResource</key>
+	<string>triggerIndex</string>
+	<key>granularCallback</key>
+	<string>skirtStage</string>
+	<key>indicatorCenter</key>
+	<string>shouldBuildNavigation</string>
+	<key>musiclevelborder</key>
+	<string>standaloneconfidentiality</string>
+	<key>shouldObserveProtocol</key>
+	<string>animateModal</string>
+	<key>standaloneMaterializer</key>
+	<string>bundleTitle</string>
+</dict>
+</plist>

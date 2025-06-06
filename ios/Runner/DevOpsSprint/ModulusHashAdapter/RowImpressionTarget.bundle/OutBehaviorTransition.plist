@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedRestriction</key>
+	<string>clipException</string>
+	<key>canvasLeft</key>
+	<string>gramBorder</string>
+	<key>inheritedInterface</key>
+	<string>gifttransparency</string>
+	<key>numericaldependency</key>
+	<string>disconnectNavigation</string>
+	<key>optimizerResponse</key>
+	<string>shouldBuildDialogs</string>
+	<key>responderEdge</key>
+	<string>otherLogarithm</string>
+	<key>shouldDisposeLabel</key>
+	<string>shouldDetachConstraint</string>
+	<key>shouldSubscribeScaffold</key>
+	<string>pageviewPressure</string>
+	<key>shouldUnmountedAxis</key>
+	<string>canParsePlate</string>
+	<key>subpixelHead</key>
+	<string>respectiveEfficiency</string>
+</dict>
+</plist>

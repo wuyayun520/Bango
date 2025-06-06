@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleListView</key>
+	<string>radiowithcontext</string>
+	<key>explicitCatalyst</key>
+	<string>priorBase</string>
+	<key>flexHead</key>
+	<string>presenterresilience</string>
+	<key>hashcontrast</key>
+	<string>makeDuration</string>
+	<key>interactiveWidget</key>
+	<string>cosinePressure</string>
+	<key>normalPageView</key>
+	<string>canParseUnary</string>
+	<key>remediationlocation</key>
+	<string>cellAdapter</string>
+</dict>
+</plist>

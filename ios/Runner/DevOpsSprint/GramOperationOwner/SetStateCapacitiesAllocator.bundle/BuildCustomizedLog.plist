@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedDimension</key>
+	<string>columnObserver</string>
+	<key>formatSpeed</key>
+	<string>shouldStopTouch</string>
+	<key>ignoredShape</key>
+	<string>menuMargin</string>
+	<key>moduleShade</key>
+	<string>reconcileService</string>
+	<key>permissiveVertex</key>
+	<string>notifyutil</string>
+	<key>resolverwithobserver</key>
+	<string>gateMomentum</string>
+	<key>resultvisible</key>
+	<string>specifyDetail</string>
+	<key>shouldPersistCursor</key>
+	<string>canYieldRemainder</string>
+	<key>specifyAwait</key>
+	<string>disposeMap</string>
+	<key>thresholdvisible</key>
+	<string>sustainablemobile</string>
+</dict>
+</plist>

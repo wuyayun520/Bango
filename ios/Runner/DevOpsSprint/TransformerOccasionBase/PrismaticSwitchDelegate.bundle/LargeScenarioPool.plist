@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generatetransition</key>
+	<string>touchobserver</string>
+	<key>nextImpact</key>
+	<string>integrationEdge</string>
+	<key>rapidChecklist</key>
+	<string>appendBuilder</string>
+	<key>shouldConnectProfile</key>
+	<string>canRenderRichText</string>
+	<key>shouldFinishProtocol</key>
+	<string>precisionstatus</string>
+	<key>shouldSaveComposition</key>
+	<string>robustSprite</string>
+	<key>shouldSkipListView</key>
+	<string>uniqueProvision</string>
+	<key>smallcomponent</key>
+	<string>backwardSprite</string>
+	<key>spritecolor</key>
+	<string>scrollableDisclaimer</string>
+</dict>
+</plist>

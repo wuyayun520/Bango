@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorspeed</key>
+	<string>quaternionVisible</string>
+	<key>intermediateDelivery</key>
+	<string>persistentTask</string>
+	<key>persistentBatch</key>
+	<string>retrieveObserver</string>
+	<key>restorecurve</key>
+	<string>constraintSize</string>
+	<key>sophisticatedAction</key>
+	<string>scaffoldPhase</string>
+	<key>sustainableVector</key>
+	<string>mediaComposite</string>
+</dict>
+</plist>

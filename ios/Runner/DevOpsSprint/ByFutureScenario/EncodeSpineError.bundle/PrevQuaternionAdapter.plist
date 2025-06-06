@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fetchexpanded</key>
+	<string>shouldUpdateSample</string>
+	<key>loadstream</key>
+	<string>commonBinary</string>
+	<key>priorityVelocity</key>
+	<string>interfaceAction</string>
+	<key>sensoratvisitor</key>
+	<string>receiveDecoration</string>
+	<key>splitterBorder</key>
+	<string>musicJob</string>
+	<key>spriteworkbottom</key>
+	<string>radiusTheme</string>
+	<key>tappableSizedBox</key>
+	<string>interactiveConsumer</string>
+	<key>trianglesDensity</key>
+	<string>dimensionStatus</string>
+	<key>usedMonster</key>
+	<string>normalImpact</string>
+</dict>
+</plist>

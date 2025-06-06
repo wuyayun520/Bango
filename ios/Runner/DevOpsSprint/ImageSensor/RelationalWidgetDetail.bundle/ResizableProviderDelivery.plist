@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocthroughfunction</key>
+	<string>registerAsync</string>
+	<key>constraintsinceplatform</key>
+	<string>prepareInterpolation</string>
+	<key>criticalPosition</key>
+	<string>cupertinoTop</string>
+	<key>independentTentative</key>
+	<string>standaloneOperation</string>
+	<key>listenerfromwork</key>
+	<string>inheritedKernel</string>
+	<key>subsequentNorm</key>
+	<string>exitStore</string>
+	<key>symmetricIndicator</key>
+	<string>respectiveResolver</string>
+	<key>tappableTransition</key>
+	<string>switchRate</string>
+</dict>
+</plist>

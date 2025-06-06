@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeNotation</key>
+	<string>materialParameter</string>
+	<key>agileMedia</key>
+	<string>statelessthroughsystem</string>
+	<key>cursorstorage</key>
+	<string>requestModel</string>
+	<key>declarativeTweak</key>
+	<string>permutationShade</string>
+	<key>finderRight</key>
+	<string>usecasePattern</string>
+	<key>flexibleNotation</key>
+	<string>declarativeClipper</string>
+	<key>hyperbolicLoop</key>
+	<string>presenterSystem</string>
+	<key>logFlags</key>
+	<string>offsetError</string>
+	<key>permissiveLatency</key>
+	<string>symbolSpacing</string>
+	<key>slashDepth</key>
+	<string>processLayout</string>
+</dict>
+</plist>

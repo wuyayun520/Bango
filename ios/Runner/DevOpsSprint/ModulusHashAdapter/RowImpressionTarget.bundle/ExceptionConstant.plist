@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customDetail</key>
+	<string>analyzeHandler</string>
+	<key>easyFactory</key>
+	<string>canNavigateRow</string>
+	<key>keyView</key>
+	<string>tensorMedia</string>
+	<key>requiredFlex</key>
+	<string>shouldDisposeTouch</string>
+	<key>respectiveConsumer</key>
+	<string>minComposition</string>
+	<key>tweakFlags</key>
+	<string>musicContext</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateFlags</key>
+	<string>shouldUnbindExponent</string>
+	<key>fragmentresponder</key>
+	<string>pinchableGraph</string>
+	<key>shouldEndStack</key>
+	<string>unactivatedPicker</string>
+	<key>shouldSerializeNib</key>
+	<string>rangeEdge</string>
+	<key>smartGestureDetector</key>
+	<string>interpolateChart</string>
+	<key>specifyAnimation</key>
+	<string>layerCommand</string>
+	<key>statesincedecorator</key>
+	<string>obtainDelegate</string>
+</dict>
+</plist>

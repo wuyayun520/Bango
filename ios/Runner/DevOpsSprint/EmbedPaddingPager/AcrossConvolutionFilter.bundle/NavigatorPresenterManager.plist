@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotateaspect</key>
+	<string>objectLocation</string>
+	<key>dedicatedText</key>
+	<string>lostNotification</string>
+	<key>hierarchicalHistogram</key>
+	<string>shouldPrepareAnchor</string>
+	<key>publicstoryboard</key>
+	<string>stackTail</string>
+	<key>respectiveConstant</key>
+	<string>baselineInterpreter</string>
+	<key>shouldUnbindWorkflow</key>
+	<string>latencySkewY</string>
+	<key>staticstream</key>
+	<string>poolPreview</string>
+	<key>subscriberTransparency</key>
+	<string>bitrateSpacing</string>
+	<key>vertexRate</key>
+	<string>channelsDensity</string>
+	<key>visibleStep</key>
+	<string>normAcceleration</string>
+</dict>
+</plist>

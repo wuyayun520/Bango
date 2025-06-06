@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralEvent</key>
+	<string>sensorCoord</string>
+	<key>featuretop</key>
+	<string>chapterofsystem</string>
+	<key>otherInkWell</key>
+	<string>accessibleMovement</string>
+	<key>shouldPersistAlpha</key>
+	<string>skipPriority</string>
+</dict>
+</plist>

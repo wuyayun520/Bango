@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocworkpadding</key>
+	<string>viewandfunction</string>
+	<key>inkwellBound</key>
+	<string>checklistvariablemomentum</string>
+	<key>inkwellTension</key>
+	<string>asynchronousMomentum</string>
+	<key>lazyNavigation</key>
+	<string>operationState</string>
+	<key>literect</key>
+	<string>documentpreview</string>
+	<key>observerposition</key>
+	<string>concurrentStroke</string>
+	<key>prismaticScope</key>
+	<string>skipPlayback</string>
+	<key>protocolmenu</key>
+	<string>connectSpecifier</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellInterval</key>
+	<string>benchmarkchecklist</string>
+	<key>dismisshandler</key>
+	<string>textfieldFramework</string>
+	<key>grainalignment</key>
+	<string>cycleOpacity</string>
+	<key>immutableStep</key>
+	<string>shouldunmountedequalization</string>
+	<key>independentReducer</key>
+	<string>controllerEnvironment</string>
+	<key>momentumsincemediator</key>
+	<string>publicPreview</string>
+	<key>normalModel</key>
+	<string>priorRow</string>
+	<key>smartIndicator</key>
+	<string>mountedReduction</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackEdge</key>
+	<string>gridAction</string>
+	<key>concreteSorter</key>
+	<string>wrapRadius</string>
+	<key>diffableBorder</key>
+	<string>criticalpageview</string>
+	<key>lastNorm</key>
+	<string>canReplaceLogarithm</string>
+	<key>positionState</key>
+	<string>layoutDistance</string>
+	<key>pushreducer</key>
+	<string>resolverVisible</string>
+	<key>shouldInflateAperture</key>
+	<string>oldprogressbar</string>
+</dict>
+</plist>

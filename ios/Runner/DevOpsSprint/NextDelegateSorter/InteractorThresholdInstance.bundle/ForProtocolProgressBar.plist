@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonthanvariable</key>
+	<string>factoryvariableleft</string>
+	<key>drawerDepth</key>
+	<string>shouldDisconnectBorder</string>
+	<key>effectindex</key>
+	<string>copyParticle</string>
+	<key>sceneHue</key>
+	<string>cleanPopup</string>
+	<key>significantIndicator</key>
+	<string>interceptDependency</string>
+	<key>uniqueShape</key>
+	<string>scenePrototype</string>
+	<key>uniquebehavior</key>
+	<string>overlayVisitor</string>
+</dict>
+</plist>

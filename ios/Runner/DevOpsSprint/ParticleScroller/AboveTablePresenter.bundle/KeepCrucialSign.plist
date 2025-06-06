@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRadio</key>
+	<string>tappableTouch</string>
+	<key>agilehistogramresponse</key>
+	<string>draggableShader</string>
+	<key>buttonpreview</key>
+	<string>channelsoperation</string>
+	<key>deferredSearcher</key>
+	<string>timerOrientation</string>
+	<key>isOptimizer</key>
+	<string>shouldMountStoryboard</string>
+	<key>progressbartierstyle</key>
+	<string>brushSingleton</string>
+	<key>ternaryDirection</key>
+	<string>multimastertop</string>
+	<key>timeSpacing</key>
+	<string>selectorSkewY</string>
+</dict>
+</plist>

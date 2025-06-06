@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleVisibility</key>
+	<string>instructionActivity</string>
+	<key>diffableintensity</key>
+	<string>shouldserializealert</string>
+	<key>difficultStore</key>
+	<string>customGate</string>
+	<key>discardedHeap</key>
+	<string>strengthDuration</string>
+	<key>pivotalGrayscale</key>
+	<string>relationalHash</string>
+	<key>sampleFlags</key>
+	<string>alignmentDepth</string>
+	<key>sizeinformation</key>
+	<string>largeSprite</string>
+	<key>ternaryFlags</key>
+	<string>streamaroundplatform</string>
+	<key>workflowtexture</key>
+	<string>shouldpublishcharacter</string>
+</dict>
+</plist>

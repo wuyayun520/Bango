@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleratereference</key>
+	<string>mutableCustomPaint</string>
+	<key>adaptiveAnimator</key>
+	<string>specifierInterval</string>
+	<key>interactiveRadio</key>
+	<string>triggerFeedback</string>
+	<key>mainVolume</key>
+	<string>consumerIndex</string>
+	<key>shaderacceleration</key>
+	<string>dependencyskewy</string>
+</dict>
+</plist>

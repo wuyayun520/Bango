@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardindecorator</key>
+	<string>reusableScheduler</string>
+	<key>currentSpot</key>
+	<string>keepPageView</string>
+	<key>directBullet</key>
+	<string>canMountPageView</string>
+	<key>gramhash</key>
+	<string>canLoadFuture</string>
+	<key>hyperbolicMedia</key>
+	<string>pinchablerowcolor</string>
+	<key>layerorigin</key>
+	<string>intuitiveArchitecture</string>
+	<key>optimizerinterval</key>
+	<string>unbindCache</string>
+	<key>resizableStream</key>
+	<string>accordionModule</string>
+	<key>subscriptionspacing</key>
+	<string>discardedCurve</string>
+</dict>
+</plist>

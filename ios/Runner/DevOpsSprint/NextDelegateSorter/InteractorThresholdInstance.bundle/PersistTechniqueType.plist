@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryType</key>
+	<string>refreshBuilder</string>
+	<key>axisState</key>
+	<string>canYieldMember</string>
+	<key>independentAllocator</key>
+	<string>canStreamSizedBox</string>
+	<key>notifyconfiguration</key>
+	<string>collectionpressure</string>
+	<key>paddingFeedback</key>
+	<string>isolateSingleton</string>
+</dict>
+</plist>

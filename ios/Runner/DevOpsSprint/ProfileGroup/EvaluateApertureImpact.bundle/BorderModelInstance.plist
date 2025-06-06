@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDistinction</key>
+	<string>typicalThread</string>
+	<key>insteadloss</key>
+	<string>encodetext</string>
+	<key>resourceatmethod</key>
+	<string>oldGrain</string>
+	<key>variantInterval</key>
+	<string>optionProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursororientation</key>
+	<string>shouldShowCustomPaint</string>
+	<key>dynamicSlash</key>
+	<string>agileExtension</string>
+	<key>gridviewshade</key>
+	<string>copyConfiguration</string>
+	<key>resolverStatus</key>
+	<string>cursorvolume</string>
+</dict>
+</plist>

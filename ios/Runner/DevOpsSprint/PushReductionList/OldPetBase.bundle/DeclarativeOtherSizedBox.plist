@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedInfrastructure</key>
+	<string>iterativeModel</string>
+	<key>hardMediaQuery</key>
+	<string>tableFacade</string>
+	<key>normalCapsule</key>
+	<string>searcherBehavior</string>
+	<key>responsiveTrigger</key>
+	<string>gateDepth</string>
+	<key>richtextscene</key>
+	<string>configurationactivitybottom</string>
+	<key>shouldProcessTouch</key>
+	<string>skirtMemento</string>
+</dict>
+</plist>

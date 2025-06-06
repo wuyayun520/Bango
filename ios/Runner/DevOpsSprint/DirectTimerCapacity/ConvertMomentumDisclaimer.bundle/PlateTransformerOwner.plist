@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>infoAcceleration</key>
+	<string>resourceDensity</string>
+	<key>layoutbesideobserver</key>
+	<string>gridMargin</string>
+	<key>shouldDisconnectReference</key>
+	<string>previewScale</string>
+	<key>timerPressure</key>
+	<string>scrollableTimeline</string>
+	<key>unbindequipment</key>
+	<string>statusSkewX</string>
+</dict>
+</plist>

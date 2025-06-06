@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMaterial</key>
+	<string>materialFrame</string>
+	<key>mediumOption</key>
+	<string>tweakformat</string>
+	<key>missedDetector</key>
+	<string>fetchTabBar</string>
+	<key>mitigatehandler</key>
+	<string>newestTernary</string>
+	<key>publicGroup</key>
+	<string>receiveLocalization</string>
+	<key>shouldBindProvider</key>
+	<string>buildSlash</string>
+	<key>taxonomyMomentum</key>
+	<string>mainUsage</string>
+</dict>
+</plist>

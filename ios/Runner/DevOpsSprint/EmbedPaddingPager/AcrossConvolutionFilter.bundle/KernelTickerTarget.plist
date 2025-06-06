@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultObserver</key>
+	<string>endProvider</string>
+	<key>independentHeap</key>
+	<string>radioHead</string>
+	<key>primaryVariant</key>
+	<string>transpileTicker</string>
+	<key>resolverMode</key>
+	<string>shouldKeepStack</string>
+	<key>shouldValidateChallenge</key>
+	<string>singleCertificate</string>
+</dict>
+</plist>

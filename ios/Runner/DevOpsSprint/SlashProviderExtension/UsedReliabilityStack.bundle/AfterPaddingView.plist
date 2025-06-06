@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedprojectinterval</key>
+	<string>canTransitionAccessory</string>
+	<key>eventwithjob</key>
+	<string>intermediatenibmode</string>
+	<key>graincontextskewy</key>
+	<string>cardForm</string>
+	<key>maintaintween</key>
+	<string>singletonValidation</string>
+	<key>nibOrientation</key>
+	<string>sortedscroll</string>
+	<key>positiontrigger</key>
+	<string>concreteConfiguration</string>
+	<key>resilientPriority</key>
+	<string>remediationcolor</string>
+	<key>shouldMountedScale</key>
+	<string>presenterFeedback</string>
+	<key>shouldPersistClipper</key>
+	<string>lostAxis</string>
+	<key>sustainablePopup</key>
+	<string>shouldEndSlider</string>
+</dict>
+</plist>

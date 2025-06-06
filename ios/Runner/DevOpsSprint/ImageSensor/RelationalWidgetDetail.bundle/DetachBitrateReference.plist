@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedCharacteristic</key>
+	<string>canFetchInterpolation</string>
+	<key>directGroup</key>
+	<string>frameStructure</string>
+	<key>kernelskewy</key>
+	<string>groupvisitorstyle</string>
+	<key>liteIsolate</key>
+	<string>intermediateresource</string>
+	<key>reductionorientation</key>
+	<string>isspecifier</string>
+	<key>reductionthroughstate</key>
+	<string>tensorTexture</string>
+	<key>replicaDirection</key>
+	<string>imageobserver</string>
+	<key>shouldPaintDocument</key>
+	<string>updateChannels</string>
+	<key>utilPadding</key>
+	<string>asynchronouscontrollerorigin</string>
+</dict>
+</plist>

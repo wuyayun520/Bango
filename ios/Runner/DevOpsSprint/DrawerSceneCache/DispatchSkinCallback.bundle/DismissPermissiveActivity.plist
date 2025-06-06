@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAlignment</key>
+	<string>positionmementomargin</string>
+	<key>basicSine</key>
+	<string>annotateButton</string>
+	<key>checklistresponse</key>
+	<string>parallelProject</string>
+	<key>ephemeralPreview</key>
+	<string>floatLayer</string>
+	<key>independentPromise</key>
+	<string>geometricLifecycle</string>
+	<key>indicatorFeedback</key>
+	<string>routerrange</string>
+	<key>pivotalDelivery</key>
+	<string>actionversusfunction</string>
+	<key>unsortedChooser</key>
+	<string>shouldFormatBloc</string>
+	<key>webBloc</key>
+	<string>notificationInterval</string>
+</dict>
+</plist>

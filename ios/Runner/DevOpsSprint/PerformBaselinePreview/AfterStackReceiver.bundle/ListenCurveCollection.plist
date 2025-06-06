@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviordepth</key>
+	<string>chooserpressure</string>
+	<key>bitrateBottom</key>
+	<string>segmentOrigin</string>
+	<key>geometricTaxonomy</key>
+	<string>restartBrush</string>
+	<key>interfaceContrast</key>
+	<string>signSpeed</string>
+	<key>permutationTheme</key>
+	<string>tickerTheme</string>
+	<key>repositoryviakind</key>
+	<string>equipmentCommand</string>
+	<key>respectiveLifecycle</key>
+	<string>entropyChain</string>
+	<key>skipbinary</key>
+	<string>stateDelay</string>
+</dict>
+</plist>

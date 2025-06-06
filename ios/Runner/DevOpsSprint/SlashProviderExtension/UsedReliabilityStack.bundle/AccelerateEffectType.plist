@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedBase</key>
+	<string>otherVideo</string>
+	<key>evaluateinterpolation</key>
+	<string>cubitScale</string>
+	<key>granularLoss</key>
+	<string>animateHero</string>
+	<key>interactorenvironmenttint</key>
+	<string>poolOffset</string>
+	<key>mediumModel</key>
+	<string>intensityduration</string>
+	<key>similarInterface</key>
+	<string>shouldDeserializeDropdownButton</string>
+	<key>substantialTouch</key>
+	<string>taskSkewX</string>
+	<key>tappableConfidentiality</key>
+	<string>interfaceCenter</string>
+	<key>tweakShade</key>
+	<string>mainChooser</string>
+</dict>
+</plist>

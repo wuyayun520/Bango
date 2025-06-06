@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedNavigation</key>
+	<string>localLayer</string>
+	<key>notificationShade</key>
+	<string>pushCurve</string>
+	<key>permanenterror</key>
+	<string>canKeepLog</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedimpression</key>
+	<string>resizeGrain</string>
+	<key>directfactory</key>
+	<string>decodeCheckbox</string>
+	<key>ignoredNavigation</key>
+	<string>multiplicationMargin</string>
+	<key>permissiveDialogs</key>
+	<string>freeNavigator</string>
+	<key>strengthOpacity</key>
+	<string>animationorsingleton</string>
+	<key>subscribespot</key>
+	<string>cupertinoRecursion</string>
+</dict>
+</plist>

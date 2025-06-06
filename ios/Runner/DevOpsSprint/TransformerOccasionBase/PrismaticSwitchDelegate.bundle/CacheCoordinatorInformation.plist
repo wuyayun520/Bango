@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentcenter</key>
+	<string>semanticTheme</string>
+	<key>desktopTransformer</key>
+	<string>tweenFramework</string>
+	<key>dynamicrequesttension</key>
+	<string>shouldunmountstack</string>
+	<key>enabledAwait</key>
+	<string>attachRole</string>
+	<key>hasSkin</key>
+	<string>alphaSpacing</string>
+	<key>keyChannel</key>
+	<string>replaceAnimatedContainer</string>
+	<key>reactiveSine</key>
+	<string>differentiateObserver</string>
+	<key>shouldRebuildBatch</key>
+	<string>connectAsset</string>
+	<key>subpixelinteraction</key>
+	<string>newestChannel</string>
+	<key>swiftconverter</key>
+	<string>differentiateMenu</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRestriction</key>
+	<string>sizemomentum</string>
+	<key>challengeBrightness</key>
+	<string>defaultremainder</string>
+	<key>cupertinoNotifier</key>
+	<string>firstNotification</string>
+	<key>diffableInteraction</key>
+	<string>mainProjection</string>
+	<key>indicatorTag</key>
+	<string>bufferTier</string>
+	<key>respectiveArchitecture</key>
+	<string>defaultsizedbox</string>
+	<key>shouldUnbindLabel</key>
+	<string>binderBorder</string>
+</dict>
+</plist>

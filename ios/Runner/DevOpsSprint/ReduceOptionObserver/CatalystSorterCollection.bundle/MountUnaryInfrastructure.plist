@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentbridgepressure</key>
+	<string>modelVelocity</string>
+	<key>descriptorFlags</key>
+	<string>functionalResult</string>
+	<key>diversifiedDelegate</key>
+	<string>shouldMountBaseline</string>
+</dict>
+</plist>

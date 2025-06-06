@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncType</key>
+	<string>commonReference</string>
+	<key>deactivateoption</key>
+	<string>compileDependency</string>
+	<key>dismissindicator</key>
+	<string>analyzeEvent</string>
+	<key>framedelay</key>
+	<string>canCancelConvolution</string>
+	<key>listenerstrategyvisible</key>
+	<string>invisibleContainer</string>
+	<key>occasionEdge</key>
+	<string>fetchTable</string>
+	<key>priorscalability</key>
+	<string>shouldpublishpromise</string>
+	<key>shouldunmountedbatch</key>
+	<string>shouldEndModulus</string>
+	<key>stampInset</key>
+	<string>decodeflex</string>
+</dict>
+</plist>

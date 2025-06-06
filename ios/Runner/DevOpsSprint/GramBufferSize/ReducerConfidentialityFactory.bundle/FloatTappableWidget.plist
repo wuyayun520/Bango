@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonRepository</key>
+	<string>gradienttopic</string>
+	<key>multiRemediation</key>
+	<string>onlabelchanged</string>
+	<key>permanentChooser</key>
+	<string>canMountGrayscale</string>
+	<key>priorStateful</key>
+	<string>pinchableRow</string>
+	<key>reducerBound</key>
+	<string>factoryPattern</string>
+	<key>shouldDecodeBase</key>
+	<string>synchronousChart</string>
+	<key>shouldMountConsumer</key>
+	<string>deployQueue</string>
+	<key>standaloneDelivery</key>
+	<string>directlyExtension</string>
+	<key>staticElement</key>
+	<string>profileTexture</string>
+</dict>
+</plist>

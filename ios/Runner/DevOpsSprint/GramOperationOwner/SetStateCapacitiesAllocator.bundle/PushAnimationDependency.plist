@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentGem</key>
+	<string>lostBrush</string>
+	<key>detailVisibility</key>
+	<string>activityviatype</string>
+	<key>masterintegration</key>
+	<string>shouldStartMedia</string>
+	<key>processorbrightness</key>
+	<string>captiongrain</string>
+	<key>shouldkeepoverlay</key>
+	<string>cleanparticle</string>
+	<key>storagestate</key>
+	<string>similarSplitter</string>
+	<key>subsequentefficiency</key>
+	<string>canPrepareSwitch</string>
+	<key>subtleTheme</key>
+	<string>constantBorder</string>
+	<key>uniqueGradient</key>
+	<string>dataBrightness</string>
+</dict>
+</plist>

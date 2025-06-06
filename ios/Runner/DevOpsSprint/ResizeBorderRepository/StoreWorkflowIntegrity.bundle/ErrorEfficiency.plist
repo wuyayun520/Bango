@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedReliability</key>
+	<string>currentFormat</string>
+	<key>baseBound</key>
+	<string>blocOrigin</string>
+	<key>emittouch</key>
+	<string>materialFlex</string>
+	<key>itemDuration</key>
+	<string>attachAperture</string>
+	<key>permissiveMomentum</key>
+	<string>ondelegatechanged</string>
+	<key>rowOffset</key>
+	<string>stampnumberlocation</string>
+	<key>standalonePoint</key>
+	<string>fusedCapacity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerName</key>
+	<string>protectedState</string>
+	<key>easyLatency</key>
+	<string>greatLoss</string>
+	<key>laststackmargin</key>
+	<string>navigatoraction</string>
+	<key>normSpacing</key>
+	<string>hardConsumer</string>
+	<key>semanticBandwidth</key>
+	<string>modelprocesssaturation</string>
+</dict>
+</plist>

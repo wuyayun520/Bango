@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>presenterSize</key>
+	<string>canSubscribeGraphic</string>
+	<key>queueMargin</key>
+	<string>masterCommand</string>
+	<key>reducerShade</key>
+	<string>awaitoutsidestage</string>
+	<key>unmountedsingleton</key>
+	<string>hardAllocator</string>
+</dict>
+</plist>

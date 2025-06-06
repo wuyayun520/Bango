@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantSkewY</key>
+	<string>usecaseSystem</string>
+	<key>cubeFormat</key>
+	<string>computeTitle</string>
+	<key>customScroller</key>
+	<string>touchFunction</string>
+	<key>graphTension</key>
+	<string>canRouteCycle</string>
+	<key>istransition</key>
+	<string>fetchArithmetic</string>
+	<key>resilientScroll</key>
+	<string>canParseMonster</string>
+</dict>
+</plist>

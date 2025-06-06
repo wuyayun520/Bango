@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAlert</key>
+	<string>responsiveChecklist</string>
+	<key>consultativeSubpixel</key>
+	<string>parallelLinker</string>
+	<key>largelayout</key>
+	<string>fillFuture</string>
+	<key>multiLog</key>
+	<string>sequentialmobilebehavior</string>
+	<key>shouldDetachMusic</key>
+	<string>nibDelay</string>
+	<key>subpixelAcceleration</key>
+	<string>mediumContraction</string>
+	<key>substantialmetadatabound</key>
+	<string>monsterKind</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainercolor</key>
+	<string>regulateDependency</string>
+	<key>dimensionShade</key>
+	<string>trianglesTransparency</string>
+	<key>pickerType</key>
+	<string>staticReference</string>
+	<key>sinkbeyondtype</key>
+	<string>semanticsPlatform</string>
+</dict>
+</plist>

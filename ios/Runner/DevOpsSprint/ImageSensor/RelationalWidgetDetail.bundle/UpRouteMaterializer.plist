@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorhue</key>
+	<string>iconTemple</string>
+	<key>collectionview</key>
+	<string>overrideCoordinator</string>
+	<key>delegateoutsideparam</key>
+	<string>yieldUsage</string>
+	<key>istangent</key>
+	<string>reducerDirection</string>
+	<key>primaryDistinction</key>
+	<string>shouldUnbindComposition</string>
+	<key>shouldDisposeOverlay</key>
+	<string>ignoredMatrix</string>
+	<key>shouldSetStateDelegate</key>
+	<string>webButton</string>
+	<key>smallroute</key>
+	<string>staticcontroller</string>
+	<key>sophisticatedtabbar</key>
+	<string>fragmentStrategy</string>
+</dict>
+</plist>

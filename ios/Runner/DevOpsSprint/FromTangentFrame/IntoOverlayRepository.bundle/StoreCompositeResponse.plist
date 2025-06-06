@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateMovement</key>
+	<string>discardedRadius</string>
+	<key>layoutpressure</key>
+	<string>usedLabel</string>
+	<key>notifierbuilder</key>
+	<string>efficiencyCenter</string>
+	<key>previewPadding</key>
+	<string>shouldPresentMedia</string>
+	<key>resolveslider</key>
+	<string>manageramongwork</string>
+	<key>routegesture</key>
+	<string>mapperorigin</string>
+	<key>touchBrightness</key>
+	<string>mapperHue</string>
+</dict>
+</plist>

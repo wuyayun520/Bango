@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorOrientation</key>
+	<string>hasdimension</string>
+	<key>disclaimerAlignment</key>
+	<string>desktopResource</string>
+	<key>loopAlignment</key>
+	<string>apertureParameter</string>
+	<key>opaqueMesh</key>
+	<string>allocatorResponse</string>
+	<key>parallelIntegration</key>
+	<string>audioState</string>
+	<key>positionedaction</key>
+	<string>yieldclipper</string>
+</dict>
+</plist>

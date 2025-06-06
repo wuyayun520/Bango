@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderTop</key>
+	<string>attachPadding</string>
+	<key>invisibleSegue</key>
+	<string>ephemeralTransformer</string>
+	<key>relationalcolumn</key>
+	<string>explicitSelector</string>
+	<key>significantAsync</key>
+	<string>finderRotation</string>
+</dict>
+</plist>

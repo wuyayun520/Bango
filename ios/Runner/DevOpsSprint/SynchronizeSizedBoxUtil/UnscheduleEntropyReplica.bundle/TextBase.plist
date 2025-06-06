@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deactivatetransformer</key>
+	<string>canBuildRemainder</string>
+	<key>hyperbolicSwift</key>
+	<string>entitydensity</string>
+	<key>interactiveSemantics</key>
+	<string>canSetStateDimension</string>
+	<key>onnotifiertap</key>
+	<string>transpilesize</string>
+	<key>shouldunbindcycle</key>
+	<string>shouldFetchDuration</string>
+</dict>
+</plist>

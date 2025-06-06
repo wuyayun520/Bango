@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertamongcommand</key>
+	<string>gradientfrequency</string>
+	<key>baselineBorder</key>
+	<string>uniformEquivalent</string>
+	<key>concurrentBorder</key>
+	<string>radiusOperation</string>
+	<key>indicatorFrequency</key>
+	<string>rebuildUsage</string>
+	<key>lostSubscription</key>
+	<string>exceptionEdge</string>
+	<key>prismaticPreview</key>
+	<string>boxshadowTheme</string>
+	<key>shouldReplaceStream</key>
+	<string>mutableTextField</string>
+	<key>shouldStartExtension</key>
+	<string>quantizerAwait</string>
+</dict>
+</plist>

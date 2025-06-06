@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchBehavior</key>
+	<string>shouldformatbloc</string>
+	<key>otherCupertino</key>
+	<string>cardProxy</string>
+	<key>priorMargin</key>
+	<string>compositionalMargin</string>
+</dict>
+</plist>

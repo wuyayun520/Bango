@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxinformation</key>
+	<string>informationscale</string>
+	<key>bufferpolyfill</key>
+	<string>tappableCursor</string>
+	<key>defaultproject</key>
+	<string>prismaticButton</string>
+	<key>dropdownbuttoncreator</key>
+	<string>injectionSkewX</string>
+	<key>inheritedContainer</key>
+	<string>canSerializeConvolution</string>
+	<key>pivotalPolyfill</key>
+	<string>disabledPrecision</string>
+	<key>reusableButton</key>
+	<string>injectionWork</string>
+	<key>scaffoldBorder</key>
+	<string>deflateborder</string>
+	<key>significantNotification</key>
+	<string>greatEffect</string>
+</dict>
+</plist>

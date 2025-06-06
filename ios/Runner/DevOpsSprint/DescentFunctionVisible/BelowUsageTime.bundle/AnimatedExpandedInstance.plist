@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalCache</key>
+	<string>viewContext</string>
+	<key>mergerTint</key>
+	<string>previewPadding</string>
+	<key>modalpreview</key>
+	<string>vectorwrapper</string>
+	<key>multiplicationSize</key>
+	<string>cacheInset</string>
+	<key>opaqueAnimation</key>
+	<string>skirtFacade</string>
+	<key>rapidScaffold</key>
+	<string>independentStore</string>
+	<key>similarQueue</key>
+	<string>decodeBitrate</string>
+	<key>standaloneAwait</key>
+	<string>invisibleImpression</string>
+	<key>taxonomyPadding</key>
+	<string>popPageView</string>
+</dict>
+</plist>

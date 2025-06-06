@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchRotation</key>
+	<string>resizableSchema</string>
+	<key>characteristicPressure</key>
+	<string>createGestureDetector</string>
+	<key>objectSaturation</key>
+	<string>multitableinteraction</string>
+	<key>originalScale</key>
+	<string>notificationtransformer</string>
+	<key>staticOffset</key>
+	<string>occasionflags</string>
+	<key>transpilelabel</key>
+	<string>invisibleInterpolation</string>
+	<key>webData</key>
+	<string>handleinjection</string>
+</dict>
+</plist>

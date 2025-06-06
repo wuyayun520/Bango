@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activespritetension</key>
+	<string>loopobserverleft</string>
+	<key>anchorbuilder</key>
+	<string>singletonmatrix</string>
+	<key>cachekindspeed</key>
+	<string>easyrequestopacity</string>
+	<key>capsulerotation</key>
+	<string>challengeRight</string>
+	<key>easyGradient</key>
+	<string>cancelExponent</string>
+	<key>flexibleEqualization</key>
+	<string>canTrainResource</string>
+	<key>materialjobcontrast</key>
+	<string>capturezone</string>
+	<key>shouldContinueCustomPaint</key>
+	<string>spriteagainststyle</string>
+	<key>shouldParseTechnique</key>
+	<string>canPublishSwift</string>
+	<key>themeMode</key>
+	<string>sampleMargin</string>
+</dict>
+</plist>

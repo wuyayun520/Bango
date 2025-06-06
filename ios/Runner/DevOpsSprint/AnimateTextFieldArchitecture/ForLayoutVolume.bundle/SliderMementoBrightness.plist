@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directRichText</key>
+	<string>associatedTransition</string>
+	<key>firstComposition</key>
+	<string>persistentMediaQuery</string>
+	<key>fixedStatus</key>
+	<string>locateBuilder</string>
+	<key>inactiveWorkflow</key>
+	<string>responsetint</string>
+	<key>modelLeft</key>
+	<string>usageParam</string>
+</dict>
+</plist>

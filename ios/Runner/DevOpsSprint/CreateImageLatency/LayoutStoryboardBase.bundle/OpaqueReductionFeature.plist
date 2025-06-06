@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderRate</key>
+	<string>monsterMomentum</string>
+	<key>chartTail</key>
+	<string>unactivatedrowposition</string>
+	<key>compositionrate</key>
+	<string>directSchema</string>
+	<key>deployrole</key>
+	<string>clipChapter</string>
+	<key>resilienttransition</key>
+	<string>syncTween</string>
+	<key>richtextvertex</key>
+	<string>renderStateless</string>
+	<key>shouldPauseMediaQuery</key>
+	<string>canProcessBullet</string>
+	<key>smartCapacities</key>
+	<string>canPublishTabBar</string>
+	<key>unactivatedResilience</key>
+	<string>smallSwitch</string>
+</dict>
+</plist>

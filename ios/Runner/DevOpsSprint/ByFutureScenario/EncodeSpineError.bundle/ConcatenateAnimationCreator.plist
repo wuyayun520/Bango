@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzecontroller</key>
+	<string>convertFactory</string>
+	<key>bitrateFrequency</key>
+	<string>customMovement</string>
+	<key>mechanismOffset</key>
+	<string>eagerScheduler</string>
+	<key>queueAppearance</key>
+	<string>remainderStructure</string>
+	<key>repositorySpeed</key>
+	<string>commonIndicator</string>
+	<key>standaloneLinker</key>
+	<string>activeEffect</string>
+	<key>swiftOrientation</key>
+	<string>managerSkewX</string>
+</dict>
+</plist>

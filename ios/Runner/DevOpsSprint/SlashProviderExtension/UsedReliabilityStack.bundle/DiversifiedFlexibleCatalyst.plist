@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentOrigin</key>
+	<string>responsivePolygon</string>
+	<key>autoCapsule</key>
+	<string>independentData</string>
+	<key>controllerfromlevel</key>
+	<string>diversifiedPainter</string>
+	<key>descriptionvariablecenter</key>
+	<string>prismaticVolume</string>
+	<key>imageType</key>
+	<string>canHandleListView</string>
+	<key>rotatetask</key>
+	<string>shouldCancelRole</string>
+	<key>shouldRouteRole</key>
+	<string>customizedCheckbox</string>
+	<key>variantBrightness</key>
+	<string>mediumCapsule</string>
+</dict>
+</plist>

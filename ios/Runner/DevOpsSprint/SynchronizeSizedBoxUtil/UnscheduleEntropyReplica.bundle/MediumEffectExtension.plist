@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectPressure</key>
+	<string>seamlessCurve</string>
+	<key>disabledSpecifier</key>
+	<string>commonSample</string>
+	<key>listenercolor</key>
+	<string>grainSpeed</string>
+	<key>onchallengechanged</key>
+	<string>clipResolver</string>
+	<key>sharedAsync</key>
+	<string>shapeCoord</string>
+	<key>shouldDetachNotification</key>
+	<string>hashTier</string>
+	<key>shouldDisconnectCell</key>
+	<string>reductionSpacing</string>
+	<key>visibleAppBar</key>
+	<string>viewequivalent</string>
+</dict>
+</plist>

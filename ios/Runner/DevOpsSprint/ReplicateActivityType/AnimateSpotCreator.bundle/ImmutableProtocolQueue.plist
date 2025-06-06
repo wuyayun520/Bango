@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxawait</key>
+	<string>freeCallback</string>
+	<key>consumptionBehavior</key>
+	<string>shouldDisposeSwitch</string>
+	<key>geometricCheckbox</key>
+	<string>intuitiveScroller</string>
+	<key>oldlayerdelay</key>
+	<string>transitionfunctiondensity</string>
+	<key>prismaticTentative</key>
+	<string>immutableSound</string>
+	<key>shouldInflateRemainder</key>
+	<string>scrollSingleton</string>
+	<key>shouldInflateTangent</key>
+	<string>standaloneListView</string>
+	<key>uniformMediaQuery</key>
+	<string>originalAudio</string>
+</dict>
+</plist>

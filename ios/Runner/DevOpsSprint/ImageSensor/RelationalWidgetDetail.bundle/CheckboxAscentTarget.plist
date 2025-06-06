@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertFormat</key>
+	<string>webConsumption</string>
+	<key>deferredGestureDetector</key>
+	<string>delegateGroup</string>
+	<key>directlyZone</key>
+	<string>alphaStatus</string>
+	<key>immediateCache</key>
+	<string>retainedData</string>
+	<key>integrationvisible</key>
+	<string>introspectResource</string>
+	<key>primarytrigger</key>
+	<string>subscriberSkewY</string>
+</dict>
+</plist>

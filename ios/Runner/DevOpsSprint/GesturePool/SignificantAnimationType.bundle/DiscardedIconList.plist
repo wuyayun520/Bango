@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBinary</key>
+	<string>elasticRenderer</string>
+	<key>defaultEntropy</key>
+	<string>canNotifyFlex</string>
+	<key>gestureStyle</key>
+	<string>trajectorytint</string>
+	<key>interactiveTimer</key>
+	<string>materialAperture</string>
+	<key>sustainableskinstyle</key>
+	<string>unlockmission</string>
+	<key>symmetricInteraction</key>
+	<string>dedicatedcomponent</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMonster</key>
+	<string>canReplaceScreen</string>
+	<key>dedicatedListener</key>
+	<string>shouldSerializeDescriptor</string>
+	<key>iterativeShape</key>
+	<string>canCreateAlert</string>
+	<key>painterPosition</key>
+	<string>scheduleMethod</string>
+	<key>parallelMobile</key>
+	<string>shouldDetachBase</string>
+	<key>reducerkindvalidation</key>
+	<string>shouldReplaceTechnique</string>
+	<key>secondScale</key>
+	<string>cacheSkewX</string>
+	<key>shouldmountedcharacter</key>
+	<string>shouldEndPlayback</string>
+	<key>smallEquivalent</key>
+	<string>shouldDispatchSegue</string>
+</dict>
+</plist>

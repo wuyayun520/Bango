@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDependency</key>
+	<string>missionvariablebehavior</string>
+	<key>concurrentEvaluation</key>
+	<string>samplecoord</string>
+	<key>eagerQuaternion</key>
+	<string>smartAspectRatio</string>
+	<key>gateBound</key>
+	<string>commonLayer</string>
+	<key>largeRectangle</key>
+	<string>onpainterchanged</string>
+	<key>normalService</key>
+	<string>hierarchicalScope</string>
+	<key>prismaticprogressbar</key>
+	<string>disconnectcubit</string>
+	<key>synchronousScene</key>
+	<string>renderRoute</string>
+</dict>
+</plist>

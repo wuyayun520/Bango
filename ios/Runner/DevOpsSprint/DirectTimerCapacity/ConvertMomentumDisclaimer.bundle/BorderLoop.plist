@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSwitch</key>
+	<string>statefulRole</string>
+	<key>clusterPressure</key>
+	<string>basicbutton</string>
+	<key>directlyHandler</key>
+	<string>shouldCachePriority</string>
+	<key>draggableTextField</key>
+	<string>interactionsaturation</string>
+	<key>normalClipper</key>
+	<string>rapidRichText</string>
+	<key>requestPosition</key>
+	<string>metadataProxy</string>
+	<key>responsiveUnary</key>
+	<string>basicEquipment</string>
+	<key>sessionSize</key>
+	<string>usedSpot</string>
+	<key>statecyclebehavior</key>
+	<string>shouldSerializeMission</string>
+</dict>
+</plist>

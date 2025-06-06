@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedCluster</key>
+	<string>updateNavigation</string>
+	<key>hasstep</key>
+	<string>rebuildCompletion</string>
+	<key>lazyCatalyst</key>
+	<string>canNotifyGestureDetector</string>
+	<key>publicCluster</key>
+	<string>cupertinoEqualization</string>
+</dict>
+</plist>

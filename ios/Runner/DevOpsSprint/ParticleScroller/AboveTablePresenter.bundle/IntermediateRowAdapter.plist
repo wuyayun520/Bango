@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseAppearance</key>
+	<string>connectInterface</string>
+	<key>commonDescription</key>
+	<string>inactivetaskfeedback</string>
+	<key>composableCluster</key>
+	<string>oldgesturedetectororientation</string>
+	<key>constraintbridgetint</key>
+	<string>canProcessAppBar</string>
+	<key>dependencyBottom</key>
+	<string>regulateIntensity</string>
+	<key>directlyStorage</key>
+	<string>draggableMap</string>
+	<key>inheritedResilience</key>
+	<string>advancedcapacitiesposition</string>
+	<key>inkwellAcceleration</key>
+	<string>substantialTriangles</string>
+	<key>slidertierdirection</key>
+	<string>traversalCenter</string>
+</dict>
+</plist>

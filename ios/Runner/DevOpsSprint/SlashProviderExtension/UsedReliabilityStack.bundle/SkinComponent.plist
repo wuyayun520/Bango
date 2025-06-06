@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoView</key>
+	<string>cardPlatform</string>
+	<key>dependencysubscriber</key>
+	<string>gestureStage</string>
+	<key>interactiveSignature</key>
+	<string>unsortedAscent</string>
+	<key>layoutcontainer</key>
+	<string>cubitMode</string>
+	<key>navigatormerger</key>
+	<string>benchmarkAllocator</string>
+	<key>oldDocument</key>
+	<string>storeInset</string>
+	<key>publicDependency</key>
+	<string>nextContrast</string>
+	<key>shouldAttachEqualization</key>
+	<string>parallelInteger</string>
+	<key>shouldDeserializeObserver</key>
+	<string>profileZone</string>
+	<key>shouldPresentBoxShadow</key>
+	<string>displayableExtension</string>
+</dict>
+</plist>

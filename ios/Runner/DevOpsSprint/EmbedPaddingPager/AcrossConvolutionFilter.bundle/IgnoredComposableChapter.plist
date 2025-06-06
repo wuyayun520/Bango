@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionschema</key>
+	<string>canUpdateLogarithm</string>
+	<key>customizediconinterval</key>
+	<string>shouldNavigateView</string>
+	<key>dismisslistener</key>
+	<string>errorSize</string>
+	<key>imperativeSpine</key>
+	<string>imageComposite</string>
+	<key>lastError</key>
+	<string>monsterdependency</string>
+	<key>prevModal</key>
+	<string>discardedDimension</string>
+	<key>shouldProcessSegue</key>
+	<string>labelMargin</string>
+</dict>
+</plist>

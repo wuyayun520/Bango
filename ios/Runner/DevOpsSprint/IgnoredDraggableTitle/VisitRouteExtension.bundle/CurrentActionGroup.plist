@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSchema</key>
+	<string>statefulsubscription</string>
+	<key>diffableLifecycle</key>
+	<string>restoreSlider</string>
+	<key>graphresponse</key>
+	<string>normalText</string>
+	<key>mappercenter</key>
+	<string>conformText</string>
+	<key>notificationMomentum</key>
+	<string>nextInterpolation</string>
+	<key>permissiveCapacities</key>
+	<string>missedRenderer</string>
+	<key>responseInset</key>
+	<string>columnCommand</string>
+</dict>
+</plist>

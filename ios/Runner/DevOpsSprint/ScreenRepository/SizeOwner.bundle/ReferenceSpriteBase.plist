@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleProcessor</key>
+	<string>canTransitionDecoration</string>
+	<key>notationvisibility</key>
+	<string>lifecycleHue</string>
+	<key>semanticImpact</key>
+	<string>euclideanTransition</string>
+	<key>singletonparamresponse</key>
+	<string>eventObserver</string>
+	<key>textcompositetag</key>
+	<string>denseOption</string>
+</dict>
+</plist>

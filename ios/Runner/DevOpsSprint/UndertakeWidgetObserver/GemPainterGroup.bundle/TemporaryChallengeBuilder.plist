@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilemission</key>
+	<string>obtainModel</string>
+	<key>certificatecyclecontrast</key>
+	<string>intermediateScheduler</string>
+	<key>densemerger</key>
+	<string>shouldparseimage</string>
+	<key>fixedGraph</key>
+	<string>rectpressure</string>
+	<key>navigatorformlocation</key>
+	<string>canLoadProjection</string>
+	<key>primaryMetadata</key>
+	<string>priorscreen</string>
+	<key>schedulerRate</key>
+	<string>canPublishPromise</string>
+</dict>
+</plist>

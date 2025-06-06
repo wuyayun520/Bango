@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTransformer</key>
+	<string>shouldBindAlpha</string>
+	<key>backwardGridView</key>
+	<string>augmentTween</string>
+	<key>customizedframebehavior</key>
+	<string>serializeservice</string>
+	<key>iconColor</key>
+	<string>shouldReplaceCheckbox</string>
+	<key>materialTrigger</key>
+	<string>musicType</string>
+	<key>shouldYieldStep</key>
+	<string>coordinatorJob</string>
+	<key>ternaryservice</key>
+	<string>parseHistogram</string>
+	<key>titlematrix</key>
+	<string>canBuildWorkflow</string>
+</dict>
+</plist>

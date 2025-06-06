@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuetitle</key>
+	<string>advancedFeature</string>
+	<key>difficultRecursion</key>
+	<string>greatcycle</string>
+	<key>dimensionSkewY</key>
+	<string>missedCycle</string>
+	<key>nativepreview</key>
+	<string>keyCustomPaint</string>
+	<key>prevEvaluation</key>
+	<string>mediocreScalability</string>
+	<key>shouldMountedGem</key>
+	<string>shouldBuildCursor</string>
+	<key>shouldPresentCursor</key>
+	<string>reducerVar</string>
+	<key>tangentRate</key>
+	<string>smartview</string>
+	<key>visibleExponent</key>
+	<string>otherModule</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSingleton</key>
+	<string>animationVariable</string>
+	<key>bindervisible</key>
+	<string>backwardAudio</string>
+	<key>cartesianConsumer</key>
+	<string>localizationTop</string>
+	<key>operationdelay</key>
+	<string>routeinset</string>
+	<key>permanentLog</key>
+	<string>fillLabel</string>
+	<key>shouldBindMission</key>
+	<string>canDecodeHistogram</string>
+	<key>shouldDisposeButton</key>
+	<string>subpixelShade</string>
+	<key>sortedHeap</key>
+	<string>zoneJob</string>
+</dict>
+</plist>

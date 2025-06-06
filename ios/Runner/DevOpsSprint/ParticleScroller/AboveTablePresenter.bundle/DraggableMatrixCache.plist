@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletplatformtransparency</key>
+	<string>referenceFramework</string>
+	<key>dynamicRectangle</key>
+	<string>lazyhandler</string>
+	<key>enumeratestorage</key>
+	<string>beginnerthroughput</string>
+	<key>fixedRouter</key>
+	<string>canKeepStack</string>
+	<key>missionvisible</key>
+	<string>specifierpressure</string>
+	<key>parallelCluster</key>
+	<string>shouldDispatchBuilder</string>
+	<key>shouldvalidateconvolution</key>
+	<string>granularSlash</string>
+	<key>storageOrientation</key>
+	<string>chapterName</string>
+	<key>subscriberVisible</key>
+	<string>retainedintensity</string>
+	<key>unsortedMetrics</key>
+	<string>notifierTag</string>
+</dict>
+</plist>

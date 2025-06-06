@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthOpacity</key>
+	<string>liteLoader</string>
+	<key>checklistdecoratorskewy</key>
+	<string>originalChart</string>
+	<key>deprecateintensity</key>
+	<string>paddingresilience</string>
+	<key>easyTrajectory</key>
+	<string>methodFlyweight</string>
+	<key>flexorpattern</key>
+	<string>streamcombiner</string>
+	<key>shouldCancelCanvas</key>
+	<string>renderdescription</string>
+	<key>shouldFinishBrush</key>
+	<string>shouldStreamMultiplication</string>
+	<key>shouldObserveBitrate</key>
+	<string>emitChapter</string>
+</dict>
+</plist>

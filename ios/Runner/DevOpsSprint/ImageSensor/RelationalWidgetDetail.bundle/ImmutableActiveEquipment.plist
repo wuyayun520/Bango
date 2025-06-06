@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherdepth</key>
+	<string>desktopResponse</string>
+	<key>displayableobserver</key>
+	<string>rowSpacing</string>
+	<key>dropdownbuttonKind</key>
+	<string>cardprovider</string>
+	<key>explicitChart</key>
+	<string>commonComposition</string>
+	<key>gridobserverbound</key>
+	<string>emitIntensity</string>
+	<key>invisibleAnimator</key>
+	<string>resourcedepth</string>
+	<key>joinerMode</key>
+	<string>checklistObserver</string>
+	<key>missedNotification</key>
+	<string>hyperbolicVariant</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratemodel</key>
+	<string>dynamicSkin</string>
+	<key>captionBehavior</key>
+	<string>shouldAnimateCoordinator</string>
+	<key>configurationinterval</key>
+	<string>hyperbolicaxiscenter</string>
+	<key>disabledTool</key>
+	<string>embedcupertino</string>
+	<key>referenceMargin</key>
+	<string>autoPreview</string>
+	<key>secondStatus</key>
+	<string>clipperTag</string>
+	<key>shouldParseLayout</key>
+	<string>vectorMethod</string>
+	<key>shouldSaveOptimizer</key>
+	<string>resizeTask</string>
+	<key>unsortedEmitter</key>
+	<string>rebuildtransition</string>
+</dict>
+</plist>

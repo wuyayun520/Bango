@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeListView</key>
+	<string>resultRotation</string>
+	<key>contraststyle</key>
+	<string>hasConstraint</string>
+	<key>intermediateInstruction</key>
+	<string>disabledRect</string>
+	<key>spritetag</key>
+	<string>vectorizeskirt</string>
+</dict>
+</plist>

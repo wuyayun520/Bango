@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioBorder</key>
+	<string>immediateSession</string>
+	<key>detectorFormat</key>
+	<string>registerInterface</string>
+	<key>reactiveAmortization</key>
+	<string>alignmentconnector</string>
+	<key>shouldValidateAccessory</key>
+	<string>buildController</string>
+	<key>storeOrientation</key>
+	<string>modulusSkewY</string>
+	<key>typicalCache</key>
+	<string>newestRow</string>
+</dict>
+</plist>

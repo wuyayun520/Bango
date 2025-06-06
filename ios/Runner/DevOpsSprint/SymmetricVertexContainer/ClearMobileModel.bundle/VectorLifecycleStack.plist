@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryFlags</key>
+	<string>segmentStatus</string>
+	<key>cupertinoAccessory</key>
+	<string>originalRow</string>
+	<key>deferredVolume</key>
+	<string>tweenbehavior</string>
+	<key>functionalPublisher</key>
+	<string>anchorLevel</string>
+	<key>immediateMethod</key>
+	<string>delicateFragments</string>
+	<key>resizableIsolate</key>
+	<string>inactiveAlignment</string>
+	<key>resizableLog</key>
+	<string>layoutdirection</string>
+	<key>retrievegrayscale</key>
+	<string>canStartDrawer</string>
+	<key>unsortedDistinction</key>
+	<string>managerInteraction</string>
+</dict>
+</plist>

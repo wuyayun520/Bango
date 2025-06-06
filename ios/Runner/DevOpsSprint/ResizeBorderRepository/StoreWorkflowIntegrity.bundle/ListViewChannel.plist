@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsSpeed</key>
+	<string>publicRichText</string>
+	<key>hardIsolate</key>
+	<string>canCacheNorm</string>
+	<key>informationType</key>
+	<string>masterInteraction</string>
+	<key>particleSkewX</key>
+	<string>mendScale</string>
+	<key>requiredconfidentiality</key>
+	<string>timelineTop</string>
+	<key>singleInterface</key>
+	<string>delegatearchitecture</string>
+	<key>smartNavigation</key>
+	<string>shouldTransformMedia</string>
+	<key>thresholdAcceleration</key>
+	<string>navigatorcluster</string>
+</dict>
+</plist>

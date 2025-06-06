@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableStream</key>
+	<string>lastButton</string>
+	<key>permanentthreshold</key>
+	<string>constantSaturation</string>
+	<key>prismaticCompleter</key>
+	<string>cupertinoInfrastructure</string>
+	<key>shouldEncodeRemainder</key>
+	<string>keyIntensity</string>
+	<key>shouldPresentArithmetic</key>
+	<string>yieldSine</string>
+	<key>shouldSerializeSign</key>
+	<string>cancelSkin</string>
+	<key>shouldUnmountText</key>
+	<string>decoupleTopic</string>
+	<key>spineType</key>
+	<string>movementIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousInteractor</key>
+	<string>unactivatedSink</string>
+	<key>cellTint</key>
+	<string>ignoredSprite</string>
+	<key>cupertinoAcceleration</key>
+	<string>symmetricTimeline</string>
+	<key>emitterDelay</key>
+	<string>compositionalVideo</string>
+	<key>touchselector</key>
+	<string>primaryBloc</string>
+	<key>volumeMode</key>
+	<string>radiusFunction</string>
+</dict>
+</plist>

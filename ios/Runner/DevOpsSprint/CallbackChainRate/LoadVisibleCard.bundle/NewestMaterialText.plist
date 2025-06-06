@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chaptermode</key>
+	<string>schemacenter</string>
+	<key>currentsample</key>
+	<string>capacityOrigin</string>
+	<key>fusedManager</key>
+	<string>disclaimerMode</string>
+	<key>multiSpecifier</key>
+	<string>shouldRebuildStateless</string>
+	<key>mutableDecoration</key>
+	<string>handlefuture</string>
+	<key>resourceprogressbar</key>
+	<string>basePosition</string>
+	<key>shouldstreamdropdownbutton</key>
+	<string>agileBitrate</string>
+	<key>tensorButton</key>
+	<string>prismaticAnimatedContainer</string>
+	<key>unactivatedMaterializer</key>
+	<string>statefulSkirt</string>
+</dict>
+</plist>

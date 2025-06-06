@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bloctype</key>
+	<string>diffableLocalization</string>
+	<key>cacheResponse</key>
+	<string>projectSpacing</string>
+	<key>concreteAction</key>
+	<string>asynctag</string>
+	<key>decorationRotation</key>
+	<string>compositionalPicker</string>
+	<key>endgrain</key>
+	<string>protectedDrawer</string>
+	<key>permutationCount</key>
+	<string>quitIsolate</string>
+	<key>relationalLog</key>
+	<string>similarSubscriber</string>
+	<key>subscriptionparameterscale</key>
+	<string>unregisterPosition</string>
+</dict>
+</plist>

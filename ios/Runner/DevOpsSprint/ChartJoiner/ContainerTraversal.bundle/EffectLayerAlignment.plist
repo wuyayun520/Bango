@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteDelegate</key>
+	<string>pickercount</string>
+	<key>desktopService</key>
+	<string>signaturetolerance</string>
+	<key>enabledcheckboxformat</key>
+	<string>gridtiertype</string>
+	<key>gridviewduringfunction</key>
+	<string>bufferTier</string>
+	<key>logarithmorigin</key>
+	<string>replicaresponse</string>
+	<key>oldEquipment</key>
+	<string>convolutionTop</string>
+	<key>relationalState</key>
+	<string>rapidResponse</string>
+	<key>schedulerDirection</key>
+	<string>serializeEntropy</string>
+	<key>subscriptionMomentum</key>
+	<string>limitHandler</string>
+</dict>
+</plist>

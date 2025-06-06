@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropoutsize</key>
+	<string>previewStatus</string>
+	<key>enabledReference</key>
+	<string>flexibleAsset</string>
+	<key>labelformmode</key>
+	<string>functionalAction</string>
+	<key>responsesaturation</key>
+	<string>shouldConnectNotifier</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardchannel</key>
+	<string>substantialInterface</string>
+	<key>inactivetopic</key>
+	<string>freeModel</string>
+	<key>lazyAlpha</key>
+	<string>tabviewRate</string>
+	<key>precisionOpacity</key>
+	<string>shouldRenderSign</string>
+	<key>tablestatecontrast</key>
+	<string>webPrecision</string>
+	<key>timerselector</key>
+	<string>analyzedependency</string>
+	<key>visibleSlash</key>
+	<string>adaptiveMaterial</string>
+</dict>
+</plist>

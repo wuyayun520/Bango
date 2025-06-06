@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicError</key>
+	<string>disclaimerBottom</string>
+	<key>bufferprocessor</key>
+	<string>observeVector</string>
+	<key>materialSlider</key>
+	<string>canPushDrawer</string>
+	<key>reduceritem</key>
+	<string>adaptiveDetail</string>
+	<key>reusableBuilder</key>
+	<string>histogramObserver</string>
+	<key>sequentialFragment</key>
+	<string>composableMend</string>
+	<key>shouldShowSignature</key>
+	<string>canPresentGate</string>
+	<key>shouldshowtabbar</key>
+	<string>hashsearcher</string>
+	<key>smallLoss</key>
+	<string>shouldPauseBuilder</string>
+</dict>
+</plist>

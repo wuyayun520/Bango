@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeSegue</key>
+	<string>collectionDirection</string>
+	<key>hierarchicalBandwidth</key>
+	<string>visualizeinterpolation</string>
+	<key>iterativeExponent</key>
+	<string>scrollableLocalization</string>
+	<key>oldProfile</key>
+	<string>aspectmargin</string>
+	<key>oncapacitiestap</key>
+	<string>renamePosition</string>
+	<key>reactivepaddingstatus</key>
+	<string>layerCoord</string>
+	<key>scrollerresponse</key>
+	<string>resetRoute</string>
+	<key>semanticevolution</key>
+	<string>shouldloadswitch</string>
+	<key>shouldBindBinary</key>
+	<string>substantialDialogs</string>
+	<key>synchronouspolygon</key>
+	<string>canAttachAspectRatio</string>
+</dict>
+</plist>

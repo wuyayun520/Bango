@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticNotification</key>
+	<string>shouldPrepareCustomPaint</string>
+	<key>directlyScope</key>
+	<string>mediaVariable</string>
+	<key>explicitDrawer</key>
+	<string>encodenavigator</string>
+	<key>explicitStorage</key>
+	<string>comprehensiveSubscription</string>
+	<key>filterCount</key>
+	<string>parallelStore</string>
+	<key>localButton</key>
+	<string>subsequentAwait</string>
+	<key>opaqueQueue</key>
+	<string>pivotalProjection</string>
+	<key>progressbarTransparency</key>
+	<string>escalateCubit</string>
+	<key>uniqueBitrate</key>
+	<string>tensorRepository</string>
+</dict>
+</plist>

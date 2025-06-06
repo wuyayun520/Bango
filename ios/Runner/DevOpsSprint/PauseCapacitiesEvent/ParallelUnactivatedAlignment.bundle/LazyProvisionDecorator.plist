@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitMission</key>
+	<string>initializeusecase</string>
+	<key>granularLinker</key>
+	<string>shouldProcessPositioned</string>
+	<key>isExpanded</key>
+	<string>shouldInflateContainer</string>
+	<key>poolstate</key>
+	<string>backwardBuffer</string>
+	<key>resourcecombiner</key>
+	<string>currentNavigation</string>
+	<key>sharedTheme</key>
+	<string>loadContainer</string>
+	<key>singleTimeline</key>
+	<string>litetraversal</string>
+	<key>sophisticatedCertificate</key>
+	<string>consultativeFragment</string>
+</dict>
+</plist>

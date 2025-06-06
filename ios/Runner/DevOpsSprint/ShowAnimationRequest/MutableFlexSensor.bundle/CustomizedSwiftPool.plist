@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isBrush</key>
+	<string>aspectpermethod</string>
+	<key>labelamongmethod</key>
+	<string>navigateAnchor</string>
+	<key>shouldPresentSession</key>
+	<string>cubeMediator</string>
+	<key>shouldtrainview</key>
+	<string>equalUseCase</string>
+	<key>smallPolygon</key>
+	<string>globalScale</string>
+	<key>synchronousUtil</key>
+	<string>destroyChapter</string>
+	<key>typicalStorage</key>
+	<string>lockMetadata</string>
+</dict>
+</plist>

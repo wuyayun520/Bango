@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAllocator</key>
+	<string>inflateSkin</string>
+	<key>completionDepth</key>
+	<string>amortizationcount</string>
+	<key>navigatorOrigin</key>
+	<string>canCreateBrush</string>
+	<key>particleresponse</key>
+	<string>easyLoop</string>
+	<key>permanentMechanism</key>
+	<string>shouldNotifyReference</string>
+	<key>petorprototype</key>
+	<string>paintGesture</string>
+	<key>serviceTheme</key>
+	<string>advancedEmitter</string>
+	<key>shouldlayoutbuilder</key>
+	<string>apertureHead</string>
+	<key>unsortedStoryboard</key>
+	<string>asyncProcess</string>
+</dict>
+</plist>

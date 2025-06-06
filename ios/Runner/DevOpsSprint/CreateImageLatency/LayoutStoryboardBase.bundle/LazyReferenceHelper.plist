@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivetangenttop</key>
+	<string>immediateUnary</string>
+	<key>contractionDensity</key>
+	<string>independentController</string>
+	<key>customEvolution</key>
+	<string>updategraph</string>
+	<key>functionalrepositoryorigin</key>
+	<string>convertGrain</string>
+	<key>mapDelay</key>
+	<string>hashProcess</string>
+	<key>mobileLayout</key>
+	<string>layerstroke</string>
+	<key>oldcapacities</key>
+	<string>throughputscale</string>
+	<key>resizableSemantics</key>
+	<string>saveGestureDetector</string>
+	<key>shouldAttachGem</key>
+	<string>timerParam</string>
+	<key>stopusecase</key>
+	<string>throughputDuration</string>
+</dict>
+</plist>

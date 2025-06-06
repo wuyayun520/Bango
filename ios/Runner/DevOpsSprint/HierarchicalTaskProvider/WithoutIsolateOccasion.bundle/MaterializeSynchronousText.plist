@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudecluster</key>
+	<string>painterSingleton</string>
+	<key>declarativeSize</key>
+	<string>equipmentbeyondsingleton</string>
+	<key>firstProgressBar</key>
+	<string>shouldNotifyCell</string>
+	<key>nextSink</key>
+	<string>scalabilityRate</string>
+	<key>shouldDispatchOperation</key>
+	<string>canPublishIcon</string>
+	<key>shouldPrepareKernel</key>
+	<string>remainderborder</string>
+</dict>
+</plist>

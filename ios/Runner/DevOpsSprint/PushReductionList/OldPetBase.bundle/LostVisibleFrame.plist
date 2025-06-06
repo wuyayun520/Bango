@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMerger</key>
+	<string>brushFacade</string>
+	<key>autoBandwidth</key>
+	<string>threadDensity</string>
+	<key>renameparticle</key>
+	<string>accessibleRect</string>
+	<key>resizableLoop</key>
+	<string>requiredStep</string>
+	<key>shouldDismissCustomPaint</key>
+	<string>encodeModal</string>
+	<key>standaloneGrayscale</key>
+	<string>intermediateTweak</string>
+</dict>
+</plist>

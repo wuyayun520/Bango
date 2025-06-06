@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatefactory</key>
+	<string>canFormatBox</string>
+	<key>characterkindcoord</key>
+	<string>cupertinooccasion</string>
+	<key>grainwithouttype</key>
+	<string>interactivePolyfill</string>
+	<key>ignoredMend</key>
+	<string>storyboardDecorator</string>
+	<key>scrollerBound</key>
+	<string>dependencyInteraction</string>
+	<key>shouldMountMedia</key>
+	<string>checkService</string>
+	<key>shouldRouteImage</key>
+	<string>renderFlex</string>
+	<key>tensorticker</key>
+	<string>animatedCurve</string>
+	<key>volumeleft</key>
+	<string>cardInterval</string>
+</dict>
+</plist>

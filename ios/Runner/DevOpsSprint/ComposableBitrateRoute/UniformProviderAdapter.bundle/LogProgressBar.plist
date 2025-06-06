@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelshape</key>
+	<string>pageviewStage</string>
+	<key>delicateDescription</key>
+	<string>secondSingleton</string>
+	<key>futurescroller</key>
+	<string>shouldHandleScreen</string>
+	<key>litestack</key>
+	<string>selectedcustompaint</string>
+	<key>lostEquipment</key>
+	<string>hyperbolicRenderer</string>
+	<key>metricsHue</key>
+	<string>dropoutDependency</string>
+	<key>soundSkewX</key>
+	<string>shouldencodesymbol</string>
+	<key>textfieldpadding</key>
+	<string>videoTop</string>
+	<key>threadCenter</key>
+	<string>metricsSpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateChannel</key>
+	<string>limitInteractor</string>
+	<key>directScale</key>
+	<string>lostOverlay</string>
+	<key>equalstack</key>
+	<string>scalabilityFrequency</string>
+	<key>finishbloc</key>
+	<string>computeBuffer</string>
+	<key>lostAlpha</key>
+	<string>datatint</string>
+	<key>nextSize</key>
+	<string>canEncodeMedia</string>
+	<key>popstorage</key>
+	<string>visibleLatency</string>
+	<key>responsiveCatalyst</key>
+	<string>sliderOffset</string>
+	<key>robustAscent</key>
+	<string>sharedTweak</string>
+</dict>
+</plist>

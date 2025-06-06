@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedKernel</key>
+	<string>parseDelegate</string>
+	<key>desktopBinary</key>
+	<string>inflateRouter</string>
+	<key>immediateBorder</key>
+	<string>canRebuildStateful</string>
+	<key>keyCard</key>
+	<string>stepFlags</string>
+	<key>offsetShape</key>
+	<string>baseSpeed</string>
+	<key>sampleShade</key>
+	<string>canEncodeHistogram</string>
+	<key>scrollablebuffertop</key>
+	<string>behaviorDelay</string>
+	<key>shouldReplaceSubpixel</key>
+	<string>restoreWidget</string>
+	<key>sineflyweightedge</key>
+	<string>shouldDismissCertificate</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterScale</key>
+	<string>selectedDescriptor</string>
+	<key>explicitSorter</key>
+	<string>profileVariable</string>
+	<key>significantInstruction</key>
+	<string>shouldSaveSemantics</string>
+	<key>themeRate</key>
+	<string>scrollableTexture</string>
+</dict>
+</plist>

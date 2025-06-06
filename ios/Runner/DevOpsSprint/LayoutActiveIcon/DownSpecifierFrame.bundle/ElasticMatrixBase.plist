@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultEquivalent</key>
+	<string>canResumeAxis</string>
+	<key>isactivity</key>
+	<string>uniquecontroller</string>
+	<key>radioTheme</key>
+	<string>spotVelocity</string>
+	<key>robustRequest</key>
+	<string>missedRow</string>
+</dict>
+</plist>

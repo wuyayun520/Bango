@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constructbaseline</key>
+	<string>callbackcontroller</string>
+	<key>lazyFeature</key>
+	<string>scaffoldInteraction</string>
+	<key>scaffoldrect</key>
+	<string>informationcount</string>
+	<key>shouldDecodeMatrix</key>
+	<string>declarativeSession</string>
+	<key>shouldPublishSample</key>
+	<string>sizeOrientation</string>
+	<key>shouldStartCapacities</key>
+	<string>concatenateInjection</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTaxonomy</key>
+	<string>viewtag</string>
+	<key>lazyTextField</key>
+	<string>threaddistinction</string>
+	<key>releasepresenter</key>
+	<string>actionTop</string>
+	<key>routerinset</key>
+	<string>decorationAdapter</string>
+	<key>shouldMountCanvas</key>
+	<string>resourceofparameter</string>
+	<key>shouldNotifyPrecision</key>
+	<string>shouldNotifyCycle</string>
+	<key>spotSpeed</key>
+	<string>unlockduration</string>
+</dict>
+</plist>

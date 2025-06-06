@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativenode</key>
+	<string>consultativedisclaimer</string>
+	<key>descentpadding</key>
+	<string>shouldDispatchCustomPaint</string>
+	<key>impressionflags</key>
+	<string>shouldTrainSwitch</string>
+	<key>mobileGate</key>
+	<string>canConnectSpot</string>
+	<key>prismaticSample</key>
+	<string>compositionalLatency</string>
+	<key>requiredOption</key>
+	<string>routePriority</string>
+	<key>secondResponse</key>
+	<string>singlelogarithmdensity</string>
+	<key>usageLocation</key>
+	<string>buildasync</string>
+</dict>
+</plist>

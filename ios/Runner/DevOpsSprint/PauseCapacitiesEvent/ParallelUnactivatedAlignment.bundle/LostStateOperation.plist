@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activelatency</key>
+	<string>insteadStorage</string>
+	<key>clipscene</key>
+	<string>permanentFinder</string>
+	<key>consultativegrouptop</key>
+	<string>resilientMargin</string>
+	<key>multiplicationOpacity</key>
+	<string>similarChannels</string>
+	<key>shouldshowbullet</key>
+	<string>serializeCell</string>
+</dict>
+</plist>

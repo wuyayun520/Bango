@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedQueue</key>
+	<string>debugChart</string>
+	<key>missedColumn</key>
+	<string>accessibletweenresponse</string>
+	<key>particlewithoutparameter</key>
+	<string>mainContainer</string>
+	<key>popupalignment</key>
+	<string>canPersistTouch</string>
+	<key>richtextpatternvelocity</key>
+	<string>advancedTrigger</string>
+	<key>shouldNavigateBinary</key>
+	<string>vectorizeresolver</string>
+	<key>shouldtransformsignature</key>
+	<string>shouldHandleInkWell</string>
+	<key>statelessFactory</key>
+	<string>captionTop</string>
+	<key>zoneCount</key>
+	<string>shouldtransformsine</string>
+</dict>
+</plist>

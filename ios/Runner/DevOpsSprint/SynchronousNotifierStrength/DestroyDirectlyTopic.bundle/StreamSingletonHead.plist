@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardDistinction</key>
+	<string>normtop</string>
+	<key>chartandwork</key>
+	<string>presenterequivalent</string>
+	<key>effectstatus</key>
+	<string>shouldAnimateAlert</string>
+	<key>projectmerger</key>
+	<string>impactInteraction</string>
+	<key>reactiveReplica</key>
+	<string>scrollAction</string>
+	<key>shouldinflategesture</key>
+	<string>shouldNotifyController</string>
+	<key>widgetdelay</key>
+	<string>shouldFinishBrush</string>
+	<key>wrapperDirection</key>
+	<string>stateScale</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layerForce</key>
+	<string>desktopConstant</string>
+	<key>localconstraintshape</key>
+	<string>intuitiveJoiner</string>
+	<key>robustmenu</key>
+	<string>shouldPersistTheme</string>
+	<key>shouldFetchEquipment</key>
+	<string>shouldObserveIcon</string>
+	<key>shouldtrainaperture</key>
+	<string>orchestrateStorage</string>
+	<key>smartCache</key>
+	<string>measureChart</string>
+	<key>utilinset</key>
+	<string>responsefromprocess</string>
+</dict>
+</plist>

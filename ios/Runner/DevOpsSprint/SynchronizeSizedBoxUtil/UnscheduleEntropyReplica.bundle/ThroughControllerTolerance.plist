@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityAlignment</key>
+	<string>smartTrigger</string>
+	<key>channelthantier</key>
+	<string>canPaintGem</string>
+	<key>delegateadapterscale</key>
+	<string>shouldSkipMonster</string>
+	<key>effectversusmethod</key>
+	<string>segmentLocation</string>
+	<key>shouldTransitionBorder</key>
+	<string>interactorEnvironment</string>
+	<key>usecaseFrequency</key>
+	<string>gridviewTier</string>
+</dict>
+</plist>

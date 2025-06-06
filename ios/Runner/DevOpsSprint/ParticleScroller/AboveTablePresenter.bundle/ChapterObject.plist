@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopTexture</key>
+	<string>vectorType</string>
+	<key>firstPicker</key>
+	<string>confidentialityIndex</string>
+	<key>intermediateRequest</key>
+	<string>visitInterface</string>
+	<key>permissiveProject</key>
+	<string>equalFrame</string>
+	<key>respectiveResource</key>
+	<string>documentPattern</string>
+	<key>shouldAttachSemantics</key>
+	<string>radioLevel</string>
+	<key>stateType</key>
+	<string>publicmodule</string>
+</dict>
+</plist>

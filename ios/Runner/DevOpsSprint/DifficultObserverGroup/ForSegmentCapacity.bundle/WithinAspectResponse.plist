@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currenttext</key>
+	<string>preparePositioned</string>
+	<key>evaluationCoord</key>
+	<string>shouldPushDuration</string>
+	<key>generatenotification</key>
+	<string>callbackrate</string>
+	<key>shouldStreamNavigation</key>
+	<string>toolActivity</string>
+	<key>unactivatedPainter</key>
+	<string>handlerEnvironment</string>
+</dict>
+</plist>

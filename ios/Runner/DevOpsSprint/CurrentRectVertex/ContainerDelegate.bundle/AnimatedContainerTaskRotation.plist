@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatemultiplication</key>
+	<string>resolveCoordinator</string>
+	<key>callbackflyweightdepth</key>
+	<string>calculateController</string>
+	<key>clipperagainstdecorator</key>
+	<string>textureProxy</string>
+	<key>concreteOverlay</key>
+	<string>scaleFlyweight</string>
+	<key>gridviewresilience</key>
+	<string>shouldmountedcatalyst</string>
+	<key>markbloc</key>
+	<string>radioMomentum</string>
+	<key>retaincube</key>
+	<string>immutableChart</string>
+	<key>statelessTail</key>
+	<string>hyperbolicBinary</string>
+</dict>
+</plist>

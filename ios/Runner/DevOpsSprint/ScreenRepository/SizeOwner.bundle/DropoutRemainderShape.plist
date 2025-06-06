@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterSpeed</key>
+	<string>deferredVolume</string>
+	<key>controllerPressure</key>
+	<string>shouldYieldVariant</string>
+	<key>dedicatedScale</key>
+	<string>saveEffect</string>
+	<key>errorofstrategy</key>
+	<string>canPopGrayscale</string>
+	<key>sceneDepth</key>
+	<string>canCancelStep</string>
+	<key>shouldStreamAlert</key>
+	<string>segmentrectangle</string>
+	<key>sinkcharacteristic</key>
+	<string>chartjobshade</string>
+	<key>tentativeColor</key>
+	<string>ephemeralBrush</string>
+</dict>
+</plist>

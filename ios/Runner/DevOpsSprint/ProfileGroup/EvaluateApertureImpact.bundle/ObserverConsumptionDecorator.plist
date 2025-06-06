@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousProtocol</key>
+	<string>shouldnotifymultiplication</string>
+	<key>backwardPresenter</key>
+	<string>statusOrigin</string>
+	<key>imperativeTheme</key>
+	<string>schedulenode</string>
+	<key>inactiveFragments</key>
+	<string>analyzeimage</string>
+	<key>robustGrid</key>
+	<string>emitHandler</string>
+	<key>routerfilter</key>
+	<string>reducerthanparam</string>
+</dict>
+</plist>

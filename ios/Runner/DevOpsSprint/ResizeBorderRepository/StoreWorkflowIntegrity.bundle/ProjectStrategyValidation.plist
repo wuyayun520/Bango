@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeEqualization</key>
+	<string>itemTop</string>
+	<key>dialogsFrequency</key>
+	<string>musicAppearance</string>
+	<key>ignoredContraction</key>
+	<string>dismissPopup</string>
+	<key>ignoredheapdirection</key>
+	<string>sharedDisclaimer</string>
+	<key>shouldEndHeap</key>
+	<string>shouldPauseBloc</string>
+	<key>typicalContainer</key>
+	<string>crucialStatus</string>
+</dict>
+</plist>

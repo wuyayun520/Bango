@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowDuration</key>
+	<string>shouldShowCursor</string>
+	<key>ignoredTexture</key>
+	<string>usedConnector</string>
+	<key>mediaStatus</key>
+	<string>usedalignment</string>
+	<key>shouldRouteBorder</key>
+	<string>listviewPosition</string>
+</dict>
+</plist>

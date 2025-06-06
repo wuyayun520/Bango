@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncscalability</key>
+	<string>optimizeSubscription</string>
+	<key>borderTheme</key>
+	<string>canDisposeBox</string>
+	<key>cachealongobserver</key>
+	<string>resizableComponent</string>
+	<key>imperativeCheckbox</key>
+	<string>dismissSprite</string>
+	<key>intuitivePosition</key>
+	<string>delicateZone</string>
+	<key>lazygrayscaleorientation</key>
+	<string>originalSelector</string>
+	<key>missionResponse</key>
+	<string>retainedReplica</string>
+	<key>sequentialScroller</key>
+	<string>exponentmargin</string>
+	<key>statefulScreen</key>
+	<string>shouldfetchmodal</string>
+	<key>usageMargin</key>
+	<string>cubitTask</string>
+</dict>
+</plist>

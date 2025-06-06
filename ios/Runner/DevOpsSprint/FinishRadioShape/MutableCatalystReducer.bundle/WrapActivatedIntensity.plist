@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentRect</key>
+	<string>shouldnotifycatalyst</string>
+	<key>deferredasyncfeedback</key>
+	<string>shouldparsedelegate</string>
+	<key>numericalLoss</key>
+	<string>comprehensivealertflags</string>
+	<key>permissiveDescent</key>
+	<string>blocCycle</string>
+	<key>preparegrain</key>
+	<string>normalanimation</string>
+	<key>providerdensity</key>
+	<string>buttonLeft</string>
+	<key>sharedRequest</key>
+	<string>itemInterval</string>
+</dict>
+</plist>

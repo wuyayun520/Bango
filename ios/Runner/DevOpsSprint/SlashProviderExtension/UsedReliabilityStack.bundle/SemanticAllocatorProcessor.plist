@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletalignment</key>
+	<string>reflectCurve</string>
+	<key>distinctionShade</key>
+	<string>subscribeCurve</string>
+	<key>gridviewamongcomposite</key>
+	<string>schedulerRate</string>
+	<key>shouldBindBinary</key>
+	<string>seamlessLog</string>
+	<key>streamBorder</key>
+	<string>inactivecompleter</string>
+	<key>unsortedMend</key>
+	<string>sortedPosition</string>
+</dict>
+</plist>

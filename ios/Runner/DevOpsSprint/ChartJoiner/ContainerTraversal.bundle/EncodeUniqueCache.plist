@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectintensity</key>
+	<string>layoutequivalent</string>
+	<key>cupertinoBuilder</key>
+	<string>canPresentSlider</string>
+	<key>interactiveDescription</key>
+	<string>syncrole</string>
+	<key>offsetuntiltype</key>
+	<string>descriptionthroughcommand</string>
+	<key>parsestream</key>
+	<string>shouldKeepCollection</string>
+	<key>shouldBindFlex</key>
+	<string>navigatorshapemode</string>
+	<key>singleAspectRatio</key>
+	<string>canCreateCell</string>
+	<key>sustainableRemediation</key>
+	<string>invisibleCreator</string>
+	<key>wrapperDelay</key>
+	<string>canProcessPriority</string>
+</dict>
+</plist>

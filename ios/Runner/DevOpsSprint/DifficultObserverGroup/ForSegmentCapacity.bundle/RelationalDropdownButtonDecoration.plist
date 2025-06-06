@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyRouter</key>
+	<string>tickerProxy</string>
+	<key>disparateCursor</key>
+	<string>expandedParam</string>
+	<key>graphintemple</key>
+	<string>shouldTrainPoint</string>
+	<key>progressbarForce</key>
+	<string>mendacceleration</string>
+	<key>selectedtouch</key>
+	<string>asynchronousTolerance</string>
+	<key>shouldAnimateGraphic</key>
+	<string>shouldReplaceCheckbox</string>
+	<key>shouldReplacePrecision</key>
+	<string>sensorObserver</string>
+	<key>timelineBottom</key>
+	<string>minCollection</string>
+	<key>videoHue</key>
+	<string>shouldLoadResource</string>
+</dict>
+</plist>

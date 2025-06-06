@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinedata</key>
+	<string>dropdownbuttonLeft</string>
+	<key>floatconsumer</key>
+	<string>iconsingletonmode</string>
+	<key>lazyParticle</key>
+	<string>shouldPersistCanvas</string>
+	<key>permanentLinker</key>
+	<string>canEncodeCurve</string>
+	<key>searchgem</key>
+	<string>schedulerType</string>
+	<key>shouldPushRadio</key>
+	<string>eventname</string>
+</dict>
+</plist>

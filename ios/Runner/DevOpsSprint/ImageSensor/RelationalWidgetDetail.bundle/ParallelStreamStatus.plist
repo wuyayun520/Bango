@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionmomentum</key>
+	<string>responsiveButton</string>
+	<key>featureBottom</key>
+	<string>activeWidget</string>
+	<key>operationdirection</key>
+	<string>cacheTechnique</string>
+	<key>shouldHandleEffect</key>
+	<string>rectmargin</string>
+	<key>shouldyieldplayback</key>
+	<string>lastHeap</string>
+	<key>specifyMechanism</key>
+	<string>factoryproxyrotation</string>
+</dict>
+</plist>

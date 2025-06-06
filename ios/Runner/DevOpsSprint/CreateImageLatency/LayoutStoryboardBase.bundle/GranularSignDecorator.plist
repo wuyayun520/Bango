@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCapacities</key>
+	<string>channelwithoutoperation</string>
+	<key>boxshadowgrid</key>
+	<string>beginnerElasticity</string>
+	<key>opaqueMargin</key>
+	<string>symbolAppearance</string>
+	<key>responsiveextensionrotation</key>
+	<string>elasticCursor</string>
+	<key>soundrate</key>
+	<string>pinchableAmortization</string>
+	<key>temporaryPublisher</key>
+	<string>evaluationDelay</string>
+</dict>
+</plist>

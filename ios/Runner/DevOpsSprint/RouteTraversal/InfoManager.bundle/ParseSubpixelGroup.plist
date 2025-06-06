@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedpicker</key>
+	<string>layerFlags</string>
+	<key>controllersincetask</key>
+	<string>serializeCharacter</string>
+	<key>elementVisible</key>
+	<string>normalBinary</string>
+	<key>fixedHash</key>
+	<string>robustMenu</string>
+	<key>immediateGram</key>
+	<string>canAttachSubpixel</string>
+	<key>intermediateReceiver</key>
+	<string>shouldEncodeSignature</string>
+	<key>lostReplica</key>
+	<string>parsePlate</string>
+	<key>permissiveOffset</key>
+	<string>routedepth</string>
+	<key>smallHeap</key>
+	<string>onbehaviorchanged</string>
+	<key>specifyBaseline</key>
+	<string>diversifiedStroke</string>
+</dict>
+</plist>

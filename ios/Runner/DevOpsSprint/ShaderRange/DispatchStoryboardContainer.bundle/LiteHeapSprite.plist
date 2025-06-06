@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerCenter</key>
+	<string>notifierTask</string>
+	<key>groupName</key>
+	<string>repositoryCycle</string>
+	<key>reactiveCombiner</key>
+	<string>limittext</string>
+	<key>rectifyimage</key>
+	<string>seguebound</string>
+	<key>shouldSaveOption</key>
+	<string>shouldRenderNavigator</string>
+	<key>shouldStopIcon</key>
+	<string>appbarSingleton</string>
+	<key>smallOperation</key>
+	<string>shouldStreamStoryboard</string>
+</dict>
+</plist>

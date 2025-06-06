@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commondependencyrotation</key>
+	<string>seamlessUsage</string>
+	<key>diffableDecoration</key>
+	<string>otherContainer</string>
+	<key>greatboxshadow</key>
+	<string>canRenderStep</string>
+	<key>lazyCluster</key>
+	<string>extensionVisible</string>
+	<key>nativeimagetint</key>
+	<string>basicnavigatorinteraction</string>
+	<key>priorityIndex</key>
+	<string>storeVisible</string>
+	<key>shouldnavigatecustompaint</key>
+	<string>materializeTopic</string>
+</dict>
+</plist>

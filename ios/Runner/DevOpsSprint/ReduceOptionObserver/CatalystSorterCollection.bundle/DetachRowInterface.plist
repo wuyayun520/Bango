@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticconnector</key>
+	<string>resumeMediaQuery</string>
+	<key>borderinsidememento</key>
+	<string>ephemeralLabel</string>
+	<key>customProject</key>
+	<string>analyzeAlignment</string>
+	<key>disabledDetail</key>
+	<string>transformTernary</string>
+	<key>indicatorfacadeshade</key>
+	<string>associatedOccasion</string>
+	<key>pivotalMaterial</key>
+	<string>mainChooser</string>
+	<key>selectedBuilder</key>
+	<string>declarativeRect</string>
+	<key>tabviewBound</key>
+	<string>lossInterpreter</string>
+	<key>traversalTheme</key>
+	<string>showWidget</string>
+</dict>
+</plist>

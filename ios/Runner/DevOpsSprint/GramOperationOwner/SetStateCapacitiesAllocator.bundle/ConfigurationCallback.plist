@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintSkewY</key>
+	<string>explicitSprite</string>
+	<key>displayablenotifierlocation</key>
+	<string>ignoredmediaquery</string>
+	<key>diversifiedTitle</key>
+	<string>immediateGradient</string>
+	<key>efficiencyscale</key>
+	<string>observecapacities</string>
+	<key>quaternionStyle</key>
+	<string>chooserBorder</string>
+	<key>semanticsFrequency</key>
+	<string>characterShade</string>
+</dict>
+</plist>

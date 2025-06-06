@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalScalability</key>
+	<string>keyMatrix</string>
+	<key>customTouch</key>
+	<string>consultativeChecklist</string>
+	<key>diffablereductionmargin</key>
+	<string>converterDensity</string>
+	<key>iterativeModule</key>
+	<string>baseName</string>
+	<key>layoutaspect</key>
+	<string>prevFormat</string>
+	<key>resiliencePosition</key>
+	<string>customizedTimer</string>
+	<key>shouldSubscribeCatalyst</key>
+	<string>fillBuilder</string>
+	<key>textfieldentity</key>
+	<string>persistentcluster</string>
+</dict>
+</plist>

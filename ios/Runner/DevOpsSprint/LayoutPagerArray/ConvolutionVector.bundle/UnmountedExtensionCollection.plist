@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedScroll</key>
+	<string>allocatorLeft</string>
+	<key>boxBorder</key>
+	<string>copyGrain</string>
+	<key>checkboxcycletype</key>
+	<string>activatedMaterializer</string>
+	<key>marginindex</key>
+	<string>buttoncount</string>
+	<key>persistentMenu</key>
+	<string>reusableScenario</string>
+	<key>swiftDuration</key>
+	<string>shouldPopCard</string>
+</dict>
+</plist>

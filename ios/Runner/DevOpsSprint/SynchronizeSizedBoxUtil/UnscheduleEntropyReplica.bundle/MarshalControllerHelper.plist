@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoArithmetic</key>
+	<string>eagerContrast</string>
+	<key>defaultdrawer</key>
+	<string>mediocreBatch</string>
+	<key>mutableColor</key>
+	<string>responsehandler</string>
+	<key>schedulerForce</key>
+	<string>hardNavigator</string>
+	<key>sophisticatedStep</key>
+	<string>shouldDecodeFuture</string>
+	<key>specifyExpanded</key>
+	<string>lastTouch</string>
+	<key>strokeStatus</key>
+	<string>consumerborder</string>
+	<key>tensorLocalization</key>
+	<string>holdGrid</string>
+</dict>
+</plist>

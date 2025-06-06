@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicOverlay</key>
+	<string>normalMetadata</string>
+	<key>descriptorzone</key>
+	<string>layerFunction</string>
+	<key>shouldtransformscreen</key>
+	<string>canCancelCursor</string>
+	<key>techniqueVisible</key>
+	<string>processTechnique</string>
+</dict>
+</plist>

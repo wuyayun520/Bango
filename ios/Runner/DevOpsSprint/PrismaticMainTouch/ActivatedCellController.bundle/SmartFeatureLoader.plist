@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMerger</key>
+	<string>inflateCaption</string>
+	<key>hardCaption</key>
+	<string>shouldAttachScale</string>
+	<key>hardCoordinator</key>
+	<string>touchAnimation</string>
+	<key>immediateDelivery</key>
+	<string>encapsulatebuilder</string>
+	<key>iterativebox</key>
+	<string>loaderStatus</string>
+	<key>materialbufferappearance</key>
+	<string>sortedInteraction</string>
+	<key>pinchableEquivalent</key>
+	<string>accessibleGraph</string>
+	<key>prioritynearmediator</key>
+	<string>shouldListenTechnique</string>
+	<key>shouldDecodeTransition</key>
+	<string>shouldUnmountMomentum</string>
+	<key>shouldTrainGridView</key>
+	<string>standalonestoryboard</string>
+</dict>
+</plist>

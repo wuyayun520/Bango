@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintDistance</key>
+	<string>cachePoint</string>
+	<key>intuitiveCapacity</key>
+	<string>shouldstartcatalyst</string>
+	<key>resizablecontainer</key>
+	<string>mapperHue</string>
+	<key>seamlessevent</key>
+	<string>shouldDisposeBullet</string>
+	<key>sortedlatency</key>
+	<string>texturedescent</string>
+</dict>
+</plist>

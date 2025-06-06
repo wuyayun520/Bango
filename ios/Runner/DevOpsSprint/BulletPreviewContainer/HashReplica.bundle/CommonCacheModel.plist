@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotatemetadata</key>
+	<string>slashdetector</string>
+	<key>behaviorscroller</key>
+	<string>permanentPoint</string>
+	<key>granularindicatormode</key>
+	<string>crucialslidermomentum</string>
+	<key>independentShape</key>
+	<string>diffableBoxShadow</string>
+	<key>streamspeed</key>
+	<string>selectorTop</string>
+	<key>transformerHue</key>
+	<string>instantiateException</string>
+</dict>
+</plist>

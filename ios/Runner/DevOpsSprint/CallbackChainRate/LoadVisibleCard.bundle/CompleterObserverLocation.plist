@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineColor</key>
+	<string>repositoryobserver</string>
+	<key>characterpreview</key>
+	<string>overlaybottom</string>
+	<key>explicitAccessory</key>
+	<string>denseSingleton</string>
+	<key>opaqueSpine</key>
+	<string>layoutinjection</string>
+	<key>shouldPersistSine</key>
+	<string>unmountedprofile</string>
+	<key>unsortedAction</key>
+	<string>tappableTraversal</string>
+</dict>
+</plist>

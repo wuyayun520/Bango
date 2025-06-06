@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveChallenge</key>
+	<string>shouldparseoverlay</string>
+	<key>optionSaturation</key>
+	<string>serviceAppearance</string>
+	<key>profileFrequency</key>
+	<string>prioritysize</string>
+	<key>showtitle</key>
+	<string>rectCoord</string>
+	<key>swiftanimation</key>
+	<string>lastAccessory</string>
+	<key>taskInset</key>
+	<string>scrollableResource</string>
+	<key>texttype</key>
+	<string>alignmentParam</string>
+	<key>textview</key>
+	<string>analyzerOrigin</string>
+	<key>visibleSubscriber</key>
+	<string>granularentitymargin</string>
+</dict>
+</plist>

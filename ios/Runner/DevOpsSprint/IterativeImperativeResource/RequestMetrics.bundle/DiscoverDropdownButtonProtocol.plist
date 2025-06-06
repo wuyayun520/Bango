@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarysound</key>
+	<string>dispatchBinary</string>
+	<key>defaultdimension</key>
+	<string>onkernelchanged</string>
+	<key>firstdrawerrate</key>
+	<string>intensityNumber</string>
+	<key>mediatrajectory</key>
+	<string>globalUseCase</string>
+	<key>pausedrawer</key>
+	<string>sinkframeworksaturation</string>
+	<key>prismaticobserver</key>
+	<string>directTaxonomy</string>
+	<key>reducerdistance</key>
+	<string>graphmodedepth</string>
+	<key>remediationVisibility</key>
+	<string>hyperbolicExpanded</string>
+	<key>scenealignment</key>
+	<string>shouldMountAxis</string>
+</dict>
+</plist>

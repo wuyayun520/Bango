@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerBrightness</key>
+	<string>equalizationBound</string>
+	<key>durationcontexttint</key>
+	<string>inheritedThreshold</string>
+	<key>fusedElasticity</key>
+	<string>heroAdapter</string>
+	<key>handlerSpacing</key>
+	<string>paintThread</string>
+	<key>mutableresilience</key>
+	<string>timelineAcceleration</string>
+	<key>replicaInterval</key>
+	<string>overlayalongvisitor</string>
+	<key>shouldPaintText</key>
+	<string>advancedMechanism</string>
+	<key>shouldSubscribeScroll</key>
+	<string>challengeTransparency</string>
+	<key>sizedboxRate</key>
+	<string>canTransitionProvider</string>
+	<key>viewForce</key>
+	<string>loopchainvisible</string>
+</dict>
+</plist>

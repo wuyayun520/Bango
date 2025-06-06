@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultsizedbox</key>
+	<string>schedulerpressure</string>
+	<key>diversifiedDropdownButton</key>
+	<string>behaviorBorder</string>
+	<key>largeSound</key>
+	<string>canDisconnectPet</string>
+	<key>requestinterpreterfrequency</key>
+	<string>markSize</string>
+	<key>resilientIsolate</key>
+	<string>dialogsStructure</string>
+	<key>responsiveWidget</key>
+	<string>generateAlignment</string>
+	<key>standaloneChannels</key>
+	<string>techniquenearshape</string>
+	<key>trainremainder</key>
+	<string>generatecolumn</string>
+	<key>typicalSpot</key>
+	<string>shouldRenderExponent</string>
+</dict>
+</plist>

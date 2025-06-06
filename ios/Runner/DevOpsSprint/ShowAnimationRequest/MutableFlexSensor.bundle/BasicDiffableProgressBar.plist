@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createdelegate</key>
+	<string>musicVelocity</string>
+	<key>decorationFeedback</key>
+	<string>occasionMargin</string>
+	<key>dropdownbuttonKind</key>
+	<string>routerRotation</string>
+	<key>euclideanBuffer</key>
+	<string>mobileSegue</string>
+	<key>firstDecoration</key>
+	<string>eraseGrid</string>
+	<key>liteBinder</key>
+	<string>handleLocalization</string>
+	<key>standaloneSprite</key>
+	<string>shouldpopswift</string>
+</dict>
+</plist>

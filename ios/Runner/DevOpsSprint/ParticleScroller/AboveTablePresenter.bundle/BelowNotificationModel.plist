@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPreview</key>
+	<string>subtleGrid</string>
+	<key>commonDetector</key>
+	<string>canHandleScaffold</string>
+	<key>detectorkind</key>
+	<string>attachAspectRatio</string>
+	<key>liteCompletion</key>
+	<string>hierarchicalChannel</string>
+	<key>navigatorBound</key>
+	<string>characterSkewY</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMenu</key>
+	<string>canConnectEffect</string>
+	<key>equalresult</key>
+	<string>canStopBullet</string>
+	<key>firstScroller</key>
+	<string>prepareGradient</string>
+	<key>fixedObserver</key>
+	<string>shouldTransitionSkirt</string>
+	<key>priorElement</key>
+	<string>storebrightness</string>
+	<key>shouldvalidateprovider</key>
+	<string>builderright</string>
+	<key>sophisticatedInfo</key>
+	<string>multiRemainder</string>
+	<key>spothandler</key>
+	<string>independentSlider</string>
+	<key>subsequentSplitter</key>
+	<string>currentRequest</string>
+</dict>
+</plist>

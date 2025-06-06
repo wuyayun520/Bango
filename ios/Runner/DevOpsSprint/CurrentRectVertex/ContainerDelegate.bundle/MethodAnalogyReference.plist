@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateaperture</key>
+	<string>isHero</string>
+	<key>evaluationSpacing</key>
+	<string>standaloneobserver</string>
+	<key>grainobserverinterval</key>
+	<string>unsortedAnchor</string>
+	<key>permissiveSound</key>
+	<string>splitterRight</string>
+	<key>presentnavigator</key>
+	<string>newestimagepadding</string>
+	<key>regulatetransition</key>
+	<string>mainStep</string>
+	<key>subsequentEvolution</key>
+	<string>connectorInterval</string>
+	<key>validategraph</key>
+	<string>flexibleThroughput</string>
+	<key>webTrigger</key>
+	<string>entityCenter</string>
+</dict>
+</plist>

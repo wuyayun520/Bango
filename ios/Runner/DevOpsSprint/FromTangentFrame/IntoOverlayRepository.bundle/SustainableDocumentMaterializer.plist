@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableMargin</key>
+	<string>shouldCacheActivity</string>
+	<key>mediocreMapper</key>
+	<string>sustainableButton</string>
+	<key>nativeevent</key>
+	<string>diffableVector</string>
+	<key>resumetween</key>
+	<string>firstRadius</string>
+	<key>shouldMountRoute</key>
+	<string>allocateSize</string>
+	<key>vectorperaction</key>
+	<string>timerParam</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllersinceinterpreter</key>
+	<string>revisitResolver</string>
+	<key>explicitTransformer</key>
+	<string>unbindClipper</string>
+	<key>reactivelabelright</key>
+	<string>detailStyle</string>
+	<key>topicmethodtag</key>
+	<string>elasticColumn</string>
+	<key>wrapperPressure</key>
+	<string>endBitrate</string>
+</dict>
+</plist>

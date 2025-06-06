@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionstateful</key>
+	<string>sortedItem</string>
+	<key>agileSpine</key>
+	<string>cacheReference</string>
+	<key>buttoninset</key>
+	<string>resizableTraversal</string>
+	<key>characteristicTail</key>
+	<string>firstTrajectory</string>
+	<key>disabledShader</key>
+	<string>constructLocalization</string>
+	<key>threadPosition</key>
+	<string>insteadTask</string>
+	<key>unarySkewY</key>
+	<string>oldSize</string>
+</dict>
+</plist>

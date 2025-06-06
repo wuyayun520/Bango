@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisBehavior</key>
+	<string>seamlessStatus</string>
+	<key>denseReceiver</key>
+	<string>tensorOption</string>
+	<key>inheritedAwait</key>
+	<string>delegateInteractor</string>
+	<key>keyMovement</key>
+	<string>shouldbuildscale</string>
+	<key>momentumaction</key>
+	<string>rowvelocity</string>
+	<key>skirtOrientation</key>
+	<string>syncresult</string>
+	<key>tappableGestureDetector</key>
+	<string>factoryplatformtype</string>
+</dict>
+</plist>

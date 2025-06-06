@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncjobhue</key>
+	<string>modelTier</string>
+	<key>boxLocation</key>
+	<string>canShowLoss</string>
+	<key>composableComponent</key>
+	<string>challengeInterpreter</string>
+	<key>shouldDispatchMobile</key>
+	<string>interactiveConstraint</string>
+	<key>shouldRestartShader</key>
+	<string>buttonnearinterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteOption</key>
+	<string>baselineTheme</string>
+	<key>contrastCoord</key>
+	<string>shouldConnectPadding</string>
+	<key>shouldemitstateless</key>
+	<string>strokeSkewY</string>
+	<key>sliderBrightness</key>
+	<string>replicategraphic</string>
+	<key>tensorSine</key>
+	<string>itemLocation</string>
+	<key>vectorContrast</key>
+	<string>specifyThreshold</string>
+</dict>
+</plist>

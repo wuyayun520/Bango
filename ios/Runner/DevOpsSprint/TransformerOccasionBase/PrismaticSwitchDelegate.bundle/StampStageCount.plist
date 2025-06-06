@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilestatus</key>
+	<string>deliveryResponse</string>
+	<key>baseForce</key>
+	<string>fusedKernel</string>
+	<key>explicitProcessor</key>
+	<string>unbindPrecision</string>
+	<key>flexibleDelegate</key>
+	<string>containerawaytype</string>
+	<key>gateHue</key>
+	<string>shouldSetStateAnimation</string>
+	<key>sequentialAudio</key>
+	<string>unmountskirt</string>
+	<key>usedLifecycle</key>
+	<string>elasticityState</string>
+</dict>
+</plist>

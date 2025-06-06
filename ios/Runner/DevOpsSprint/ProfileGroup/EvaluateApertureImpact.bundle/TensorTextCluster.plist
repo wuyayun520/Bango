@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDispatcher</key>
+	<string>routerInterval</string>
+	<key>detectorFeedback</key>
+	<string>blocSkewX</string>
+	<key>largerequest</key>
+	<string>newestStateless</string>
+	<key>replicaShade</key>
+	<string>painterthandecorator</string>
+	<key>shouldDeserializeNavigation</key>
+	<string>storyboardPlatform</string>
+	<key>tickerstatus</key>
+	<string>sortedMomentum</string>
+</dict>
+</plist>

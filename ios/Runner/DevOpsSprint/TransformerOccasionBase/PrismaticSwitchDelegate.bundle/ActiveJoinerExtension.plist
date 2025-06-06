@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultScroll</key>
+	<string>pageviewSize</string>
+	<key>discardedaudio</key>
+	<string>canDeserializeTangent</string>
+	<key>globalLogarithm</key>
+	<string>gemSpeed</string>
+	<key>modalpadding</key>
+	<string>shouldInflateProvider</string>
+	<key>resilientScale</key>
+	<string>similarRadius</string>
+</dict>
+</plist>

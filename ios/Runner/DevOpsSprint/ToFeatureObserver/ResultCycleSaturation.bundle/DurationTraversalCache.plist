@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedReduction</key>
+	<string>interactorBound</string>
+	<key>descenttheme</key>
+	<string>onresourcechanged</string>
+	<key>gesturecenter</key>
+	<string>autoLoader</string>
+	<key>mainCoordinator</key>
+	<string>assetInterval</string>
+	<key>pivotalDimension</key>
+	<string>preparesample</string>
+	<key>playbackSaturation</key>
+	<string>requestStyle</string>
+	<key>retainedactivity</key>
+	<string>popInterface</string>
+	<key>shouldpresentdocument</key>
+	<string>integerLocation</string>
+	<key>transformmedia</key>
+	<string>painttopic</string>
+</dict>
+</plist>

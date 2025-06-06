@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableScene</key>
+	<string>shouldHandleStateful</string>
+	<key>drawerexceptmethod</key>
+	<string>aspectScale</string>
+	<key>liteRouter</key>
+	<string>visitcursor</string>
+	<key>mixinintensity</key>
+	<string>subsequentresourcetag</string>
+	<key>shouldEncodeCharacter</key>
+	<string>crudeWrapper</string>
+	<key>shouldStopChecklist</key>
+	<string>requiredManager</string>
+	<key>sorterLocation</key>
+	<string>trainaspectratio</string>
+	<key>typicalAnalogy</key>
+	<string>hashname</string>
+</dict>
+</plist>

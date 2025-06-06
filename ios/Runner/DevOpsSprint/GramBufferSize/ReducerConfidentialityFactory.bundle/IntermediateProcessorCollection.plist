@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mutableModule</key>
+	<string>shouldTrainSegue</string>
+	<key>otherEntity</key>
+	<string>loopSize</string>
+	<key>primaryTool</key>
+	<string>immediateAwait</string>
+</dict>
+</plist>

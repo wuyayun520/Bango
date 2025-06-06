@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedsizedboxspeed</key>
+	<string>shouldReplaceTouch</string>
+	<key>analogyPressure</key>
+	<string>floatRouter</string>
+	<key>arithmeticCatalyst</key>
+	<string>loaderDepth</string>
+	<key>desktopCompleter</key>
+	<string>titleMargin</string>
+	<key>immediateCoordinator</key>
+	<string>projectmediatorhead</string>
+	<key>metadataoflevel</key>
+	<string>streamBatch</string>
+	<key>registerspecifier</key>
+	<string>canTrainOverlay</string>
+	<key>spritecoord</key>
+	<string>strokeforce</string>
+</dict>
+</plist>

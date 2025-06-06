@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardAlignment</key>
+	<string>encapsulateTimer</string>
+	<key>diffableModule</key>
+	<string>extensionlabel</string>
+	<key>encodebinary</key>
+	<string>finderState</string>
+	<key>flexiblemanager</key>
+	<string>layerOrigin</string>
+	<key>handlerinset</key>
+	<string>replaceAxis</string>
+	<key>iterativeResponse</key>
+	<string>canTransitionCanvas</string>
+	<key>quaternionHead</key>
+	<string>textfieldVar</string>
+	<key>queuescenario</key>
+	<string>currentBullet</string>
+</dict>
+</plist>

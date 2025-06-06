@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultTernary</key>
+	<string>saveMaterial</string>
+	<key>hierarchicalMaster</key>
+	<string>zonecyclevelocity</string>
+	<key>lazyEvolution</key>
+	<string>textOrigin</string>
+	<key>priorHistogram</key>
+	<string>secondConsumer</string>
+	<key>shouldDetachReference</key>
+	<string>shouldValidateSwift</string>
+	<key>skipstamp</key>
+	<string>canYieldEquipment</string>
+	<key>unaryintensity</key>
+	<string>advancedLocalization</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorcommandposition</key>
+	<string>upgradeParticle</string>
+	<key>conformposition</key>
+	<string>shouldLayoutListView</string>
+	<key>desktopGroup</key>
+	<string>imperativeListView</string>
+	<key>hyperbolicComponent</key>
+	<string>introspectLabel</string>
+	<key>imperativePopup</key>
+	<string>completerStage</string>
+	<key>missedLogarithm</key>
+	<string>basicEvolution</string>
+	<key>musicisolate</key>
+	<string>shouldDispatchGridView</string>
+	<key>shouldAttachStream</key>
+	<string>profileStrategy</string>
+	<key>shouldPushNotification</key>
+	<string>gemScope</string>
+</dict>
+</plist>

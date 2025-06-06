@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectiontrajectory</key>
+	<string>responsiveVariant</string>
+	<key>nativenotifierhead</key>
+	<string>mutableHeap</string>
+	<key>petDirection</key>
+	<string>explicitTentative</string>
+	<key>shouldProcessObserver</key>
+	<string>diversifiedDescriptor</string>
+	<key>shouldRebuildTool</key>
+	<string>vectorizeUtil</string>
+	<key>shouldShowUsage</key>
+	<string>dimensionBottom</string>
+	<key>shouldresumedecoration</key>
+	<string>sortedPainter</string>
+</dict>
+</plist>

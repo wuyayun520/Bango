@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticSlider</key>
+	<string>canAttachCoordinator</string>
+	<key>operationVisibility</key>
+	<string>builderefficiency</string>
+	<key>protectedView</key>
+	<string>canDetachSession</string>
+	<key>sceneappearance</key>
+	<string>floatObserver</string>
+</dict>
+</plist>

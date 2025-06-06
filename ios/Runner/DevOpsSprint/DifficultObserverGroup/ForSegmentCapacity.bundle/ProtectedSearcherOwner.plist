@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOrientation</key>
+	<string>hasfuture</string>
+	<key>concreteAperture</key>
+	<string>primaryTechnique</string>
+	<key>displayableAccessory</key>
+	<string>utilForce</string>
+	<key>ignoredStore</key>
+	<string>firstmap</string>
+	<key>sensorContrast</key>
+	<string>retrieveDependency</string>
+	<key>sustainableMapper</key>
+	<string>standaloneAmortization</string>
+</dict>
+</plist>

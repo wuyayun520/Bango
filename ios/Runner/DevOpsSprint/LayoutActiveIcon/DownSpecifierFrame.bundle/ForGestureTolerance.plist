@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveFrame</key>
+	<string>deprecateAction</string>
+	<key>pickerborder</key>
+	<string>canEmitPet</string>
+	<key>semanticskin</key>
+	<string>fixedShape</string>
+	<key>shouldEncodeUsage</key>
+	<string>accordionPlayback</string>
+	<key>staticmonsterresponse</key>
+	<string>parallelShape</string>
+	<key>swifttitle</key>
+	<string>trainTechnique</string>
+</dict>
+</plist>

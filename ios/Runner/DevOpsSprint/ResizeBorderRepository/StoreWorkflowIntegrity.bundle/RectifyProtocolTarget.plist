@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerBehavior</key>
+	<string>preparemember</string>
+	<key>delicatePicker</key>
+	<string>navigateCoordinator</string>
+	<key>hasgate</key>
+	<string>isstamp</string>
+	<key>hierarchicalCanvas</key>
+	<string>shouldRebuildNorm</string>
+	<key>iterativeDispatcher</key>
+	<string>draggableparticle</string>
+	<key>shouldCreateMobile</key>
+	<string>basicmembertransparency</string>
+	<key>shouldFinishHeap</key>
+	<string>materialSound</string>
+</dict>
+</plist>

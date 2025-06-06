@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLayer</key>
+	<string>activeParticle</string>
+	<key>interfacevolume</key>
+	<string>cubeleft</string>
+	<key>invisibletexturemargin</key>
+	<string>prevMobile</string>
+	<key>originalcubitstate</key>
+	<string>canDispatchTransition</string>
+	<key>presenterdescent</key>
+	<string>retainedStep</string>
+	<key>shouldEmitSlider</key>
+	<string>scrollableVolume</string>
+	<key>singleInformation</key>
+	<string>shouldDismissHistogram</string>
+</dict>
+</plist>

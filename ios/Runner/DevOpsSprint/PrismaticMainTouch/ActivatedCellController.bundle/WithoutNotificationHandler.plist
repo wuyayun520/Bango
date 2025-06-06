@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushTop</key>
+	<string>baselineBrightness</string>
+	<key>floattabbar</key>
+	<string>persistentDistinction</string>
+	<key>ignoredGem</key>
+	<string>unbindcube</string>
+	<key>invisiblerowvelocity</key>
+	<string>dedicatedDropdownButton</string>
+	<key>pageviewuntilcommand</key>
+	<string>canPauseCursor</string>
+	<key>shouldFetchCatalyst</key>
+	<string>handleaction</string>
+	<key>statelessVisibility</key>
+	<string>tentativeleft</string>
+	<key>taskgrid</key>
+	<string>workflowValue</string>
+</dict>
+</plist>

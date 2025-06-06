@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarrate</key>
+	<string>anchorName</string>
+	<key>axisOrientation</key>
+	<string>completerColor</string>
+	<key>basicPolyfill</key>
+	<string>appendFactory</string>
+	<key>buttontiertail</key>
+	<string>listenMap</string>
+	<key>responseemitter</key>
+	<string>protectedCaption</string>
+	<key>shouldListenCard</key>
+	<string>dissociateResult</string>
+	<key>swiftpresenter</key>
+	<string>introspectsprite</string>
+	<key>ternaryscheduler</key>
+	<string>retainedTouch</string>
+</dict>
+</plist>

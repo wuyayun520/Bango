@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalProvision</key>
+	<string>seamlessAnimation</string>
+	<key>materializesemantics</key>
+	<string>appbarBrightness</string>
+	<key>sharedCurve</key>
+	<string>mediaqueryDecorator</string>
+	<key>shouldPopCube</key>
+	<string>shouldparsebrush</string>
+</dict>
+</plist>

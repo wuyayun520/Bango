@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSpine</key>
+	<string>declarativeStroke</string>
+	<key>constanttail</key>
+	<string>decorationTail</string>
+	<key>currentOffset</key>
+	<string>deactivatecompleter</string>
+	<key>modulustop</key>
+	<string>unsortedUsage</string>
+	<key>responseMode</key>
+	<string>quantizationModel</string>
+	<key>shouldAnimateEqualization</key>
+	<string>parallelstackname</string>
+	<key>specifyCallback</key>
+	<string>taskbehavior</string>
+</dict>
+</plist>

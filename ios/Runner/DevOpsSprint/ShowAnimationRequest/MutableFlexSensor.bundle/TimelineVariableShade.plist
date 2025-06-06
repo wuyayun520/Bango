@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalElasticity</key>
+	<string>showMenu</string>
+	<key>equipmentBorder</key>
+	<string>iconLevel</string>
+	<key>graphcolor</key>
+	<string>shouldEndNavigation</string>
+	<key>intuitiveAllocator</key>
+	<string>mountedloop</string>
+	<key>sequentialalignment</key>
+	<string>localGestureDetector</string>
+	<key>shouldRebuildContraction</key>
+	<string>fetchEqualization</string>
+	<key>sorterVelocity</key>
+	<string>detachLocalization</string>
+	<key>themetop</key>
+	<string>integrationScale</string>
+	<key>videodirection</key>
+	<string>finderState</string>
+</dict>
+</plist>

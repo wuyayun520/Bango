@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineSkewX</key>
+	<string>eagerElement</string>
+	<key>polygonSkewX</key>
+	<string>nodeVisibility</string>
+	<key>resolvertrajectory</key>
+	<string>mutableScene</string>
+	<key>responsiveOperation</key>
+	<string>subscriptionWork</string>
+	<key>usageValidation</key>
+	<string>shouldConnectAperture</string>
+	<key>variantBottom</key>
+	<string>delicateImpact</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableDisclaimer</key>
+	<string>ondimensionchanged</string>
+	<key>entityPosition</key>
+	<string>wrapLoop</string>
+	<key>schedulerOrientation</key>
+	<string>logarithmLocation</string>
+</dict>
+</plist>

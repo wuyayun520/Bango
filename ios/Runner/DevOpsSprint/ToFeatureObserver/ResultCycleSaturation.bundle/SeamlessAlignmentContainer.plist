@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisIndex</key>
+	<string>publishCharacter</string>
+	<key>componentFlags</key>
+	<string>arithmeticStamp</string>
+	<key>dataSaturation</key>
+	<string>observerwithoutinterpreter</string>
+	<key>fixedBloc</key>
+	<string>processExtension</string>
+	<key>intuitiveLoop</key>
+	<string>spineatflyweight</string>
+	<key>radioTop</key>
+	<string>playbackStrategy</string>
+	<key>shouldPushRole</key>
+	<string>shouldShowDescriptor</string>
+	<key>shouldprocesspoint</key>
+	<string>normalCube</string>
+</dict>
+</plist>

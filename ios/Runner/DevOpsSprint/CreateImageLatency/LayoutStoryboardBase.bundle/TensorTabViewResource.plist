@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateRouter</key>
+	<string>unaryrate</string>
+	<key>entropyTheme</key>
+	<string>spriteBound</string>
+	<key>graphiclayer</key>
+	<string>compositionalReplica</string>
+	<key>hyperbolicSubscription</key>
+	<string>independentSign</string>
+	<key>layerrecursion</key>
+	<string>managerinteraction</string>
+	<key>responderSkewX</key>
+	<string>requiredDependency</string>
+	<key>shouldPushDimension</key>
+	<string>stepCount</string>
+	<key>shouldStartBase</key>
+	<string>canUpdateFuture</string>
+	<key>shouldTransitionGram</key>
+	<string>declarativeSlider</string>
+	<key>zonelinker</key>
+	<string>pagerOpacity</string>
+</dict>
+</plist>

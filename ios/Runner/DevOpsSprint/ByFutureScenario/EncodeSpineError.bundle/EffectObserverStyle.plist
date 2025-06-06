@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralnavigator</key>
+	<string>filterPadding</string>
+	<key>interactorTail</key>
+	<string>mobileSlash</string>
+	<key>retainedAscent</key>
+	<string>staticMediaQuery</string>
+	<key>scrollableGridView</key>
+	<string>wrapSlider</string>
+	<key>shouldReplaceUnary</key>
+	<string>mendRight</string>
+	<key>smartLog</key>
+	<string>shouldMountedMaterial</string>
+	<key>subscriberSkewX</key>
+	<string>graphSystem</string>
+	<key>visibleMediaQuery</key>
+	<string>substantialPainter</string>
+</dict>
+</plist>

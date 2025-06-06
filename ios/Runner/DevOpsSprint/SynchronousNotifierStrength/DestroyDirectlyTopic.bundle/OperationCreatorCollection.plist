@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentRouter</key>
+	<string>firstSegment</string>
+	<key>delegateBehavior</key>
+	<string>concurrentIntegration</string>
+	<key>desktopRouter</key>
+	<string>instantiateDelegate</string>
+	<key>escalateoffset</key>
+	<string>smartZone</string>
+	<key>semanticcollectiontension</key>
+	<string>accessibleContraction</string>
+	<key>shouldEndTask</key>
+	<string>validateCaption</string>
+	<key>stopresolver</key>
+	<string>compareRequest</string>
+	<key>unregistertable</key>
+	<string>deprecateConfiguration</string>
+</dict>
+</plist>

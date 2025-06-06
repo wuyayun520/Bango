@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousElement</key>
+	<string>concurrentScalability</string>
+	<key>drawercoord</key>
+	<string>groupHue</string>
+	<key>globalSlider</key>
+	<string>dismissResponse</string>
+	<key>shouldEncodeOptimizer</key>
+	<string>refactorGroup</string>
+	<key>shouldSaveMaterial</key>
+	<string>accessoryscale</string>
+	<key>visibleScheduler</key>
+	<string>localTransformer</string>
+</dict>
+</plist>

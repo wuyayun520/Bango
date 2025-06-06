@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredAlignment</key>
+	<string>criticalResolver</string>
+	<key>hasinkwell</key>
+	<string>shouldTransitionRemainder</string>
+	<key>mediocreAppBar</key>
+	<string>configurationLeft</string>
+	<key>optionFrequency</key>
+	<string>reactiveSearcher</string>
+	<key>reactiveSprite</key>
+	<string>connectAsset</string>
+	<key>shouldTransformGram</key>
+	<string>compositionalAnalogy</string>
+	<key>transformerVisibility</key>
+	<string>buildMediaQuery</string>
+</dict>
+</plist>

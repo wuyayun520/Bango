@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterstyle</key>
+	<string>canParseSample</string>
+	<key>dynamicStatus</key>
+	<string>errorProxy</string>
+	<key>fixedCluster</key>
+	<string>sensorMediator</string>
+	<key>hascapsule</key>
+	<string>coordinatorleft</string>
+	<key>labelopacity</key>
+	<string>shouldCancelCapsule</string>
+	<key>multiPublisher</key>
+	<string>opaqueDropdownButton</string>
+	<key>statelessVelocity</key>
+	<string>endGradient</string>
+	<key>tickerappearance</key>
+	<string>reductionOpacity</string>
+</dict>
+</plist>

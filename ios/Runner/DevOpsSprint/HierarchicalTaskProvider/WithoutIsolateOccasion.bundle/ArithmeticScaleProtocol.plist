@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzescene</key>
+	<string>canContinueRow</string>
+	<key>catalystanimator</key>
+	<string>releaseLabel</string>
+	<key>listenconstraint</key>
+	<string>componentEdge</string>
+	<key>methodSaturation</key>
+	<string>dedicatedDispatcher</string>
+	<key>moduleDepth</key>
+	<string>notificationType</string>
+	<key>mutableReplica</key>
+	<string>substantialRect</string>
+	<key>primaryDecoration</key>
+	<string>responsecolor</string>
+	<key>selectedgram</key>
+	<string>originalShader</string>
+	<key>synchronizepoint</key>
+	<string>processPresenter</string>
+	<key>webPageView</key>
+	<string>uniformAnchor</string>
+</dict>
+</plist>

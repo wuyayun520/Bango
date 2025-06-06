@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableGrid</key>
+	<string>entityVisibility</string>
+	<key>ignoredBinary</key>
+	<string>dedicatedScroller</string>
+	<key>newestSearcher</key>
+	<string>rapidReliability</string>
+	<key>requiredSlash</key>
+	<string>currentCallback</string>
+	<key>sliderBrightness</key>
+	<string>specifyTheme</string>
+	<key>sophisticatedFragments</key>
+	<string>customLog</string>
+	<key>themeroute</key>
+	<string>vertexbound</string>
+</dict>
+</plist>

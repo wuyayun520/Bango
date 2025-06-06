@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorOpacity</key>
+	<string>crudeMember</string>
+	<key>diffableTechnique</key>
+	<string>buttonVar</string>
+	<key>discardedInteger</key>
+	<string>retrievesink</string>
+	<key>equipmentwithoutoperation</key>
+	<string>crudeChooser</string>
+	<key>framebrightness</key>
+	<string>enabledData</string>
+	<key>observerbrightness</key>
+	<string>combineAwait</string>
+	<key>segueSkewY</key>
+	<string>iconbuilder</string>
+</dict>
+</plist>

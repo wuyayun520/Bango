@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantorientation</key>
+	<string>measureAlignment</string>
+	<key>explicitStep</key>
+	<string>arithmeticNode</string>
+	<key>invisibleGridView</key>
+	<string>variantSystem</string>
+	<key>shouldEmitCharacter</key>
+	<string>canAnimatePlate</string>
+</dict>
+</plist>

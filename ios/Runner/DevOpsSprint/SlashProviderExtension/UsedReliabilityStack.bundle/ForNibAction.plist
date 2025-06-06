@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeborder</key>
+	<string>shouldUnmountHeap</string>
+	<key>momentumRotation</key>
+	<string>rectifyStorage</string>
+	<key>shouldCreateMomentum</key>
+	<string>cartesianFragment</string>
+	<key>shouldResumePoint</key>
+	<string>destroyPosition</string>
+</dict>
+</plist>

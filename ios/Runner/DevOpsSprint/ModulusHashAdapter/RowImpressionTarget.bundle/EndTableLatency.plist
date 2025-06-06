@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedCapacity</key>
+	<string>seamlessDecoration</string>
+	<key>independentMenu</key>
+	<string>parallelCapacities</string>
+	<key>mediocreTable</key>
+	<string>boxshadowcolor</string>
+	<key>protocolInterval</key>
+	<string>canUpdateCharacter</string>
+	<key>shouldNotifyBorder</key>
+	<string>desktopEquivalent</string>
+	<key>shouldTransitionDialogs</key>
+	<string>clearSprite</string>
+	<key>subsequentTheme</key>
+	<string>builderPosition</string>
+	<key>unlockoption</key>
+	<string>shoulddisconnectappbar</string>
+</dict>
+</plist>

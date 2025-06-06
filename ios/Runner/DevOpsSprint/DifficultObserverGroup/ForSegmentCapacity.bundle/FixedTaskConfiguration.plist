@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAwait</key>
+	<string>dispatchMovement</string>
+	<key>appbarAcceleration</key>
+	<string>reconciletext</string>
+	<key>channelPadding</key>
+	<string>compositionalModal</string>
+	<key>cupertinovariant</key>
+	<string>requestBrightness</string>
+	<key>enabledRange</key>
+	<string>basicSkirt</string>
+	<key>functionaldelegate</key>
+	<string>requiredstoredirection</string>
+	<key>intermediatesubscriptionhue</key>
+	<string>pendingRow</string>
+	<key>sequentialGraphic</key>
+	<string>shouldSetStateDescriptor</string>
+</dict>
+</plist>

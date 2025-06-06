@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardBoxShadow</key>
+	<string>reducerRate</string>
+	<key>compositionalPriority</key>
+	<string>resultShade</string>
+	<key>directFactory</key>
+	<string>navigatePageView</string>
+	<key>easytexture</key>
+	<string>shouldSerializeReference</string>
+	<key>integrationShape</key>
+	<string>benchmarkSlider</string>
+	<key>keyManager</key>
+	<string>isgate</string>
+	<key>loopVisible</key>
+	<string>granularBloc</string>
+	<key>reusableDecoration</key>
+	<string>orchestrateAlignment</string>
+	<key>shouldSkipCustomPaint</key>
+	<string>currentBuilder</string>
+</dict>
+</plist>

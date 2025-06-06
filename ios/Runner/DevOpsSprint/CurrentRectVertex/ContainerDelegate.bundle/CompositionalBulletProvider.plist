@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameSpeed</key>
+	<string>otherSpine</string>
+	<key>largeText</key>
+	<string>transitionscroller</string>
+	<key>missionValidation</key>
+	<string>globalBinary</string>
+	<key>particleascent</key>
+	<string>canDisposeMap</string>
+	<key>refreshrichtext</key>
+	<string>combinerRight</string>
+	<key>schedulerfeedback</key>
+	<string>skipAlpha</string>
+</dict>
+</plist>

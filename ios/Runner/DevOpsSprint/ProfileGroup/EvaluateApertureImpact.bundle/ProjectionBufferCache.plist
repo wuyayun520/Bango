@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterasadapter</key>
+	<string>containerreceiver</string>
+	<key>decoupleaspect</key>
+	<string>priorityTheme</string>
+	<key>descriptorformat</key>
+	<string>infrastructureTail</string>
+	<key>marginthanstate</key>
+	<string>syncCompleter</string>
+	<key>prepareprotocol</key>
+	<string>basePosition</string>
+	<key>requiredCapacity</key>
+	<string>nextScreen</string>
+	<key>smartEquivalent</key>
+	<string>instantiateSingleton</string>
+	<key>vectorSaturation</key>
+	<string>functionalShader</string>
+</dict>
+</plist>

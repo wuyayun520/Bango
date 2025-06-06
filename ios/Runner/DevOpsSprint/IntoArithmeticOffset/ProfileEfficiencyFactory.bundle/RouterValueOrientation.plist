@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAxis</key>
+	<string>subscribeinterface</string>
+	<key>diffableLayout</key>
+	<string>eventmediatorbottom</string>
+	<key>discardedListener</key>
+	<string>shouldListenHero</string>
+	<key>seamlessTitle</key>
+	<string>lostVideo</string>
+	<key>shouldSubscribeSpine</key>
+	<string>partitionlabel</string>
+	<key>shoulddispatchanimation</key>
+	<string>dispatchHero</string>
+	<key>singleLinker</key>
+	<string>localSorter</string>
+	<key>sorterInteraction</key>
+	<string>loadTool</string>
+	<key>visiblelistener</key>
+	<string>consultativeMap</string>
+</dict>
+</plist>

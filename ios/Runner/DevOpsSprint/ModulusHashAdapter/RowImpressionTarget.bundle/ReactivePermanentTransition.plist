@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureAlignment</key>
+	<string>deserializePet</string>
+	<key>mediaValidation</key>
+	<string>canHandleCube</string>
+	<key>nextDescription</key>
+	<string>delegateParam</string>
+	<key>pinchableTweak</key>
+	<string>rebuildTouch</string>
+	<key>providerandactivity</key>
+	<string>seamlessProgressBar</string>
+	<key>statefulamongwork</key>
+	<string>shouldDetachEntropy</string>
+	<key>subtleContraction</key>
+	<string>documenthead</string>
+	<key>synchronousplaybacktransparency</key>
+	<string>typicalCompletion</string>
+</dict>
+</plist>

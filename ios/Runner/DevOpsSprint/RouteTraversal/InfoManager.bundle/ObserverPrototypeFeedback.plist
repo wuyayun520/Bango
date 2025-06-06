@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMesh</key>
+	<string>persistentContrast</string>
+	<key>controllerForce</key>
+	<string>protocolProxy</string>
+	<key>fetchfactory</key>
+	<string>offsetuntildecorator</string>
+	<key>graintweak</key>
+	<string>replaceProgressBar</string>
+	<key>opaquesignspacing</key>
+	<string>shouldDisconnectConstraint</string>
+	<key>paintevent</key>
+	<string>statelessMomentum</string>
+	<key>rapidPageView</key>
+	<string>refactorStream</string>
+	<key>shouldSubscribeScroll</key>
+	<string>draggableScheduler</string>
+	<key>streamInterval</key>
+	<string>pivotalFragments</string>
+	<key>zonetension</key>
+	<string>staticstack</string>
+</dict>
+</plist>

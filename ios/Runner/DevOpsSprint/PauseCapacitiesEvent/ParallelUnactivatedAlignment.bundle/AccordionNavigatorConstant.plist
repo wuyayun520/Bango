@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureFrequency</key>
+	<string>commonHandler</string>
+	<key>aspectmaterializer</key>
+	<string>typicalSubscriber</string>
+	<key>dismissintensity</key>
+	<string>processTouch</string>
+	<key>drawerbottom</key>
+	<string>shouldInflatePlate</string>
+	<key>opaqueBox</key>
+	<string>semanticCycle</string>
+	<key>otherPopup</key>
+	<string>scrollType</string>
+	<key>shouldEncodeStamp</key>
+	<string>chartFrequency</string>
+</dict>
+</plist>

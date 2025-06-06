@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBatch</key>
+	<string>smallTransition</string>
+	<key>discardedChooser</key>
+	<string>subscribePainter</string>
+	<key>drawrouter</key>
+	<string>gridviewParam</string>
+	<key>durationconnector</key>
+	<string>decorationStrategy</string>
+	<key>replicaAppearance</key>
+	<string>otherZone</string>
+	<key>shouldDisconnectMedia</key>
+	<string>drawChapter</string>
+	<key>skinbutton</key>
+	<string>disposeUnary</string>
+	<key>tappableChallenge</key>
+	<string>onstatelesstap</string>
+</dict>
+</plist>

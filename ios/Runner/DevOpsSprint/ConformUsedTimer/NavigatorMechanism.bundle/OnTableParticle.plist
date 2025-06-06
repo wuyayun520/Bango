@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackalignment</key>
+	<string>giftMethod</string>
+	<key>liteElasticity</key>
+	<string>renderSlash</string>
+	<key>nextobservertheme</key>
+	<string>controllerParam</string>
+	<key>pageviewBehavior</key>
+	<string>detectorTransparency</string>
+	<key>releasestream</key>
+	<string>relationaldelegatebehavior</string>
+	<key>shouldstreamcapsule</key>
+	<string>criticalSession</string>
+	<key>timercontexttop</key>
+	<string>dynamicAudio</string>
+	<key>uniformResource</key>
+	<string>disabledChart</string>
+</dict>
+</plist>

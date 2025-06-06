@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAspectRatio</key>
+	<string>projectioninset</string>
+	<key>concreteGrid</key>
+	<string>loadGridView</string>
+	<key>deliveryOffset</key>
+	<string>canEmitObserver</string>
+	<key>materialresponse</key>
+	<string>buttoneffect</string>
+	<key>navigateslider</key>
+	<string>sorterDuration</string>
+	<key>opaqueParticle</key>
+	<string>adaptiveNotifier</string>
+	<key>profilestorage</key>
+	<string>optimizeFeature</string>
+	<key>subsequentFeature</key>
+	<string>concurrentTabView</string>
+	<key>variantStyle</key>
+	<string>customConstraint</string>
+</dict>
+</plist>

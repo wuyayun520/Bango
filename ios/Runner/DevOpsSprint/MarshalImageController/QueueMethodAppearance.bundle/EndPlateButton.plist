@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>respectiveerrordirection</key>
+	<string>canPaintPlate</string>
+	<key>secondObserver</key>
+	<string>navigatestoryboard</string>
+	<key>shouldDismissNorm</key>
+	<string>commonAsync</string>
+	<key>shouldEncodeBase</key>
+	<string>transformerstageshade</string>
+	<key>uniqueQueue</key>
+	<string>canYieldArithmetic</string>
+</dict>
+</plist>

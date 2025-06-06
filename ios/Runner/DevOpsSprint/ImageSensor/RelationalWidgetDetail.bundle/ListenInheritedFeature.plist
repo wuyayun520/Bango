@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedPageView</key>
+	<string>spotTail</string>
+	<key>othercontroller</key>
+	<string>hardInteraction</string>
+	<key>publicCard</key>
+	<string>hardSubscription</string>
+	<key>rendertechnique</key>
+	<string>prepareDropdownButton</string>
+</dict>
+</plist>

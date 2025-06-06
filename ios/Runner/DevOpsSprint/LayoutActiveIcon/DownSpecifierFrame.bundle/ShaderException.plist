@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitfragments</key>
+	<string>shouldDeserializeAlert</string>
+	<key>modeltail</key>
+	<string>interactiveScene</string>
+	<key>modulusBottom</key>
+	<string>shouldPublishAxis</string>
+	<key>nativeanchor</key>
+	<string>providercharacteristic</string>
+	<key>seamlessModel</key>
+	<string>formatEqualization</string>
+	<key>sortedCube</key>
+	<string>oldSchema</string>
+	<key>statusRate</key>
+	<string>shouldPaintBoxShadow</string>
+	<key>stopcharacter</key>
+	<string>greatRange</string>
+</dict>
+</plist>

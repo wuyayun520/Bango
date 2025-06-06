@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedgridview</key>
+	<string>actionHue</string>
+	<key>commonStorage</key>
+	<string>connectMetadata</string>
+	<key>requiredIntensity</key>
+	<string>seamlessScalability</string>
+	<key>staticSubscription</key>
+	<string>mediumTweak</string>
+	<key>texturetail</key>
+	<string>specifyIntensity</string>
+	<key>uniqueIntensity</key>
+	<string>mainlabeltype</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxInterval</key>
+	<string>appbarValidation</string>
+	<key>disabledSample</key>
+	<string>reduceWidget</string>
+	<key>heroimage</key>
+	<string>mixinException</string>
+	<key>multiTexture</key>
+	<string>connectsemantics</string>
+	<key>parallelslider</key>
+	<string>commonSingleton</string>
+	<key>semanticProcessor</key>
+	<string>basicInkWell</string>
+	<key>shouldCreateSymbol</key>
+	<string>futureacceleration</string>
+	<key>shouldUnbindProject</key>
+	<string>deliveryType</string>
+	<key>significantOverlay</key>
+	<string>canPopStack</string>
+</dict>
+</plist>

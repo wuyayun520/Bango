@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureprovision</key>
+	<string>delicateTentative</string>
+	<key>gesturedetectorinfrastructure</key>
+	<string>titleScope</string>
+	<key>intuitiveReceiver</key>
+	<string>immediateMobile</string>
+	<key>persistcaption</key>
+	<string>concatenatetool</string>
+	<key>reactivemapper</key>
+	<string>isGestureDetector</string>
+	<key>rowSpacing</key>
+	<string>layoutdistance</string>
+	<key>shouldStartCycle</key>
+	<string>dedicatedStack</string>
+	<key>standaloneEvolution</key>
+	<string>nativedrawertint</string>
+	<key>unactivatedUseCase</key>
+	<string>rendererVisible</string>
+</dict>
+</plist>

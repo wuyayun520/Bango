@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedGraphic</key>
+	<string>animatedcontainerTheme</string>
+	<key>displayableFeature</key>
+	<string>validateradius</string>
+	<key>framepublisher</key>
+	<string>equipmentmechanism</string>
+	<key>hardPermutation</key>
+	<string>shouldDecodeBorder</string>
+	<key>shouldResumeNavigation</key>
+	<string>asynchronousWrapper</string>
+	<key>shouldSkipSession</key>
+	<string>flexibleIntegrity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoThreshold</key>
+	<string>specifymaster</string>
+	<key>ignorednode</key>
+	<string>completerFormat</string>
+	<key>interceptnavigator</key>
+	<string>dynamicController</string>
+	<key>oldNotation</key>
+	<string>animatedFragment</string>
+	<key>primaryEntity</key>
+	<string>gesturedetectorShape</string>
+	<key>selectedbitrate</key>
+	<string>unsortedMomentum</string>
+	<key>setstateswitch</key>
+	<string>iterativeMerger</string>
+	<key>shouldStreamLogarithm</key>
+	<string>isPromise</string>
+	<key>tickerName</key>
+	<string>optimizegrain</string>
+</dict>
+</plist>

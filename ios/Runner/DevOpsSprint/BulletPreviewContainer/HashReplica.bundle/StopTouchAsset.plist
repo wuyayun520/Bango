@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryutil</key>
+	<string>localProject</string>
+	<key>configurationBehavior</key>
+	<string>canReplaceTask</string>
+	<key>discardedWorkflow</key>
+	<string>canProcessTangent</string>
+	<key>freemetadata</key>
+	<string>canDisposePrecision</string>
+	<key>inflatenode</key>
+	<string>showQueue</string>
+	<key>radioloop</key>
+	<string>smartcontainerdensity</string>
+	<key>shouldEmitStep</key>
+	<string>dimensioninphase</string>
+	<key>shouldvalidatepadding</key>
+	<string>compositionalProvision</string>
+</dict>
+</plist>

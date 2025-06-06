@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoItem</key>
+	<string>encapsulateStore</string>
+	<key>currentAsync</key>
+	<string>priorShape</string>
+	<key>declarativeCollection</key>
+	<string>entityDirection</string>
+	<key>directCapacity</key>
+	<string>displayableContainer</string>
+	<key>localaxismargin</key>
+	<string>originalMenu</string>
+	<key>oldLayer</key>
+	<string>boxshadowMode</string>
+	<key>repositorycolor</key>
+	<string>paintConvolution</string>
+	<key>seamlessCaption</key>
+	<string>navigateReduction</string>
+	<key>shouldAnimateDropdownButton</key>
+	<string>widgetSingleton</string>
+</dict>
+</plist>

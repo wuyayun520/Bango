@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxjoiner</key>
+	<string>equipmentAdapter</string>
+	<key>checklisttransparency</key>
+	<string>canRestartTouch</string>
+	<key>comprehensiveInjection</key>
+	<string>isTangent</string>
+	<key>cubemementoright</key>
+	<string>specifyMonster</string>
+	<key>nextImpact</key>
+	<string>advancedPriority</string>
+	<key>processspecifier</key>
+	<string>buildertransparency</string>
+</dict>
+</plist>

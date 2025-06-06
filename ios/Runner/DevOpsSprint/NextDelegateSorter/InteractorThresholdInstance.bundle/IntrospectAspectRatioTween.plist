@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalChannel</key>
+	<string>canNavigateRow</string>
+	<key>mutableFragments</key>
+	<string>typicalThroughput</string>
+	<key>navigatorduringadapter</key>
+	<string>inflateImage</string>
+	<key>shouldObserveMaster</key>
+	<string>customModule</string>
+	<key>sortedtopic</key>
+	<string>performroute</string>
+	<key>wrapperorigin</key>
+	<string>borderValidation</string>
+</dict>
+</plist>

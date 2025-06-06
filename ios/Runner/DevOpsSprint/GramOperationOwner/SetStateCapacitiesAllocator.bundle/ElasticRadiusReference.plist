@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindsymbol</key>
+	<string>skipRow</string>
+	<key>composableCombiner</key>
+	<string>shouldReplaceBox</string>
+	<key>modelviamemento</key>
+	<string>oldHistogram</string>
+	<key>sequentialView</key>
+	<string>signatureDirection</string>
+</dict>
+</plist>

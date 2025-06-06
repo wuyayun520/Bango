@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardCell</key>
+	<string>undertakePreview</string>
+	<key>imageIndex</key>
+	<string>dedicatedEvolution</string>
+	<key>interfaceobserver</key>
+	<string>shouldShowPadding</string>
+	<key>permissiveInteraction</key>
+	<string>requiredDimension</string>
+	<key>prismaticstate</key>
+	<string>restrictionSaturation</string>
+	<key>shouldfinishcontraction</key>
+	<string>buttonPosition</string>
+	<key>specifyStateful</key>
+	<string>controllerfromadapter</string>
+	<key>techniquepreview</key>
+	<string>canDetachMap</string>
+</dict>
+</plist>

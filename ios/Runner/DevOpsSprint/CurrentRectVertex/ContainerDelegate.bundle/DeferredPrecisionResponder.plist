@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedCreator</key>
+	<string>metricsPressure</string>
+	<key>desktopSemantics</key>
+	<string>progressbarrange</string>
+	<key>discardedDuration</key>
+	<string>smartCombiner</string>
+	<key>draggableManager</key>
+	<string>canShowSegment</string>
+	<key>greatSkin</key>
+	<string>capsuleSkewY</string>
+	<key>lazyAnimatedContainer</key>
+	<string>containerValue</string>
+	<key>mediocreAppBar</key>
+	<string>referenceFramework</string>
+	<key>nativeTexture</key>
+	<string>persistLog</string>
+	<key>reactiveCatalyst</key>
+	<string>lastInterpolation</string>
+	<key>shouldsetstatestream</key>
+	<string>mapProxy</string>
+</dict>
+</plist>

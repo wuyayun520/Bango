@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalDocument</key>
+	<string>respectivecluster</string>
+	<key>intensityOffset</key>
+	<string>tappableProjection</string>
+	<key>lastDependency</key>
+	<string>touchSystem</string>
+	<key>notificationCount</key>
+	<string>queuePlatform</string>
+	<key>prismaticSubpixel</key>
+	<string>flexibleBuffer</string>
+	<key>profileutil</key>
+	<string>serializeCapacities</string>
+	<key>shouldRenderMultiplication</key>
+	<string>statefulinteraction</string>
+	<key>shouldValidateBinary</key>
+	<string>staticColumn</string>
+	<key>statelessConfiguration</key>
+	<string>prevTool</string>
+	<key>synchronousSignature</key>
+	<string>latencyScale</string>
+</dict>
+</plist>

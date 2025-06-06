@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianEquipment</key>
+	<string>multiplicationoffset</string>
+	<key>iterativedrawer</key>
+	<string>startMargin</string>
+	<key>missioncharacteristic</key>
+	<string>navigationSize</string>
+	<key>relationalShader</key>
+	<string>multiPosition</string>
+	<key>shouldRenderClipper</key>
+	<string>imageScope</string>
+	<key>similarMesh</key>
+	<string>normalstreamlocation</string>
+</dict>
+</plist>

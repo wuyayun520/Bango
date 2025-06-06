@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoframestyle</key>
+	<string>multiplyModel</string>
+	<key>borderName</key>
+	<string>concreteGrid</string>
+	<key>fragmentBottom</key>
+	<string>prevInfo</string>
+	<key>insteadtimer</key>
+	<string>fusedNib</string>
+	<key>interactiveSubscription</key>
+	<string>intuitiveStorage</string>
+	<key>offsettween</key>
+	<string>shouldBindAnimatedContainer</string>
+	<key>repositorymomentum</key>
+	<string>canDisconnectInterpolation</string>
+</dict>
+</plist>

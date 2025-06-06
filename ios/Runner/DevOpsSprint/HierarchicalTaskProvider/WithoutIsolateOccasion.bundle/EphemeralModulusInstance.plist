@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivedrawerlocation</key>
+	<string>toolPattern</string>
+	<key>awaitEdge</key>
+	<string>pauseModulus</string>
+	<key>concurrentPadding</key>
+	<string>canSaveRole</string>
+	<key>mendMode</key>
+	<string>executeMetadata</string>
+	<key>transformerbeyondproxy</key>
+	<string>shouldtransitionstateless</string>
+	<key>unsortedDetail</key>
+	<string>evolutionRate</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advanceddetector</key>
+	<string>standaloneNavigator</string>
+	<key>delegateamongflyweight</key>
+	<string>bindContraction</string>
+	<key>inactiveObserver</key>
+	<string>nextPicker</string>
+	<key>missedCoordinator</key>
+	<string>repositoryKind</string>
+	<key>modeledge</key>
+	<string>taskskewy</string>
+	<key>oldProgressBar</key>
+	<string>shouldRouteOption</string>
+	<key>rolethanstrategy</key>
+	<string>giftTail</string>
+	<key>symbolRate</key>
+	<string>declarativeUsage</string>
+</dict>
+</plist>

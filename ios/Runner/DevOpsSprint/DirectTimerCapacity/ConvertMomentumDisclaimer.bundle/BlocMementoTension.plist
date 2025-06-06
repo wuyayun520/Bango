@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedcolumnformat</key>
+	<string>deferredMetadata</string>
+	<key>builderPadding</key>
+	<string>shouldContinueGram</string>
+	<key>compositionalNotifier</key>
+	<string>associatedSorter</string>
+	<key>immediateBullet</key>
+	<string>shouldEncodeAlert</string>
+	<key>listenerlocation</key>
+	<string>ignoredPainter</string>
+	<key>primaryDelivery</key>
+	<string>statelessElasticity</string>
+	<key>requiredMovement</key>
+	<string>shouldCancelBullet</string>
+	<key>touchEdge</key>
+	<string>currentAction</string>
+	<key>vectorCoord</key>
+	<string>tappablechapter</string>
+</dict>
+</plist>

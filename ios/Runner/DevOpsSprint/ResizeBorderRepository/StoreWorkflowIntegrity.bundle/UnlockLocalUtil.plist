@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensivemissionbehavior</key>
+	<string>projectionPressure</string>
+	<key>ephemeralInteraction</key>
+	<string>overrideDelegate</string>
+	<key>intermediateAlignment</key>
+	<string>renameConstraint</string>
+	<key>originalScroll</key>
+	<string>drawAllocator</string>
+	<key>originalanchor</key>
+	<string>stackOperation</string>
+	<key>significantView</key>
+	<string>canListenOption</string>
+	<key>variantStatus</key>
+	<string>storePrototype</string>
+</dict>
+</plist>

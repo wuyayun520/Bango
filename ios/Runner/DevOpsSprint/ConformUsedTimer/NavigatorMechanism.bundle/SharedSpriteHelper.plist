@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedsound</key>
+	<string>shouldDetachSensor</string>
+	<key>criticalResult</key>
+	<string>normVisible</string>
+	<key>draweruntilshape</key>
+	<string>discardedPosition</string>
+	<key>scrollableLayout</key>
+	<string>grayscaleContrast</string>
+	<key>smartTimer</key>
+	<string>setstateCheckbox</string>
+	<key>tensorintegerspacing</key>
+	<string>sensorCycle</string>
+</dict>
+</plist>

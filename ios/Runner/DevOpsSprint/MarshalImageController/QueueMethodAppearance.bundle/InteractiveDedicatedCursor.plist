@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedDetector</key>
+	<string>marshalGroup</string>
+	<key>elasticLoss</key>
+	<string>optimizerprogressbar</string>
+	<key>rangeEdge</key>
+	<string>usedSignature</string>
+	<key>synchronousFragments</key>
+	<string>dependencyMethod</string>
+</dict>
+</plist>

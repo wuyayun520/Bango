@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertOrientation</key>
+	<string>typicalParticle</string>
+	<key>difficultchannelssize</key>
+	<string>discoverChannel</string>
+	<key>iterativeProfile</key>
+	<string>invisibleDrawer</string>
+	<key>saveparticle</key>
+	<string>canParseRemainder</string>
+	<key>visitcurve</key>
+	<string>hierarchicalDispatcher</string>
+</dict>
+</plist>

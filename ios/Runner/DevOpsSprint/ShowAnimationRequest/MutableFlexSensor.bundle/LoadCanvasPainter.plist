@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvesize</key>
+	<string>apertureAppearance</string>
+	<key>eagerMusic</key>
+	<string>mutableMediaQuery</string>
+	<key>pivotalAxis</key>
+	<string>hascharacter</string>
+	<key>providesingleton</key>
+	<string>canEndProjection</string>
+	<key>shouldRestartSlash</key>
+	<string>discardedLog</string>
+	<key>shouldUnmountCatalyst</key>
+	<string>adjustCallback</string>
+	<key>shouldUnmountedCertificate</key>
+	<string>graphObserver</string>
+</dict>
+</plist>

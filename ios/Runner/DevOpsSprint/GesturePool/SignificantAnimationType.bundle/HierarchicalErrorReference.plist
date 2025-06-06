@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferprocessor</key>
+	<string>similarobject</string>
+	<key>constantTension</key>
+	<string>optimizerOperation</string>
+	<key>defaultStack</key>
+	<string>canUnbindContainer</string>
+	<key>draggableIntensity</key>
+	<string>splitterSkewY</string>
+	<key>inheritedLoader</key>
+	<string>shouldRouteStep</string>
+	<key>prevMetadata</key>
+	<string>typicalLifecycle</string>
+	<key>symmetricworkflow</key>
+	<string>evaluateRadius</string>
+	<key>vertexspeed</key>
+	<string>singletonvisitorhead</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialThroughput</key>
+	<string>disconnectTangent</string>
+	<key>mainBuffer</key>
+	<string>associateVector</string>
+	<key>scrollconstant</key>
+	<string>lastMargin</string>
+	<key>shouldValidateMomentum</key>
+	<string>insteadFeature</string>
+	<key>sliderbrightness</key>
+	<string>roleSaturation</string>
+	<key>sustainableLayout</key>
+	<string>resetSize</string>
+</dict>
+</plist>

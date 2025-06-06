@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSize</key>
+	<string>responsebehavior</string>
+	<key>descriptionTheme</key>
+	<string>cacheShade</string>
+	<key>draggableSession</key>
+	<string>resourceFormat</string>
+	<key>equipmentShape</key>
+	<string>canStreamHero</string>
+	<key>greatSingleton</key>
+	<string>deferredcube</string>
+	<key>petCenter</key>
+	<string>shouldLayoutExponent</string>
+	<key>sharedConstraint</key>
+	<string>architecturetheme</string>
+	<key>shouldAttachGrayscale</key>
+	<string>processMenu</string>
+	<key>specifyHash</key>
+	<string>navigatortint</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedoverlayscale</key>
+	<string>rectatvisitor</string>
+	<key>captionPressure</key>
+	<string>replacegate</string>
+	<key>comprehensiveSink</key>
+	<string>canFinishScroll</string>
+	<key>shouldBuildCupertino</key>
+	<string>asynchronousLinker</string>
+	<key>significantGesture</key>
+	<string>shouldSkipCapacities</string>
+	<key>singletonDepth</key>
+	<string>propagateTask</string>
+</dict>
+</plist>

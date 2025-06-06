@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableTweak</key>
+	<string>completeranimation</string>
+	<key>multiPosition</key>
+	<string>informationColor</string>
+	<key>publicProjection</key>
+	<string>independentItem</string>
+	<key>rowbeyondmediator</key>
+	<string>activatedrect</string>
+	<key>segmenttheme</key>
+	<string>observernumberright</string>
+	<key>shouldBindStep</key>
+	<string>usedprovider</string>
+</dict>
+</plist>

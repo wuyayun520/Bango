@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentMomentum</key>
+	<string>processLabel</string>
+	<key>batchtint</key>
+	<string>opaqueNorm</string>
+	<key>customizedTexture</key>
+	<string>elasticstoredelay</string>
+	<key>geometricContainer</key>
+	<string>quantizationQueue</string>
+	<key>originalSearcher</key>
+	<string>independentResilience</string>
+	<key>shouldYieldIndicator</key>
+	<string>unmountFragment</string>
+	<key>timerofphase</key>
+	<string>shouldMountAlpha</string>
+</dict>
+</plist>

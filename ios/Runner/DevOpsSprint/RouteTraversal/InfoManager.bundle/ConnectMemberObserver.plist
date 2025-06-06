@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorCoord</key>
+	<string>alphaconfiguration</string>
+	<key>displayableBinary</key>
+	<string>precisionContrast</string>
+	<key>locatecard</key>
+	<string>arithmeticStyle</string>
+	<key>precisionName</key>
+	<string>rebuildOption</string>
+	<key>providerOpacity</key>
+	<string>frameperstage</string>
+	<key>robustGridView</key>
+	<string>materializerType</string>
+	<key>semanticAnchor</key>
+	<string>unarySystem</string>
+	<key>sequentialConverter</key>
+	<string>shoulddismisscapacities</string>
+</dict>
+</plist>

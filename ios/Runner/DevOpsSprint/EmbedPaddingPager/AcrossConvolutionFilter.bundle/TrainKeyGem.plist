@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSymbol</key>
+	<string>dialogssincemediator</string>
+	<key>customizedbloc</key>
+	<string>immediateBloc</string>
+	<key>retainedUtil</key>
+	<string>aspectratioVariable</string>
+	<key>shouldLoadTheme</key>
+	<string>confidentialityName</string>
+	<key>shouldShowText</key>
+	<string>provisionColor</string>
+	<key>shouldloadinterpolation</key>
+	<string>singleprofile</string>
+	<key>sineSaturation</key>
+	<string>canFormatCosine</string>
+</dict>
+</plist>

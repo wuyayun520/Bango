@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicatedimensionkind</key>
+	<string>publicProject</string>
+	<key>easyspot</key>
+	<string>restartBitrate</string>
+	<key>enabledtimer</key>
+	<string>pointscroller</string>
+	<key>listenerversusbuffer</key>
+	<string>canUnbindBrush</string>
+	<key>observerVisibility</key>
+	<string>statelessMaterial</string>
+</dict>
+</plist>

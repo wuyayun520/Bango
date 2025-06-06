@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferthroughcycle</key>
+	<string>receiverDistance</string>
+	<key>observercomponent</key>
+	<string>segueSkewY</string>
+	<key>resultDirection</key>
+	<string>shouldContinueMediaQuery</string>
+	<key>serviceDuration</key>
+	<string>widgetFacade</string>
+</dict>
+</plist>

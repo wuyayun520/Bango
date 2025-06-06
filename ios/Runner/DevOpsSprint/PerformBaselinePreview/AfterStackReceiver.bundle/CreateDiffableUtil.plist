@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopTriangles</key>
+	<string>inactiveStep</string>
+	<key>gestureparticle</key>
+	<string>canUpdateMaster</string>
+	<key>hashTransparency</key>
+	<string>pinchablecomponent</string>
+	<key>kernelversustype</key>
+	<string>hardSkin</string>
+	<key>moduleFlags</key>
+	<string>fragmentsHue</string>
+	<key>robustItem</key>
+	<string>detachSizedBox</string>
+	<key>substantialbehavior</key>
+	<string>rangeVisible</string>
+	<key>subtleAppBar</key>
+	<string>normActivity</string>
+</dict>
+</plist>

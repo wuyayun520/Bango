@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handletransition</key>
+	<string>embedPresenter</string>
+	<key>originalDuration</key>
+	<string>checkboxcluster</string>
+	<key>selectorPadding</key>
+	<string>accordionInteraction</string>
+	<key>shouldMountedUnary</key>
+	<string>associatedLinker</string>
+	<key>smallInterface</key>
+	<string>shouldListenKernel</string>
+	<key>sophisticatedMaterializer</key>
+	<string>finishCollection</string>
+</dict>
+</plist>

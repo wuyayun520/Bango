@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeInterface</key>
+	<string>shouldParsePromise</string>
+	<key>composableRecursion</key>
+	<string>fixedRectangle</string>
+	<key>declarativecoordinator</key>
+	<string>displayableBinder</string>
+	<key>dynamicSearcher</key>
+	<string>canCancelMission</string>
+	<key>euclideanSession</key>
+	<string>diffableUsage</string>
+	<key>popupMomentum</key>
+	<string>shouldDecodeTechnique</string>
+	<key>scenesinceframework</key>
+	<string>mediocreInstruction</string>
+	<key>shouldBuildRole</key>
+	<string>specifyTangent</string>
+	<key>shouldDetachSwitch</key>
+	<string>descentScale</string>
+	<key>shouldUnmountIndicator</key>
+	<string>sustainableRemainder</string>
+</dict>
+</plist>

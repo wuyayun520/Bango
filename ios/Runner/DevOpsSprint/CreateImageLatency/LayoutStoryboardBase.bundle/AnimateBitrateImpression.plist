@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystobserverskewy</key>
+	<string>deprecateTicker</string>
+	<key>firstlabelcount</key>
+	<string>replaceSubpixel</string>
+	<key>opaquealignment</key>
+	<string>grainfilter</string>
+	<key>repositoryHead</key>
+	<string>canFormatTabBar</string>
+</dict>
+</plist>

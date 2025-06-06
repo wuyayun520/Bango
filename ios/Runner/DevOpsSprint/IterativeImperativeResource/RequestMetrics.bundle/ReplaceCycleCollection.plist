@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeTheme</key>
+	<string>controllerFlags</string>
+	<key>directDecoration</key>
+	<string>blocTask</string>
+	<key>dropouttitle</key>
+	<string>shouldTransformMap</string>
+	<key>hardModel</key>
+	<string>replicateDescription</string>
+	<key>persistentActivity</key>
+	<string>mediumStateless</string>
+	<key>protectedMatrix</key>
+	<string>pagerFeedback</string>
+	<key>utilatvar</key>
+	<string>capacitiesState</string>
+</dict>
+</plist>

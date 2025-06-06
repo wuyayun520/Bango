@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedHero</key>
+	<string>textInset</string>
+	<key>itemDensity</key>
+	<string>concreteSegment</string>
+	<key>metricsInteraction</key>
+	<string>rectFeedback</string>
+	<key>prevController</key>
+	<string>shouldEmitObserver</string>
+	<key>prismaticService</key>
+	<string>distinctionMode</string>
+	<key>shouldResumeBehavior</key>
+	<string>spritetransformer</string>
+</dict>
+</plist>

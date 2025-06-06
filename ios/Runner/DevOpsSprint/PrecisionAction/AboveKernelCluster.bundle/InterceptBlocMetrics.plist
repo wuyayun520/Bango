@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityagainstvar</key>
+	<string>resilienceinteraction</string>
+	<key>framethanmode</key>
+	<string>pauseContainer</string>
+	<key>pinchableScalability</key>
+	<string>protocolPhase</string>
+	<key>resilientSize</key>
+	<string>detachRow</string>
+	<key>statelesstolerance</key>
+	<string>shouldCreateAspect</string>
+</dict>
+</plist>

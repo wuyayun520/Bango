@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorfrequency</key>
+	<string>characteristicCoord</string>
+	<key>lostInteractor</key>
+	<string>seguestatecontrast</string>
+	<key>responseBehavior</key>
+	<string>rectSystem</string>
+	<key>routerbeyondactivity</key>
+	<string>releaseNode</string>
+	<key>scaleprovider</key>
+	<string>largeMenu</string>
+	<key>shouldEncodeConstraint</key>
+	<string>transposeResolver</string>
+	<key>shouldPauseKernel</key>
+	<string>shouldFetchAppBar</string>
+	<key>specifierVelocity</key>
+	<string>checkState</string>
+</dict>
+</plist>

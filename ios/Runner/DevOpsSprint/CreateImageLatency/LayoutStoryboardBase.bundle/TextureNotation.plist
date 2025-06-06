@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainSkewY</key>
+	<string>optionbandwidth</string>
+	<key>interactiveallocator</key>
+	<string>constructDecoration</string>
+	<key>mediaLocation</key>
+	<string>propagateGrid</string>
+	<key>shouldProcessIcon</key>
+	<string>elasticWrapper</string>
+	<key>shouldSerializePriority</key>
+	<string>singleNorm</string>
+	<key>shouldrebuildobserver</key>
+	<string>particlebybuffer</string>
+	<key>temporaryContainer</key>
+	<string>shouldPrepareGridView</string>
+</dict>
+</plist>

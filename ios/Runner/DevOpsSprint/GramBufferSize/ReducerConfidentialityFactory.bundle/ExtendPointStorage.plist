@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultMission</key>
+	<string>imagewithoutdecorator</string>
+	<key>greatChannels</key>
+	<string>skirtOrientation</string>
+	<key>shouldBuildAxis</key>
+	<string>uniqueScaffold</string>
+	<key>spotorenvironment</key>
+	<string>storyboarddescription</string>
+	<key>swiftDirection</key>
+	<string>smallItem</string>
+	<key>temporaryParticle</key>
+	<string>canLayoutMargin</string>
+	<key>triggerScale</key>
+	<string>backwardQuaternion</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllertrajectory</key>
+	<string>sustainableCapacities</string>
+	<key>createnavigator</key>
+	<string>canDispatchCollection</string>
+	<key>fusedrepositoryflags</key>
+	<string>canInflateCurve</string>
+	<key>resilientConvolution</key>
+	<string>maxBoxShadow</string>
+	<key>smallShader</key>
+	<string>profileVisible</string>
+	<key>widgetFeedback</key>
+	<string>canKeepFuture</string>
+</dict>
+</plist>

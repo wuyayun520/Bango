@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchName</key>
+	<string>arithmeticDetector</string>
+	<key>capacityBound</key>
+	<string>shouldpresentarithmetic</string>
+	<key>compositionconverter</key>
+	<string>shouldcreategrayscale</string>
+	<key>selectedmediaquery</key>
+	<string>executeFeature</string>
+	<key>shouldFetchPainter</key>
+	<string>singleCreator</string>
+	<key>slashDirection</key>
+	<string>effectdelegate</string>
+</dict>
+</plist>

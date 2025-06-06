@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticMap</key>
+	<string>animatedmetadatahue</string>
+	<key>indicatorValidation</key>
+	<string>baselineFramework</string>
+	<key>painterscopedistance</key>
+	<string>chartFrequency</string>
+	<key>responseacceleration</key>
+	<string>componentRate</string>
+	<key>smartinteraction</key>
+	<string>routeawayprototype</string>
+</dict>
+</plist>

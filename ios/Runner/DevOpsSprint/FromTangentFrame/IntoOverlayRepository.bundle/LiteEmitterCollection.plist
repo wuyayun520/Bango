@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customCallback</key>
+	<string>releasePosition</string>
+	<key>ephemeralIntensity</key>
+	<string>subtleCubit</string>
+	<key>impactMomentum</key>
+	<string>addState</string>
+	<key>imperativemargintail</key>
+	<string>mobileUtil</string>
+	<key>opaqueCheckbox</key>
+	<string>sizedboxStructure</string>
+	<key>shouldRestartCoordinator</key>
+	<string>managerComposite</string>
+	<key>unarymethodstatus</key>
+	<string>parallelFormat</string>
+</dict>
+</plist>

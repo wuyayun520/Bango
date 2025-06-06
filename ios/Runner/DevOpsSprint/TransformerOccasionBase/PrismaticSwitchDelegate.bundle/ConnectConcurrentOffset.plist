@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionsize</key>
+	<string>priorInkWell</string>
+	<key>crudeSearcher</key>
+	<string>accessibleBaseline</string>
+	<key>defaultoperation</key>
+	<string>aspectMode</string>
+	<key>efficiencyTail</key>
+	<string>destroyWidget</string>
+	<key>explicitImage</key>
+	<string>easyNotation</string>
+	<key>rapidConfidentiality</key>
+	<string>delegatePattern</string>
+	<key>resolverShape</key>
+	<string>labelTheme</string>
+	<key>shouldBindCupertino</key>
+	<string>globalmodule</string>
+	<key>symmetricException</key>
+	<string>floatUseCase</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTransition</key>
+	<string>dismissBinary</string>
+	<key>commontweentension</key>
+	<string>unsortedTexture</string>
+	<key>hierarchicalMargin</key>
+	<string>intuitiveAnimator</string>
+	<key>loadcontraction</key>
+	<string>connectStream</string>
+	<key>mutableExpanded</key>
+	<string>textureBuffer</string>
+</dict>
+</plist>

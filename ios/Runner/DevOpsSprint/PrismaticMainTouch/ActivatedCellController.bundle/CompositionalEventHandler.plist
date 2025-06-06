@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyflags</key>
+	<string>loopShape</string>
+	<key>interpolationnumbertail</key>
+	<string>transitioncurve</string>
+	<key>linkerSkewY</key>
+	<string>shouldDecodeBehavior</string>
+	<key>memberStyle</key>
+	<string>shouldendcomposition</string>
+	<key>priorFragment</key>
+	<string>utilAction</string>
+	<key>publicGem</key>
+	<string>plateduringstage</string>
+	<key>reusableOccasion</key>
+	<string>robustVariant</string>
+	<key>scrollableImpression</key>
+	<string>convertDuration</string>
+	<key>seamlessDuration</key>
+	<string>compositionalGestureDetector</string>
+</dict>
+</plist>

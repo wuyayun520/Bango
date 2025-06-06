@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackVelocity</key>
+	<string>largeAlert</string>
+	<key>commonResponse</key>
+	<string>standaloneBehavior</string>
+	<key>cupertinoSearcher</key>
+	<string>shouldSkipBuilder</string>
+	<key>informationstyle</key>
+	<string>gridwithoutsingleton</string>
+	<key>optionstyle</key>
+	<string>marshalResult</string>
+	<key>protectedShader</key>
+	<string>videoContrast</string>
+	<key>responsetimeline</key>
+	<string>mainNotification</string>
+	<key>symmetricAlpha</key>
+	<string>pickerOffset</string>
+	<key>webDimension</key>
+	<string>transformLogarithm</string>
+</dict>
+</plist>

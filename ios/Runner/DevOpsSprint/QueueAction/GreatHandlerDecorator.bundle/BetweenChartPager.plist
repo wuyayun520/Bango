@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>newestFormat</key>
+	<string>shouldEncodeShader</string>
+	<key>paddingForce</key>
+	<string>elasticMonster</string>
+	<key>shouldSaveArithmetic</key>
+	<string>streamCursor</string>
+	<key>unmountpageview</key>
+	<string>audioColor</string>
+</dict>
+</plist>

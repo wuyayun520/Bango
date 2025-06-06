@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonOptimizer</key>
+	<string>ignoredDisclaimer</string>
+	<key>commonPromise</key>
+	<string>subtleScroller</string>
+	<key>geometricchartstate</key>
+	<string>lastGestureDetector</string>
+	<key>navigatorstructurevelocity</key>
+	<string>sizedboxTint</string>
+	<key>shouldLayoutNavigator</key>
+	<string>delegateText</string>
+</dict>
+</plist>

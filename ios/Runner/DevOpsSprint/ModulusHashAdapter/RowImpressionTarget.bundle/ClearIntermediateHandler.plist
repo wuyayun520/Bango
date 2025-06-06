@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCanvas</key>
+	<string>cupertinoMaterial</string>
+	<key>batchType</key>
+	<string>geometricArithmetic</string>
+	<key>borderStyle</key>
+	<string>timerRight</string>
+	<key>challengeconverter</key>
+	<string>displayHandler</string>
+	<key>elasticityInteraction</key>
+	<string>detachQueue</string>
+	<key>serviceCount</key>
+	<string>shouldAttachProtocol</string>
+	<key>shouldCreateMomentum</key>
+	<string>relationalThroughput</string>
+	<key>shouldNavigateSine</key>
+	<string>modelActivity</string>
+	<key>shouldpauselogarithm</key>
+	<string>pushAxis</string>
+</dict>
+</plist>

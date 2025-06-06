@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicanimation</key>
+	<string>scalabilityLeft</string>
+	<key>immediatescalecoord</key>
+	<string>canPaintFragment</string>
+	<key>inheritedCubit</key>
+	<string>similargramscale</string>
+	<key>normalTransformer</key>
+	<string>bindBatch</string>
+	<key>richtextTop</key>
+	<string>agileusecase</string>
+	<key>shouldRestartConstraint</key>
+	<string>webMechanism</string>
+	<key>shouldSerializeBullet</key>
+	<string>beginnerBuilder</string>
+	<key>shouldhandlecontraction</key>
+	<string>similarFactory</string>
+	<key>synchronousModal</key>
+	<string>synchronousDrawer</string>
+</dict>
+</plist>

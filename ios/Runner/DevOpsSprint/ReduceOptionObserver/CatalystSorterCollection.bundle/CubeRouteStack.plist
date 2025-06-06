@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationbridgemode</key>
+	<string>lostloader</string>
+	<key>asynchronousModule</key>
+	<string>specifierprototypepadding</string>
+	<key>bitrateVisible</key>
+	<string>precisionTransparency</string>
+	<key>captionName</key>
+	<string>subsequentRole</string>
+	<key>controllerpadding</key>
+	<string>hierarchicalAspect</string>
+	<key>eagerScreen</key>
+	<string>intermediateReduction</string>
+	<key>hierarchicalMetrics</key>
+	<string>tweenInteraction</string>
+	<key>reactiveInteraction</key>
+	<string>optionOffset</string>
+	<key>shouldPersistSwift</key>
+	<string>itemSpeed</string>
+</dict>
+</plist>

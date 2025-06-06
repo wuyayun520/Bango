@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetthroughfacade</key>
+	<string>decodeCallback</string>
+	<key>commonThreshold</key>
+	<string>sequentialRoute</string>
+	<key>crudeStateless</key>
+	<string>toolspacing</string>
+	<key>currentVideo</key>
+	<string>singletonTask</string>
+	<key>difficultwidgetlocation</key>
+	<string>petgrid</string>
+	<key>grayscaleFeedback</key>
+	<string>canEncodeCatalyst</string>
+	<key>heaplayerorientation</key>
+	<string>pinchableMission</string>
+	<key>previewpressure</key>
+	<string>taskmodestatus</string>
+	<key>prismaticallocatorspeed</key>
+	<string>reusableReceiver</string>
+</dict>
+</plist>

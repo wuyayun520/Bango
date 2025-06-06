@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularInfrastructure</key>
+	<string>emitPriority</string>
+	<key>gridviewEdge</key>
+	<string>statelessButton</string>
+	<key>lifecycleTint</key>
+	<string>consultativeDimension</string>
+	<key>nextalignment</key>
+	<string>scheduleBuffer</string>
+	<key>otherSpine</key>
+	<string>resizableCompleter</string>
+	<key>shouldYieldComposition</key>
+	<string>audioVelocity</string>
+	<key>textEdge</key>
+	<string>canTransitionStateless</string>
+	<key>titleFlags</key>
+	<string>constraintworktension</string>
+</dict>
+</plist>

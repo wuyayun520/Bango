@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSearcher</key>
+	<string>positionedChain</string>
+	<key>analyzertheme</key>
+	<string>resourceFeedback</string>
+	<key>crucialContainer</key>
+	<string>slashadaptertag</string>
+	<key>granularBatch</key>
+	<string>connectResolver</string>
+	<key>mobileSignature</key>
+	<string>enabledRadius</string>
+</dict>
+</plist>

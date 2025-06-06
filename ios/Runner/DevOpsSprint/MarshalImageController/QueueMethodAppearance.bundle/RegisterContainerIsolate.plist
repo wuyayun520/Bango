@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedSensor</key>
+	<string>permissiveInteractor</string>
+	<key>graphactivityalignment</key>
+	<string>writeQueue</string>
+	<key>menuTension</key>
+	<string>shouldBuildNotification</string>
+	<key>oldConsumer</key>
+	<string>liteBuffer</string>
+	<key>retainedScaffold</key>
+	<string>asynchronousFormat</string>
+	<key>shouldUnbindMobile</key>
+	<string>draggableSpecifier</string>
+	<key>shouldpresentarithmetic</key>
+	<string>stopFragment</string>
+	<key>unsortedSubpixel</key>
+	<string>allocateProgressBar</string>
+</dict>
+</plist>

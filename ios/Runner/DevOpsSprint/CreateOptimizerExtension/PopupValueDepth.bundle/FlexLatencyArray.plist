@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvastempletype</key>
+	<string>largeCapsule</string>
+	<key>concurrentDecoration</key>
+	<string>delegatebase</string>
+	<key>declarativeIcon</key>
+	<string>pauseSession</string>
+	<key>eventSize</key>
+	<string>skirtMargin</string>
+	<key>fixedTable</key>
+	<string>shouldEmitEquipment</string>
+	<key>hyperbolicDelivery</key>
+	<string>textureacceleration</string>
+	<key>iconatkind</key>
+	<string>responsecount</string>
+	<key>mobilePlayback</key>
+	<string>symmetricRoute</string>
+</dict>
+</plist>

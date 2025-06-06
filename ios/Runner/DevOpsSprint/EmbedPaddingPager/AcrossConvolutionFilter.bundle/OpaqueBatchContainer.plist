@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowTransparency</key>
+	<string>provisionKind</string>
+	<key>customImpression</key>
+	<string>shouldsubscribenib</string>
+	<key>defaultdescriptor</key>
+	<string>obtainLayout</string>
+	<key>directReference</key>
+	<string>playUtil</string>
+	<key>easyPublisher</key>
+	<string>materialContainer</string>
+	<key>publicZone</key>
+	<string>canFetchUsage</string>
+	<key>shouldDeserializeScale</key>
+	<string>shouldRestartPlayback</string>
+	<key>sizePosition</key>
+	<string>reactiveSizedBox</string>
+	<key>touchamongshape</key>
+	<string>presentCheckbox</string>
+</dict>
+</plist>

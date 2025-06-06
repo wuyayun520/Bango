@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachallocator</key>
+	<string>shouldMountImage</string>
+	<key>explicitCheckbox</key>
+	<string>significantDescription</string>
+	<key>featureForce</key>
+	<string>shouldPaintStream</string>
+	<key>fixedMap</key>
+	<string>statusDensity</string>
+	<key>receiverepository</key>
+	<string>threadChain</string>
+	<key>shouldRebuildScroll</key>
+	<string>canRenderSign</string>
+	<key>signaturePadding</key>
+	<string>resolveIntensity</string>
+</dict>
+</plist>

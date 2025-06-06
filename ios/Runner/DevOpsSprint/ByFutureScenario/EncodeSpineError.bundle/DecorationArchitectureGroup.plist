@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lostunary</key>
+	<string>shouldLoadSegment</string>
+	<key>modelquaternion</key>
+	<string>prismaticSkin</string>
+	<key>multiExtension</key>
+	<string>pauseCoordinator</string>
+	<key>opaqueModulus</key>
+	<string>signatureresponder</string>
+	<key>shouldCachePrecision</key>
+	<string>tensorAlert</string>
+</dict>
+</plist>

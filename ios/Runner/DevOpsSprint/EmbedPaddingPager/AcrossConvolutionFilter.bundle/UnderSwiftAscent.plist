@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptioninsidetype</key>
+	<string>canLayoutDuration</string>
+	<key>listenisolate</key>
+	<string>compositionForm</string>
+	<key>provisionSpacing</key>
+	<string>permanentRoute</string>
+	<key>searcherBorder</key>
+	<string>granularChooser</string>
+	<key>tweakAcceleration</key>
+	<string>showprofile</string>
+</dict>
+</plist>

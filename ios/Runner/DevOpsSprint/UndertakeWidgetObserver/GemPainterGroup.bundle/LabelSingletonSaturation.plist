@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianChannel</key>
+	<string>mutableTable</string>
+	<key>custominteger</key>
+	<string>performResult</string>
+	<key>ephemeralPet</key>
+	<string>singletonstateinteraction</string>
+	<key>immutableGestureDetector</key>
+	<string>shouldTrainPainter</string>
+	<key>inactiveObject</key>
+	<string>normRate</string>
+	<key>lazyCheckbox</key>
+	<string>comprehensiveDocument</string>
+	<key>splitterDepth</key>
+	<string>singleDescription</string>
+	<key>symmetricrestriction</key>
+	<string>polyfillTail</string>
+</dict>
+</plist>

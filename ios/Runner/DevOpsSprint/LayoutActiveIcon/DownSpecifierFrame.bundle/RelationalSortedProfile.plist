@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardProjection</key>
+	<string>encodeMenu</string>
+	<key>primaryTimer</key>
+	<string>discardedChart</string>
+	<key>shouldLoadExponent</key>
+	<string>endBitrate</string>
+	<key>shouldRestartLabel</key>
+	<string>canPopTouch</string>
+	<key>shouldStreamOperation</key>
+	<string>efficiencyBound</string>
+</dict>
+</plist>

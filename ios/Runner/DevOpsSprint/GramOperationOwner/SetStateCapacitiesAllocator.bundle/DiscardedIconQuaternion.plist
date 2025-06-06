@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationtop</key>
+	<string>iterativeContraction</string>
+	<key>mediocreFuture</key>
+	<string>animatedasynccenter</string>
+	<key>navigationsplitter</key>
+	<string>opaquePager</string>
+	<key>shouldHandleSpecifier</key>
+	<string>shouldtrainstamp</string>
+	<key>sizetieralignment</key>
+	<string>impressionMomentum</string>
+	<key>spriterect</key>
+	<string>navigateSensor</string>
+	<key>statelessInteger</key>
+	<string>observeSlash</string>
+	<key>unmountedoptimizer</key>
+	<string>uniqueStep</string>
+	<key>volumeForce</key>
+	<string>canStreamGesture</string>
+</dict>
+</plist>

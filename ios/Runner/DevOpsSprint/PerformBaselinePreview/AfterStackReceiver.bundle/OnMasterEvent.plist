@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyMenu</key>
+	<string>prevLabel</string>
+	<key>scalabilityMode</key>
+	<string>callbackInterval</string>
+	<key>shouldSkipProtocol</key>
+	<string>keepPageView</string>
+	<key>shoulddetachspine</key>
+	<string>deprecateGraph</string>
+	<key>streamTint</key>
+	<string>crudesprite</string>
+	<key>substantialOptimizer</key>
+	<string>smartGraph</string>
+	<key>transpilechecklist</key>
+	<string>relationalstoretheme</string>
+	<key>undertakealpha</key>
+	<string>canKeepShader</string>
+</dict>
+</plist>

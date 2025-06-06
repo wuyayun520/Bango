@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialreduction</key>
+	<string>binaryLocation</string>
+	<key>defaultVariant</key>
+	<string>blocatbridge</string>
+	<key>delegateDensity</key>
+	<string>callbackTier</string>
+	<key>intermediateSprite</key>
+	<string>basicQueue</string>
+	<key>logarithmCenter</key>
+	<string>euclideanCanvas</string>
+	<key>modelsize</key>
+	<string>drawcontraction</string>
+	<key>radiusContrast</key>
+	<string>responsiveConstant</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalextensionorigin</key>
+	<string>shouldDispatchGraphic</string>
+	<key>painterMargin</key>
+	<string>methodScale</string>
+	<key>permissiveAudio</key>
+	<string>bundleRouter</string>
+	<key>providerRate</key>
+	<string>managerDensity</string>
+</dict>
+</plist>

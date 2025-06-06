@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTabView</key>
+	<string>desktopGestureDetector</string>
+	<key>cupertinostatefulcontrast</key>
+	<string>secondPrecision</string>
+	<key>denseCurve</key>
+	<string>radioResponse</string>
+	<key>generateentity</key>
+	<string>animategroup</string>
+	<key>lastProgressBar</key>
+	<string>activateModel</string>
+	<key>skintopic</key>
+	<string>detachPositioned</string>
+	<key>statefulBuilder</key>
+	<string>cupertinoAxis</string>
+	<key>temporaryDistinction</key>
+	<string>statefulController</string>
+</dict>
+</plist>

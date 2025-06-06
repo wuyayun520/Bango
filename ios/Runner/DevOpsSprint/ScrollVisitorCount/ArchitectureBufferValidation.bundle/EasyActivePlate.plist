@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectInterval</key>
+	<string>mountentity</string>
+	<key>inactivetask</key>
+	<string>pauseBuilder</string>
+	<key>moduleTop</key>
+	<string>shouldListenContraction</string>
+	<key>scrollinfrastructure</key>
+	<string>cloneRouter</string>
+	<key>shouldTransformPriority</key>
+	<string>emitWidget</string>
+	<key>smartOffset</key>
+	<string>textsinceoperation</string>
+</dict>
+</plist>

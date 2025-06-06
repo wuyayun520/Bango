@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptiontransparency</key>
+	<string>permissiveScale</string>
+	<key>futureoutsideprototype</key>
+	<string>shouldSetStateMusic</string>
+	<key>originalModule</key>
+	<string>observerSaturation</string>
+	<key>shouldmountrichtext</key>
+	<string>associatedStep</string>
+	<key>temporaryClipper</key>
+	<string>unlockInjection</string>
+	<key>timerandnumber</key>
+	<string>receiverDuration</string>
+</dict>
+</plist>

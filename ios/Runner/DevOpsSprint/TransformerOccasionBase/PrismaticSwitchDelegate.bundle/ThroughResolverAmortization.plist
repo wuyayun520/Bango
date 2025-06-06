@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisBottom</key>
+	<string>configurationHue</string>
+	<key>drawerMode</key>
+	<string>otherAlpha</string>
+	<key>impressionDelay</key>
+	<string>reliabilityShape</string>
+	<key>intuitiveBrush</key>
+	<string>shouldBindPageView</string>
+	<key>resourcedensity</key>
+	<string>explicitIntegration</string>
+	<key>schedulerInteraction</key>
+	<string>logarithmshapetension</string>
+	<key>shapeFlags</key>
+	<string>instantiatebuffer</string>
+	<key>shouldRebuildGem</key>
+	<string>interactiveCompleter</string>
+	<key>statelesstimer</key>
+	<string>setstateImage</string>
+	<key>triggerShade</key>
+	<string>storagevartail</string>
+</dict>
+</plist>

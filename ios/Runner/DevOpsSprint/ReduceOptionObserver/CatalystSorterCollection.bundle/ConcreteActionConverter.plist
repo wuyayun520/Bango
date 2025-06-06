@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSkin</key>
+	<string>capsuleTask</string>
+	<key>animatedEquivalent</key>
+	<string>unlockslider</string>
+	<key>desktopElement</key>
+	<string>ephemeralTransition</string>
+	<key>graphSkewX</key>
+	<string>listviewDuration</string>
+	<key>hasArithmetic</key>
+	<string>prevContrast</string>
+	<key>intuitiveTransformer</key>
+	<string>timerPressure</string>
+	<key>schedulerVisible</key>
+	<string>mechanismInteraction</string>
+	<key>statefultentative</key>
+	<string>parallelSegment</string>
+</dict>
+</plist>

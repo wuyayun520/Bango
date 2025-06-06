@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAllocator</key>
+	<string>immediatetrajectory</string>
+	<key>binaryforinterpreter</key>
+	<string>shouldDeserializeDelegate</string>
+	<key>cursorState</key>
+	<string>emitHandler</string>
+	<key>disabledTimeline</key>
+	<string>isTool</string>
+	<key>granularUtil</key>
+	<string>clipContainer</string>
+	<key>hasImage</key>
+	<string>displayCurve</string>
+	<key>positionlinker</key>
+	<string>metadatavertex</string>
+	<key>sharedExtension</key>
+	<string>oldZone</string>
+	<key>significantfactory</key>
+	<string>listenerBuffer</string>
+</dict>
+</plist>

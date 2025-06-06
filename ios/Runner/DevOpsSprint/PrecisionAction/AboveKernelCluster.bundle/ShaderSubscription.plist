@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionValidation</key>
+	<string>mountedLog</string>
+	<key>eagerRichText</key>
+	<string>agilePosition</string>
+	<key>shouldSetStateBoxShadow</key>
+	<string>functionalImpression</string>
+	<key>shouldValidateOverlay</key>
+	<string>newestImage</string>
+</dict>
+</plist>

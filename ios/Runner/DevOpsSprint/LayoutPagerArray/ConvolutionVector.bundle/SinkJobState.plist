@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicOccasion</key>
+	<string>sequentialHandler</string>
+	<key>eagerModulus</key>
+	<string>shouldResumeUsage</string>
+	<key>keyIntegration</key>
+	<string>pendingEntropy</string>
+	<key>preparerequest</key>
+	<string>maxCapacities</string>
+	<key>primaryArithmetic</key>
+	<string>hyperbolicExponent</string>
+	<key>shouldPresentCell</key>
+	<string>touchcontrast</string>
+</dict>
+</plist>

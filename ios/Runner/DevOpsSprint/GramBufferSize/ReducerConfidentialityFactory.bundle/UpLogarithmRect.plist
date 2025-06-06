@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexiblestoryboardskewx</key>
+	<string>normalswift</string>
+	<key>resultTint</key>
+	<string>flexibleSensor</string>
+	<key>shouldUpdatePet</key>
+	<string>intensityorientation</string>
+	<key>smallException</key>
+	<string>usecaseTail</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedManager</key>
+	<string>immediateCard</string>
+	<key>dynamicCache</key>
+	<string>crudepublisher</string>
+	<key>graphrotation</key>
+	<string>autoTouch</string>
+	<key>handleprotocol</key>
+	<string>connectPresenter</string>
+	<key>imperativePublisher</key>
+	<string>consultativePreview</string>
+	<key>originalIntensity</key>
+	<string>resilienceRotation</string>
+	<key>referenceroute</key>
+	<string>cloneTopic</string>
+	<key>robustBuffer</key>
+	<string>handleAccessory</string>
+	<key>shouldListenExtension</key>
+	<string>canStreamInstruction</string>
+	<key>statevisitordensity</key>
+	<string>vectorbuilder</string>
+</dict>
+</plist>

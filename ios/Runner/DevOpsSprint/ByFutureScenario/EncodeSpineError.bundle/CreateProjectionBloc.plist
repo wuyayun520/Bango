@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorOrientation</key>
+	<string>timebound</string>
+	<key>functionalcosine</key>
+	<string>shouldEncodeDrawer</string>
+	<key>granularMovement</key>
+	<string>alertfunctionvalidation</string>
+	<key>normalPager</key>
+	<string>normalEqualization</string>
+	<key>otherTimer</key>
+	<string>criticalProject</string>
+	<key>rapidReference</key>
+	<string>delicateclipper</string>
+	<key>spineTag</key>
+	<string>cupertinoSaturation</string>
+</dict>
+</plist>

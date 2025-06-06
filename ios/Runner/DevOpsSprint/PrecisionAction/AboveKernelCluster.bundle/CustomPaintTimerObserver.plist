@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaInteraction</key>
+	<string>aspectmementocontrast</string>
+	<key>basicMap</key>
+	<string>shouldShowPadding</string>
+	<key>operationPressure</key>
+	<string>decoupleFactory</string>
+	<key>parallelImage</key>
+	<string>commonSkin</string>
+	<key>seamlessAnalogy</key>
+	<string>logAdapter</string>
+	<key>shouldAttachSign</key>
+	<string>indicatorBorder</string>
+	<key>shouldDismissLog</key>
+	<string>yieldReduction</string>
+	<key>shouldResumeReduction</key>
+	<string>declarativeAwait</string>
+	<key>statelessProvider</key>
+	<string>canProcessDocument</string>
+</dict>
+</plist>

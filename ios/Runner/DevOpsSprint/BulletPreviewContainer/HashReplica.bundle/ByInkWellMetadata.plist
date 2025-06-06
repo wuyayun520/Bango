@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decodeprotocol</key>
+	<string>indicatorTension</string>
+	<key>deferredConverter</key>
+	<string>servicePlatform</string>
+	<key>firstFormat</key>
+	<string>wrapperOrigin</string>
+	<key>largethreshold</key>
+	<string>projectioninsideplatform</string>
+	<key>polyfillStatus</key>
+	<string>rapidStack</string>
+	<key>progressbarShape</key>
+	<string>differentiatepopup</string>
+</dict>
+</plist>

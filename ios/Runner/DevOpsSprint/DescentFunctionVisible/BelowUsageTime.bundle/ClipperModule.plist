@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyDetector</key>
+	<string>repositorynearstage</string>
+	<key>hierarchicalLayout</key>
+	<string>gatePosition</string>
+	<key>localDrawer</key>
+	<string>immutableGesture</string>
+	<key>lostSubscription</key>
+	<string>consumeEntity</string>
+	<key>multiButton</key>
+	<string>groupperdecorator</string>
+	<key>pagerinteraction</key>
+	<string>syncmedia</string>
+	<key>permanentShader</key>
+	<string>pinchableResolver</string>
+</dict>
+</plist>

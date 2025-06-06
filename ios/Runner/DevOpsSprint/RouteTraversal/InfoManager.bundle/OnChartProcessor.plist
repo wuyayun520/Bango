@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultCache</key>
+	<string>analogyTop</string>
+	<key>lazyRichText</key>
+	<string>linkerTransparency</string>
+	<key>mobileAspect</key>
+	<string>rapidPlayback</string>
+	<key>numericalentropy</key>
+	<string>specifierFramework</string>
+	<key>shouldNavigateController</key>
+	<string>heapperprocess</string>
+	<key>shouldrenderloss</key>
+	<string>evaluationTint</string>
+</dict>
+</plist>

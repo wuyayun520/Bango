@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantLocation</key>
+	<string>spotduration</string>
+	<key>firstFeature</key>
+	<string>shouldPauseFragment</string>
+	<key>publicgraph</key>
+	<string>quantizerAction</string>
+	<key>shouldKeepDocument</key>
+	<string>cosineRotation</string>
+	<key>substantialBloc</key>
+	<string>enabledPadding</string>
+	<key>symbolSkewY</key>
+	<string>displayableTicker</string>
+</dict>
+</plist>

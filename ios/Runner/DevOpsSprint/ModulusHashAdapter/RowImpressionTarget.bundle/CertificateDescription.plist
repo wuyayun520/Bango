@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseConstraint</key>
+	<string>sustainableCollection</string>
+	<key>disabledCanvas</key>
+	<string>keepCertificate</string>
+	<key>fusedCupertino</key>
+	<string>handlerorientation</string>
+	<key>inheritedBuffer</key>
+	<string>displayRow</string>
+	<key>quantizeractivity</key>
+	<string>publicMember</string>
+</dict>
+</plist>

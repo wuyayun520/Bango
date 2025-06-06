@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionLoop</key>
+	<string>cacheColor</string>
+	<key>basicProtocol</key>
+	<string>canObserveMobile</string>
+	<key>normalFeature</key>
+	<string>contrastTint</string>
+	<key>scalecompleter</key>
+	<string>activatedChannel</string>
+	<key>shouldContinueCapsule</key>
+	<string>graincount</string>
+	<key>shouldMountedMomentum</key>
+	<string>offsetWidget</string>
+	<key>shoulddetachbehavior</key>
+	<string>cartesianSensor</string>
+	<key>sizedboxduration</key>
+	<string>thresholdStatus</string>
+	<key>statefulperstructure</key>
+	<string>shouldRenderSpecifier</string>
+</dict>
+</plist>

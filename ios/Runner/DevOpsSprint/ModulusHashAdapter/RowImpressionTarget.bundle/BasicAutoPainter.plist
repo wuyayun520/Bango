@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionOffset</key>
+	<string>advancedColumn</string>
+	<key>controllertypeinterval</key>
+	<string>adjustFrame</string>
+	<key>customOverlay</key>
+	<string>defaultDelegate</string>
+	<key>descriptionSize</key>
+	<string>deactivategrid</string>
+	<key>descriptionorientation</key>
+	<string>scrollableAnalyzer</string>
+	<key>gradientDuration</key>
+	<string>cacheTension</string>
+	<key>ignoredLocalization</key>
+	<string>textureScope</string>
+	<key>modelshapelocation</key>
+	<string>canCancelLoss</string>
+	<key>robustGift</key>
+	<string>fetchmatrix</string>
+	<key>themestate</key>
+	<string>pushRect</string>
+</dict>
+</plist>

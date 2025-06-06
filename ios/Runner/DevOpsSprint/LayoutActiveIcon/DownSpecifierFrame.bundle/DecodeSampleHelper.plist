@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitbyvar</key>
+	<string>permutationspeed</string>
+	<key>layeradapterrate</key>
+	<string>connectInteractor</string>
+	<key>referenceOrientation</key>
+	<string>presentAlert</string>
+	<key>selectorPressure</key>
+	<string>resilientResource</string>
+	<key>shouldReplaceModulus</key>
+	<string>makeDuration</string>
+	<key>sustainableSize</key>
+	<string>impactScale</string>
+	<key>switchTension</key>
+	<string>clipStorage</string>
+</dict>
+</plist>

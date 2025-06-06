@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLeft</key>
+	<string>axisForm</string>
+	<key>baseskewy</key>
+	<string>setstateNavigation</string>
+	<key>dedicatedinterface</key>
+	<string>dedicatedTitle</string>
+	<key>pointPosition</key>
+	<string>consumerHead</string>
+	<key>publicTweak</key>
+	<string>similarObject</string>
+	<key>shouldPaintPet</key>
+	<string>matrixmatrix</string>
+	<key>storyboardHue</key>
+	<string>frameAppearance</string>
+</dict>
+</plist>

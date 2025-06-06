@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionConstant</key>
+	<string>visibleObserver</string>
+	<key>boxForce</key>
+	<string>canDisconnectExpanded</string>
+	<key>compositionalSemantics</key>
+	<string>curveslider</string>
+	<key>cupertinoCreator</key>
+	<string>pendingFlex</string>
+	<key>customMenu</key>
+	<string>sharedComponent</string>
+	<key>imperativeTabView</key>
+	<string>triggerForce</string>
+	<key>multiCollection</key>
+	<string>responddescriptor</string>
+	<key>subscribertension</key>
+	<string>skinShape</string>
+</dict>
+</plist>

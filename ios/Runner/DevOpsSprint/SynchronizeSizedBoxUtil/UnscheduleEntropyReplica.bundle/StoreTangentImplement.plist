@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agiletaskcenter</key>
+	<string>associatedSign</string>
+	<key>autoDecoration</key>
+	<string>consumptionPadding</string>
+	<key>compositionalAxis</key>
+	<string>axisOrigin</string>
+	<key>lossbound</key>
+	<string>rapidFlex</string>
+	<key>specifyLayer</key>
+	<string>drawerSystem</string>
+</dict>
+</plist>

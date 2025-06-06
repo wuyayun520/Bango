@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxInset</key>
+	<string>partitionRouter</string>
+	<key>displayableConnector</key>
+	<string>numericalWidget</string>
+	<key>hardNotification</key>
+	<string>accessibleGroup</string>
+	<key>independentMember</key>
+	<string>previewdistance</string>
+	<key>manageralignment</key>
+	<string>activityTemple</string>
+	<key>mountduration</key>
+	<string>gesturedetectorPlatform</string>
+	<key>resizableFrame</key>
+	<string>activatecertificate</string>
+	<key>unbindsink</key>
+	<string>statelessnorm</string>
+	<key>viewfactory</key>
+	<string>mediaqueryType</string>
+</dict>
+</plist>

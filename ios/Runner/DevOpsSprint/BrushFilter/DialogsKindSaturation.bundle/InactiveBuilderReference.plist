@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativechart</key>
+	<string>canFormatPromise</string>
+	<key>largeEntity</key>
+	<string>consumersincekind</string>
+	<key>responsiveNotification</key>
+	<string>substantialTransition</string>
+	<key>resultcreator</key>
+	<string>webNavigation</string>
+	<key>shouldSerializePoint</key>
+	<string>resumeSkin</string>
+	<key>toleranceInteraction</key>
+	<string>multiSegment</string>
+</dict>
+</plist>

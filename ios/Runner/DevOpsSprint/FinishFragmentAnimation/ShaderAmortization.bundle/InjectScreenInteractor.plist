@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoTrigger</key>
+	<string>spineKind</string>
+	<key>shouldformatcompletion</key>
+	<string>refreshCurve</string>
+	<key>statusMode</key>
+	<string>seamlessTrajectory</string>
+</dict>
+</plist>

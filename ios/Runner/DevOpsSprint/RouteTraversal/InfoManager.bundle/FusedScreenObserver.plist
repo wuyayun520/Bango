@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncviaaction</key>
+	<string>disabledLogarithm</string>
+	<key>bufferBottom</key>
+	<string>accessiblescroller</string>
+	<key>configurationRate</key>
+	<string>reflectEntity</string>
+	<key>criticalTrigger</key>
+	<string>loadStateless</string>
+	<key>immutableError</key>
+	<string>controllertension</string>
+	<key>shapeInset</key>
+	<string>pauseTangent</string>
+	<key>shouldAnimateChallenge</key>
+	<string>showPoint</string>
+	<key>shouldPrepareGrayscale</key>
+	<string>currentFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryForce</key>
+	<string>persistgesture</string>
+	<key>consumerbuilder</key>
+	<string>dismissAnimation</string>
+	<key>cursorStyle</key>
+	<string>provisionVelocity</string>
+	<key>customizedHandler</key>
+	<string>appendTween</string>
+	<key>inheritedNotation</key>
+	<string>popInstruction</string>
+	<key>mountedtask</key>
+	<string>lastSlash</string>
+	<key>normalmodel</key>
+	<string>sophisticatedrenderer</string>
+	<key>prevWidget</key>
+	<string>modelStyle</string>
+	<key>rapidrange</key>
+	<string>autoReliability</string>
+	<key>themeInset</key>
+	<string>gridviewnearlayer</string>
+</dict>
+</plist>

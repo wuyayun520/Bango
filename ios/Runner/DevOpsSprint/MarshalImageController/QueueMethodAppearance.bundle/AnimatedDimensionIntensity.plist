@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clonetabview</key>
+	<string>regulateFrame</string>
+	<key>firstSplitter</key>
+	<string>keepRichText</string>
+	<key>fixedEquipment</key>
+	<string>deferredAppBar</string>
+	<key>playbackinsidechain</key>
+	<string>imperativeAwait</string>
+	<key>rapidFuture</key>
+	<string>shouldSaveCell</string>
+	<key>reactiveNavigator</key>
+	<string>canDismissSkirt</string>
+	<key>shouldInflateCell</key>
+	<string>sinkAlignment</string>
+</dict>
+</plist>

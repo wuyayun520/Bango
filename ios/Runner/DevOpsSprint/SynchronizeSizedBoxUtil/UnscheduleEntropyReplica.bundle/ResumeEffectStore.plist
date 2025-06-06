@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitactiondepth</key>
+	<string>shouldCreateBase</string>
+	<key>bitrateVisible</key>
+	<string>globalCompleter</string>
+	<key>eagerScreen</key>
+	<string>responsiveResponder</string>
+	<key>hasPainter</key>
+	<string>sharedCheckbox</string>
+	<key>inactiveAnimation</key>
+	<string>pageviewStrategy</string>
+	<key>mainresponse</key>
+	<string>requiredBorder</string>
+	<key>requiredLoader</key>
+	<string>easyBase</string>
+	<key>sharedBullet</key>
+	<string>emitMember</string>
+</dict>
+</plist>

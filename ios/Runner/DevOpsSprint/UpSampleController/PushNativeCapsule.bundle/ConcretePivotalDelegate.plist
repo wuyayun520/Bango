@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineinteraction</key>
+	<string>standaloneSignature</string>
+	<key>easyChecklist</key>
+	<string>pauseCustomPaint</string>
+	<key>permissiveDuration</key>
+	<string>canResumeWidget</string>
+	<key>resourceforcomposite</key>
+	<string>shouldBindCursor</string>
+	<key>viewagainstpattern</key>
+	<string>toleranceSpeed</string>
+</dict>
+</plist>

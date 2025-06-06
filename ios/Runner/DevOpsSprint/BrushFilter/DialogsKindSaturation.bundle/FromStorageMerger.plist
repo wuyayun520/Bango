@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoactivitycenter</key>
+	<string>lastsinkformat</string>
+	<key>concurrentAppBar</key>
+	<string>resizeStream</string>
+	<key>indicatorvelocity</key>
+	<string>customsession</string>
+	<key>opaqueCycle</key>
+	<string>marginShade</string>
+	<key>particleactivitytop</key>
+	<string>intermediateUseCase</string>
+	<key>respectivereferencemode</key>
+	<string>yieldSession</string>
+	<key>shouldConnectScale</key>
+	<string>seamlessCycle</string>
+	<key>strokeMomentum</key>
+	<string>isarithmetic</string>
+	<key>trajectorySize</key>
+	<string>shoulddetachboxshadow</string>
+	<key>unactivatedIsolate</key>
+	<string>exponentBorder</string>
+</dict>
+</plist>

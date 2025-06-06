@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileScreen</key>
+	<string>fusedSlash</string>
+	<key>hierarchicalMerger</key>
+	<string>explicitShape</string>
+	<key>retainedCache</key>
+	<string>primaryQuaternion</string>
+	<key>shouldLoadGram</key>
+	<string>notationoffset</string>
+	<key>shouldRenderTernary</key>
+	<string>dispatchShader</string>
+</dict>
+</plist>

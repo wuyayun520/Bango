@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionkind</key>
+	<string>listenMetadata</string>
+	<key>occasionstatus</key>
+	<string>indicatorcolor</string>
+	<key>shouldlayoutthread</key>
+	<string>visitAsync</string>
+	<key>subpixelTop</key>
+	<string>mountsession</string>
+	<key>tappablebatchbrightness</key>
+	<string>unactivatedReceiver</string>
+	<key>titlescale</key>
+	<string>desktopSchema</string>
+	<key>utilStatus</key>
+	<string>shapeMargin</string>
+</dict>
+</plist>

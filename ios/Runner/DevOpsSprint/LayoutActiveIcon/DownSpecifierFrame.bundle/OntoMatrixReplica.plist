@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaOrigin</key>
+	<string>gridviewProxy</string>
+	<key>keyMenu</key>
+	<string>screenlocation</string>
+	<key>multiMerger</key>
+	<string>synchronousgesturetransparency</string>
+	<key>popupEdge</key>
+	<string>shouldSubscribePriority</string>
+	<key>screenFlags</key>
+	<string>utilofstate</string>
+	<key>shouldBuildProtocol</key>
+	<string>specifierposition</string>
+	<key>shouldRouteEntropy</key>
+	<string>cartesianDisclaimer</string>
+	<key>usedGraph</key>
+	<string>methodContrast</string>
+</dict>
+</plist>

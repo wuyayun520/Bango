@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createevent</key>
+	<string>lazyReliability</string>
+	<key>delegatemode</key>
+	<string>notifyTechnique</string>
+	<key>originalIntegration</key>
+	<string>canDisconnectAlpha</string>
+	<key>permissiveSlash</key>
+	<string>kernelDistance</string>
+	<key>reusableInstruction</key>
+	<string>logarithmCommand</string>
+	<key>shouldSkipMedia</key>
+	<string>usecaseValidation</string>
+	<key>skinsinceflyweight</key>
+	<string>showAspect</string>
+</dict>
+</plist>

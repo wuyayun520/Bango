@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteSearcher</key>
+	<string>controllerDepth</string>
+	<key>elasticReducer</key>
+	<string>initializeAllocator</string>
+	<key>intermediateslash</key>
+	<string>unlockResolver</string>
+	<key>interpolationPressure</key>
+	<string>missionresult</string>
+	<key>istangent</key>
+	<string>statefulVertex</string>
+</dict>
+</plist>

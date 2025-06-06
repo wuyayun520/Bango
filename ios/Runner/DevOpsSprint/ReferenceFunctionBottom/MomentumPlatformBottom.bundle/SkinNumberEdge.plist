@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTweak</key>
+	<string>connectGraphic</string>
+	<key>backwardclipperappearance</key>
+	<string>moduleBrightness</string>
+	<key>calculateequalization</key>
+	<string>shouldObserveTask</string>
+	<key>connectaxis</key>
+	<string>consultativeNorm</string>
+	<key>directRecursion</key>
+	<string>currentTabBar</string>
+	<key>immediateRecursion</key>
+	<string>interfaceRight</string>
+	<key>pickerTransparency</key>
+	<string>detachAccessory</string>
+	<key>richtextBehavior</key>
+	<string>callbackFlags</string>
+</dict>
+</plist>

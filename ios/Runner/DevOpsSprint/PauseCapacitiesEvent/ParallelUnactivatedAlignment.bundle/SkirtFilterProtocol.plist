@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintspacing</key>
+	<string>gateTemple</string>
+	<key>difficultSine</key>
+	<string>reducelabel</string>
+	<key>griddepth</key>
+	<string>callbackInset</string>
+	<key>menuCoord</key>
+	<string>lastPresenter</string>
+	<key>playbackResponse</key>
+	<string>rapidMechanism</string>
+	<key>presentthread</key>
+	<string>frameSpacing</string>
+	<key>rowascent</key>
+	<string>dropdownbuttontheme</string>
+</dict>
+</plist>

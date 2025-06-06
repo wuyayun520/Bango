@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioSkewY</key>
+	<string>disconnectContraction</string>
+	<key>drawerimage</key>
+	<string>playTransition</string>
+	<key>firstListener</key>
+	<string>uniqueAscent</string>
+	<key>mutableResource</key>
+	<string>customLogarithm</string>
+	<key>notationMargin</key>
+	<string>enhanceParticle</string>
+	<key>shouldProcessCache</key>
+	<string>canPaintText</string>
+	<key>singleRadio</key>
+	<string>shouldDispatchCaption</string>
+	<key>tangentflyweightflags</key>
+	<string>uniqueLabel</string>
+</dict>
+</plist>

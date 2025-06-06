@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composabledrawer</key>
+	<string>animatedLog</string>
+	<key>explicitFilter</key>
+	<string>memberActivity</string>
+	<key>greatSkin</key>
+	<string>synchronizeParticle</string>
+	<key>mutableRenderer</key>
+	<string>maxCube</string>
+</dict>
+</plist>

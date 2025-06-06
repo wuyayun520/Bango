@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axishue</key>
+	<string>transformersplitter</string>
+	<key>inactivesubscription</key>
+	<string>shouldReplaceLayout</string>
+	<key>opaqueResolver</key>
+	<string>materializeTransition</string>
+	<key>opaqueviewtail</key>
+	<string>notifyScale</string>
+	<key>pinchableGrain</key>
+	<string>tabbarCycle</string>
+	<key>prismaticObserver</key>
+	<string>textureStrategy</string>
+	<key>respectivetolerance</key>
+	<string>painterDelay</string>
+	<key>smartsensor</key>
+	<string>denseStrength</string>
+	<key>tabbarorigin</key>
+	<string>associatenavigator</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineinsideparameter</key>
+	<string>responsestageformat</string>
+	<key>insteadconstraint</key>
+	<string>shouldNotifySizedBox</string>
+	<key>listviewBound</key>
+	<string>shouldConnectMusic</string>
+	<key>normrequest</key>
+	<string>graphicfeedback</string>
+	<key>shouldnavigatecheckbox</key>
+	<string>shouldLayoutOperation</string>
+	<key>significantVariant</key>
+	<string>canReplaceSample</string>
+	<key>singletondecoratorbehavior</key>
+	<string>beginnerStore</string>
+	<key>vectordecoratorvisibility</key>
+	<string>globalInfrastructure</string>
+</dict>
+</plist>

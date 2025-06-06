@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveService</key>
+	<string>interfaceProcess</string>
+	<key>confidentialityStatus</key>
+	<string>shouldConnectNib</string>
+	<key>cupertinoInterface</key>
+	<string>routerOrientation</string>
+	<key>eventCoord</key>
+	<string>desktopSingleton</string>
+	<key>functionalconnector</key>
+	<string>requiredhash</string>
+	<key>pinchableItem</key>
+	<string>canvasagainstparameter</string>
+	<key>shouldRouteGraphic</key>
+	<string>destroyEntity</string>
+	<key>shouldpaintgrayscale</key>
+	<string>canPrepareMusic</string>
+	<key>unmountradio</key>
+	<string>textprocessor</string>
+</dict>
+</plist>

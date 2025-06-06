@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBuilder</key>
+	<string>canNavigateBitrate</string>
+	<key>bufferTop</key>
+	<string>currentInterpolation</string>
+	<key>concurrentusecasevelocity</key>
+	<string>actionMargin</string>
+	<key>decouplemovement</key>
+	<string>similarIndicator</string>
+	<key>reactivePresenter</key>
+	<string>movementTag</string>
+	<key>sophisticatedAnalogy</key>
+	<string>symbolTag</string>
+	<key>specifyOffset</key>
+	<string>respectiveMechanism</string>
+</dict>
+</plist>

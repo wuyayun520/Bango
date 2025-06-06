@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureMomentum</key>
+	<string>findMethod</string>
+	<key>fusedAsset</key>
+	<string>exitResource</string>
+	<key>shouldBuildMargin</key>
+	<string>shouldPublishCapsule</string>
+	<key>staticImage</key>
+	<string>statefulError</string>
+	<key>themeStatus</key>
+	<string>priorConfiguration</string>
+</dict>
+</plist>

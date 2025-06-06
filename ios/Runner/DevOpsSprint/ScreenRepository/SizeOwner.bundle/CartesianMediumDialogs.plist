@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationevent</key>
+	<string>emitColumn</string>
+	<key>basicrequest</key>
+	<string>integerparticle</string>
+	<key>nextSchema</key>
+	<string>semanticsMargin</string>
+	<key>unactivatedTrigger</key>
+	<string>uniformChannels</string>
+</dict>
+</plist>

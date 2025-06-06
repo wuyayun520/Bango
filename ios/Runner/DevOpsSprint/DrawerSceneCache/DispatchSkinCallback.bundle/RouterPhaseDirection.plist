@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentsample</key>
+	<string>requiredInteractor</string>
+	<key>hashCoord</key>
+	<string>freecolumn</string>
+	<key>intermediateCell</key>
+	<string>popupWork</string>
+	<key>particlenumberspeed</key>
+	<string>canValidateMap</string>
+	<key>platethroughput</key>
+	<string>stopmonster</string>
+	<key>requestcyclepressure</key>
+	<string>monsterscroller</string>
+	<key>shouldListenPet</key>
+	<string>modelInterpreter</string>
+	<key>shouldNavigateNavigator</key>
+	<string>exponentcount</string>
+	<key>shouldRebuildGem</key>
+	<string>datainteraction</string>
+	<key>shouldStopSemantics</key>
+	<string>inactiveEntity</string>
+</dict>
+</plist>

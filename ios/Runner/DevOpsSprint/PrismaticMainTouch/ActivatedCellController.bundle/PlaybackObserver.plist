@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationSaturation</key>
+	<string>accessibleTask</string>
+	<key>customMetadata</key>
+	<string>crudeMatrix</string>
+	<key>indicatorSaturation</key>
+	<string>dispatchBinary</string>
+	<key>mobileComponent</key>
+	<string>sliderRate</string>
+	<key>normalgraphic</key>
+	<string>ephemeralnorm</string>
+	<key>pickerSkewX</key>
+	<string>canCacheLayout</string>
+	<key>signexception</key>
+	<string>mapconfiguration</string>
+	<key>temporaryrichtextindex</key>
+	<string>flexibleLayout</string>
+</dict>
+</plist>

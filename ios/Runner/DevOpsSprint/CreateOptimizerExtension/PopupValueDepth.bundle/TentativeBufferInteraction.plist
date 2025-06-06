@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerevent</key>
+	<string>navigatorforce</string>
+	<key>detailInteraction</key>
+	<string>subsequentcontainer</string>
+	<key>findequipment</key>
+	<string>featurestatus</string>
+	<key>largeChecklist</key>
+	<string>resolvebase</string>
+	<key>paintasync</key>
+	<string>containerOpacity</string>
+	<key>shouldRestartOptimizer</key>
+	<string>promiseimpression</string>
+	<key>subtleheap</key>
+	<string>shouldSetStateResource</string>
+	<key>texturerange</key>
+	<string>shouldUpdateRoute</string>
+</dict>
+</plist>

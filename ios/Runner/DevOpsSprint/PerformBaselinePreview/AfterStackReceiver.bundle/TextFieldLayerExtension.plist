@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAllocator</key>
+	<string>slashorigin</string>
+	<key>bufferoffset</key>
+	<string>defaultmultiplication</string>
+	<key>normalSwitch</key>
+	<string>easyanchordirection</string>
+	<key>parallelScreen</key>
+	<string>priorProtocol</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxlayerhue</key>
+	<string>requestFactory</string>
+	<key>cacheoccasion</key>
+	<string>toleranceLocation</string>
+	<key>constantSaturation</key>
+	<string>unactivatedCallback</string>
+	<key>crudeSubscription</key>
+	<string>interceptSink</string>
+	<key>lazyTool</key>
+	<string>canRebuildCanvas</string>
+	<key>movementAppearance</key>
+	<string>chartorparam</string>
+	<key>objectColor</key>
+	<string>shouldShowLog</string>
+	<key>shouldDispatchEquipment</key>
+	<string>replicateentity</string>
+	<key>shouldDispatchSlash</key>
+	<string>grainBottom</string>
+</dict>
+</plist>

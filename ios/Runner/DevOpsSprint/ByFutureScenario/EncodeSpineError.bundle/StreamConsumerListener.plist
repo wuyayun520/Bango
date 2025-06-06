@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>findbinary</key>
+	<string>detachmodal</string>
+	<key>intermediateCollection</key>
+	<string>inheritedText</string>
+	<key>navigatorTop</key>
+	<string>canLayoutTabBar</string>
+	<key>projectvector</key>
+	<string>shouldresumeprovider</string>
+	<key>shouldPaintMap</key>
+	<string>servicestyle</string>
+	<key>shouldmountproject</key>
+	<string>errorneartemple</string>
+	<key>temporaryVariant</key>
+	<string>hasflex</string>
+</dict>
+</plist>

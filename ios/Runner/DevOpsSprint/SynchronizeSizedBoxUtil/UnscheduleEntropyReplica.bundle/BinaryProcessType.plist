@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAcceleration</key>
+	<string>capacitiesevent</string>
+	<key>arithmeticAction</key>
+	<string>accessibleTrajectory</string>
+	<key>customCompletion</key>
+	<string>hasInstruction</string>
+	<key>deflateskirt</key>
+	<string>isGraphic</string>
+	<key>finishtween</key>
+	<string>cartesianInformation</string>
+	<key>persistentBitrate</key>
+	<string>collectionHue</string>
+	<key>projectionsystembrightness</key>
+	<string>rowmanager</string>
+	<key>shouldKeepIndicator</key>
+	<string>shouldbuildexponent</string>
+</dict>
+</plist>

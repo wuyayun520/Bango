@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletworkinterval</key>
+	<string>crudeGestureDetector</string>
+	<key>secondStoryboard</key>
+	<string>shouldTransformCosine</string>
+	<key>streamdescriptor</key>
+	<string>bulletborder</string>
+	<key>sustainableResilience</key>
+	<string>interpolationFunction</string>
+	<key>wrapperValidation</key>
+	<string>nextLoss</string>
+</dict>
+</plist>

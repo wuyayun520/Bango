@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileimpact</key>
+	<string>baselineVariable</string>
+	<key>arithmeticTrajectory</key>
+	<string>requiredRow</string>
+	<key>displayabletextfieldduration</key>
+	<string>savePromise</string>
+	<key>easyAction</key>
+	<string>queueCommand</string>
+	<key>ephemeralModule</key>
+	<string>crucialLatency</string>
+	<key>inactiveBitrate</key>
+	<string>subtleCapsule</string>
+	<key>semanticgrouprotation</key>
+	<string>shouldEmitSegment</string>
+</dict>
+</plist>

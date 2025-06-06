@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedMatrix</key>
+	<string>layoutstyle</string>
+	<key>geometricMenu</key>
+	<string>touchGroup</string>
+	<key>protectedProvider</key>
+	<string>timerBridge</string>
+	<key>refreshmetadata</key>
+	<string>shouldDecodeTextField</string>
+	<key>shouldroutesemantics</key>
+	<string>taxonomyIndex</string>
+</dict>
+</plist>

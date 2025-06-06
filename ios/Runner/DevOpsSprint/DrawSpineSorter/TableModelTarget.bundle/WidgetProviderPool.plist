@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratetype</key>
+	<string>injectionsincecommand</string>
+	<key>confidentialitydelay</key>
+	<string>notifyCallback</string>
+	<key>currentsubpixel</key>
+	<string>minSkirt</string>
+	<key>euclideanSingleton</key>
+	<string>shouldCreateRichText</string>
+	<key>interactivecertificate</key>
+	<string>effectForm</string>
+	<key>liteCycle</key>
+	<string>greatTicker</string>
+	<key>projectionLeft</key>
+	<string>lossVar</string>
+	<key>smallContrast</key>
+	<string>paintCurve</string>
+	<key>streamResponse</key>
+	<string>sharedMap</string>
+</dict>
+</plist>

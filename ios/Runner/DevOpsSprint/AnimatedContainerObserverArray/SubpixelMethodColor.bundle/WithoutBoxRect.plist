@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedItem</key>
+	<string>custompaintAction</string>
+	<key>concurrentRect</key>
+	<string>skipexception</string>
+	<key>immutableIsolate</key>
+	<string>consumeConfiguration</string>
+	<key>intensityLeft</key>
+	<string>lostProtocol</string>
+	<key>prevcontroller</key>
+	<string>backwardResilience</string>
+	<key>shouldAnimateEffect</key>
+	<string>toolFlags</string>
+	<key>shouldNotifyMission</key>
+	<string>largedelegate</string>
+	<key>titleBound</key>
+	<string>serviceCommand</string>
+</dict>
+</plist>

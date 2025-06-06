@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigationPosition</key>
+	<string>secondModel</string>
+	<key>protectedstep</key>
+	<string>standaloneBoxShadow</string>
+	<key>resumepreview</key>
+	<string>invisibleMediaQuery</string>
+	<key>typicalBandwidth</key>
+	<string>greatCaption</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inkwellTop</key>
+	<string>oldMultiplication</string>
+	<key>layoutdescriptor</key>
+	<string>pageviewChain</string>
+	<key>maproute</key>
+	<string>typicalWidget</string>
+	<key>parallelRange</key>
+	<string>shoulddisposemediaquery</string>
+	<key>processorKind</key>
+	<string>listenChecklist</string>
+	<key>scrollableStateful</key>
+	<string>animatedStatus</string>
+	<key>sessionPressure</key>
+	<string>canResumeNavigation</string>
+	<key>specifierPosition</key>
+	<string>smartLatency</string>
+	<key>symbolorcommand</key>
+	<string>hardCell</string>
+</dict>
+</plist>

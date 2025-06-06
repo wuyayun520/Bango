@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customPriority</key>
+	<string>routeLog</string>
+	<key>ephemeralCallback</key>
+	<string>unaryMethod</string>
+	<key>navigatorkind</key>
+	<string>freePreview</string>
+	<key>pageviewskewy</key>
+	<string>dropoutstream</string>
+	<key>resizableModulus</key>
+	<string>directlyThroughput</string>
+	<key>resizableSpine</key>
+	<string>canParseScale</string>
+	<key>smartSymbol</key>
+	<string>offsetDelegate</string>
+	<key>substantialDuration</key>
+	<string>canPaintSine</string>
+	<key>synchronousOptimizer</key>
+	<string>unaryBehavior</string>
+	<key>unactivatedmodulusfeedback</key>
+	<string>frameandstyle</string>
+</dict>
+</plist>

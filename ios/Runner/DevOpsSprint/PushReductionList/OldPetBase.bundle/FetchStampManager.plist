@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteStoryboard</key>
+	<string>invisibleinfo</string>
+	<key>responsivematrix</key>
+	<string>evolutionValidation</string>
+	<key>seamlessPosition</key>
+	<string>imperativeComponent</string>
+	<key>substantialPet</key>
+	<string>beginnerCreator</string>
+	<key>transitionVisibility</key>
+	<string>syncQueue</string>
+</dict>
+</plist>

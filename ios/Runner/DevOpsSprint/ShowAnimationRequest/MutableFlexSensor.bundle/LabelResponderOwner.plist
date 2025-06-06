@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousGram</key>
+	<string>storeComposite</string>
+	<key>challengeBorder</key>
+	<string>directRow</string>
+	<key>permanentDrawer</key>
+	<string>divideHandler</string>
+	<key>transitionLocation</key>
+	<string>secondDimension</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerplayback</key>
+	<string>sharedTabBar</string>
+	<key>gestureleveltint</key>
+	<string>resolverFlyweight</string>
+	<key>inheritedAnimation</key>
+	<string>presentervalidation</string>
+	<key>inheritedItem</key>
+	<string>declarativeinteractor</string>
+	<key>persistentNavigator</key>
+	<string>canRebuildSwift</string>
+	<key>pivotalchaptervisibility</key>
+	<string>createSlash</string>
+	<key>robustframe</key>
+	<string>beginnerInformation</string>
+	<key>roleStyle</key>
+	<string>ephemeralShape</string>
+	<key>specifydistinction</key>
+	<string>primaryReducer</string>
+</dict>
+</plist>

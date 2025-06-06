@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthTheme</key>
+	<string>taskBrightness</string>
+	<key>baseShade</key>
+	<string>independentModule</string>
+	<key>crudeAnalyzer</key>
+	<string>uniformEfficiency</string>
+	<key>cursorsearcher</key>
+	<string>concretePosition</string>
+	<key>flexibleRole</key>
+	<string>originalFragments</string>
+	<key>obtaininteractor</key>
+	<string>filterScale</string>
+	<key>otherGate</key>
+	<string>observerTension</string>
+</dict>
+</plist>

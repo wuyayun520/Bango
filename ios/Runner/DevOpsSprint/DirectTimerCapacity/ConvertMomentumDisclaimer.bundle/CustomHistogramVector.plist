@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocjobshape</key>
+	<string>characterState</string>
+	<key>customMetadata</key>
+	<string>sessionBrightness</string>
+	<key>directextension</key>
+	<string>radiusFlags</string>
+	<key>playbackTag</key>
+	<string>lazyGate</string>
+	<key>shouldMountedSkirt</key>
+	<string>replaceSlash</string>
+</dict>
+</plist>

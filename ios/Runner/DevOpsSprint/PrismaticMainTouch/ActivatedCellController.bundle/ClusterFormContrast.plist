@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>notificationinteraction</key>
+	<string>masterBrightness</string>
+	<key>serviceKind</key>
+	<string>pushRichText</string>
+	<key>shouldListenBinary</key>
+	<string>flexiblePlayback</string>
+	<key>sortedDependency</key>
+	<string>logarithmscale</string>
+	<key>streamchallenge</key>
+	<string>catalystObserver</string>
+</dict>
+</plist>

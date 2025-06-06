@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disclaimerDirection</key>
+	<string>rectangleLeft</string>
+	<key>shouldBindPoint</key>
+	<string>shouldRebuildMomentum</string>
+	<key>shouldPaintGraphic</key>
+	<string>storageInteraction</string>
+	<key>shouldSkipMap</key>
+	<string>draggableBullet</string>
+	<key>specifyPresenter</key>
+	<string>pivotalProtocol</string>
+	<key>statefrequency</key>
+	<string>destroyStore</string>
+	<key>streamColor</key>
+	<string>framerect</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveslider</key>
+	<string>controllerSkewY</string>
+	<key>behaviorDirection</key>
+	<string>spineOperation</string>
+	<key>injectionBehavior</key>
+	<string>viewdespiteactivity</string>
+	<key>monsterconsumer</key>
+	<string>errorfacadeborder</string>
+	<key>nextPreview</key>
+	<string>mainFactory</string>
+	<key>quitmap</key>
+	<string>enumerateResolver</string>
+	<key>shouldDisposeHistogram</key>
+	<string>endlogarithm</string>
+	<key>smallMetrics</key>
+	<string>normalNotification</string>
+	<key>tweenduringstage</key>
+	<string>adaptivesubscription</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableTolerance</key>
+	<string>mediaqueryIndex</string>
+	<key>granularCallback</key>
+	<string>transpileRow</string>
+	<key>hyperbolicView</key>
+	<string>commonSegment</string>
+	<key>instructionIndex</key>
+	<string>onresourcetap</string>
+	<key>mobileSwift</key>
+	<string>resizableScalability</string>
+	<key>respectivebuilder</key>
+	<string>canTransitionUnary</string>
+	<key>retainedStorage</key>
+	<string>symbolFramework</string>
+	<key>webPager</key>
+	<string>shouldPersistHeap</string>
+</dict>
+</plist>

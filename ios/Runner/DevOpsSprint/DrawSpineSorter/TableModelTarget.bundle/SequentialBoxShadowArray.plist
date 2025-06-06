@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderStyle</key>
+	<string>projectDistance</string>
+	<key>canceldelegate</key>
+	<string>prismaticEvent</string>
+	<key>dedicatedInterface</key>
+	<string>alertFlyweight</string>
+	<key>delicateSubpixel</key>
+	<string>mainFactory</string>
+	<key>diffableConstant</key>
+	<string>shouldParseScale</string>
+	<key>handlebuilder</key>
+	<string>lastCharacter</string>
+	<key>iterativeAlpha</key>
+	<string>animateSegment</string>
+	<key>lastNotation</key>
+	<string>compositionAction</string>
+	<key>permissivePainter</key>
+	<string>matrixDecorator</string>
+	<key>transpilenotifier</key>
+	<string>logLayer</string>
+</dict>
+</plist>

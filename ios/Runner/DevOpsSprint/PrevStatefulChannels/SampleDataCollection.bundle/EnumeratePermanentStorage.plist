@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarkbuffer</key>
+	<string>concatenateListener</string>
+	<key>graphDelay</key>
+	<string>updatePainter</string>
+	<key>pointchannel</key>
+	<string>analyzerVelocity</string>
+	<key>protectedmanager</key>
+	<string>segmentTier</string>
+	<key>pushswitch</key>
+	<string>asynccontrast</string>
+	<key>rapidGradient</key>
+	<string>taskVisibility</string>
+	<key>routeTheme</key>
+	<string>subscriptionbuffercount</string>
+	<key>shouldDisposeSkin</key>
+	<string>shouldResumeSignature</string>
+	<key>tentativeBehavior</key>
+	<string>skintext</string>
+</dict>
+</plist>

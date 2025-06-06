@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleService</key>
+	<string>disposecard</string>
+	<key>asynchronousTernary</key>
+	<string>instructionvialevel</string>
+	<key>curveCoord</key>
+	<string>adaptiveScaffold</string>
+</dict>
+</plist>

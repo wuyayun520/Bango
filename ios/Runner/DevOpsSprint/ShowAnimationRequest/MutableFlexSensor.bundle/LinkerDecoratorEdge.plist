@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardRouter</key>
+	<string>stopscroll</string>
+	<key>shouldAttachBatch</key>
+	<string>capacitySpeed</string>
+	<key>temporaryMovement</key>
+	<string>storeUtil</string>
+	<key>workflowIndex</key>
+	<string>gridviewBrightness</string>
+</dict>
+</plist>

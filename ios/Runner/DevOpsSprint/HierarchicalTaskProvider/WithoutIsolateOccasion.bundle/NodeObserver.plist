@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiplysink</key>
+	<string>checklistFeedback</string>
+	<key>pinchableStroke</key>
+	<string>checkCubit</string>
+	<key>widgetlevelbottom</key>
+	<string>opaquemovementresponse</string>
+</dict>
+</plist>

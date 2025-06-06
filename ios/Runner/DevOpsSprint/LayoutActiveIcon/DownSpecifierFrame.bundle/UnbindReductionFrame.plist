@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSize</key>
+	<string>equalizationFlyweight</string>
+	<key>commonReliability</key>
+	<string>easyConstant</string>
+	<key>interpolatepoint</key>
+	<string>ephemeralDelegate</string>
+	<key>keyReduction</key>
+	<string>signDirection</string>
+	<key>layoutchainorigin</key>
+	<string>significantFinder</string>
+	<key>shouldSerializeObserver</key>
+	<string>touchinfo</string>
+	<key>shouldTransformAppBar</key>
+	<string>stopinterpolation</string>
+	<key>shouldUnmountDrawer</key>
+	<string>cubeScale</string>
+	<key>shouldserializelog</key>
+	<string>polyfillVelocity</string>
+</dict>
+</plist>

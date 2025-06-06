@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopListener</key>
+	<string>flexibleWidget</string>
+	<key>firstProtocol</key>
+	<string>displayableEffect</string>
+	<key>greatResponder</key>
+	<string>originalConverter</string>
+	<key>interactionInset</key>
+	<string>consumerkind</string>
+	<key>numericalTrajectory</key>
+	<string>canPersistCompletion</string>
+</dict>
+</plist>

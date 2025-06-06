@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveScheduler</key>
+	<string>concatenateTransition</string>
+	<key>dedicatedSensor</key>
+	<string>inflateTask</string>
+	<key>directPlate</key>
+	<string>buildPromise</string>
+	<key>hyperbolicMomentum</key>
+	<string>retainCallback</string>
+	<key>independentmodaledge</key>
+	<string>nodePhase</string>
+	<key>mobileSwift</key>
+	<string>sortedsegment</string>
+	<key>moduluscompleter</key>
+	<string>delicateOccasion</string>
+	<key>statelessDistinction</key>
+	<string>canHandleGradient</string>
+	<key>toleranceTransparency</key>
+	<string>deferredPicker</string>
+</dict>
+</plist>

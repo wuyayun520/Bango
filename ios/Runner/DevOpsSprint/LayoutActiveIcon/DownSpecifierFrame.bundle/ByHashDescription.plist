@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTabBar</key>
+	<string>resumeBrush</string>
+	<key>dependencymargin</key>
+	<string>mediaqueryalignment</string>
+	<key>draggableCanvas</key>
+	<string>trainSizedBox</string>
+	<key>hasSemantics</key>
+	<string>emitDependency</string>
+	<key>largeUseCase</key>
+	<string>canCacheEntropy</string>
+	<key>secondArchitecture</key>
+	<string>sequentialSensor</string>
+	<key>shearmanager</key>
+	<string>oldNotifier</string>
+	<key>shouldPaintNavigator</key>
+	<string>associateTimer</string>
+	<key>tickerBehavior</key>
+	<string>hardoperation</string>
+</dict>
+</plist>

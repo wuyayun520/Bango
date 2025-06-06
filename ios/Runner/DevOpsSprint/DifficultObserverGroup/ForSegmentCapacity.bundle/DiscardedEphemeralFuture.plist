@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedLayout</key>
+	<string>canStopOverlay</string>
+	<key>indicatorworkpressure</key>
+	<string>shouldFormatAnimatedContainer</string>
+	<key>lazyButton</key>
+	<string>routeFragment</string>
+	<key>optimizerType</key>
+	<string>activateButton</string>
+	<key>primaryVertex</key>
+	<string>mobileProject</string>
+	<key>scrollableMesh</key>
+	<string>stepAcceleration</string>
+	<key>shaderdelay</key>
+	<string>propagateOffset</string>
+	<key>shouldunbindtask</key>
+	<string>decodeModal</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentTernary</key>
+	<string>adaptiveCollection</string>
+	<key>firstview</key>
+	<string>denseEfficiency</string>
+	<key>fixedgridviewbottom</key>
+	<string>lostInteraction</string>
+	<key>geometricEmitter</key>
+	<string>loadcell</string>
+	<key>memberKind</key>
+	<string>visualizepainter</string>
+	<key>numericalchannel</key>
+	<string>binderPressure</string>
+	<key>shouldreplaceinstruction</key>
+	<string>seekStorage</string>
+	<key>storenumberopacity</key>
+	<string>errorLocation</string>
+	<key>subsequentGestureDetector</key>
+	<string>locateContainer</string>
+</dict>
+</plist>

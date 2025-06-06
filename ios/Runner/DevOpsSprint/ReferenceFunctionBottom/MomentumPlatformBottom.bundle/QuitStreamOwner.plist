@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDialogs</key>
+	<string>equalCurve</string>
+	<key>customizedWidget</key>
+	<string>autoEntropy</string>
+	<key>invisibleObserver</key>
+	<string>canPresentPriority</string>
+	<key>shouldPersistSizedBox</key>
+	<string>crucialCustomPaint</string>
+	<key>synchronousRestriction</key>
+	<string>activateProvider</string>
+</dict>
+</plist>

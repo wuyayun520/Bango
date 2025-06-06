@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedConverter</key>
+	<string>independentcapsule</string>
+	<key>clipcoordinator</key>
+	<string>splitteredge</string>
+	<key>denseArithmetic</key>
+	<string>completedGestureDetector</string>
+	<key>mutableMap</key>
+	<string>concurrentSingleton</string>
+	<key>nextblocorigin</key>
+	<string>shouldFormatMovement</string>
+	<key>shouldObserveSample</key>
+	<string>shouldCachePlayback</string>
+	<key>sophisticatedMend</key>
+	<string>blocinterpretername</string>
+	<key>spriteSpeed</key>
+	<string>persistentProvision</string>
+	<key>statefulSpecifier</key>
+	<string>tappableData</string>
+	<key>tensorMechanism</key>
+	<string>escalatecallback</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedcapacities</key>
+	<string>progressbarName</string>
+	<key>builderresponse</key>
+	<string>restoreZone</string>
+	<key>descentMargin</key>
+	<string>basestatename</string>
+	<key>draggableresponsesaturation</key>
+	<string>processswitch</string>
+	<key>nativeSample</key>
+	<string>remediationbehavior</string>
+	<key>overridesprite</key>
+	<string>denseCapacity</string>
+	<key>shouldSerializeSlider</key>
+	<string>invisibleGem</string>
+	<key>substantialResilience</key>
+	<string>insteadInterface</string>
+	<key>visibleProfile</key>
+	<string>imagename</string>
+</dict>
+</plist>

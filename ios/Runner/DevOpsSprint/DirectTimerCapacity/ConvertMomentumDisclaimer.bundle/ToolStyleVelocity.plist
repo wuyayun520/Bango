@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserposition</key>
+	<string>loadoptimizer</string>
+	<key>eagerText</key>
+	<string>stepBridge</string>
+	<key>mediocreOptimizer</key>
+	<string>pickerCenter</string>
+	<key>seamlessprovidercoord</key>
+	<string>adjustLabel</string>
+	<key>shouldSerializeConsumer</key>
+	<string>positionVariable</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismisscontainer</key>
+	<string>completedSegment</string>
+	<key>interfaceLocation</key>
+	<string>resilientAnimation</string>
+	<key>intuitiveSensor</key>
+	<string>interactiveprojectcoord</string>
+	<key>memberShade</key>
+	<string>fusedFilter</string>
+	<key>resilientAccessory</key>
+	<string>normalSubscription</string>
+	<key>reusableTechnique</key>
+	<string>featureVar</string>
+	<key>shouldNotifySample</key>
+	<string>accelerateFuture</string>
+	<key>sliderPressure</key>
+	<string>moveButton</string>
+</dict>
+</plist>

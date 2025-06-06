@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectmedia</key>
+	<string>saveTouch</string>
+	<key>cupertinoBorder</key>
+	<string>descriptionTension</string>
+	<key>defaultComposition</key>
+	<string>usecaseTransparency</string>
+	<key>disabledSorter</key>
+	<string>searchgridview</string>
+	<key>keyAnalogy</key>
+	<string>subsequentTopic</string>
+	<key>largeDropdownButton</key>
+	<string>advancedAspect</string>
+	<key>materialsessionpadding</key>
+	<string>appbarAlignment</string>
+	<key>petContrast</key>
+	<string>sharedGraph</string>
+	<key>scrollVelocity</key>
+	<string>mobileLayout</string>
+</dict>
+</plist>

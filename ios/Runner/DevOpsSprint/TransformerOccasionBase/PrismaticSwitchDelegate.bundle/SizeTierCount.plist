@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildervisibility</key>
+	<string>tentativeAlignment</string>
+	<key>modalMode</key>
+	<string>reusableRestriction</string>
+	<key>sequentialGrain</key>
+	<string>pushUseCase</string>
+	<key>shouldCreateCapacities</key>
+	<string>associatedDetector</string>
+	<key>shouldEndLog</key>
+	<string>gesturedetectorInset</string>
+</dict>
+</plist>

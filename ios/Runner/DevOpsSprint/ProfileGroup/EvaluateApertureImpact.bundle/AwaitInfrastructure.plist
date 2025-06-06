@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedScroller</key>
+	<string>opaqueviewshade</string>
+	<key>animateinstruction</key>
+	<string>channelsstrategyvalidation</string>
+	<key>keyCard</key>
+	<string>canPresentMatrix</string>
+	<key>sceneFormat</key>
+	<string>temporaryMap</string>
+	<key>selectedMedia</key>
+	<string>stackwithsystem</string>
+	<key>shouldUnmountedListView</key>
+	<string>unmountedBullet</string>
+	<key>switchIndex</key>
+	<string>statelessSelector</string>
+</dict>
+</plist>

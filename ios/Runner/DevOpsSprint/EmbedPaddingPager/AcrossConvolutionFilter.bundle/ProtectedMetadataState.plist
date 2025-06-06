@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleFactory</key>
+	<string>shouldKeepMap</string>
+	<key>channelpadding</key>
+	<string>mainTrigger</string>
+	<key>loadpresenter</key>
+	<string>selectedAlert</string>
+	<key>playbackInterval</key>
+	<string>pickerfrequency</string>
+	<key>profilefuture</key>
+	<string>shouldYieldProtocol</string>
+	<key>smallMedia</key>
+	<string>shouldRenderBatch</string>
+	<key>specifierTension</key>
+	<string>animatorOpacity</string>
+</dict>
+</plist>

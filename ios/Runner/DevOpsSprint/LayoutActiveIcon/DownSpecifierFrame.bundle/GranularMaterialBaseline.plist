@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStateful</key>
+	<string>globalView</string>
+	<key>cupertinoRadius</key>
+	<string>independentAscent</string>
+	<key>easyProvision</key>
+	<string>localizationDelay</string>
+	<key>elementMomentum</key>
+	<string>techniqueOrientation</string>
+	<key>sharedSwift</key>
+	<string>saveFragment</string>
+	<key>shouldkeepactivity</key>
+	<string>draggableMomentum</string>
+</dict>
+</plist>

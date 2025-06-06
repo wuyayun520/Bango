@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerRight</key>
+	<string>keyLayout</string>
+	<key>dynamicOccasion</key>
+	<string>readscroll</string>
+	<key>permissivepreview</key>
+	<string>advancedusecaseoffset</string>
+	<key>publicQuaternion</key>
+	<string>protocolLocation</string>
+</dict>
+</plist>

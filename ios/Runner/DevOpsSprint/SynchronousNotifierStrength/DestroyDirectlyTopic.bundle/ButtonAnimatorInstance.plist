@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturePadding</key>
+	<string>canCacheMedia</string>
+	<key>elasticityStatus</key>
+	<string>dissociateController</string>
+	<key>frameVelocity</key>
+	<string>layerMemento</string>
+	<key>memberValidation</key>
+	<string>playInjection</string>
+	<key>resilientChart</key>
+	<string>functionalPermutation</string>
+	<key>sharedResult</key>
+	<string>fragmentsFlags</string>
+	<key>slashresource</key>
+	<string>injectionuntilmethod</string>
+	<key>storyboardincludefacade</key>
+	<string>resourcelikestyle</string>
+	<key>tweakAppearance</key>
+	<string>connectEffect</string>
+</dict>
+</plist>

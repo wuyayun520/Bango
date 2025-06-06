@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationTransparency</key>
+	<string>locateDecoration</string>
+	<key>displayableRouter</key>
+	<string>deserializeCache</string>
+	<key>listviewBottom</key>
+	<string>marginPattern</string>
+	<key>matrixtint</key>
+	<string>controllerversusflyweight</string>
+	<key>metadataforfunction</key>
+	<string>apertureFlyweight</string>
+	<key>richtextBorder</key>
+	<string>missedNavigation</string>
+	<key>sophisticatedChooser</key>
+	<string>mainThroughput</string>
+	<key>tabbarMargin</key>
+	<string>draggableRoute</string>
+	<key>visibleCell</key>
+	<string>commonInformation</string>
+	<key>webstateskewy</key>
+	<string>canDeserializeLoss</string>
+</dict>
+</plist>

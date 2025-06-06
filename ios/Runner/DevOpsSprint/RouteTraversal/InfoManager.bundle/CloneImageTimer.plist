@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartincycle</key>
+	<string>switchdensity</string>
+	<key>directOverlay</key>
+	<string>shouldyieldbullet</string>
+	<key>extensionMomentum</key>
+	<string>gatemodebrightness</string>
+	<key>sceneparamflags</key>
+	<string>canMountMaster</string>
+	<key>secondCertificate</key>
+	<string>priorError</string>
+	<key>shouldKeepInterpolation</key>
+	<string>canShowTangent</string>
+	<key>shouldMountGestureDetector</key>
+	<string>overrideEntity</string>
+	<key>threadwithenvironment</key>
+	<string>clusterrate</string>
+	<key>uniqueBrush</key>
+	<string>bitrateTemple</string>
+</dict>
+</plist>

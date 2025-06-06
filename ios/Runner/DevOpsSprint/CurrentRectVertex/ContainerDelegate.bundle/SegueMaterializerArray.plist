@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMonster</key>
+	<string>tensorProfile</string>
+	<key>backwardProcessor</key>
+	<string>offsetFactory</string>
+	<key>crudeviewspeed</key>
+	<string>canRouteProject</string>
+	<key>dataVisible</key>
+	<string>featurevisitorrate</string>
+	<key>graphicBrightness</key>
+	<string>selectedlistview</string>
+	<key>handlervisitorsaturation</key>
+	<string>projectJob</string>
+	<key>lazyConverter</key>
+	<string>partitionRepository</string>
+	<key>schedulerRate</key>
+	<string>overridecontraction</string>
+</dict>
+</plist>

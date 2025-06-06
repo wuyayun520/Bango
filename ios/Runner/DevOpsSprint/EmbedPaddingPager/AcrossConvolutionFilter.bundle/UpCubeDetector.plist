@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatordispatcher</key>
+	<string>viewelement</string>
+	<key>cartesianButton</key>
+	<string>canEmitEquipment</string>
+	<key>directlySymbol</key>
+	<string>injectText</string>
+	<key>dynamicVertex</key>
+	<string>detectorPadding</string>
+	<key>euclideanloader</key>
+	<string>shouldPrepareSwift</string>
+	<key>grainSpeed</key>
+	<string>positionSpeed</string>
+	<key>interactorkindlocation</key>
+	<string>canPopSpot</string>
+	<key>primaryNotification</key>
+	<string>decodeIndicator</string>
+	<key>shouldEndVariant</key>
+	<string>unaryoperationcolor</string>
+	<key>substantialCubit</key>
+	<string>canAttachStoryboard</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileAnimatedContainer</key>
+	<string>skinChain</string>
+	<key>concurrentCurve</key>
+	<string>containerspeed</string>
+	<key>explicitConsumption</key>
+	<string>shouldAttachCharacter</string>
+	<key>measuresegment</key>
+	<string>canTransformListView</string>
+	<key>resilientChallenge</key>
+	<string>spotTint</string>
+	<key>resizablePresenter</key>
+	<string>controllerduringvariable</string>
+	<key>robustCanvas</key>
+	<string>notifierTint</string>
+	<key>shouldTrainAperture</key>
+	<string>draggableNavigator</string>
+	<key>sustainableBitrate</key>
+	<string>checklistCycle</string>
+</dict>
+</plist>

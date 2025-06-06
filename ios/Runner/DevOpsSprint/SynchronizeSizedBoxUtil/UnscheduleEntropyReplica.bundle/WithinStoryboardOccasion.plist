@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumermodeduration</key>
+	<string>robustCharacter</string>
+	<key>imperativeProgressBar</key>
+	<string>canFetchTabBar</string>
+	<key>resourceTail</key>
+	<string>descriptionWork</string>
+	<key>shouldAnimateChecklist</key>
+	<string>keyError</string>
+	<key>skipasync</key>
+	<string>descriptionMemento</string>
+	<key>timeTint</key>
+	<string>observeCatalyst</string>
+</dict>
+</plist>

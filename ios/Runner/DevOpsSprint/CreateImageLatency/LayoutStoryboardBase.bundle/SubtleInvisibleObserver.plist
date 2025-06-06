@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedStateful</key>
+	<string>activeCharacter</string>
+	<key>bulletBehavior</key>
+	<string>semanticsBorder</string>
+	<key>infrastructureColor</key>
+	<string>schedulerRight</string>
+	<key>prismaticLoss</key>
+	<string>hasAlpha</string>
+	<key>tappableMobile</key>
+	<string>switchshape</string>
+	<key>themeIndex</key>
+	<string>shouldcancelinteger</string>
+	<key>updaterepository</key>
+	<string>asyncBound</string>
+	<key>usecaseincludedecorator</key>
+	<string>defaultInstruction</string>
+</dict>
+</plist>

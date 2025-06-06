@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelentity</key>
+	<string>webConstraint</string>
+	<key>clipfuture</key>
+	<string>canDisconnectFragment</string>
+	<key>contrastName</key>
+	<string>difficultaspectratio</string>
+	<key>interactorOrigin</key>
+	<string>locatemodel</string>
+	<key>shouldFetchUnary</key>
+	<string>canObservePlate</string>
+	<key>webAction</key>
+	<string>comprehensiveFilter</string>
+</dict>
+</plist>

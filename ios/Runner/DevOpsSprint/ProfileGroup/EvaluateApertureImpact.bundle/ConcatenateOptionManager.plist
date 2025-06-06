@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTaxonomy</key>
+	<string>reductionScale</string>
+	<key>crudeAccessory</key>
+	<string>shouldPauseProject</string>
+	<key>curvejobacceleration</key>
+	<string>canSerializeContraction</string>
+	<key>parseunary</key>
+	<string>pivotalTimeline</string>
+	<key>providercommandalignment</key>
+	<string>specifierthreshold</string>
+	<key>rapidRenderer</key>
+	<string>shouldroutegesture</string>
+	<key>responsetint</key>
+	<string>canCancelTable</string>
+	<key>shouldEncodeSwift</key>
+	<string>agileQueue</string>
+	<key>shouldNotifyBase</key>
+	<string>yieldPet</string>
+	<key>zoneCenter</key>
+	<string>dimensionMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationkindtransparency</key>
+	<string>segueduringvariable</string>
+	<key>previntensity</key>
+	<string>canReplaceSpot</string>
+	<key>reactivecomposition</key>
+	<string>shaderFunction</string>
+	<key>requiredDistinction</key>
+	<string>tappableColor</string>
+	<key>resilientRadius</key>
+	<string>dispatcherCoord</string>
+	<key>shouldRenderOperation</key>
+	<string>shouldContinueResource</string>
+</dict>
+</plist>
