@@ -16,13 +16,13 @@ jobs:
     # 合并文件片段
     - name: Merge IPA parts
       run: |
-        cat uploadtest/bango.ipa.part* > uploadtest/bango.ipa
+        cat uploadtest/Bango.ipa.part* > uploadtest/Bango.ipa
 
     # 验证文件完整性
     - name: Verify file integrity
       run: |
         EXPECTED_MD5="f39c1508a6403ef3bcc379a70d01cd24"
-        ACTUAL_MD5=$(md5 -q uploadtest/bango.ipa)
+        ACTUAL_MD5=$(md5 -q uploadtest/Bango.ipa)
         
         if [ "$EXPECTED_MD5" != "$ACTUAL_MD5" ]; then
           echo "IPA file integrity check failed"
@@ -32,7 +32,7 @@ jobs:
     # 上传到 App Store
     - name: Upload to App Store using altool
       env:
-        IPA_PATH: "uploadtest/bango.ipa"
+        IPA_PATH: "uploadtest/Bango.ipa"
         APPLE_ID: "lemotree2025@outlook.com"
         APP_SPECIFIC_PASSWORD: "nwsh-bxkr-aqef-qtjl"
       run: |
